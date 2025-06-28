@@ -1,0 +1,30 @@
+# Workflow name
+name: Dispatch to Website
+
+# This action runs on every push to the 'main' branch of this vault repository.
+on:
+  push:
+    branches:
+      - main
+
+# Defines the job that will run.
+jobs:
+  dispatch:
+    # Use the latest available runner from GitHub.
+    runs-on: ubuntu-latest
+    
+    # Define the steps for this job.
+    steps:
+      - name: Send dispatch signal to globeseekers repo
+        # Use a pre-made action for sending repository dispatches.
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          # This is the Personal Access Token you created and saved as a secret.
+          # It authenticates this action and gives it permission to trigger the other repo.
+          token: ${{ secrets.PAT }}
+          
+          # The repository to send the signal to (your public website repo).
+          repository: adunis/globeseekers
+          
+          # A custom event name. The receiving workflow must be listening for this exact name.
+          event-type: vault-updated
