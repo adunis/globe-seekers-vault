@@ -1,13 +1,6 @@
 ---
 kanka_id: 1706005
 ---
-
-Okay
-GM, ecco la riscrittura completa e ampliata delle Fortezze Divine,
-incorporando l'intera lista di divinità fornita, assegnando leader e
-aiutanti, e dettagliando le azioni specifiche di ciascun dio durante la
-Grande Discesa. Preparati, sarà un elenco lungo e oscuro.
-
 ---
 
 **LE FORTEZZE DIVINE**
