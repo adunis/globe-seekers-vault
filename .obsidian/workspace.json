@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
+                "file": "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gianni, l'Ombra che Indaga"
+              "title": "Session 1, 2 3, 4 and 5 Newborn Champions"
             }
           }
         ]
@@ -169,12 +169,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cefcbdaed30b51b",
+  "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "events/Globeseekers II/6 - La disfatta di Wryss e l'arrivo di Gianni.md",
+    "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
+    "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
+    "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
     "locations/Venthrum Vecnarius - Altopiano delle Ossa.md",
     "index.md",
-    "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
-    "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
     "locations/Zerthadlun.md",
     "locations/Terre Desolate.md",
     "locations/Airspur.md",
@@ -195,8 +197,6 @@
     "characters/Globeseekers I/Nilfyr, Monaco Veggente.md",
     "characters/Globeseekers I/Niamh la Marea.md",
     "characters/Globeseekers I/Morun Tag.md",
-    "characters/Globeseekers I/Miciotsu.md",
-    "characters/Globeseekers II/Mastro Fabbro Horgar, il Martello Cinereo.md",
     "characters/Globeseekers II",
     "characters/Globeseekers I",
     "characters/Globeseekers 0",
