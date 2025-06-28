@@ -1,0 +1,33 @@
+---
+kanka_id: 171120
+---
+
+La Fondazione della Necro-Catacomba
+
+Nell'ultimo mese, Vordekai il Darakhul ha continuato il suo cammino verso l'immortalità e il potere assoluto. La scoperta del globo Netherese ha aperto nuove possibilità: al suo interno, ha scoperto l'essenza imprigionata di Umberlee, la dea del mare. Dopo un'attenta comunicazione con l'entità divina, che gli ha proposto di diventare suo mentore nel cammino verso la divinità, Vordekai ha mantenuto una cauta distanza, richiedendo garanzie più concrete prima di procedere con qualsiasi accordo.
+
+Prima di tutto, ha cercato la benedizione di Vecna, condividendo con il dio dei segreti il suo piano di creare una necropoli dove i veri eletti avrebbero potuto studiare le arti negromantiche. "Sarà una conoscenza che diffonderò solo a pochi selezionati e in gran segreto, fino a quando non saremo abbastanza potenti da poter affrontare tutte le difficoltà," ha promesso, ottenendo non solo l'approvazione ma anche la benedizione del dio.
+
+La sua opera più significativa è stata la creazione del Demipiano della Necro-Catacomba. Concepito come una vasta struttura verticale, il demipiano si sviluppa su più livelli sotterranei: il piano superiore appare come un immenso cimitero, mentre i livelli inferiori, accessibili attraverso una cripta centrale, ospitano diverse funzioni specializzate. Ogni piano è stato progettato per essere difeso da eserciti di non morti permanenti, con il livello più profondo riservato ai quartieri personali di Vordekai.
+
+Parallelamente, ha perfezionato la sua padronanza del rituale Create Undead, specializzandosi inizialmente nella creazione di zombi, scheletri e ghoul. La sua ambizione, tuttavia, va oltre: intende espandere il suo repertorio per includere una più ampia varietà di creature non morte, accettando la sfida di prove aggiuntive per ogni nuovo tipo di creatura che desidera padroneggiare.
+
+Il primo passo nel suo piano è stato reclutare potenti maghi non morti che potessero a loro volta apprendere e utilizzare il rituale Create Undead, creando così un sistema auto-sostenibile per l'espansione del suo esercito. Ha inoltre cercato attivamente un apprendista necromante di livello inferiore, offrendo un rapporto maestro-allievo in cambio di assistenza nelle sue ricerche, e ha stabilito alleanze con altri necromanti del suo livello per supporto reciproco nei rituali.
+
+Successivamente, Vordekai il Darakhul ha posto le fondamenta di quella che promette di essere una delle più influenti organizzazioni necromantiche dei Reami. Il suo primo passo è stato la raccolta di informazioni sul misterioso Puppeteer, servendosi di informatori pagati per scoprire dettagli su questo potente avversario.
+
+La sua opera più significativa è stata la creazione del Demipiano della Necro-Catacomba, un'impresa che ha richiesto tre distinte sessioni rituali. Assistito da Bungo Dudo e due chierici Githzerai di Vecna, Vordekai è riuscito nell'ardua impresa nonostante alcuni intoppi durante i rituali. Questo demipiano è stato concepito come il cuore pulsante della sua nascente organizzazione, un rifugio sicuro dove i necromanti potranno condurre le loro ricerche lontano da occhi indiscreti.
+
+Parallelamente, Vordekai ha intrapreso la creazione di potenti servitori non morti. Durante quattro rituali consecutivi, è riuscito a creare altrettanti seguaci di notevole potenza, destinati a diventare i suoi più fidati luogotenenti combattenti. Particolarmente notevole è stato il terzo rituale, dove ha raggiunto risultati eccezionali grazie anche al supporto impeccabile del chierico Githzerai.
+
+Ma forse l'impresa più ambiziosa è stata la campagna di reclutamento per la sua organizzazione. Vordekai ha attirato l'attenzione di diverse categorie di necromanti, selezionando attentamente i suoi seguaci: cinquanta appassionati che praticano la necromanzia per puro interesse personale, sessanta individui in cerca di stabilità e protezione, e trenta persone mosse dal desiderio di padroneggiare le arti della resurrezione. Ha inoltre valutato attentamente membri provenienti da antiche tradizioni familiari, accettando solo coloro che non avevano legami con il Puppeteer, e selezionato strategicamente tra gli oppositori del Puppeteer coloro che possedevano informazioni preziose e la capacità di mantenere la calma.
+
+Tra i potenziali leader, tre figure si sono distinte immediatamente: Eldrin, un ex-alunno del Collegio di Thay alla ricerca di una via etica alla necromanzia; Mira, un'elfa dei boschi che ha abbandonato le restrizioni della sua cultura per esplorare liberamente le arti necromantiche; e Kael, un guerriero-necromante autodidatta di Neverwinter. Altri candidati promettenti, come Thalia di Cormyr, Lira di Menzoberranzan e Isolde di Icewind Dale, sono stati sottoposti a ulteriori valutazioni, con l'obiettivo di assicurarsi che le loro ambizioni personali non interferissero con gli obiettivi primari dell'organizzazione.
+
+La visione di Vordekai per la sua organizzazione è chiara: la Necro-Catacomba funzionerà come una fortezza interdimensionale, accessibile solo attraverso portali strategicamente posizionati in cimiteri e catacombe selezionate. Ogni portale sarà sorvegliato da potenti non morti con ordini precisi di permettere l'accesso solo ai membri autorizzati. All'interno, i necromanti potranno dedicarsi ai loro studi e esperimenti, sostenuti da un costante approvvigionamento di materiale necrotico e protetti dalla sicurezza del demipiano.
+
+L'investimento in questo progetto è stato considerevole, con costi di reclutamento che hanno raggiunto i 2600 monete d'oro, ma le fondamenta sono state gettate per quella che Vordekai spera diventerà una delle più importanti organizzazioni dedite allo studio e all'avanzamento della necromanzia nei Reami Dimenticati.
+
+I suoi piani futuri includono l'integrazione del globo Netherese come filatterio nel suo processo di ascensione a lich mitico. Il piano prevede di mantenere il filatterio al sicuro nel demipiano, permettendogli di rinascere sempre lì in caso di morte, mentre cerca di sfruttare i poteri del globo anche a distanza una volta completata la trasformazione.
+
+L'investimento in questo progetto è stato considerevole, ma con le immense ricchezze accumulate nelle sue avventure precedenti (si parla di milioni di monete d'oro convertite secondo gli standard dei Reami), Vordekai ha potuto facilmente sostenere i costi necessari per creare potenti servitori non morti, ognuno dei quali capace di conquistare intere città se non contrastato da forze ugualmente potenti.
