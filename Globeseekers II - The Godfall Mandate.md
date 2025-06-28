@@ -1,5 +1,4 @@
 
-Globeseekers II - The Godfall Mandate 
 ---
 
 > "Gli dei hanno spezzato il mondo, ora dovete raccoglierne i pezzi."

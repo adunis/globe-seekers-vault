@@ -1,18 +1,3 @@
----
-kanka_id: 180607
----
-a, un generatore di potere psionico e devozione assoluta, nato dagli echi del Reame Remoto."
-
-
-
-
-## La Necrocatacomba: Un Rifugio d'Ombra e la Missione di Ylvina
-
-
-
-
-
-## La Galleria del Lamento Silenzioso: Patto con i Tessitori d'Ombra
 
 Il tunnel discendente si apre infine in una **vasta camera (Area C3: Il Santuario Spezzato)**, le cui dimensioni superano di gran lunga quelle di una normale cripta funeraria. Colonne massicce, scolpite con bassorilievi di ossa intrecciate e catene spezzate – simboli cari a Vordekai ma anche, sinistramente, alla Congrega che ne ha usurpato il culto – si perdono nel buio opprimente sopra di loro. L'aria è gelida, immobile, carica di un odore stantio di polvere antica, di morte dimenticata e di qualcos'altro, un sentore metallico e ozonico. Al centro della sala, i resti di un imponente altare d'ossa giacciono in rovina, frantumato da una forza immane. Attorno, statue che un tempo raffiguravano Vordekai o i suoi primi, veri seguaci, sono state abbattute, mutilate, i loro volti e simboli divini cancellati con una rabbia iconoclasta, opera della [Congrega della Catena Spezzata](entity-link://Broken%20Chain "La Congrega della Catena Spezzata, un culto nichilista che venera una versione distorta di Vordekai, operante dalla Cripta-Sussurrante."). Il silenzio qui è quasi innaturale, denso, capace di inghiottire i suoni più intensi e smorzare le emozioni forti, un'eco del Vuoto che il culto venera.
 
@@ -86,5 +71,3 @@ Il secondo indizio, un tomo antico intitolato 'Difese Armoniche e Contenimento P
 Mentre il rombo minaccioso degli Scavatori del Vuoto si intensificava dal sottosuolo, attratti dal Cuore ora esposto, Elthon, hai compiuto un miracolo di ingegneria disperata. Con gli strumenti che avevi, i resti raccolti e forse i preziosi Componenti Halruaani come catalizzatori, hai lavorato febbrilmente. Sotto la pressione di una minaccia imminente, hai seguito gli schemi del libro, forgiando non nel calore di una fucina, ma nel freddo di una cripta, un involucro protettivo, un Risuonatore di Contenimento portatile.
 Nel momento in cui hai racchiuso il Cuore delle Profondità nel tuo nuovo dispositivo, con un 'clic' metallico e un sibilo di energia stabilizzata, è accaduto qualcosa di straordinario. Il rombo profondo sotto i vostri piedi... si è attenuato. Poi è svanito. Il senso di minaccia incombente si è ritirato. Il 'faro' che attirava gli Scavatori del Vuoto è stato schermato. Con il tuo ingegno, hai silenziato l'attrazione del Cuore e fermato il 'ronzio' che chiamava gli orrori dal profondo.
 Avete guadagnato una tregua. Una pausa preziosa nell'oscurità opprimente della Cripta-Sussurrante. La via per uscire è ora libera dalla minaccia immediata degli Scavatori, ma le altre domande rimangono. Cosa farete con questo nuovo potere, questa nuova conoscenza? E cosa vi attende fuori, sotto il cielo malato dell'Altopiano delle Ossa?"
-
-Test
