@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
+                "file": "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1, 2 3, 4 and 5 Newborn Champions"
+              "title": "Gianni, l'Ombra che Indaga"
             }
           }
         ]
@@ -169,8 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79f3e6bcc1c431b7",
+  "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
+    "locations/Venthrum Vecnarius - Altopiano delle Ossa.md",
+    "index.md",
+    "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
+    "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
     "locations/Zerthadlun.md",
     "locations/Terre Desolate.md",
     "locations/Airspur.md",
@@ -186,7 +190,6 @@
     "families/House Draken.md",
     "families/Casa Ashworth.md",
     "families/Bar-Eshmael.md",
-    "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
     "characters/Globeseekers I/Omera, Chierico di Halendos.md",
     "characters/Globeseekers I/Nyssandra la Lama Nera.md",
     "characters/Globeseekers I/Nilfyr, Monaco Veggente.md",
@@ -194,9 +197,6 @@
     "characters/Globeseekers I/Morun Tag.md",
     "characters/Globeseekers I/Miciotsu.md",
     "characters/Globeseekers II/Mastro Fabbro Horgar, il Martello Cinereo.md",
-    "characters/Globeseekers I/Malkior il Mutaforma.md",
-    "characters/Globeseekers I/Malaria.md",
-    "characters/Globeseekers I/Malakor, il Geometra Folle (Ex-Mago Rosso).md",
     "characters/Globeseekers II",
     "characters/Globeseekers I",
     "characters/Globeseekers 0",
