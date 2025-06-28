@@ -1,5 +1,0 @@
----
-{}
----
-
-New entry: Bone Lance.
