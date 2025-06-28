@@ -2,7 +2,6 @@
 kanka_id: 1919233
 ---
 
-**ELTHON MUSCHIATO, LA SCINTILLA DEL CAOS**
 
 **(Voce acuta, entusiasta, spesso interrotta da idee improvvise o dal rumore di qualche meccanismo che sta smontando mentalmente):**  
 "Limbo?
