@@ -2,7 +2,6 @@
 kanka_id: 142083
 ---
 
-# La Grande Discesa
 
 ## L'Ira Divina Contro la Nuova Fede
 
