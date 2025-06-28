@@ -1,0 +1,29 @@
+## L'Evasione dalla Prigione Cenerea: Una Fiammella nella Cenere
+
+Fu in quel preciso momento, mentre l'attenzione dei ghoul era rapita dal culmine del rituale, che **Smilzo**, **Liora** ed **Elthon** emersero faticosamente da una grata di scarico nascosta nell'ombra di un muro crollato delle Cripte. Sporchi, feriti, ma con la determinazione disperata dei condannati che intravedono una possibilità, si ritrovarono nel cortile illuminato sinistramente dalle braci e dal rituale. Smilzo, stringendo una rozza mazza di legno ricavata da una gamba di tavolo, avanzò di un passo, tentando un inganno disperato, la sua voce roca ma cercando di infonderle una sicurezza che non possedeva.
+
+*Smilzo*: "Ehi, voi due, carogne puzzolenti," disse, rivolgendosi ai due ghoul più vicini, Fetore e Puzzo, che si voltarono lentamente. "Il Necromante Anziano… quello dentro le cripte più profonde… ha mandato a chiamarvi. È urgente. Pare ci sia… un problema con… le nuove provviste per la Forgiacarne. Ha detto di mandarvi subito da lui."
+
+*Fetore* lo fissò con i suoi occhi morti, la bava nera che colava copiosa. Inclinò la testa di lato, un movimento scattoso e innaturale, come un uccello rapace che studia la preda. "Necromante… provviste?" La sua voce era un gorgoglio incomprensibile, poi divenne un sibilo. "Tu prigioniero. Puzzi di menzogne e… di libertà. Non ci sono altri Necromanti Anziani qui."
+
+L'inganno era fallito miseramente. Senza un altro suono, se non un ringhio di rabbia e fame, *Fetore* emise un urlo acuto, un richiamo agghiacciante che attraversò il cortile, e corse scompostamente verso il centro, verso il Necromante Anziano impegnato nel rituale. "Signore Necromante! Fuggiaschi! Tre prigionieri scappati dalle segrete! Profanano il sacro rituale!"
+
+Il Necromante Anziano sobbalzò, i suoi canti gutturali troncati di netto. Si voltò, occhi infossati che brillavano di una luce maligna rosso sangue sotto il cappuccio. La sua attenzione si focalizzò su Smilzo, Liora ed Elthon, i loro volti sporchi di fuliggine e sangue, ma illuminati da una scintilla di sfida.
+
+*Necromante Anziano*: (sibilando con voce gelida come il tocco di un Lich) "Intrusi blasfemi! Osate interrompere la sacra opera del Signore Vecna! Pagherete con le vostre anime!" Alzò le mani scheletriche, dita adornate da anelli d'osso e gemme oscure, e parole arcane, sature di potere necrotico, sferzarono l'aria come serpi velenose.
+
+*Liora*, in un gesto istintivo, cercò di richiamare le energie arcane che un tempo le erano familiari. Ma Mystra, la Dea della Magia, ora capricciosa e imprevedibile dopo la Grande Discesa, e particolarmente ostile a chi cercava vie alternative al suo controllo sulla Trama, non gradì l'audacia. Un lampo di luce viola accecante, un'ondata di puro caos magico, investì Liora, distorcendo il suo incantesimo in un fiasco comico e desolante. Un’oca starnazzante, fatta di pura energia caotica multicolore, si materializzò a mezz'aria con un suono ridicolo e inappropriato, fissandola con occhietti vacui e stupidi prima di esplodere in una cascata di piume iridescenti e completamente inutili, che si dissolsero in polvere prima di toccare terra.
+
+*Elthon*, incurante del fiasco magico della sua compagna e abituato al caos del Limbo, reagì con la prontezza di un inventore sotto pressione. Imbracciò il suo fedele Cannone a Mano – una creazione goblinica di ottone e ingranaggi, rumorosa e potente – e premette il grilletto. Un lampo di fuoco e un tuono secco squarciarono il silenzio opprimente del cortile. Il proiettile di piombo, grosso come un pollice, sibilò nell'aria e colpì il Necromante Anziano al fianco con un impatto sordo.
+
+Il *Necromante Anziano* emise un gemito, una nota acuta di rabbia e dolore. La sua veste rossa si lacerò e iniziò a bruciare attorno alla ferita, rivelando carne pallida e putrescente, percorsa da vene nere pulsanti di energia oscura. Senza esitare, consapevole della minaccia rappresentata da un'arma da fuoco inaspettata e forse temendo per il rituale, si voltò e fuggì rapidamente verso un edificio massiccio di pietra nera, simile a un mausoleo, sparendo nell'ombra della sua soglia. Probabilmente cercava rinforzi o un modo per completare la sua opera in un luogo più sicuro.
+
+I ghoul, allarmati dall'attacco al Necromante e infuriati per la fuga dei prigionieri, si lanciarono all’attacco come una marea famelica. Tre delle creature più vicine piombarono su Smilzo, artigli tesi come rasoi, l'alito fetido che prometteva una morte lenta e dolorosa che gli investì il volto. *Smilzo* vacillò, la sua mazza improvvisata alzata a parare i colpi furiosi, improvvisamente circondato dalla morte affamata che ghermiva da ogni lato.
+
+## La Nascita Blasfema: Il Dono degli Antichi Dei
+
+Fu in quell'istante, nel cuore del caos, del fumo e della disperazione, che accadde l'inevitabile. Un'energia nuova, diversa da quella corrotta e controllata del necromante, ma altrettanto innaturale e potente, pulsò dalla fossa rituale. La terra tremò, sussultando come se qualcosa di enorme si stesse risvegliando nelle sue profondità. Un suono lacerante, un misto di gemito infantile e grido disumano, squarciò l'aria, facendo vibrare le ossa dei presenti.
+
+E dalla fossa, illuminata da un bagliore spettrale, una luce divina eppure contorta, proveniente dall'N-Shard impiantato, emerse… il **Faith Baby**. Un abominio forgiato nella blasfemia e nel segreto, un "Cucciolo di Fede" per il Dio Mutilato.
+
+*Puzzo* e *Fetore*, dimenticando per un momento la loro preda Smilzo, si bloccarono, i loro occhi vitrei sgranati e fissi sulla fossa con un misto di terrore e adorazione. Puzzo urlò, la sua voce roca e cavernosa carica di un fervore folle: "È nato! È nato! Il *Dono* degli Antichi Dei è qui! Gloria a Vecna!" *Fetore* rincarò, in un ringhio gutturale che era quasi una preghiera: "Un *Cucciolo di Fede! Un nuovo faro per il Signore dei Segreti! Gloria agli **Antichi Dei** e alla loro Progenie!*"
