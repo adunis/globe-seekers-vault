@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Globeseekers I/Omera, Chierico di Halendos.md",
+                "file": "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Omera, Chierico di Halendos"
+              "title": "Session 1, 2 3, 4 and 5 Newborn Champions"
             }
           }
         ]
@@ -169,8 +169,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cefcbdaed30b51b",
+  "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "locations/Zerthadlun.md",
+    "locations/Terre Desolate.md",
+    "locations/Airspur.md",
+    "locations/Aetheria.md",
+    "locations/Abisso di Xul’Korth.md",
+    "journals/LA GRANDE DISCESA LE PIAGHE DIVINE E LA NASCITA DELLE FORTEZZE.md",
+    "journals/Hero Point e Punti Divini.md",
+    "families/Skur'Jarn.md",
+    "families/Kaz'Gromhur.md",
+    "families/House Wulfgar.md",
+    "families/House Schatten.md",
+    "families/House Falken.md",
+    "families/House Draken.md",
+    "families/Casa Ashworth.md",
+    "families/Bar-Eshmael.md",
+    "events/Globeseekers II/Session 1, 2 3, 4 and 5 Newborn Champions.md",
+    "characters/Globeseekers I/Omera, Chierico di Halendos.md",
     "characters/Globeseekers I/Nyssandra la Lama Nera.md",
     "characters/Globeseekers I/Nilfyr, Monaco Veggente.md",
     "characters/Globeseekers I/Niamh la Marea.md",
@@ -180,23 +197,6 @@
     "characters/Globeseekers I/Malkior il Mutaforma.md",
     "characters/Globeseekers I/Malaria.md",
     "characters/Globeseekers I/Malakor, il Geometra Folle (Ex-Mago Rosso).md",
-    "characters/Globeseekers I/Magus Arcturus Shadowbane.md",
-    "characters/Globeseekers I/Maestra Selene Nerosussurro.md",
-    "characters/Globeseekers II/Lysandra Vayne.md",
-    "characters/Globeseekers I/Luminara Argenta.md",
-    "characters/Globeseekers I/Lord Thaddeus Veloscuro.md",
-    "characters/Globeseekers I/Lirien la Nuvolosa.md",
-    "characters/Globeseekers I/Lady Isolde Corvombra.md",
-    "characters/Globeseekers II/La Famiglia della Cenere Tranquilla.md",
-    "characters/Globeseekers I/Lidia Roccatetra.md",
-    "characters/Globeseekers I/Korgak.md",
-    "characters/Globeseekers I/Kharghira.md",
-    "characters/Globeseekers II/Jarek Il Decaduto (Falco Cremisi Esploratore Guerriero).md",
-    "characters/Globeseekers I/Il Segugio d'Ombra.md",
-    "characters/Globeseekers 0/Hene, Paladina dell' Annientamento.md",
-    "characters/Globeseekers I/Gungra.md",
-    "characters/Globeseekers 0/Gundren.md",
-    "characters/Globeseekers 0/Grogo Kaz'Gromhur.md",
     "characters/Globeseekers II",
     "characters/Globeseekers I",
     "characters/Globeseekers 0",
