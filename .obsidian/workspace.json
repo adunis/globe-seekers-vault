@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "families/Casa Ashworth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Casa Ashworth"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
-    "events/Globeseekers I/Incontro con i Wyrmclaw.md",
+    "characters/Ex-Characters/Globeseekers I",
+    "characters/Globeseekers 0",
     "index.md",
+    "events/Globeseekers I/Incontro con i Wyrmclaw.md",
     "characters/Brognak.md",
     "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/Campaign Overview.md",
     "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/calendars/calendar2.md",
