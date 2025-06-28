@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Nations Pre-Descent.md",
+                "file": "notes/Psionismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nations Pre-Descent"
+              "title": "Psionismo"
             }
           }
         ]
@@ -169,16 +169,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cefcbdaed30b51b",
+  "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
-    "notes/Magic.md",
-    "notes/Faerun History.md",
+    "maps/Cormyr at War.md",
+    "maps/Altopiano delle Ossa.md",
+    "notes/Storia del Mondo Pre-Discesa.md",
+    "notes/La Magia.md",
+    "notes/Psionismo.md",
+    "items/Pietre-Anima.md",
+    "locations/Globeseekers I/Nations Pre-Descent.md",
     "notes/Cosmology/History of the Cosmos.md",
     "journals/Appunti Campagna Globeseekers 1.md",
     "notes/Linguaggi/Sylvan.md",
-    "notes/Untitled.md",
     "notes/Cosmology/Primordial Planes.md",
-    "notes/Nations Pre-Descent.md",
     "notes/Divinitá/Primordial Lord.md",
     "notes/Cosmology",
     "notes/Linguaggi/Languages.md",
@@ -197,9 +200,6 @@
     "locations/Globeseekers II/Cittá/Fungorgo.md",
     "notes/Divinitá",
     "locations/Globeseekers II/Regioni/Xurth'azaan, il Regno di Akanul.md",
-    "locations/Globeseekers II/Regioni/Xar'Vhalis, le Lande Grigie Fumali.md",
-    "locations/Globeseekers II/Regioni/Xal-Tharath, lo Sfregio Netherese.md",
-    "locations/Globeseekers II/Regioni/Venthrum Vecnarius - Altopiano delle Ossa.md",
     "locations/Globeseekers II/Cittá",
     "locations/Globeseekers II/Regioni",
     "Untitled 1.canvas",
