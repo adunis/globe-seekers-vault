@@ -3,6 +3,8 @@ title: Welcome to the Globe Seekers Campaign
 description: "The central hub for the lore, characters, and ongoing events of the Globe Seekers campaign in Faerûn."
 ---
 
+test
+
 Welcome, adventurers, to the official companion site for the **Globe Seekers Campaign**. This living document will serve as your guide to the world, the people you meet, and the history you uncover.
 
 The world is still reeling from the **Great Descent**, a cataclysm that reshaped continents and shattered the old order of gods and mortals. Your journey begins in the war-torn city of **Airspur**, where the whispers of powerful Netherese Globes promise both salvation and damnation.
