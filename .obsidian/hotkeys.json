@@ -1,0 +1,10 @@
+{
+  "automatic-linker:rebuild-all-files": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ]
+}
