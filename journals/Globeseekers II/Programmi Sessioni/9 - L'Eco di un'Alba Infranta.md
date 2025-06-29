@@ -51,89 +51,79 @@ Non c'è un combattimento qui, ma una battaglia per la comprensione.
 **Progressione:** Superata la galleria, giungono al cuore del santuario.
 
 
-### **Scena 3: L'Altare dell'Alba e l'Offerta Allettante**
+## **Scena 3:  La Prova dell'Alba Infranta**
 
 **Testo per i Giocatori:**
 
-> "La galleria si apre in una camera circolare sorprendentemente intatta. Al centro, un altare di alabastro emana una luce dorata, calda e costante, che illumina l'intera stanza come se fosse perennemente l'alba. Non ci sono ombre. Disposti con cura sull'altare, come un'offerta a un dio assente, vedete un insieme di oggetti magnifici: un **elmo dorato** cesellato a forma di raggi solari, una **corazza di scaglie dorate** che sembra quasi liquida, uno **scudo rotondo** con il volto di un sole sorridente, e un piccolo **fischietto d'avorio** accanto a una pila di **pergamene arrotolate** e alcune **rune incise** su pietre solari."
-
-**Setup:**  
-Questo non è un tesoro dimenticato, è un'esca. O meglio, una prova. Il santuario è un avamposto di sorveglianza divino, progettato per testare la fede di chi vi entra. Gli oggetti sono reali e potenti, ma sono legati all'altare da una potente magia di interdizione.
-
-**Sfida (Investigazione e Scelta):**
-
-- Una prova di **Religione o Arcano (CD 18)** rivela che l'altare è protetto da un potente sigillo di custodia. Rimuovere gli oggetti senza eseguire il corretto rituale di supplica a Lathander (che i PG non possono o non vogliono fare) attiverà le difese del santuario.
-    
-- **Elthon** (Creazione CD 19) nota che gli oggetti sono perfettamente bilanciati e che le rune sulle pergamene e sulle pietre sono di fattura impeccabile, ma emanano un'energia che "respinge" qualsiasi altra forma di potere.
-    
-- **Gianni** (Percezione/Investigare CD 20) può notare delle linee sottilissime e quasi invisibili di energia dorata che collegano gli oggetti all'altare e che si estendono verso due nicchie buie ai lati della stanza.
-    
-
-I PG si trovano di fronte a una scelta: lasciare il tesoro e andarsene, o tentare di prenderlo, sapendo che ci sarà una reazione.
-
-**Loot sull'Altare (Dettagliato):**
-
-Generated json
-
-      `[   {     "name": "Elmo del Re Sole",     "type": "armor",     "img": "icons/equipment/head/helmet-horned-gold.webp",     "system": {       "description": {         "value": "<p>Questo elmo completo in oro scintillante è sormontato da una corona di raggi solari. Conferisce a chi lo indossa un'aura di maestosità e autorità divina.</p><p><strong>Attivazione</strong> <span class=\"action-glyph\">R</span> (Comando); <strong>Frequenza</strong> una volta al giorno; <strong>Innesco</strong> Stai per tentare un tiro salvezza contro un effetto di paura; <strong>Effetto</strong> Ottieni un bonus di circostanza di +2 al tiro salvezza contro l'effetto di paura. Se ottieni un successo, lo consideri un successo critico.</p>"       },       "source": { "value": "Campagna Personalizzata" },       "quantity": 1,       "weight": { "value": 1 },       "price": { "value": { "gp": 160 } },       "level": { "value": 5 },       "rarity": "uncommon",       "traits": { "value": ["divine", "invested", "good"], "rarity": "uncommon" },       "acBonus": { "value": 1 },       "usage": { "value": "wornhelmet" }     }   },   {     "name": "Corazza del Sole Nascente",     "type": "armor",     "img": "icons/equipment/chest/breastplate-scaly-sun-gold.webp",     "system": {       "description": { "value": "<p>Un'armatura di scaglie dorate che brilla di luce propria. È sorprendentemente leggera e flessibile, e si dice che possa deviare i raggi dell'oscurità.</p>" },       "source": { "value": "Campagna Personalizzata" },       "level": { "value": 6 },       "acBonus": 4,       "category": "medium",       "group": "plate",       "strength": 3,       "checkPenalty": -2,       "dexCap": 1,       "price": { "value": { "gp": 250 } },       "potencyRune": { "value": 1 },       "resiliencyRune": { "value": "" },       "propertyRune1": { "value": "ready" },       "rarity": "uncommon",       "traits": { "value": ["divine", "good"], "rarity": "uncommon" }     }   },   {     "name": "Scudo dell'Alba Sorridente",     "type": "armor",     "img": "icons/equipment/shield/buckler-round-wood-sun-gold.webp",     "system": {       "description": { "value": "<p>Uno scudo rotondo d'acciaio lucidato a specchio, con inciso il volto di un sole benevolo e sorridente. Chi lo impugna si sente pervaso da un'ottimismo incrollabile.</p>" },       "source": { "value": "Campagna Personalizzata" },       "level": { "value": 4 },       "acBonus": 2,       "hardness": 5,       "hp": { "value": 20, "max": 20 },       "brokenThreshold": 10,       "price": { "value": { "gp": 80 } },       "traits": { "value": ["divine", "good"], "rarity": "uncommon" }     }   },   {     "name": "Fischietto del Leone Solare",     "type": "equipment",     "img": "icons/tools/instruments/fife-flute-ivory.webp",     "system": {       "description": {         "value": "<p>Un piccolo fischietto d'avorio, caldo al tatto. Se usato alla luce del sole (o in un'area di luce solare magica), il suo suono non è udibile, ma evoca un leone maestoso fatto di pura luce solare.</p><p><strong>Attivazione</strong> <span class=\"action-glyph\">AA</span> Interagire;</p><p><strong>Effetto</strong> In un'area di luce solare, evochi un **Leone di Luce** (usa le statistiche di un [Leone Guardiano](https://2e.aonprd.com/Monsters.aspx?ID=37) ma con il tratto Celestiale e debolezza 5 al male). Il leone ti è amico e obbedisce ai tuoi comandi. Dura per 10 minuti o finché non viene ridotto a 0 HP, dopodiché si dissolve in luce. Se usato al chiuso senza luce solare, il fischietto emette solo un suono triste e acuto.</p>"       },       "level": { "value": 7 },       "price": { "value": { "gp": 300 } },       "rarity": "uncommon",       "traits": { "value": ["magical", "divine", "conjuration", "good", "light"], "rarity": "uncommon" },       "usage": { "value": "held-in-one-hand" }     }   } ]`
-    
-
-IGNORE_WHEN_COPYING_START
-
-Use code [with caution](https://support.google.com/legal/answer/13505487). Json
-
-IGNORE_WHEN_COPYING_END
-
-**Pergamene:**
-
-- 1x Pergamena di Searing Light (4° Rango)
-    
-- 1x Pergamena di Sunburst (7° Rango - troppo potente per essere lanciata dai PG, ma di grande valore)
-    
-
-**Rune:**
-
-- 1x Runa Flaming
-    
-- 1x Runa Disrupting
-    
-
----
-
-### **Scena 4: L'Alba Spietata (Climax)**
-
-**Setup:**  
-Nel momento in cui uno dei PG tocca uno degli oggetti sull'altare, la trappola scatta. La luce dorata della stanza si intensifica, diventando quasi accecante. Le due nicchie oscure ai lati della stanza si illuminano, e da esse emergono, non con un passo, ma manifestandosi come un'alba improvvisa, i due **Arcangeli Guardiani**. Non c'è dialogo, solo un giudizio silenzioso e immediato.
-
-**Combattimento (Incontro Severo):**
-
-- **Lyraelle, la Lama dell'Alba:** [Trumpet Archon (CR 8)](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FMonsters.aspx%3FID%3D30) - Leader.
-    
-- **Kaelus, il Baluardo del Giorno:** [Legion Archon (CR 7)](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FMonsters.aspx%3FID%3D28) - Bruto.
-    
-
-**Tattiche degli Angeli:**  
-Non sono folli; sono esecutori. Il loro scopo è eliminare l'impurità (i PG).
-
-- **Lyraelle** userà la sua tromba per paralizzare il gruppo e poi bersaglierà gli incantatori con Searing Light e Flame Strike. Manterrà la distanza, volando vicino al soffitto.
-    
-- **Kaelus** si concentrerà su chi ha toccato l'altare, o sul combattente più minaccioso (Smilzo), cercando di abbatterlo con la sua imponente spadone. La sua reazione di **Ritorsione dell'Arconte** lo renderà pericoloso da attaccare in mischia.
-    
-- **Sinergia:** Gli angeli conoscono la debolezza del santuario. Se un PG si nasconde dietro una colonna di marmo, Lyraelle potrebbe usare un incantesimo ad area per colpire sia il PG che la colonna, sapendo che la struttura è instabile.
-    
-
-**La Fuga:**  
-Quando uno degli angeli viene sconfitto, la sua morte scatena un'onda di energia che danneggia la stanza. Sconfiggerli entrambi provoca il crollo totale. I PG devono fuggire come descritto nella versione precedente, con prove di abilità per evitare i detriti.
-
----
-
-### **Scena 5: Il Sapore della Cenere**
-
-**Testo per i Giocatori:**
-
-> "Il rombo del santuario che crolla si attenua, lasciandovi ansimanti nella polvere e nel silenzio del tunnel. Avete il tesoro, ma il prezzo è stato alto. Siete sopravvissuti non a dei mostri, non a dei folli, ma a dei guardiani convinti della loro sacra missione. Avete visto il volto della 'giustizia' degli Dei Antichi: un'alba che non scalda, ma incenerisce chiunque non si inginocchi alla sua luce."
+> "La galleria si apre in una vasta camera circolare, sorprendentemente intatta. Una luce dorata e calda, proveniente da un altare di alabastro al centro, illumina la scena come un'alba perenne, bandendo ogni ombra. Sull'altare, un magnifico set di equipaggiamento sacro giace come un'offerta. Le pareti sono adornate da **tre grandi arazzi** intessuti con fili d'oro, raffiguranti scene maestose. In un'alcova laterale, notate un leggio di marmo con sopra un **pesante tomo rilegato in pelle bianca**."
 > 
-> "Chirr-Click vi osserva, i suoi occhietti neri pieni di un misto di paura e ammirazione. 'La luce che brucia,' sibila. 'Ora capisco perché i Tessitori preferiscono l'ombra. La via per Fungorgo è questa. Andiamo, prima che altre luci vengano a cercarci.'"
+> "**L'arazzo a sinistra** mostra Lathander che emerge da un sole radioso, portando ordine in un mondo avvolto dal caos primordiale."
+> 
+> "**L'arazzo al centro** raffigura Lathander, con volto severo, che supervisiona i suoi angeli mentre costruiscono una magnifica città-fortezza (Lathandarion), le cui mura sembrano fatte di luce solidificata."
+> 
+> "**L'arazzo a destra** è il più inquietante. Mostra Lathander, con un'espressione di fredda determinazione, che osserva i suoi angeli purificare con fiamme dorate intere regioni, trasformando paesaggi rigogliosi in deserti di cenere bianca. Le fiamme sembrano consumare non solo la terra, ma anche le anime di chi si oppone."
 
-**Cliffhanger:**  
-I PG hanno ottenuto un bottino potente, ma anche una lezione brutale. Il loro odio per gli Dei Antichi non è più teorico; è stato forgiato nel combattimento contro i loro servitori più puri. Ora, il viaggio verso Fungorgo continua, ma con una nuova, più cupa determinazione. La ribellione non è più una missione affidata loro da Ylvina, è diventata la loro guerra.
+**Setup e Indagine:**  
+L'ambiente è la chiave. I PG hanno tempo per investigare prima di toccare il tesoro.
+
+- **Il Tomo sul Leggio (L'Indizio):** Il libro è intitolato "L'Ordine dell'Alba: Liturgie e Custodia". Una prova rapida di **Religione (CD 15)** o una lettura di pochi minuti rivela informazioni cruciali:
+    
+    - Sui Guardiani: "I Guardiani Angelici di un Santuario dell'Alba sono manifestazioni della volontà di Lathander, legati indissolubilmente all'ambiente consacrato. La loro forza non è loro, ma attinge direttamente dai **Simboli Solari** che mantengono la purezza del luogo."
+        
+    - Sui Simboli: "Tre sono i Simboli che alimentano un Santuario: il **Simbolo della Creazione** (la luce che dà inizio), il **Simbolo dell'Ordine** (la luce che costruisce) e il **Simbolo della Purificazione** (la luce che cancella l'impurità). Finché questi simboli risplendono, i Guardiani sono quasi invincibili, la loro essenza continuamente rinnovata dalla fiamma dell'alba."
+        
+    - Sulla Trappola: "Chiunque osi profanare l'altare senza recitare l'Inno della Sottomissione risveglierà la furia dei Guardiani, la cui unica direttiva è purificare l'eresia con la luce."
+        
+- **I Simboli Solari (Il Puzzle):** Una prova di **Percezione (CD 18)** o **Religione (CD 17)** permette ai PG di notare che ogni arazzo ha un grande **medaglione solare d'oro** intessuto al suo centro, che brilla di una luce magica propria, diversa da quella dell'altare. Questi sono i tre Simboli Solari.
+    
+
+**Scatenare la Trappola:**  
+Nel momento in cui uno degli oggetti sull'altare viene toccato, la luce della stanza si intensifica e i tre Simboli Solari sugli arazzi iniziano a pulsare violentemente. Dalle nicchie laterali si manifestano i due Arcangeli Guardiani, **Lyraelle** e **Kaelus**.
+
+---
+
+## **Scena 4 : Il Puzzle della Purificazione**
+
+**Testo per i Giocatori:**
+
+> "La luce dorata esplode dall'altare, accecante. I tre soli intessuti negli arazzi pulsano con un potere immenso, proiettando fasci di luce verso il centro della stanza che convergono sui due angeli appena apparsi. Le loro forme, prima eteree, si solidificano, le loro ali di luce diventano dure come diamante e le loro armature brillano di un potere schiacciante. Non vi parlano. Vi giudicano. E il loro verdetto è la purificazione."
+
+**Meccaniche della Boss Fight:**
+
+1. **I Guardiani Immortali:** Lyraelle (CR 8) e Kaelus (CR 7) sono i combattenti. All'inizio del combattimento, e alla fine di ogni loro turno, **guariscono completamente tutti i danni subiti** finché almeno un Simbolo Solare è attivo. Questa guarigione è visibile: le loro ferite si richiudono in fiotti di luce dorata che fluisce dagli arazzi.
+    
+    - **Tattica degli Angeli:** Non sono stupidi. **Kaelus** (il bruto) si lancia immediatamente sui PG per tenerli impegnati in mischia e lontani dagli arazzi. **Lyraelle** (l'incantatrice) vola in alto, usando la sua tromba per debuffare e incantesimi ad area (come Wall of Fire) per separare i PG e proteggere gli arazzi più vulnerabili. Se un PG si avvicina a un arazzo, diventa il suo bersaglio primario.
+        
+2. **I Simboli Solari (L'Obiettivo):** Per poter danneggiare permanentemente gli angeli, i PG devono **disattivare i Simboli Solari**. Ogni simbolo è legato a un arazzo.
+    
+    - **Distruzione Fisica:** Ogni arazzo ha **Durezza 8, HP 30, BT 15**. Possono essere colpiti da attacchi fisici o da incantesimi.
+        
+    - **Interazione Specifica (Il Puzzle):** Ogni simbolo ha una vulnerabilità specifica, legata all'arazzo che lo ospita.
+        
+        - **Arazzo della Creazione (Sinistra):** Il simbolo pulsa di energia vitale e primordiale. È vulnerabile a **energia negativa o danni da vuoto**. Un incantesimo come Chill Touch o un'arma con una runa Disrupting infligge danni doppi all'arazzo. (Indizio: la scena mostra la creazione dal nulla, il suo opposto è la non-esistenza).
+            
+        - **Arazzo dell'Ordine (Centro):** Il simbolo emette un'armonia perfetta, quasi matematica. È vulnerabile a **danni sonori o effetti caotici**. Un Urlo di un barbaro, un incantesimo come Shatter o un effetto caotico (magari da Liora?) infliggono danni doppi all'arazzo. (Indizio: la costruzione della città è ordine, il suo opposto è il caos distruttivo).
+            
+        - **Arazzo della Purificazione (Destra):** Il simbolo brucia con un fuoco purificatore. Paradossalmente, è vulnerabile al **fuoco stesso**. Usare un incantesimo di fuoco su di esso lo sovraccarica, facendolo spegnere. Un attacco con una runa Flaming infligge danni doppi. (Indizio: il fuoco che purifica può essere estinto solo da un fuoco più grande, un concetto teologico contorto).
+            
+3. **Fasi del Combattimento:**
+    
+    - **Fase 1 (3 Simboli Attivi):** Gli angeli sono immortali. I PG devono capire che i loro sforzi sono inutili e concentrarsi sugli arazzi. Devono dividersi: alcuni tengono a bada Kaelus, mentre altri cercano di raggiungere e distruggere i simboli.
+        
+    - **Fase 2 (1-2 Simboli Distrutti):** Quando un simbolo viene distrutto, la luce nella stanza vacilla. Gli angeli **smettono di guarire completamente**, ma ottengono comunque **Guarigione Rapida 10** per ogni simbolo ancora attivo. Ora sono vulnerabili, ma ancora molto resistenti. Kaelus e Lyraelle diventano più aggressivi, concentrando i loro attacchi su chiunque si avvicini ai simboli rimanenti.
+        
+    - **Fase 3 (Tutti i Simboli Distrutti):** La luce dorata si spegne, lasciando solo la luce delle torce dei PG e un'aura spettrale proveniente dall'altare. Gli angeli perdono la loro guarigione e diventano pienamente mortali. Combattono fino alla fine, ma ora sono visibilmente più deboli, le loro ali di luce tremolano.
+        
+
+**Finale:**  
+Una volta sconfitti, gli angeli si dissolvono in polvere di luce come nella versione precedente, innescando il crollo del santuario e la fuga disperata dei PG. La ricompensa (loot sull'altare) può essere afferrata durante la fuga.
+
+---
+
+### **Note per il DM:**
+
+- **Comunicazione:** È essenziale descrivere chiaramente l'effetto della guarigione alla fine del primo round. "Nonostante i colpi andati a segno, vedete le ferite su Kaelus richiudersi in un istante, la sua carne ricomposta da fili di luce dorata che sembrano provenire dagli arazzi alle pareti. L'angelo è di nuovo illeso."
+    
+- **Dinamismo:** Questo design incoraggia il movimento, la risoluzione di puzzle sotto pressione e la collaborazione. Mentre Smilzo tiene a bada Kaelus, Elthon e Liora potrebbero lavorare per decifrare le debolezze degli arazzi, e Gianni potrebbe usare la sua agilità per raggiungere e colpire i punti deboli.
+    
+- **Odio per Lathander:** Sconfiggere i suoi angeli non perché sono "malvagi", ma perché sono ostacoli dogmatici e implacabili verso la libertà dei PG, cementerà il loro odio. Non stanno combattendo mostri, stanno combattendo un'ideologia tirannica.
