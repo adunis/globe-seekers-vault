@@ -1,6 +1,4 @@
 
----
-
 > "Gli dei hanno spezzato il mondo, ora dovete raccoglierne i pezzi."
 > – *Arvandor, dio della Memoria Eterna*
 
@@ -35,40 +33,75 @@ In questa campagna, ogni giocatore interpreta una duplice esistenza:
 
 ## Un Mondo da Esplorare
 
-Il mondo  è ora un mosaico di regni contorti e lande desolate, ognuna con le sue leggi e i suoi orrori:
+Il mondo è ora un mosaico di regni contorti e lande desolate, ognuna con le sue leggi e i suoi orrori. Le terre si dividono tra le Fortezze Divine, bastioni di un ordine teocratico opprimente, e le Terre Spezzate, frontiere senza legge dove si lotta per sopravvivere.
 
-*   **L'Altopiano delle Ossa  - Venthrum Vecnarius**: L'ex nazione di Thay è ora il cuore del dominio di Vecna. Un paesaggio desolato coperto da una perenne cenere bianca che cade da un cielo arancione malato. Qui, alberi fatti di ossa artigliano l'aria e orrori necromantici come i Vermi del Midolfo e le Bestie Carnaio vagano liberamente. È il centro nevralgico degli esperimenti di Vecna, governato dalla capitale **Protonecropoli**, una metropoli di torri d'ossa animate dove i suoi arcivescovi Lich supervisionano la creazione dei Faith Babies.
+Ecco una panoramica delle principali regioni che potrete esplorare:
 
-*   **La Distesa Devastata :** Chiamata "La Carne di Karsus", questa terra è una piaga radioattiva dove la magia stessa sanguina, lasciando il paesaggio sterile e mutato. Tempeste di fulmini blu scolpiscono volti urlanti nella roccia, e vene di quarzo nero pulsano di energia che trasforma la carne. I sopravvissuti, noti come i Figli della Scoria, hanno sangue fluorescente, mentre automi impazziti rubano organi ai vivi per "ripararsi". Al centro di tutto, un culto venera un **Nucleo di Karsus** che divora la volontà.
+*   **Venthrum Vecnarius (L'Altopiano delle Ossa)**
+    L'ex nazione di Thay è ora il cuore del dominio di Vecna. Un paesaggio desolato coperto da una perenne cenere bianca che cade da un cielo arancione malato. Qui, alberi fatti di ossa artigliano l'aria e orrori necromantici come i Vermi del Midolfo e le Bestie Carnaio vagano liberamente.
+    *   **Fortezza Divina: Protonecropoli**
+        La capitale di Vecna è una città costruita con scheletri incastrati come in un puzzle. Ogni osso è un archivio, ogni teschio recita segreti. I suoi abitanti sono lich e non-morti che governano il commercio di anime e la creazione dei Faith Babies nella blasfema Forgiacarne. Vecna, con l'aiuto di Myrkul e l'ombra di Shar, ha trasformato questo luogo nel centro nevralgico della conoscenza proibita e del potere sulla non-morte.
 
-*   **Lo Sfregio Netherese - Xal-Tharath** Una ferita aperta nella realtà, dove le leggi della fisica e della geometria sono state infrante. Torri fluttuanti sfidano la gravità, i sentieri si ripiegano su se stessi in loop impossibili e creature non-euclidee cacciano nei paradossi logici. Gli arcanisti della Congrega delle Torri cercano di restaurare il potere Netherese usando schiavi come batterie viventi, mentre i ribelli olografici combattono usando paradossi temporali. È un luogo dove persino la propria ombra può diventare un'entità ostile.
+*   **La Distesa Devastata (Ex-Cormyr)**
+    Chiamata "La Carne di Karsus", questa terra è una piaga radioattiva dove la magia stessa sanguina, lasciando il paesaggio sterile e mutato. Tempeste di fulmini blu scolpiscono volti urlanti nella roccia, e vene di quarzo nero pulsano di energia che trasforma la carne.
+    *   **Fortezza Divina: Lathandyr**
+        Offeso dall'eresia dei Nuovi Dei, Lathander ha trasformato la sua promessa di rinnovamento in un ciclo di purificazione solare spietata. Lathandyr è una cattedrale di marmo che trasuda luce dorata, imponendo un'alba perenne che brucia la terra e gli spiriti. La giustizia di Tyr e la bellezza sterile di Sune contribuiscono a un ordine dove la sofferenza è vista come un passo necessario per una rinascita forzata.
 
-*   **L'Artiglio di Seraph - Sathrak'hal:** Una giungla primordiale e violenta, dominata da un impero di ibridi draconici, gli **Artigli del Drago**, che governano da uno Ziggurat di Ossidiana pulsante. Qui, le foglie degli alberi sono lame affilate, le liane si nutrono di sangue e il clima stesso è un'arma. Tribù di Iruxi (lizardfolk) ribelli combattono una guerriglia disperata, usando veleni estratti dalla flora letale per resistere ai loro oppressori draconici.
+*   **Xal-Tharath (Lo Sfregio Netherese)**
+    Una ferita aperta nella realtà, dove le leggi della fisica e della geometria sono state infrante. Torri fluttuanti sfidano la gravità, i sentieri si ripiegano su se stessi e creature non-euclidee cacciano nei paradossi logici.
+    *   **Fortezza Divina: Mystralis**
+        Tradita nel suo dominio, Mystra ha incatenato la magia. Mystralis è la sua torre di cristallo pulsante, il centro di controllo da cui permette alla Trama di essere stabile. Al di fuori della sua influenza, la magia impazzisce. Qui, con l'aiuto di Oghma e il giudizio di Kelemvor, la conoscenza arcana è un privilegio sorvegliato, e ogni incantesimo non autorizzato è un crimine.
 
-*   **Campi della Forgianima  - Amarathien:** Un'immensa piana maledetta, condannata a rivivere in eterno le battaglie catastrofiche della Grande Discesa. Plotoni di guerrieri spettrali combattono nemici invisibili, tempeste di echi psichici fanno impazzire i viaggiatori e la terra stessa è intrisa di ferro e disperazione. Le uniche creature viventi sono bestie corazzate di metallo, come i Cinghiali Ferrei, che si nutrono delle schegge della guerra.
+*   **Campi della Forgianima (Amarathien)**
+    Un'immensa piana maledetta, condannata a rivivere in eterno le battaglie della Grande Discesa. Plotoni di guerrieri spettrali combattono nemici invisibili e tempeste di echi psichici fanno impazzire i viaggiatori.
+    *   **Fortezza Divina: Sharothis**
+        La fortezza di Shar, la Signora della Perdita, è una città scolpita nell'oscurità stessa. Non poteva esserci luogo più adatto per lei di una terra di eterno lutto. Sharothis non domina con la forza, ma soffocando la speranza, erodendo i ricordi e promuovendo il distacco totale. Qui, il tocco di Myrkul accelera il decadimento e gli assassini di Bhaal offrono l'oblio come un dono.
 
-*   **I Veli Sembiani - Myrghalath**: Un'antica metropoli sembiana ora avvolta da una nebbia senziente che si nutre di identità e segreti. Qui le strade cambiano, i riflessi vivono di vita propria e le ombre possono materializzarsi in soldati fantasma. Esiste un mercato nero dove si vendono volti e ricordi rubati. La fazione dominante, la Chiesa Velata, venera la nebbia e sacrifica i riflessi per ottenere potere.
+*   **Rovine di Damara (Fauce di Cania)**
+    L'antico regno nanico di Damara è stato squarciato da un portale verso i Nove Inferi. Ora è una cripta continentale dove ghiaccio eterno e fuoco infernale si scontrano, e demoni biomeccanici forgiano armi dai ricordi rubati.
+    *   **Fortezza Divina: Anhurion**
+        Il dio della guerra Anhur ha trasformato la sua fede nella guerra giusta in una crociata per la guerra totale. Anhurion è la sua fortezza in prima linea, una cittadella di ossa di drago fuso costruita per affrontare l'orda demoniaca. Con la disciplina di Bane e la violenza di Talos, i suoi guerrieri sono addestrati a una guerra spietata, dove la vittoria contro il male supremo è l'unica forma di onore.
 
-*   **Il Deserto dei Vermi - Saharat'al-Mutayya**: Un deserto di sabbie mobili e miraggi mortali. Enormi ziggurat sommersi si spostano sotto le dune, mentre le tempeste di mana selvaggio riscrivono la geografia. Tribù nomadi cavalcano lucertole giganti, lottando contro orchi predatori e gnoll che venerano la sete. Qui, l'acqua è una menzogna e l'unica verità è il sole spietato.
+*   **Myrghalath (I Veli Sembiani)**
+    Un'antica metropoli avvolta da una nebbia senziente che si nutre di identità e segreti. Qui le strade cambiano, i riflessi vivono di vita propria e un mercato nero vende volti e ricordi rubati.
+    *   **Fortezza Divina: Maskyr**
+        Il regno perfetto per Cyric, il Principe delle Menzogne. La sua cattedrale mascherata è un labirinto di specchi deformanti e illusioni. Qui, la verità è stata dissolta. Con l'aiuto di Shar, Lolth e l'interesse di Vecna, Cyric ha creato un focolaio di caos sociale dove il tradimento e la follia sono considerati la forma più alta di libertà.
 
-*   **Xar'Vhalis (Le Lande Grigie Fumali):** Una terra desolata dove la magia non è solo instabile, ma attivamente marcescente. Le linee ley sono ferite aperte che vomitano caos, trasformando la pietra in carne e la carne in vetro animato. Orchi mutati si nutrono di questa energia grezza, mentre cultisti cercano di aprire portali su piani di pura follia. È un cancro magico dove ogni incantesimo è una scommessa con la propria sanità mentale.
+*   **Impero Abissale (Ex-Mare delle Stelle Cadute)**
+    Le profondità marine sono il dominio degli Artigli di Olhydra, un impero di Sahuagin che governa da città-labirinto su vulcani sottomarini. Le correnti oceaniche sono senzienti e sussurrano menzogne.
+    *   **Fortezza Divina: Airspur**
+        La fortezza di Umberlee è una città sospesa su tornado perenni e onde pietrificate. La Regina Zorra non ha calmato il caos elementale, lo ha cavalcato. Da qui scatena tsunami continentali e maelstrom arcani, governando attraverso l'imprevedibilità e costringendo i suoi seguaci a venerarla rischiando la vita contro la sua furia, amplificata da Talos e Tiamat.
 
-*   **Rovine di Damara (Fauce di Cania):** L'antico e gelido regno nanico di Damara è stato squarciato, aprendo un portale permanente verso Cania, uno degli strati dei Nove Inferi. Ora è una cripta continentale dove ghiaccio eterno e fuoco infernale si scontrano. Demoni biomeccanici forgiano armi dai ricordi rubati e i cultisti della "Carne Incisa" si tatuano rune viventi sulla pelle. Ordini di paladini Aasimar e sigillatori Nanici combattono una guerra persa per contenere l'infezione infernale.
+*   **Le Fauci di Ymir (Distese Ghiacciate del Nord)**
+    Un nord spietato dove il freddo non uccide, ma "scolpisce", trasformando i viventi in statue di ghiaccio. Le aurore boreali rubano i ricordi e i Giganti del Gelo governano da una cittadella vivente.
+    *   **Fortezza Divina: Aurilisca**
+        La risposta di Auril al caos è stata imporre il suo silenzio glaciale. La sua città-cattedrale di ghiaccio nero è il centro di un inverno innaturale che si estende per decenni. Con il giudizio di Kelemvor e la permanenza di Geb, il freddo di Aurilisca non è solo climatico, ma spirituale: congela l'anima e punisce il calore e la vita come fossero aberrazioni.
 
-*   **Terre Desolate:** Un deserto roccioso post-apocalittico in stile "Mad Max". Centauri razziatori e orchi armati di fucili si danno battaglia per le poche risorse rimaste. L'ultima città-fortezza, **Procampur**, è un baluardo di disperazione governato da un duca cyborg che controlla l'ultimo pozzo artesiano. Carovane di Djinn commerciano beni proibiti in cambio di emozioni e ricordi.
+*   **Ruine degli Eterni**
+    Le vestigia di una civiltà pre-divina e tecnologicamente avanzatissima. Qui, golem con intelligenza corrotta fanno la guardia a macchine che sognano di diventare dèi e il tempo stesso è instabile.
+    *   **Fortezza Divina: Gondantha**
+        Gond, vedendo la tecnologia usata per l'eresia, ha imposto la sua visione di progresso: la sostituzione della carne imperfetta con la perfezione della macchina. Gondantha è una giungla di ingranaggi e vapore, dove i suoi seguaci "migliorano" se stessi con impianti cibernetici. Con il fuoco delle fucine di Asmodeus, la città è un monumento all'ordine meccanico e all'obbedienza assoluta.
 
-*   **Impero Abissale (Ex-Mare delle Stelle Cadute):** Le profondità marine sono ora il dominio degli **Artigli di Olhydra**, un impero tirannico di Sahuagin che governa da città-labirinto costruite su vulcani sottomarini. Le correnti oceaniche sono senzienti e sussurrano menzogne, mentre polpi mutaforma rubano i volti dei viaggiatori. I Tritoni, ridotti in schiavitù, organizzano una disperata ribellione dalle foreste di kelp nero.
+*   **Saharat'al-Mutayya (Il Deserto dei Vermi)**
+    Un deserto di sabbie mobili e miraggi mortali. Enormi ziggurat sommersi si spostano sotto le dune, mentre le tempeste di mana selvaggio riscrivono la geografia.
+    *   **Fortezza Divina: Monetalia**
+        La fortezza di Waukeen, dea del commercio, è una città le cui strade sono fiumi di metallo fuso. Qui, il capitalismo è diventato una religione predatoria. I contratti si firmano col sangue, i debiti durano oltre la morte e la fortuna, benedetta da Tymora, sorride solo ai ricchi. Asmodeus garantisce che ogni clausola infernale venga rispettata.
 
-*   **Le Fauci di Ymir (Distese Ghiacciate del Nord):** Un nord spietato dove il freddo non uccide, ma "scolpisce", trasformando i viventi in statue di ghiaccio senzienti. Le aurore boreali rubano i ricordi, le tempeste portano verità che conducono alla follia e i Giganti del Gelo governano da una cittadella vivente fatta di urla congelate. È una terra di horror psicologico dove la sopravvivenza fisica è solo l'inizio della sofferenza.
+*   **Xurth'azaan (Il Regno di Akanul)**
+    Una terra di puro caos elementale. Quattro immensi pilastri di fuoco, acqua, aria e terra pulsano costantemente, ridisegnando la geografia in un cataclisma perenne.
+    *   **Fortezza Divina: Talorith**
+        Talos, il Dio delle Tempeste, ha trovato il suo paradiso. Talorith è una metropoli di ferro dove le torri sono parafulmini giganti che incatenano i fulmini per alimentare la città. Qui la distruzione è celebrata come una forma d'arte, una passione violenta condivisa con i suoi alleati Tiamat e Umberlee, in un'orgia di potere elementale.
 
-*   **Ruine degli Eterni:** Le vestigia di una civiltà pre-divina, tecnologicamente avanzatissima. Qui, golem con intelligenza corrotta fanno la guardia a macchine che sognano di diventare dèi. Viti metalliche iniettano codice maligno nella carne, cristalli mnemonici rubano l'identità e il tempo stesso è instabile. È un luogo che dimostra come persino gli dèi fossero solo ospiti indesiderati in un mondo molto più antico.
+*   **Xar'Vhalis (Le Lande Grigie Fumali)**
+    Una terra desolata dove la magia non è solo instabile, ma attivamente marcescente. Le linee ley sono ferite aperte che vomitano caos, trasformando la pietra in carne e la carne in vetro animato.
+    *   **Fortezza Divina: Oghmaris**
+        Oghma, di fronte alla marea di conoscenza "falsa", ha deciso di controllare la narrativa. Oghmaris è la sua biblioteca-fortezza, dove i testi vengono purgati e riscritti secondo il Dogma della Verità Approvata. Con la vigilanza di Helm, la creatività è permessa solo se glorifica gli Dei Antichi, e la ricerca di sapere proibito è punita con la cancellazione della memoria.
 
-*   **Foreste di Lunargenta:** Un tempo regno benedetto dalla dea Selûne, ora la foresta è ferita come la sua divinità. La luce lunare è instabile e la magia è intrisa di dolore e vendetta. Linfa nera corrompe flora e fauna, mentre echi temporali mostrano scorci della foresta prima e dopo la Discesa. Druidi folli e custodi elfici lottano per preservare ciò che resta, combattendo orchi corrotti che cercano di bruciare il bosco sacro.
+*   **Abisso di Xul'Korth**
+    Questo contorto regno del Sottosuolo è dominato da forze aliene e antiche che sfuggono persino al controllo degli Dei Antichi. I Drow che venerano il parassita dimensionale Xul'Korth hanno creato una loro teocrazia dell'orrore, rendendo questa regione una "Terra Spezzata" unica, ostile a tutti, inclusi gli Dei Antichi.
 
-*   **Valle Lunare:** Un isolato regno matriarcale dove le donne governano con pugno di ferro e la Luna è venerata come una divinità-prigione aliena. I maschi sono trattati come bestiame, usati solo per la riproduzione o come schiavi evirati. La società è basata su rituali di sangue e sul controllo mentale, orchestrato dalle Matriarche per placare (o controllare) l'entità che dorme all'interno della Luna.
+*   **L'Artiglio di Seraph, le Foreste di Lunargenta, le Praterie di Mulor e le Terre Desolate**
+    Queste regioni rappresentano le vere **Terre Spezzate**. Troppo vaste, caotiche o resilienti per essere dominate da una singola Fortezza Divina, sono diventate campi di battaglia per le influenze divine, frontiere senza legge e, soprattutto, rifugi per culti disperati, ribelli e coloro che osano ancora venerare gli dei imprigionati come voi.
 
-*   **Abisso di Xul'Korth:** Una sezione contorta del Sottosuolo, dominata da Drow che venerano **Xul'Korth**, un parassita dimensionale che si nutre di disperazione. È un regno di orrore biologico dove la carne è argilla da modellare: le schiave vengono usate come incubatrici per generare ibridi mostruosi, e i dissidenti vengono fusi con armi viventi o trasformati in schiavi-radice, fusi con la roccia stessa.
-
-*   **Le Praterie di Mulor:** A prima vista, una terra di praterie ondulate e spiriti ancestrali, abitata da tribù di fieri minotauri. In realtà, è un inganno colossale. Gli "spiriti" sono illusioni proiettate da gnomi manipolatori nascosti, che controllano i minotauri per i propri scopi. Di recente, cavalieri umani ispirati a fiabe oscure hanno invaso le praterie, aggiungendo un terzo, imprevedibile giocatore a questa danza di inganni.
-
-*   **Xurth'azaan (Il Regno di Akanul):** Una terra di puro caos elementale. Quattro immensi pilastri di fuoco, acqua, aria e terra pulsano costantemente, ridisegnando la geografia in un cataclisma perenne. Qui i fiumi sono di fulmini, le foreste di plasma e le montagne respirano. Gli abitanti, principalmente Genasi, sono fusi con gli elementi stessi, costretti a un'esistenza di costante adattamento in un mondo che non conosce stabilità.
+---
+*(Nota Finale: Alcune divinità come Chauntea, Ilmater o Selûne potrebbero non aver creato fortezze aggressive, ma piuttosto cercato di proteggere piccole enclave isolate, venendo però sopraffatte o emarginate. Bhaal, il Signore dell'Omicidio, sembra avere influenza in più luoghi, legandosi intrinsecamente alla morte, alla predazione e alla disperazione predicate da Lolth, Shar e Anhur.)*
