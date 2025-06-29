@@ -6,15 +6,20 @@
       {
         "id": "d2ec9b381e4511ce",
         "type": "tabs",
+        "dimension": 48.566610455311974,
         "children": [
           {
             "id": "79f3e6bcc1c431b7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fungorgo"
             }
           },
           {
@@ -39,6 +44,23 @@
               },
               "icon": "lucide-file",
               "title": "3 -  Echi dalla Cenere I Tre Compagni"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4e7a318d80d1c56",
+        "type": "tabs",
+        "dimension": 51.433389544688026,
+        "children": [
+          {
+            "id": "87008a7eec44ac00",
+            "type": "leaf",
+            "state": {
+              "type": "tags-routes",
+              "state": {},
+              "icon": "waypoints",
+              "title": "Tags routes"
             }
           }
         ]
@@ -124,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Fungorgo"
             }
           },
           {
@@ -142,11 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Fungorgo"
             }
           },
           {
@@ -170,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Fungorgo"
             }
           },
           {
@@ -218,11 +243,16 @@
       "omnisearch:Omnisearch": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "gemini-scribe:Open Gemini Chat": false
+      "gemini-scribe:Open Gemini Chat": false,
+      "tags-routes:Open tags routes": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "TagsRoutes/logMessage.md",
+    "TagsRoutes/logs",
+    "TagsRoutes",
     "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
     "gemini-scribe/History/events_Globeseekers II_8 - La disfatta di Wryss e l'arrivo di Gianni.md",
     "events/Globeseekers II/8 - La disfatta di Wryss e l'arrivo di Gianni.md",
@@ -251,15 +281,12 @@
     "organisations/Globeseekers I/Exorcistat of Damara.md",
     "organisations/Faction.md",
     "organisations/Globeseekers I/Eternal Council.md",
-    "organisations/Globeseekers I/Empire of Nether.md",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
     "journals/Globeseekers II/Programmi Sessioni",
     "journals/Globeseekers II",
     "journals/Globeseekers 1",
-    "notes/Cosmology",
-    "notes/Linguaggi",
     "Untitled.canvas",
     "gallery/ea1619b1-e6c9-4774-bf01-4e40dc44b1aa.jpg"
   ]
