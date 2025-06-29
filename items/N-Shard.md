@@ -74,3 +74,5 @@ Gli N-Shard sono il pilastro del nuovo esercito psionico di Vecna. La loro distr
 La nostra analisi deve continuare. Comprendere come dissociare un N-Shard da un ospite senza uccidere quest'ultimo potrebbe essere la chiave per "curare" i soldati di Vecna o, forse, persino i Faith Babies. È un'ipotesi remota, ma la speranza è l'unica arma che i nostri nemici non possono ancora misurare.
 
 **(Fine del Dossier)**
+
+

@@ -74,3 +74,136 @@ Chirr-Click si avvicina, i suoi occhialoni meccanici che analizzano i vostri vol
     - **Meccaniche:** Se applicato a un costrutto o a un oggetto meccanico inattivo (o con la condizione Rotto), questo oggetto fornisce una potente scossa. La macchina recupera immediatamente **2d8+5 HP**. Se la macchina è già a pieni HP (o se è un costrutto nemico), deve superare un **TS su Tempra CD 18** o essere Stordita 1. Può essere usato una sola volta.
         
 - **Componenti Vari:** Una borsa contenente **20 pezzi d'oro**, fili di rame, ingranaggi e i **cristalli di quarzo grezzi**, che ora Elthon sa essere utili come condensatori per la sua nuova formula.
+
+### **Loot Dettagliato**
+
+### **1. Dai Resti dei Caroniti (Loot di Vecna)**
+
+#### **Per Gianni, l'Investigatore: Il Diario Cifrato di Vryss (Pista di Ricerca a più stadi)**
+
+> Recuperi il diario del Custode. È freddo al tatto, rilegato in una pelle pallida e tesa che la tua esperienza ti suggerisce essere di origine umana. Un complesso meccanismo di ingranaggi e perni lo tiene sigillato. Non è un semplice lucchetto; sembra un puzzle logico.
+
+Questo oggetto avvia una **Pista di Ricerca (Lead)** personale per Gianni. Il processo per svelarne i segreti è diviso in più fasi, richiedendo diverse abilità e tempo.
+
+**Fase 1: Aprire il Meccanismo (Skill Challenge a breve termine)**
+
+- **Obiettivo:** Aprire il diario senza distruggerlo.
+    
+- **CD Base:** 22
+    
+- **Abilità Utilizzabili:**
+    
+    - **Thievery (Scassinare):** Per manipolare i perni e gli ingranaggi.
+        
+    - **Creazione (Crafting):** Per comprendere la logica del meccanismo e disattivarlo.
+        
+    - **Occultismo:** Per riconoscere e neutralizzare le rune di protezione psionica incise sugli ingranaggi.
+        
+- **Successi Richiesti:** 3
+    
+- **Conseguenze:**
+    
+    - **Successo:** Il diario si apre con un sibilo silenzioso, rivelando le pagine all'interno.
+        
+    - **Fallimento (2 fallimenti):** Il meccanismo rilascia una scarica di energia mentale. Subisci 2d6 danni mentali e sei Stupefatto 1 per 10 minuti. Puoi ritentare.
+        
+    - **Fallimento Critico (3 fallimenti):** Il meccanismo si blocca permanentemente. Ora può essere aperto solo con la forza (distruggendo il diario, il che renderà alcune pagine illeggibili) o con un incantesimo Dispel Magic di 4° rango.
+        
+
+**Fase 2: Decifrare il Contenuto (Attività di Downtime)**  
+Una volta aperto, il diario si rivela essere scritto in un codice complesso che mescola la lingua **Necril** (la lingua dei non-morti intelligenti), simboli **psionici** e una **cifratura numerica**. Decifrarlo richiede tempo e abilità.
+
+- **Requisiti:** Conoscenza di Necril o un incantesimo Comprehend Language.
+    
+- **Attività:** Gianni può dedicare 1 giorno di downtime per tentare una prova di abilità e svelare una parte del contenuto.
+    
+- **Prove Possibili (CD 25):**
+    
+    - **Società:** Per decifrare la componente numerica, che si basa su gerarchie militari e logistiche.
+        
+    - **Occultismo:** Per interpretare i simboli psionici e il loro significato contestuale.
+        
+    - **Religione:** Per capire i riferimenti al dogma di Vecna e al culto del suo mentore.
+        
+
+**Informazioni Rivelate per Successo:**
+
+1. **Primo Successo:** Dettagli sulle rotte di rifornimento di **Pietre-Anima** da Fungorgo a Protonecropoli, menzionando le debolezze delle carovane e i nomi dei comandanti minori.
+    
+2. **Secondo Successo:** Note sugli esperimenti nei **K-Laboratories**. Vryss descrive la "fragilità spirituale" dei soggetti psionici e la necessità di un condizionamento brutale. Menziona "l'acquisizione di una piccola cellula di cultisti del caos specializzati in artefatti" per studiare le loro tecniche, un chiaro riferimento al gruppo che ha ucciso il mentore di Gianni.
+    
+3. **Terzo Successo (Successo Critico su qualsiasi prova):** Una nota personale di Vryss. "L'Architetto dell'Ombra (Zorvath) è una minaccia. La sua tecnologia è un'eresia contro la purezza della mente. Le sue spie sono ovunque. Ho inviato un rapporto su B.B. Secondo al Prefetto Malkor. Dobbiamo accelerare il Progetto Titan... " La frase si interrompe qui.
+    
+
+---
+
+#### **Pergamene e Pozioni dei Caroniti**
+
+- **Pergamena di Void Warp (Incantesimo Occulto di 4° Rango)**
+    
+    > Questa pergamena è scritta con un inchiostro che sembra assorbire la luce. Le rune sono spigolose e innaturali.
+    
+    - **Meccaniche:** Una pergamena dell'incantesimo [Warp Mind](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FSpells.aspx%3FID%3D371), ma rinominato "Void Warp" per flavour. Infligge danni mentali e la condizione Confuso.
+        
+- **Pozione di Concentrazione Silente (Pozione Alchemica - Livello 5)**
+    
+    > Un liquido denso e incolore in una fiala di ossidiana. Non ha odore. Berlo sembra silenziare i pensieri superflui.
+    
+    - **Meccaniche:** Per 10 minuti dopo aver bevuto questa pozione, ottieni un **bonus di oggetto di +2 ai tiri salvezza contro effetti mentali uditivi e illusioni sonore**. Inoltre, puoi lanciare un incantesimo con componente verbale come se avesse anche il tratto "sottile" (subtle), rendendolo più difficile da identificare con Riconoscere Incantesimo.
+        
+
+---
+
+### **2. Doni dei Ratfolk (Fazione di Chirr-Click)**
+
+#### **Per Liora, la Strega: Le Carte del Fato Contorto**
+
+Chirr-Click, dopo avervi ricompensato con gli oggetti più pratici, si avvicina a Liora. Dalla sua borsa estrae con cautela tre carte spesse, non di normale papiro, ma di un materiale flessibile simile a pelle di insetto conciata.
+
+> "Queste... trovate in posti strani. Molto potere. Non per noi Tessitori. A noi piace il metallo che ronza. A te forse... piace il fato che sibila. Prendi."
+
+Le tre carte sono artefatti unici. Ognuna può essere usata come una **Wand (Bacchetta Magica)**, ma con una meccanica speciale legata al mazzo.
+
+1. **Carta del Dominio Mentale (Da Vryss)**
+    
+    > La carta raffigura un occhio viola stilizzato, circondato da ingranaggi e catene spezzate. Emmette una debole pressione mentale.
+    
+    - **Meccaniche:** Funge da **Bacchetta Magica di Command (1° Rango)**. Può essere usata una volta al giorno per lanciare l'incantesimo Command senza consumare uno slot.
+        
+2. **Carta della Scossa Inaspettata (Dai Ratfolk)**
+    
+    > Questa carta mostra l'immagine di un topo stilizzato che morde un cavo elettrico, con scintille che si propagano da esso. Puzza leggermente di ozono.
+    
+    - **Meccaniche:** Funge da **Bacchetta Magica di Electric Arc (potenziata a 3° Rango)**. Può essere usata una volta al giorno per lanciare un Electric Arc che infligge 3d4+mod danni.
+        
+3. **Carta dell'Abbraccio del Vuoto (Dai Cultisti della Catena)**
+    
+    > La carta è quasi completamente nera, con un singolo anello di catena spezzato al centro, da cui sembra fuoriuscire oscurità. È fredda al tatto.
+    
+    - **Meccaniche:** Funge da **Bacchetta Magica di Void Grasp (2° Rango)**. Può essere usata una volta al giorno per lanciare un incantesimo inedito:
+        
+        - **Void Grasp (Incantesimo Occulto 2):** Bersagli una creatura entro 30 piedi. Essa deve superare un **TS su Tempra CD 19**. Con un fallimento, subisce 2d8 danni da vuoto e viene Rallentata 1 per 1 round mentre tentacoli d'ombra la avvolgono. Con un successo, subisce metà danni e non è rallentata.
+
+
+### **Meccanica Speciale: Il Mazzo del Fato (The Deck of Fate)**
+
+Mentre Liora tiene in mano le tre carte, sente una strana risonanza tra di loro. Sembrano chiamarsi l'una con l'altra, incomplete ma potenti insieme.
+
+**Regole del Mazzo:**
+
+- **Preparazione:** All'inizio di ogni giorno, Liora può preparare il suo Mazzo del Fato includendo qualsiasi Carta del Fato in suo possesso. Ogni carta può essere usata una volta al giorno.
+    
+- **Uso Normale (Azione Stabile):** Liora può scegliere una carta specifica dal suo mazzo e usare un'attività di 2 azioni per lanciare l'incantesimo corrispondente, come se usasse una bacchetta magica.
+    
+- **Pesca del Fato (Azione Instabile):**
+    
+    > Invece di scegliere, puoi affidarti al caso, lasciando che i fili del destino guidino la tua mano. Mischi il mazzo e peschi...
+    
+    - **Attivazione:** <span class="action-glyph">A</span> **Pescare una Carta (Draw a Card)** - Azione di Interagire
+        
+    - **Effetto:** Usa 1 Azione per pescare una carta a caso dal tuo Mazzo del Fato. Riveli la carta pescata. Ora hai due opzioni:
+        
+        1. **Accettare il Fato:** Lancia immediatamente l'incantesimo della carta pescata. **Il vantaggio è che l'incantesimo non richiede azioni per essere lanciato**, consumando solo l'azione di pesca. L'incantesimo viene lanciato con la sua CD o il suo tiro per colpire normale. La carta viene poi scartata per la giornata.
+            
+        2. **Rifiutare il Fato:** Decidi che la carta pescata non è adatta al momento. Puoi rimettere la carta nel mazzo. **Il vantaggio è che ottieni un bonus di circostanza di +1 a tutti i tuoi tiri per colpire con incantesimi o alla CD dei tuoi incantesimi fino alla fine del tuo turno attuale**, come se avessi piegato leggermente il destino a tuo favore. La carta non viene consumata e può essere pescata o usata normalmente più tardi.
+            
