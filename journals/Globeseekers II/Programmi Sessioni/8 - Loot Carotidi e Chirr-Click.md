@@ -59,9 +59,47 @@
 
 #### **Loot Condiviso dai Ratfolk**
 
+|                                                           |          |                                                                                                                                                                                                                                                                                              |
+| --------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oggetto (Tipo, Livello)                                   | Quantità | Descrizione e Meccaniche                                                                                                                                                                                                                                                                     |
+| **Bombe a Scintilla**<br>(Lesser Bottled Lightning)       | 1d4+1    | Esplodono infliggendo danni da elettricità ad area e possono rendere Abbagliati i bersagli.                                                                                                                                                                                                  |
+| **Condensatore Galvanico**<br>(Oggetto Alchemico, Liv. 4) | 1        | Un barattolo di vetro con parti metalliche in un liquido bluastro. Se applicato a un costrutto o oggetto meccanico inattivo/rotto, lo cura di **2d8+5 HP**. Se usato su un costrutto nemico a pieni HP, questo deve superare un **TS su Tempra CD 18** o essere **Stordito 1**. Uso singolo. |
+| **Componenti e Valuta**                                   | -        | Una borsa con **20 monete d'oro**, fili di rame, ingranaggi e cristalli di quarzo grezzi.                                                                                                                                                                                                    |
+### **Il Mazzo del Fato: Regole Fondamentali**
+
+#### **1. Preparazione del Mazzo**
+
+All'inizio della giornata, puoi dedicare **1 ora** di attività per assemblare il tuo Mazzo del Fato. Scegli quali delle tue Carte del Fato includere (minimo 3).
+
+- **Conseguenza:** Una volta che le carte sono assemblate in un mazzo, **non possono più essere usate singolarmente**. L'unico modo per accedere al loro potere è attraverso l'azione **Pesca del Fato**.
+    
+- **Modifica:** Smontare o modificare la composizione del mazzo richiede un'altra attività di **1 ora**.
+    
+
+#### **2. Pesca del Fato (L'Unica Via)**
+
+Questa è ora l'unica azione disponibile per usare il potere del tuo mazzo.
+
+- **Attivazione:** <span class="action-glyph">A</span> **Pescare una Carta**
+    
+- **Effetto:** Peschi una carta a caso dal tuo mazzo. Riveli la carta e fai una scelta irrevocabile:
+    
+    - **Accettare il Fato:** Lanci immediatamente l'incantesimo della carta pescata. L'incantesimo **non consuma azioni aggiuntive** (solo l'azione della pesca). La carta viene poi consumata per la giornata.
+        
+    - **Rifiutare il Fato:** Scegli di non lanciare l'incantesimo. Invece, guadagni **1 Punto Eroe**. La carta pescata **viene comunque consumata per la giornata** e scartata. È il prezzo da pagare per tentare il destino e fallire.  
+        (Non puoi superare il tuo limite massimo di 3 Punti Eroe).
+        
+
+---
+
+### **Bonus di Grandezza del Mazzo: Padroneggiare il Caos**
+
+Aumentare il numero di carte nel tuo mazzo ti garantisce un maggiore controllo sul caos, sbloccando abilità che ti permettono di manipolare la pesca spendendo Punti Eroe.
+
 |   |   |   |
 |---|---|---|
-|Oggetto (Tipo, Livello)|Quantità|Descrizione e Meccaniche|
-|**Bombe a Scintilla**<br>(Lesser Bottled Lightning)|1d4+1|Esplodono infliggendo danni da elettricità ad area e possono rendere Abbagliati i bersagli.|
-|**Condensatore Galvanico**<br>(Oggetto Alchemico, Liv. 4)|1|Un barattolo di vetro con parti metalliche in un liquido bluastro. Se applicato a un costrutto o oggetto meccanico inattivo/rotto, lo cura di **2d8+5 HP**. Se usato su un costrutto nemico a pieni HP, questo deve superare un **TS su Tempra CD 18** o essere **Stordito 1**. Uso singolo.|
-|**Componenti e Valuta**|-|Una borsa con **20 monete d'oro**, fili di rame, ingranaggi e cristalli di quarzo grezzi.|
+|Grandezza del Mazzo|Titolo del Livello|Abilità Sbloccata|
+|**3+ Carte**|**Mazzo Nascente**|Puoi assemblare un mazzo e usare l'azione **Pesca del Fato**. Questa è la tua introduzione al gioco d'azzardo con il destino.|
+|**5+ Carte**|**Mazzo Risvegliato**|**Sbirciare il Fato:**<br>Prima di pescare una carta, puoi spendere **1 Punto Eroe**. Se lo fai, peschi **due carte** invece di una. Scegli quale delle due Accettare (lanciandola immediatamente); l'altra viene rimescolata nel mazzo. Non puoi Rifiutare il Fato quando usi questa abilità.|
+|**10+ Carte**|**Mazzo Sintonizzato**|**Ordinare il Filo:**<br>Durante il tuo turno, puoi spendere **1 Punto Eroe** e **1 Azione** per guardare le prime tre carte del tuo Mazzo del Fato. Puoi rimetterle in cima in qualsiasi ordine desideri. Questo non consuma alcuna carta e ti prepara per una pesca futura.|
+|**20+ Carte**|**Mazzo Dominante**|**Il Cuore delle Carte:**<br>Hai raggiunto la massima sintonia con il mazzo. Non chiedi più al fato, lo comandi. Puoi spendere **3 Punti Eroe** e **1 Azione** per cercare nel tuo mazzo una **qualsiasi carta** a tua scelta, rivelarla e lanciarne immediatamente l'incantesimo (come se avessi Accettato il Fato). La carta scelta viene consumata per la giornata.|
