@@ -55,65 +55,88 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8e37141c6fc949",
-        "type": "tabs",
+        "id": "35631a521a177d42",
+        "type": "split",
         "children": [
           {
-            "id": "2cefcbdaed30b51b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+            "id": "ba8e37141c6fc949",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2cefcbdaed30b51b",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "de1d8f8ba9c063ad",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": ")",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+              {
+                "id": "de1d8f8ba9c063ad",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": ")",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
               },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
+              {
+                "id": "dfe20d6f93e224a5",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "e338254011e72d23",
+                "type": "leaf",
+                "state": {
+                  "type": "gemini-view",
+                  "state": {},
+                  "icon": "sparkles",
+                  "title": "Gemini Scribe"
+                }
+              }
+            ],
+            "currentTab": 3
           },
           {
-            "id": "dfe20d6f93e224a5",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "e338254011e72d23",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-view",
-              "state": {},
-              "icon": "sparkles",
-              "title": "Gemini Scribe"
-            }
+            "id": "cb1236567091057c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "650042247140f1a2",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-chat-view",
+                  "state": {},
+                  "icon": "smart-chat",
+                  "title": "Smart Chat"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 3
+        "direction": "vertical"
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 513.5
   },
   "right": {
     "id": "483f087699912bd1",
@@ -229,7 +252,7 @@
       "gemini-scribe:Open Gemini Chat": false
     }
   },
-  "active": "e338254011e72d23",
+  "active": "650042247140f1a2",
   "lastOpenFiles": [
     "gemini-scribe/History/events_Globeseekers II_8 - La disfatta di Wryss e l'arrivo di Gianni.md",
     "gemini-scribe/History",
