@@ -52,6 +52,15 @@ Chirr-Click si avvicina, i suoi occhialoni meccanici che analizzano i vostri vol
     > Chirr-Click ti porge un pezzo di pelle di Verme del Midolfo arrotolato. Srotolandolo, vedi lo schema dettagliato, anche se caotico, per un dispositivo che sembra una versione più potente e imprevedibile del suo tridente.
     
     - **Meccaniche:** Questa formula permette a Elthon di creare un **"Generatore di Scintille Instabile"**. È un'arma avanzata a una mano (o un'aggiunta a un'arma esistente) che, una volta al giorno, può essere sovraccaricata (1 Azione). Al prossimo colpo andato a segno entro 1 minuto, l'arma non solo infligge i suoi danni normali, ma scatena anche un Chain Lightning di 3° Rango (CD 19) che parte dal bersaglio colpito. La CD per creare l'oggetto è 19.
+#### **er Elthon, l'Inventore:**
+
+- **Schema: Trappola a Gabbia Fulminante (Formula - Livello 4)**
+    
+    > Chirr-Click ti consegna uno schema arrotolato, disegnato su pelle di lucertola. Mostra una trappola a pressione che, invece di una rete, fa scattare una gabbia di energia elettrica crepitante.
+    
+    - **Meccaniche:** Formula per una trappola meccanica (CD di Creazione 19).
+        
+        - **Trappola a Gabbia Fulminante:** Quando una creatura entra nel quadretto, barre di elettricità crepitante emergono dal terreno, formando una gabbia di 5 piedi. La creatura subisce **3d10 danni da elettricità** (TS base su Riflessi CD 20). Con un fallimento, è anche intrappolata all'interno. Le pareti della gabbia sono solide solo per la creatura intrappolata e infliggono 1d10 danni da elettricità a chiunque cerchi di attraversarle (dall'interno o dall'esterno). La gabbia dura 1 minuto.
         
 
 #### **Per Liora, la Strega (Witch):**
@@ -185,25 +194,73 @@ Le tre carte sono artefatti unici. Ognuna può essere usata come una **Wand (Bac
         - **Void Grasp (Incantesimo Occulto 2):** Bersagli una creatura entro 30 piedi. Essa deve superare un **TS su Tempra CD 19**. Con un fallimento, subisce 2d8 danni da vuoto e viene Rallentata 1 per 1 round mentre tentacoli d'ombra la avvolgono. Con un successo, subisce metà danni e non è rallentata.
 
 
-### **Meccanica Speciale: Il Mazzo del Fato (The Deck of Fate)**
+### **Il Mazzo del Fato (Sistema di Progressione)**
 
-Mentre Liora tiene in mano le tre carte, sente una strana risonanza tra di loro. Sembrano chiamarsi l'una con l'altra, incomplete ma potenti insieme.
+Le tre carte che Chirr-Click ti ha consegnato ronzano nella tua mano, non come oggetti separati, ma come parti di un tutto. Senti che questo è solo l'inizio. Il mazzo vuole essere completato, e promette potere a chi saprà interpretare e cavalcare il suo caos.
 
-**Regole del Mazzo:**
+#### **Meccaniche di Base del Mazzo**
 
-- **Preparazione:** All'inizio di ogni giorno, Liora può preparare il suo Mazzo del Fato includendo qualsiasi Carta del Fato in suo possesso. Ogni carta può essere usata una volta al giorno.
+1. **Preparazione:** All'inizio di ogni giorno, prepari il tuo Mazzo del Fato includendo qualsiasi **Carta del Fato** in tuo possesso (minimo 3, massimo 40 carte). Ogni carta può essere usata una volta al giorno, sia tramite uso normale che tramite pesca.
     
-- **Uso Normale (Azione Stabile):** Liora può scegliere una carta specifica dal suo mazzo e usare un'attività di 2 azioni per lanciare l'incantesimo corrispondente, come se usasse una bacchetta magica.
+2. **Uso Normale (Azione Stabile):**
     
-- **Pesca del Fato (Azione Instabile):**
-    
-    > Invece di scegliere, puoi affidarti al caso, lasciando che i fili del destino guidino la tua mano. Mischi il mazzo e peschi...
-    
-    - **Attivazione:** <span class="action-glyph">A</span> **Pescare una Carta (Draw a Card)** - Azione di Interagire
+    - **Attività:** <span class="action-glyph">AA</span> (Interagire) (Punti azione in base all'incantesimo)
         
-    - **Effetto:** Usa 1 Azione per pescare una carta a caso dal tuo Mazzo del Fato. Riveli la carta pescata. Ora hai due opzioni:
+    - **Effetto:** Scegli una carta specifica dal tuo mazzo e lanci l'incantesimo corrispondente, come se usassi una bacchetta magica.
         
-        1. **Accettare il Fato:** Lancia immediatamente l'incantesimo della carta pescata. **Il vantaggio è che l'incantesimo non richiede azioni per essere lanciato**, consumando solo l'azione di pesca. L'incantesimo viene lanciato con la sua CD o il suo tiro per colpire normale. La carta viene poi scartata per la giornata.
+3. **Pesca del Fato (Azione Instabile):**
+    
+    - **Attivazione:** <span class="action-glyph">A</span> **Pescare una Carta (Draw a Card)** (1 Azione)
+        
+    - **Effetto:** Peschi una carta a caso dal tuo Mazzo del Fato. Riveli la carta e scegli una delle seguenti opzioni:
+        
+        - **Accettare il Fato:** Lanci immediatamente l'incantesimo della carta pescata. L'incantesimo **non consuma azioni aggiuntive** (solo quella della pesca). La carta viene poi scartata per la giornata.
             
-        2. **Rifiutare il Fato:** Decidi che la carta pescata non è adatta al momento. Puoi rimettere la carta nel mazzo. **Il vantaggio è che ottieni un bonus di circostanza di +1 a tutti i tuoi tiri per colpire con incantesimi o alla CD dei tuoi incantesimi fino alla fine del tuo turno attuale**, come se avessi piegato leggermente il destino a tuo favore. La carta non viene consumata e può essere pescata o usata normalmente più tardi.
+        - **Rifiutare il Fato:** Rifiuti l'esito. Ottieni un **bonus di circostanza di +1** ai tiri per colpire con incantesimi O alla CD dei tuoi incantesimi fino alla fine del tuo turno. La carta viene rimessa nel mazzo e può essere pescata o usata di nuovo.
             
+
+---
+
+### **Bonus di Grandezza del Mazzo: La Risonanza del Fato**
+
+Più carte aggiungi al tuo mazzo, più la sua energia caotica cresce, offrendoti un maggiore controllo sui fili del destino. Questi bonus si applicano solo quando usi la **Pesca del Fato**.
+
+- **5+ Carte (Mazzo Iniziale):**
+    
+    - **Abilità Sbloccata: Sbirciare il Futuro**
+        
+    - **Effetto:** Una volta al giorno, quando stai per pescare una carta, puoi dichiarare che stai "sbirciando". Peschi **due carte** invece di una. Scegli quale delle due lanciare (come Accettare il Fato) e l'altra viene rimessa nel mazzo. Non puoi scegliere di Rifiutare il Fato quando sbirci.
+        
+- **10+ Carte (Mazzo Sintonizzato):**
+    
+    - **Abilità Sbloccata: Piegare la Sorte**
+        
+    - **Effetto:** Il bonus per Rifiutare il Fato aumenta. Ora puoi scegliere tra:
+        
+        - **Bonus di circostanza di +2** a un singolo tiro per colpire con un incantesimo in questo turno.
+            
+        - **Bonus di circostanza di +1** alla CD di tutti i tuoi incantesimi per 1 round (fino all'inizio del tuo prossimo turno).
+            
+- **20+ Carte (Mazzo Armonizzato):**
+    
+    - **Abilità Sbloccata: Doppia Estrazione**
+        
+    - **Effetto:** La prima volta che usi la Pesca del Fato in un incontro, puoi pescare una seconda carta (usando un'altra azione di Pesca) nello stesso turno. La seconda carta pescata non può beneficiare di Sbirciare il Futuro.
+        
+- **30+ Carte (Mazzo Dominante):**
+    
+    - **Abilità Sbloccata: Volontà dell'Oracolo**
+        
+    - **Effetto:** Quando Rifiuti il Fato, non solo ottieni il bonus di Piegare la Sorte, ma puoi anche scegliere di **scartare la carta pescata** per la giornata invece di rimetterla nel mazzo. Questo ti permette di assottigliare il mazzo durante un combattimento, aumentando le probabilità di pescare le carte che desideri.
+        
+- **40 Carte (Mazzo Completo - Il Fato Incatenato):**
+    
+    - **Abilità Sbloccata: La Mano del Destino**
+        
+    - **Effetto:** Hai raggiunto la maestria sul caos. Quando usi Sbirciare il Futuro, puoi scegliere di:
+        
+        1. Lanciare una delle due carte.
+            
+        2. Lanciare **entrambe** le carte (la seconda richiede le normali azioni per essere lanciata, ma non consuma usi giornalieri se non quelli della pesca iniziale).
+            
+        3. Rimettere entrambe le carte nel mazzo e considerare l'azione come un Rifiutare il Fato con i benefici di Piegare la Sorte.
