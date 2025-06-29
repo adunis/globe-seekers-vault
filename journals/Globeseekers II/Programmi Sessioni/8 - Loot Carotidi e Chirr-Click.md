@@ -1,108 +1,76 @@
-### **Loot Post-Combattimento: Resti dei Caroniti**
+### **Loot Post-Combattimento: Eredità dei Caroniti e Gratitudine dei Ratfolk**
 
-Dopo che il silenzio è calato nella Cripta-Sussurrante e i resti dei Caroniti e del loro leader Vryss giacciono inerti, vi prendete un momento per esaminare ciò che hanno lasciato. L'equipaggiamento di questi soldati d'élite di Vecna è funzionale, sinistro e chiaramente progettato per il controllo e l'interrogatorio.
-
-#### **Dalle Guardie Caronite (2-3 soldati)**
-
-Oltre alle loro armature e armi standard (spade lunghe, balestre leggere), trovate:
-
-- **1d4 Fiale di "Essenza del Terrore" (Olio Alchemico - Livello 3, Non Comune)**
-    
-    - **Descrizione:** Un olio nero e denso contenuto in una fiala di vetro scuro. Se applicato a un'arma tagliente o perforante (un'azione di Interagire), l'arma infligge 1d4 danni mentali aggiuntivi al prossimo colpo andato a segno. La vittima deve superare un **TS su Volontà CD 17** o diventare **Spaventata 1**.
-        
-    - **JSON:**
-        
-        Generated json
-        
-              `[   {     "name": "Essenza del Terrore",     "type": "consumable",     "img": "icons/consumables/potions/potion-bottle-corked-black.webp",     "system": {       "description": { "value": "<p>Questo olio nero e denso, se applicato a un'arma (1 Azione), infligge <strong>1d4 danni mentali</strong> aggiuntivi al prossimo colpo. La vittima deve superare un <strong>TS su Volontà CD 17</strong> o diventare <strong>Spaventata 1</strong>.</p>" },       "level": { "value": 3 },       "price": { "value": { "gp": 12 } },       "rarity": "uncommon",       "traits": { "value": ["alchemical", "consumable", "poison", "injury", "mental", "fear"], "rarity": "uncommon" },       "usage": { "value": "held-in-one-hand" },       "stackGroup": "essence-of-terror"     }   } ]`
-            
-        
-        IGNORE_WHEN_COPYING_START
-        
-
-- - Use code [with caution](https://support.google.com/legal/answer/13505487). Json
-        
-        IGNORE_WHEN_COPYING_END
-        
-- **Manette da Inquisitore (Oggetto Comune - Livello 1)**
-    
-    - **Descrizione:** Un set di manette di ferro freddo, incise con piccoli e inquietanti simboli a forma di occhio. Sono di fattura eccezionale e difficili da scassinare.
-        
-    - **Meccaniche:** Aumentano la **CD per Scappare o Scassinare di +2** (portando la CD totale a 19 per Scappare e 19 per Thievery).
-        
-- **Razioni Caronite (Oggetto Comune)**
-    
-    - **Descrizione:** Un blocco di cibo secco, grigio e insapore, pressato in una forma compatta. Nutriente, ma incredibilmente deprimente da mangiare. Non ci sono informazioni sugli ingredienti. Forse è meglio così. (Fornisce nutrimento per un giorno, come le razioni standard).
-        
-- **Monete:** Un totale di **8 monete d'oro e 15 monete d'argento**, coniate con il simbolo di un teschio con una mano ossuta sulla bocca.
-    
-
-#### **Dal Custode Psionico Vryss (Loot del Boss)**
-
-Oltre alla sua spada da duello e all'armatura, Vryss possedeva oggetti unici, legati al suo ruolo.
-
-- **Lama Psionica del Silenzio (Runa d'Arma Potenziante - Striking, Minore - Livello 4)**
-    
-    - **Descrizione:** Questa runa, quando incisa su un'arma, fa sì che la lama emetta un ronzio subsonico quasi impercettibile. L'arma sembra tagliare l'aria senza produrre quasi alcun suono.
-        
-    - **Meccaniche:** È una Runa Striking standard, ma con un effetto aggiuntivo. Quando colpisci una creatura in grado di lanciare incantesimi con componente verbale, essa deve superare un **TS su Volontà CD 18** o avere difficoltà a formulare le parole. La sua prossima azione che richiede un incantesimo con componente verbale ha il 20% di probabilità di fallire, sprecando l'azione. L'effetto dura fino alla fine del suo prossimo turno.
-        
-- **Diario Cifrato di Vryss (Oggetto di Trama)**
-    
-    - **Descrizione:** Un piccolo libro rilegato in pelle umana tesa, chiuso da un complesso meccanismo a ingranaggi. Le pagine sono piene di una scrittura precisa e fitta, in un codice che mescola simboli arcani e una logica numerica aliena.
-        
-    - **Meccaniche:** Decifrarlo è una sfida. Richiede una prova di **Società o Occultismo (CD 25)** e diversi giorni di lavoro, oppure l'uso di un incantesimo come Comprehend Language seguito da una prova di **Occultismo (CD 22)**. Contiene informazioni vitali sulle operazioni di Vecna, sui Faith Babies e forse sui piani per il **Progetto Titanforge**.
-        
-- **Occhio-Focus Viola (Oggetto Unico - Livello 5, Raro)**
-    
-    - **Descrizione:** L'occhio viola pulsante di Vryss, ora inerte e freddo. È un N-Shard grezzo, incastonato in un complesso apparato tecno-magico.
-        
-    - **Meccaniche:** Un personaggio con poteri psionici latenti o addestrato in Occultismo può provare a sintonizzarsi con esso.
-        
-        - **Attivazione:** 10 minuti di concentrazione (Interagire).
-            
-        - **Effetto:** Una volta al giorno, puoi usarlo per lanciare l'incantesimo Telekinetic Projectile (Trucchetto di 3° Rango) come se fossi un incantatore di livello 5.
-            
-        - **Corruzione:** Ogni volta che usi l'occhio, devi superare un **TS su Volontà CD 20**. Con un fallimento, subisci 1d6 danni mentali e sei tormentato da sussurri indecifrabili per un'ora. Con un fallimento critico, sei anche Stupefatto 1 per un'ora.
-            
+Mentre la polvere si posa e l'eco dell'ultimo grido si spegne nei tunnel, vi prendete un momento per esaminare ciò che resta dei vostri nemici e ciò che vi viene offerto dai vostri nuovi, inquietanti alleati. È un bottino nato dalla morte e dalla sopravvivenza, un riflesso oscuro di questo angolo di mondo.
 
 ---
 
-### **Ricompensa dei Ratfolk: Doni dei Tessitori del Silenzio**
+### **1. Dai Resti dei Caroniti (Loot di Vecna)**
 
-Dopo averli salvati dall'assalto dei Caroniti, Chirr-Click e i suoi Ratfolk vi considerano non più semplici soci in affari, ma potenti e imprevedibili alleati. Per dimostrare la loro gratitudine (e per assicurarsi che ve ne andiate il prima possibile), vi offrono alcuni dei loro tesori più ingegnosi, un misto di tecnologia recuperata e alchimia a tema elettrico.
+#### **Per Smilzo, il Campione della Morte (Champion of Death):**
 
-**Testo di Chirr-Click:**
+- **Lama Psionica del Silenzio (Runa d'Arma - Striking - Livello 4)**
+    
+    > Recuperi la spada del Custode Vryss. La lama, forgiata in acciaio nero come la notte, non riflette la luce. Impugnandola, senti un ronzio silenzioso che non è suono, ma una vibrazione direttamente nella tua mente. È una Runa Striking, ma con un'aggiunta sinistra.
+    
+    - **Meccaniche:** Runa Striking standard (+1d8 danni). In più, quando colpisci una creatura con un incantesimo innato o una capacità magica, la risonanza silenziosa interferisce con la sua concentrazione. La creatura deve superare un **TS su Volontà CD 18** o subire una penalità di stato di -1 a tutti i tiri per colpire con incantesimi fino alla fine del suo prossimo turno.
+        
 
-> "Avete fatto... più del silenzio," squittisce Chirr-Click, le sue lenti che ruotano per esaminarvi. "Avete fatto... rumore. Rumore buono. Contro i Fantocci di Ossa. La transazione è onorata. E... un bonus. Per i buoni vicini. Prendete. Utili, sì-sì. Per i tunnel bui."
+#### **Per Gianni, l'Investigatore (Investigator Catfolk):**
 
-- **Tridente Elettrificato di Chirr-Click (Runa d'Arma - Shock, Minore - Livello 8)**
+- **Diario Cifrato di Vryss (Oggetto di Trama e Ricerca)**
     
-    - **Descrizione:** Chirr-Click, con un cenno, ordina a uno dei suoi di consegnarvi una pietra runica identica a quella incisa sul suo tridente. "Per le cose che strisciano nel buio," dice.
-        
-    - **Meccaniche:** Una Runa Shock standard.
-        
-- **1d4+1 Bombe a Scintilla (Oggetto Alchemico - Livello 1, Comune)**
+    > Un piccolo libro rilegato in pelle umana tesa, chiuso da un complesso meccanismo. Le pagine sono piene di una scrittura precisa e fitta, un codice che mescola simboli arcani e una logica numerica aliena. È un mistero che attende di essere risolto.
     
-    - **Descrizione:** Piccole sfere di vetro piene di filamenti metallici e un liquido volatile. "Scuotere bene. Lanciare forte. Via gli occhi!"
+    - **Meccaniche:** Decifrarlo è una **Pista di Ricerca (Lead)** perfetta per Gianni. Richiede una serie di prove di **Società** o **Occultismo** durante il downtime (CD 25). Ogni successo rivela una parte delle informazioni sui piani di Vecna, la logistica degli N-Shard, e forse menziona il culto che ha ucciso il mentore di Gianni, collegandolo alle operazioni di Vecna.
         
-    - **Meccaniche:** Come le [Bottiglie Fulminanti Minori (Lesser Bottled Lightning)](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FEquipment.aspx%3FID%3D77). Infliggono 1d4 danni da elettricità e 1 danno da schizzo da elettricità, e la creatura colpita è Abbagliata per 1 round (TS base su Riflessi CD 15).
-        
-- **Esca per Ragni Eterei (Oggetto Alchemico - Livello 3, Non Comune)**
+
+#### **Loot Condiviso dai Caroniti:**
+
+- **1d4 Fiale di "Essenza del Terrore" (Olio Alchemico - Livello 3):** Come descritto in precedenza, utile per aggiungere un debuff di paura agli attacchi.
     
-    - **Descrizione:** Un pezzo di cristallo poroso imbevuto di una sostanza che odora di ozono e... vuoto. "Per i nostri amici," spiega Chirr-Click. "A loro piace l'odore. Forse anche ad altri."
-        
-    - **Meccaniche:** Se lasciata a terra, questa esca attira qualsiasi Ragno Etereo entro 120 piedi, che si avvicinerà per investigare (non necessariamente in modo amichevole). Più interessante, il suo odore extradimensionale può essere usato per distrarre altre creature che cacciano usando sensi insoliti (come i Vermi del Midolfo o le Bestie Scavatrici del Vuoto), concedendo un **bonus di circostanza di +2 alle prove di Furtività** per evitarle. L'odore dura 10 minuti.
-        
-- **Schema: Trappola a Rete Elettrificata (Formula - Livello 4)**
+- **1 "Chiave-Anima" Caronita (Oggetto Unico):**
     
-    - **Descrizione:** Un pezzo di pelle conciata con sopra disegnato, in modo sorprendentemente dettagliato, lo schema per una trappola a rete potenziata con tecnologia a scintilla. "Nostro brevetto. Molto efficace."
+    > Uno dei soldati portava al collo una chiave fatta di osso annerito, con un piccolo frammento di Pietra-Anima incastonato nell'elsa. È fredda e sembra assorbire le emozioni.
+    
+    - **Meccaniche:** Questa chiave è sintonizzata per aprire le serrature necro-magiche usate negli avamposti di Vecna. Garantisce un **bonus di circostanza di +2 alle prove di Thievery** per scassinare serrature di origine necromantica. Una volta al giorno, può assorbire un effetto di paura di basso livello (1° o 2° rango) che bersaglia il portatore, rendendolo immune a quell'effetto specifico.
         
-    - **Meccaniche:** Una formula per creare una trappola meccanica.
-        
-        - **Trappola a Rete Elettrificata (Livello 4):** CD di Creazione 19. Quando una creatura entra nel quadretto, una rete cade dall'alto e le infligge 2d12 danni da elettricità (TS base su Riflessi CD 20). Con un fallimento, la creatura è anche Intrappolata nella rete (CD per Scappare 20).
-            
-- **Componenti Vari:** Una borsa contenente **20 pezzi d'oro**, **fili di rame**, **piccoli ingranaggi recuperati**, e alcuni **cristalli di quarzo grezzi**, utili per Elthon.
+- **Monete e Razioni:** Come prima, 8 monete d'oro con il simbolo di Vecna e razioni insapori.
     
 
-Questo loot offre ai giocatori un mix di ricompense immediate, oggetti di trama (il diario), strumenti situazionali (l'esca, l'occhio) e potenziamenti a lungo termine (le rune, la formula), riflettendo le peculiarità delle fazioni che hanno appena incontrato e sconfitto.
+---
+
+### **2. Ricompensa dei Ratfolk (Doni di Chirr-Click)**
+
+Chirr-Click si avvicina, i suoi occhialoni meccanici che analizzano i vostri volti sporchi di battaglia. Il suo rispetto è tangibile. Fa un cenno a uno dei suoi, che si fa avanti con una cassa di legno e rottami metallici.
+
+> "Voi... combattete bene. Rumorosi, ma bene. La transazione è onorata. E... un extra. Per il disturbo. La nostra forgia... il nostro nido... vi offre questi."
+
+#### **Per Elthon, l'Inventore (Inventor):**
+
+- **Schema: Generatore di Scintille Instabile (Formula - Livello 4)**
+    
+    > Chirr-Click ti porge un pezzo di pelle di Verme del Midolfo arrotolato. Srotolandolo, vedi lo schema dettagliato, anche se caotico, per un dispositivo che sembra una versione più potente e imprevedibile del suo tridente.
+    
+    - **Meccaniche:** Questa formula permette a Elthon di creare un **"Generatore di Scintille Instabile"**. È un'arma avanzata a una mano (o un'aggiunta a un'arma esistente) che, una volta al giorno, può essere sovraccaricata (1 Azione). Al prossimo colpo andato a segno entro 1 minuto, l'arma non solo infligge i suoi danni normali, ma scatena anche un Chain Lightning di 3° Rango (CD 19) che parte dal bersaglio colpito. La CD per creare l'oggetto è 19.
+        
+
+#### **Per Liora, la Strega (Witch):**
+
+- **Focus del Tessitore Etereo (Oggetto Magico - Livello 5, Non Comune)**
+    
+    > Un Ratfolk ti offre un piccolo feticcio: un ragno essiccato, le cui zampe sono state sostituite da fili di rame e il cui addome è un cristallo di quarzo che brilla debolmente. Senti una connessione con le energie invisibili che ti circondano.
+    
+    - **Meccaniche:** Quando usato come focus per gli incantesimi, questo feticcio ti permette di percepire le "ragnatele" della realtà. Una volta al giorno, quando lanci un incantesimo di divinazione, puoi scegliere di ottenere un'informazione aggiuntiva, anche se più criptica. Inoltre, il tuo famiglio (se è nelle vicinanze) ottiene un bonus di circostanza di +1 alle prove di Furtività e Percezione, come se si muovesse lungo fili invisibili.
+        
+
+#### **Loot Condiviso dai Ratfolk:**
+
+- **1d4+1 Bombe a Scintilla (Lesser Bottled Lightning):** Come prima, utili per danni ad area e per abbagliare.
+    
+- **Condensatore Galvanico (Oggetto Alchemico/Meccanico - Livello 4, Non Comune)**
+    
+    > Chirr-Click vi mostra un barattolo di vetro pieno di zampe di insetti metallici che si muovono in un liquido bluastro. "Se una macchina si ferma... questo la fa ripartire. O esplodere. Divertente in entrambi i casi, sì-sì."
+    
+    - **Meccaniche:** Se applicato a un costrutto o a un oggetto meccanico inattivo (o con la condizione Rotto), questo oggetto fornisce una potente scossa. La macchina recupera immediatamente **2d8+5 HP**. Se la macchina è già a pieni HP (o se è un costrutto nemico), deve superare un **TS su Tempra CD 18** o essere Stordita 1. Può essere usato una sola volta.
+        
+- **Componenti Vari:** Una borsa contenente **20 pezzi d'oro**, fili di rame, ingranaggi e i **cristalli di quarzo grezzi**, che ora Elthon sa essere utili come condensatori per la sua nuova formula.
