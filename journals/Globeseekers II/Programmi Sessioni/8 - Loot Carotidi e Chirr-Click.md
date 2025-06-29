@@ -1,4 +1,4 @@
-### **1. Eredità dei Caroniti (Loot di Vecna)**
+### **1. Eredità dei Caroniti test (Loot di Vecna)**
 
 #### **Per Smilzo (Campione della Morte)**
 
