@@ -150,6 +150,16 @@
               "icon": "lucide-list",
               "title": "Outline of Agatha the Banshee"
             }
+          },
+          {
+            "id": "f983972d0677f279",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ]
       }
