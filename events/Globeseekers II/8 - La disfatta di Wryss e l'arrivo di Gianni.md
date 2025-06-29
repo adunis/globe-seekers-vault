@@ -1,4 +1,3 @@
-# Draft
 
 ## Un Patto Onorato
 Con la distruzione del macabro **Risuonatore d'Ossa**, il ronzio mentale che pervadeva la Cripta-Sussurrante cessò di colpo. Un silenzio quasi doloroso calò nella camera, rotto solo dal respiro affannoso del gruppo. Tra le mani di Elthon, il **Cuore di Cristallo Nero**—nucleo dell'artefatto—pulsava di una fredda e antica tristezza. Il patto con i Ratfolk era stato onorato.
