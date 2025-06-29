@@ -1,0 +1,28 @@
+{
+  "apiKey": "AIzaSyCMCH1UYMUA48b3gxclsuv-b3XGt--6TUs",
+  "apiProvider": "gemini",
+  "chatModelName": "gemini-2.5-pro",
+  "summaryModelName": "gemini-2.5-flash",
+  "completionsModelName": "gemini-2.5-flash-lite-preview-06-17",
+  "sendContext": true,
+  "maxContextDepth": 4,
+  "searchGrounding": false,
+  "summaryFrontmatterKey": "summary",
+  "userName": "User",
+  "rewriteFiles": true,
+  "chatHistory": true,
+  "historyFolder": "gemini-scribe",
+  "showModelPicker": false,
+  "debugMode": false,
+  "maxRetries": 3,
+  "initialBackoffDelay": 1000,
+  "streamingEnabled": true,
+  "modelDiscovery": {
+    "enabled": false,
+    "autoUpdateInterval": 24,
+    "lastUpdate": 0,
+    "fallbackToStatic": true
+  },
+  "enableCustomPrompts": false,
+  "allowSystemPromptOverride": false
+}

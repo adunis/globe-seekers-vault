@@ -21,7 +21,8 @@
   "smart_view_filter": {
     "render_markdown": true,
     "show_full_path": false,
-    "expanded_view": false
+    "expanded_view": false,
+    "results_limit": "20"
   },
   "excluded_headings": "",
   "language": "en",
@@ -42,7 +43,10 @@
     "use_tool_calls": true
   },
   "smart_notices": {
-    "muted": {}
+    "muted": {
+      "done_import": true,
+      "embedding_complete": true
+    }
   },
   "version": ""
 }
