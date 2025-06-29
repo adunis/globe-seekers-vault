@@ -52,7 +52,7 @@ Damara is governed by a coalition of influential clans, each wielding significan
 1. [family:6924030]
 
    * **Overview**: House Wulfgar is the oldest and most prestigious family in Damara, claiming direct descent from the original witch and demon hunters who founded the kingdom. They are revered as the spiritual and ceremonial leaders of Damara.
-   * **Specialization**: **Necromancy and Spirit Summoning**. House Wulfgar specializes in communicating with and controlling spirits and the undead, utilizing necromantic arts to aid in exorcisms and demon hunts.
+   * **Specialization**: **Necromancy and [[Spirit]] Summoning**. House Wulfgar specializes in communicating with and controlling spirits and the undead, utilizing necromantic arts to aid in exorcisms and demon hunts.
    * **Notable Members**:
 
      + **Lady Astrid Wulfgar**: A high priestess with unparalleled expertise in ancient rites and necromancy. Despite her serene exterior, Astrid secretly researches forbidden magic, hoping to find a way to sever the Patron’s control.
@@ -76,7 +76,7 @@ Damara is governed by a coalition of influential clans, each wielding significan
 4. [family:6924033]
 
    * **Overview**: Guardians of forbidden knowledge and practitioners of arcane arts, Clan Falken delves into magic that others deem too dangerous or heretical.
-   * **Specialization**: **Arcane Rituals and Demonology**. Clan Falken focuses on deep magical research, including summoning, binding, and controlling demons, as well as conducting complex arcane rituals.
+   * **Specialization**: **Arcane Rituals and Demonology**. Clan Falken focuses on deep magical research, including summoning, binding, and controlling [[Demons]], as well as conducting complex arcane rituals.
    * **Notable Members**:
 
      + **Archmage Liora Falken**: A master of elemental and dark magic, Liora walks the thin line between utilizing her powers for Damara’s benefit and succumbing to the Patron’s dark influence.

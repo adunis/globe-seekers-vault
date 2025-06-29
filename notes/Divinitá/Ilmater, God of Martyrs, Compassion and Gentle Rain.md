@@ -13,7 +13,7 @@ kanka_id: 265275
 * Divine Font: Heal.
 * Sanctification: Holy.
 * Favored Animal-Shape: Boar.
-* Favored Creature-Shape: Angel of Mercy.
+* Favored Creature-Shape: [[Angel]] of Mercy.
 * Favored Material: Linen.
 * Favored Color: Red.
 * Favored Weapon: Fist, Staff, Bo Staff, Knuckle Duster, Spiked Gauntlet, Nunchaku, Sai, Tonfa, Temple Sword, Sansetsukon, Sap, Whipstaff, Fighting Stick, Juggling Club, Nightstick

@@ -2,7 +2,7 @@
 kanka_id: 268166
 ---
 
-The Feywild, born from the Plane of Life and the Plane of Light, is a realm of vibrant chaos and ephemeral beauty. Its native language, Sylvan, reflects this nature.
+The [[Feywild]], born from the Plane of Life and the Plane of Light, is a realm of vibrant chaos and ephemeral beauty. Its native language, Sylvan, reflects this nature.
 
 ●
 

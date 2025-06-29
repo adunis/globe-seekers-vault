@@ -22,7 +22,7 @@ Damara has forced Khaldarin to produce weapons and armour, seemingly in preparat
 
 Thorgrim "Er Tozzo" Fireforge's brother, Daren, collaborated with these forces, betraying his people and contributing to Khaldarin's subjugation.
 
-Er Tozzo, a dwarven fighter and former member of the Silver Blades mercenary company, is now in exile.
+Er Tozzo, a dwarven fighter and former member of the [[Silver Blades]] mercenary company, is now in exile.
 
  His ultimate goal is to liberate Khaldarin from Damara's control and confront Daren.
 

@@ -2,7 +2,7 @@
 kanka_id: 268164
 ---
 
-As we discussed, Khazad-Dorum, the realm bridging the Plane of Earth and the Plane of Metal, was once shaped by the ancient Stone Shapers. These ancestors of giants spoke Jotun, a language not of words but of resonant concepts.
+As we discussed, [[Khazad-Dorum]], the realm bridging the Plane of Earth and the Plane of Metal, was once shaped by the ancient Stone Shapers. These ancestors of giants spoke Jotun, a language not of words but of resonant concepts.
 
 ●
 
@@ -14,4 +14,4 @@ A Language of Shaping: Imagine the Stone Shapers using Jotun to command the flow
 
 ●
 
-Dwarven Inheritance: The dwarves, having learned from the giants, adapted Runic into their own tongue. While dwarven languages retained some of the primal resonance of Jotun, they evolved to become more precise, more structured, better suited to the dwarves' focus on craftsmanship and detail. Traces of Jotun can still be seen in dwarven runes, symbols that hold power and meaning that echoes the giants' ancient might.
+Dwarven Inheritance: The dwarves, having learned from the giants, adapted Runic into their own tongue. While dwarven [[Languages]] retained some of the primal resonance of Jotun, they evolved to become more precise, more structured, better suited to the dwarves' focus on craftsmanship and detail. Traces of Jotun can still be seen in dwarven runes, symbols that hold power and meaning that echoes the giants' ancient might.

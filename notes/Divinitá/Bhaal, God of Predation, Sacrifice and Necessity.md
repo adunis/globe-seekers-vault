@@ -16,7 +16,7 @@ kanka_id: 265292
 * Favored Creature: Werewolf.
 * Favored Material: Obsidian.
 * Favored Color: Dark Red.
-* Favored Weapon: Dagger, Throwing Knife, Sickle, Garrote, Katar, War Razor, Karambit, Kris, Main-gauche, Corset Knife, Tri-Bladed Katar, Orc Knuckle Dagger, Kukri, Kama
+* Favored Weapon: Dagger, Throwing Knife, Sickle, Garrote, Katar, War Razor, Karambit, Kris, Main-gauche, Corset Knife, Tri-Bladed Katar, [[Orc]] Knuckle Dagger, Kukri, Kama
 
 **Cleric Outfit**: Clerics of Bhaal wear long, dark red robes with swirling black patterns, representing the shadows of death and murder. Their daggers are made from obsidian and they wear raven feathers as decorations. Their hoods cover most of their faces, leaving only their eyes visible to instill fear in those they encounter.
 

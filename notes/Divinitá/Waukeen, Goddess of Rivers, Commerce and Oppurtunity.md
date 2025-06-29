@@ -9,7 +9,7 @@ kanka_id: 265283
 
 * Edicts: Promote trade, acquire wealth, mediate disputes.
 * Anathema: Steal, disrupt legitimate trade, allow resources to be wasted.
-* Domains: Cities, Wealth, Ambition, Luck, Travel.
+* Domains: [[Cities]], Wealth, Ambition, Luck, Travel.
 * Divine Font: Heal.
 * Sanctification: Holy.
 * Favored Animal: Monkey.

@@ -8,7 +8,7 @@ kanka_id: 362780
   La "Caronitizzazione" è un processo specifico indotto dai rituali di
   Vecna o dall'esposizione prolungata alla sua influenza necrotica diretta
   (specialmente vicino a Protonecropoli o luoghi saturi del suo potere).
-  Non è la semplice rianimazione di uno scheletro o zombie. Sembra
+  Non è la semplice rianimazione di uno scheletro o [[Zombie]]. Sembra
   coinvolgere un'infusione di energia negativa e ombratile che altera
   il corpo vivente (o appena morto), preservandolo in uno stato di
   non-morte fredda ed efficiente, sbiancando la pelle, svuotando gli occhi

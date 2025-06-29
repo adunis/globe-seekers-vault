@@ -13,7 +13,7 @@ kanka_id: 265280
 * Divine Font: Harm.
 * Sanctification: Unholy.
 * Favored Animal: Vulture.
-* Favored Creature: Skeleton.
+* Favored Creature: [[Skeleton]].
 * Favored Material: Bone.
 * Favored Color: Black.
 * Favored Weapon: Scythe, Sickle, Staff, Khakkara, Kusarigama, Sickle-Saber, Switchscythe

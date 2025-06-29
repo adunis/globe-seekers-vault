@@ -34,7 +34,7 @@ It is ruled by the Red Wizards, a group of powerful mages who are known for thei
 
 Thay is involved in the trade of aasimar souls.
 
- The sources describe a secret meeting where emissaries of Thay are planning to exchange urns containing aasimar souls with a faction called the Broken Chain.
+ The sources describe a secret meeting where emissaries of Thay are planning to exchange urns containing aasimar souls with a faction called the [[Broken Chain]].
 
 This suggests that Thay is actively pursuing the acquisition of souls for potentially nefarious purposes.
 

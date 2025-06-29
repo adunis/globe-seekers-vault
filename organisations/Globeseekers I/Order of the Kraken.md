@@ -12,7 +12,7 @@ The Order of the Kraken seeks to establish control over the Sea of Fallen Stars.
 
 ●
 
-They are actively involved in gathering Netherese Globes. Their leader, the Kraken King, possesses the Netherese Globe of Water, which grants him control over sea creatures and the ability to orchestrate devastating storms and maritime attacks.
+They are actively involved in gathering Netherese Globes. Their leader, the Kraken King, possesses the [[Netherese Globe]] of Water, which grants him control over sea creatures and the ability to orchestrate devastating storms and maritime attacks.
 
 This suggests a connection to the Patron, Xul'koroth, who orchestrates the collection of these powerful artefacts.
 
@@ -24,7 +24,7 @@ Tactics and Resources
 
 ●
 
-The Kraken King's ability to control the seas through the Netherese Globe of Water grants him a significant tactical advantage. He can summon colossal Krakens, unleash devastating storms, and command a vast array of sea creatures.
+The Kraken King's ability to control the seas through the [[Netherese Globe]] of Water grants him a significant tactical advantage. He can summon colossal Krakens, unleash devastating storms, and command a vast array of sea creatures.
 
 ●
 
@@ -32,7 +32,7 @@ The Order utilises fear and intimidation to subdue their enemies and expand thei
 
 ●
 
-They employ a network of spies and informants, such as Malaria, the Wererat Queen, who operates within Airspur and manipulates events to the Kraken King's advantage.
+They employ a network of spies and informants, such as [[Malaria]], the Wererat Queen, who operates within [[Airspur]] and manipulates events to the Kraken King's advantage.
 
 Impact on the Campaign Setting
 
@@ -54,7 +54,7 @@ Akanul: Engaged in a war with the Wyrmclaw, Akanul finds itself vulnerable to th
 
 ○
 
-Procampur: This important city has faced direct attacks from the Kraken King, highlighting the Order's willingness to target significant locations.
+[[Procampur]]: This important city has faced direct attacks from the Kraken King, highlighting the Order's willingness to target significant locations.
 
 ●
 
@@ -64,11 +64,11 @@ Key Figures
 
 ●
 
-The Kraken King: The mysterious leader of the Order, wielding immense power through the Netherese Globe of Water.
+The Kraken King: The mysterious leader of the Order, wielding immense power through the [[Netherese Globe]] of Water.
 
 ●
 
-Malaria: The Wererat Queen, acting as a spy and manipulator for the Kraken King.
+[[Malaria]]: The Wererat Queen, acting as a spy and manipulator for the Kraken King.
 
 ●
 

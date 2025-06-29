@@ -2,7 +2,7 @@
 kanka_id: 324714
 ---
 
-The Empire of Netheril was a powerful human empire that existed in ancient Faerûn. Netheril was known for its advanced magic, particularly its mastery of flying cities.
+The Empire of Netheril was a powerful human empire that existed in ancient Faerûn. Netheril was known for its advanced magic, particularly its mastery of flying [[Cities]].
 
 ●
 
@@ -18,7 +18,7 @@ The Empire of Netheril ultimately fell because of its misuse of magic.
 
 ●
 
-A powerful mage named Zathar hid his spirit and body in a tomb on the Island of Kora-Kora after the fall of Netheril. Zathar offers to share the locations of several Netherese artefacts in exchange for being resurrected.
+A powerful mage named Zathar hid his [[Spirit]] and body in a tomb on the Island of Kora-Kora after the fall of Netheril. Zathar offers to share the locations of several Netherese artefacts in exchange for being resurrected.
 
 ●
 

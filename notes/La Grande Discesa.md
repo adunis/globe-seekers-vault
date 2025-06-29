@@ -5,13 +5,13 @@ kanka_id: 142083
 
 ## L'Ira Divina Contro la Nuova Fede
 
-L'ascensione di Morun Tag, B.B. e Vordekai non fu solo un affronto all'ordine cosmico, ma un **seme di ribellione piantato nei cuori mortali**. Piccole comunità, disperate per la devastazione della Discesa e disilluse dagli Dei Antichi che sembravano averli abbandonati o puniti, iniziarono a sussurrare i nomi dei Nuovi Dei, vedendo in loro salvatori nati dalla loro stessa specie, eroi che avevano affrontato l'orrore e ne erano usciti trasformati. Questa nascente venerazione fu la goccia che fece traboccare il vaso della pazienza divina.
+L'ascensione di [[Morun Tag]], [[B.B]]. e Vordekai non fu solo un affronto all'ordine cosmico, ma un **seme di ribellione piantato nei cuori mortali**. Piccole comunità, disperate per la devastazione della Discesa e disilluse dagli Dei Antichi che sembravano averli abbandonati o puniti, iniziarono a sussurrare i nomi dei Nuovi Dei, vedendo in loro salvatori nati dalla loro stessa specie, eroi che avevano affrontato l'orrore e ne erano usciti trasformati. Questa nascente venerazione fu la goccia che fece traboccare il vaso della pazienza divina.
 
 Gli Dei Antichi, già furiosi per l'ascensione, videro questa nuova fede come un cancro da estirpare. Scatenarono punizioni mirate, ognuna riflettendo la loro natura e il loro dominio, volte a spegnere la fiamma della ribellione spirituale e a rendere la vita al di fuori delle loro Fortezze un inferno in terra:
 
 * ### Lathander (vs Fede Nuova)
 
-  Dove sorgevano altari improvvisati ai Nuovi Dei, Lathander concentrò il suo **Sole Punitore**. Non solo calore, ma una **Luce Rivelatrice** che bruciava i simboli eretici, accecava i fedeli durante le preghiere, e peggio, faceva **marcire istantaneamente** ogni creazione nuova o rinnovata (un raccolto appena piantato, un edificio riparato, un'invenzione completata), soffocando l'ottimismo e il progresso associati a B.B. o Morun Tag. La rinascita era permessa solo nel suo nome.
+  Dove sorgevano altari improvvisati ai Nuovi Dei, Lathander concentrò il suo **Sole Punitore**. Non solo calore, ma una **Luce Rivelatrice** che bruciava i simboli eretici, accecava i fedeli durante le preghiere, e peggio, faceva **marcire istantaneamente** ogni creazione nuova o rinnovata (un raccolto appena piantato, un edificio riparato, un'invenzione completata), soffocando l'ottimismo e il progresso associati a [[B.B]]. o [[Morun Tag]]. La rinascita era permessa solo nel suo nome.
 * ### Mystra (vs Fede Nuova)
 
   La Dea della Magia punì gli incantatori che attingevano ai Nuovi Dei (Chierici, Oracoli, Campioni) in modo insidioso. Non solo rese la loro magia instabile, ma creò **"Zone di Silenzio della Trama"** attorno ai loro luoghi di culto nascosti. In queste zone, ogni tentativo di lanciare un incantesimo divino non allineato a lei falliva miseramente, lasciando i fedeli impotenti e disarmati. Inoltre, "marchiò" sottilmente le aure di questi fedeli, rendendoli più visibili alle sue tempeste di mana selvaggio.
@@ -20,7 +20,7 @@ Gli Dei Antichi, già furiosi per l'ascensione, videro questa nuova fede come un
   Il Dio della Guerra dichiarò la venerazione dei Nuovi Dei un **atto di tradimento supremo**, punibile con la morte sul campo. Le sue legioni ricevettero l'ordine specifico di dare la caccia ai culti nascenti. Usò tempeste psichiche per instillare **furia omicida nei suoi soldati** ogni volta che percepivano la presenza di un simbolo o di un fedele dei Nuovi Dei, trasformando le sue truppe in macchine di sterminio mirato contro gli eretici.
 * ### I Signori Elementali (vs Fede Nuova)
 
-  Il caos elementale fu diretto specificamente contro gli insediamenti sospetti. Villaggi che sussurravano il nome di Vordekai venivano colpiti da **terremoti localizzati** che inghiottivano i loro cimiteri (profanando la sua sfera). Comunità che veneravano Morun Tag vedevano le loro fucine spazzate via da **tornadi di fuoco** o sepolte da **frane di fango**. Accampamenti leali a B.B. venivano colpiti da **maremoti improvvisi** o **piogge acide**.
+  Il caos elementale fu diretto specificamente contro gli insediamenti sospetti. Villaggi che sussurravano il nome di Vordekai venivano colpiti da **terremoti localizzati** che inghiottivano i loro cimiteri (profanando la sua sfera). Comunità che veneravano [[Morun Tag]] vedevano le loro fucine spazzate via da **tornadi di fuoco** o sepolte da **frane di fango**. Accampamenti leali a [[B.B]]. venivano colpiti da **maremoti improvvisi** o **piogge acide**.
 * ### Cyric (vs Fede Nuova)
 
   Il Principe delle Menzogne si divertì a **corrompere la fede dall'interno**. Inviò agenti mutaforma o usò potenti illusioni per impersonare i Nuovi Dei o i loro profeti, dando ordini contraddittori, chiedendo sacrifici assurdi, o rivelando falsi dogmi che portavano i culti all'autodistruzione o alla follia paranoica. Creò **miraggi di salvezza** che attiravano i fedeli in trappole mortali.
@@ -32,7 +32,7 @@ Gli Dei Antichi, già furiosi per l'ascensione, videro questa nuova fede come un
   La Regina Ragno vide nei culti nascenti una debolezza da sfruttare. I suoi assassini Drow presero di mira specificamente i **leader carismatici o i primi chierici** dei Nuovi Dei, eliminandoli nell'ombra per decapitare i movimenti prima che potessero organizzarsi. Usò anche l'inganno, offrendo falsa protezione o alleanza ai culti per poi tradirli e consegnarli agli altri Dei Antichi.
 * ### Oghma (vs Fede Nuova)
 
-  Oghma ordinò la **cancellazione sistematica** di ogni menzione dei Nuovi Dei dai registri storici e dalle biblioteche. I suoi agenti diedero la caccia ai bardi che cantavano le loro gesta e confiscarono ogni testo che parlasse di loro. Promosse attivamente una **contro-narrativa** che dipingeva B.B., Vordekai e Morun Tag come mostri, demoni o semplici mortali deliranti responsabili della Discesa.
+  Oghma ordinò la **cancellazione sistematica** di ogni menzione dei Nuovi Dei dai registri storici e dalle biblioteche. I suoi agenti diedero la caccia ai bardi che cantavano le loro gesta e confiscarono ogni testo che parlasse di loro. Promosse attivamente una **contro-narrativa** che dipingeva [[B.B]]., Vordekai e [[Morun Tag]] come mostri, demoni o semplici mortali deliranti responsabili della Discesa.
 * ### Talos (vs Fede Nuova)
 
   La furia di Talos divenne più mirata. I suoi **incendi sacrileghi** colpivano specificamente i santuari nascosti, le sue **tempeste di fulmini** si abbattevano sui raduni clandestini. La sua violenza era una punizione diretta e brutale per l'eresia.
@@ -41,7 +41,7 @@ Gli Dei Antichi, già furiosi per l'ascensione, videro questa nuova fede come un
   La Dea dell'Inverno **congelò il cuore della nuova fede**. I luoghi di raduno venivano colpiti da ondate di gelo innaturale che rendevano impossibile la preghiera o il rituale. Le offerte lasciate sugli altari si ricoprivano istantaneamente di ghiaccio nero. Le comunità devote soffrivano di inverni particolarmente lunghi e spietati, un lento strangolamento freddo della loro fede.
 * ### Gond (vs Fede Nuova)
 
-  Gond punì i seguaci di Morun Tag (suoi rivali nell'artigianato) in modo particolarmente crudele. Inviò **costrutti "de-costruttori"** che smantellavano attivamente le loro invenzioni e le loro fucine. Diffuse **"ruggine meccanica" magica** che corrodeva rapidamente ogni macchina non benedetta da lui. Promosse l'idea che solo la sua tecnologia "approvata" fosse sicura e affidabile.
+  Gond punì i seguaci di [[Morun Tag]] (suoi rivali nell'artigianato) in modo particolarmente crudele. Inviò **costrutti "de-costruttori"** che smantellavano attivamente le loro invenzioni e le loro fucine. Diffuse **"ruggine meccanica" magica** che corrodeva rapidamente ogni macchina non benedetta da lui. Promosse l'idea che solo la sua tecnologia "approvata" fosse sicura e affidabile.
 * ### Waukeen (vs Fede Nuova)
 
   La Dea del Commercio **strangolò economicamente** le comunità sospette. Impose tasse esorbitanti, bloccò le rotte commerciali che le rifornivano, e i suoi banchieri si rifiutarono di concedere prestiti o persino di accettare la loro valuta, isolandole e portandole alla fame. Offrì ricchezza a chi tradiva i culti nascosti.
@@ -57,7 +57,7 @@ Gli Dei Antichi, già furiosi per l'ascensione, videro questa nuova fede come un
 
 ## Il Risultato: L'Esodo verso le Fortezze
 
-Queste punizioni divine coordinate e multiformi resero la vita al di fuori delle zone direttamente controllate dagli Dei Antichi quasi impossibile. Le terre erano devastate da disastri naturali e magici, infestate da mostri potenziati o creati dagli dei, la magia inaffidabile, il commercio strangolato, la conoscenza censurata, e la semplice sopravvivenza un'impresa quotidiana. Peggio ancora, professare una fede diversa da quella imposta localmente significava esporsi a una persecuzione mirata e brutale.
+Queste punizioni divine coordinate e multiformi resero la vita al di fuori delle zone direttamente controllate dagli Dei Antichi quasi impossibile. Le terre erano devastate da disastri naturali e magici, infestate da mostri potenziati o creati dagli dei, [[La Magia]] inaffidabile, il commercio strangolato, la conoscenza censurata, e la semplice sopravvivenza un'impresa quotidiana. Peggio ancora, professare una fede diversa da quella imposta localmente significava esporsi a una persecuzione mirata e brutale.
 
 Di fronte a questo inferno, le **Fortezze Divine**, per quanto oppressive e inquietanti potessero essere le loro usanze interne, apparvero a molti come l'**unica alternativa alla morte o alla follia**. Offrivano (relativa) sicurezza fisica, stabilità magica (controllata), ordine (imposto) e un senso di appartenenza (forzato). L'esodo verso le Fortezze fu massiccio, svuotando gran parte delle Terre Spezzate e concentrando la popolazione mortale sotto lo sguardo vigile e il pugno di ferro degli Dei Antichi.
 
