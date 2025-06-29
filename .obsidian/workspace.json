@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
+                "file": "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
+              "title": "1 - Il Cortile delle Cripte Cenerinee"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
+                "file": "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
+              "title": "Backlinks for 1 - Il Cortile delle Cripte Cenerinee"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
+                "file": "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
+              "title": "Outgoing links from 1 - Il Cortile delle Cripte Cenerinee"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
+                "file": "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
+              "title": "Outline of 1 - Il Cortile delle Cripte Cenerinee"
             }
           },
           {
@@ -211,8 +211,9 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "79f3e6bcc1c431b7",
+  "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
+    "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
     "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
     "gemini-scribe/History/events_Globeseekers II_8 - La disfatta di Wryss e l'arrivo di Gianni.md",
     "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
@@ -242,7 +243,6 @@
     "creatures/Angeli.md",
     "creatures/Bestia Scavatrice del Vuoto.md",
     "notes/La Grande Discesa.md",
-    "organisations/Globeseekers I/Silver Blades.md",
     "organisations/Globeseekers 0",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
