@@ -1,31 +1,172 @@
-## **Sessione 5: L'Eco di un'Alba Infranta**
 
-**Obiettivo della Sessione:** Introdurre un dilemma morale e una prova tangibile della tirannia degli Dei Antichi, spingendo i PG a vedere la ribellione non come una scelta, ma come una necessità.
+### **Le Gallerie della Risonanza Muta**
 
-**Stato Attuale:** Il gruppo (Elthon, Liora, Smilzo, Gianni) è in fuga, guidato dal nervoso ma ora leale leader dei Ratfolk, **Chirr-Click**, attraverso i tunnel sotterranei dell'Altopiano delle Ossa.
+**Contesto Generale:** Dopo essere fuggiti dalla Cripta-Sussurrante, i PG si trovano in una rete di tunnel sotterranei sotto l'Altopiano delle Ossa. **Chirr-Click**, il leader dei Ratfolk, funge da loro guida. Il percorso più diretto per Fungorgo è bloccato o troppo pericoloso in superficie a causa dell'allerta dei Caroniti. Devono navigare questi tunnel.
+
+**Spiegazione di Chirr-Click:**
+
+> "La via più veloce..." sibila Chirr-Click, le sue antenne meccaniche che fremono. "È attraverso le Gallerie della Fornace, a ovest. Ma... è territorio **Duergar**. Loro forgiano armi per il Signore dei Segreti. Non sono... amichevoli. Rumorosi. E la loro 'musica' di martelli attira i Vermi."
+> 
+> "L'altra via..." indica un tunnel più stretto e freddo. "È a nord. Più lunga. Più silenziosa. Ma c'è un... luogo sbagliato lì. Un luogo di luce e ordine che non appartiene a questo buio. Noi Tessitori lo evitiamo. Emana un'energia che... irrita i nostri amici." (Fa un cenno verso i Ragni Eterei che si intravedono nell'ombra). "Ma forse, per voi... potrebbe essere un rifugio. O una tomba. La scelta è vostra, gente di superficie."
 
 ---
 
-### **Scena 1: Il Rifugio Inatteso**
+### **Hexcrawl: Le Gallerie della Risonanza Muta (Mappa 3x3 esagoni)**
 
-**(Inizio Sessione)**
+Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di passaggi naturali e antiche miniere naniche dimenticate. L'illuminazione è assente, tranne dove specificato.
 
-**Testo per i Giocatori:**
+#### **Esagono 1: Ingresso dalla Cripta-Sussurrante (Posizione Iniziale)**
 
-> "I tunnel si snodano in un labirinto soffocante di roccia e terra. L'aria è stantia, pesante dell'odore di umidità e di qualcosa di antico e dimenticato. Chirr-Click vi guida con una sicurezza che contrasta con il suo solito nervosismo, i suoi baffi che vibrano per percepire ogni minima corrente d'aria. Dopo ore di marcia in un'oscurità quasi totale, interrotta solo dalle vostre torce, notate un cambiamento. L'odore di muffa si attenua, sostituito da un sentore quasi impercettibile di ozono e polvere... ma polvere pulita. La roccia grezza lascia il posto a blocchi di pietra levigata, sebbene incrinati e sconnessi. Siete di fronte a un imponente arco di marmo bianco, per metà sepolto da una frana, su cui è inciso un simbolo familiare ma inquietante in questo luogo di morte: un sole nascente, il simbolo di Lathander."
-
-**Setup:**  
-Chirr-Click spiega, con voce bassa e sibilante, che questo è un vecchio "nascondiglio dei senza-dio", un luogo che i Ratfolk hanno sempre evitato perché emana un'energia strana e "troppo ordinata". Non sa cosa ci sia dentro, ma sa che i servi di Vecna non si avventurano mai qui. È il rifugio più sicuro che conosce prima di riprendere il cammino verso Fungorgo.
-
-**Sfida (Investigazione e Tensione):**  
-I personaggi devono decidere se entrare. L'atmosfera è innaturale.
-
-- **Smilzo:** Come ex-cavaliere di Lathander, la vista del simbolo in questo luogo desolato è profondamente inquietante. Una prova di **Religione (CD 16)** gli permette di riconoscere lo stile architettonico come quello di un santuario segreto pre-Discesa, un "Santuario dell'Alba Nascosta", usato per l'iniziazione dei chierici più devoti.
+- **Terreno:** Tunnel rocciosi e polverosi. L'eco della battaglia contro Vryss si sta attenuando.
     
-- **Liora:** La sua sensibilità arcana è in allerta. Una prova di **Occultismo (CD 17)** le rivela che l'aura magica del luogo non è corrotta dalla necromanzia di Vecna, ma è stagnante, come un'eco intrappolata che ripete all'infinito la stessa nota. C'è potere qui, ma è un potere statico, ossessivo.
+- **Punti di Interesse:**
+    
+    - **L'uscita dalla Cripta-Sussurrante:** Ora sigillata da una frana causata dallo scontro, impedendo un ritorno facile.
+        
+    - **Bivio:** Un bivio chiaro. Un tunnel largo e rozzamente puntellato va a **Ovest (verso l'Esagono 4)**. Un altro, più stretto e levigato, va a **Nord (verso l'Esagono 2)**.
+        
+- **Incontri Casuali (d6):**
+    
+    1. Nulla.
+        
+    2. **Eco Psionico:** Un'ondata di dolore mentale residuo (TS Volontà CD 16 o Stupefatto 1 per 10 minuti).
+        
+    3. **Pattuglia di Ratfolk:** 1d4+1 [Ratfolk Scouts](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FNPCs.aspx%3FID%3D972). Se Chirr-Click è con i PG, sono amichevoli e offrono informazioni vaghe ("Attenti ai rumori metallici a ovest").
+        
+    4. **Sciame di Insetti Cadaverici:** Uno sciame di coleotteri che si nutre dei resti, innocuo ma disgustoso.
+        
+    5. **Graffiti della Catena Spezzata:** Simboli del culto di Vordekai indicano un vecchio nascondiglio ormai abbandonato.
+        
+    6. **Tracce di Verme del Midolfo:** Enormi tracce di bava corrosiva. La creatura è passata di qui recentemente.
+        
+
+#### **Esagono 2: I Corridoi Silenziosi**
+
+- **Terreno:** Tunnel levigati di marmo bianco, crepato e macchiato. Un innaturale silenzio opprime l'area.
+    
+- **Punti di Interesse:**
+    
+    - **Il Tempio Sotterraneo di Lathander (L'Alba Infranta):** L'ingresso principale al dungeon-puzzle. Una grande porta di marmo bianco, incrinata ma sigillata magicamente. (Vedi sotto per i dettagli del dungeon).
+        
+    - **Altare profanato:** Un piccolo altare laterale a una divinità dimenticata, ora usato come punto di sosta dai Ratfolk. Ci sono resti di un piccolo fuoco e ossa di roditori.
+        
+- **Incontri Casuali (d6):**
+    
+    1. Nulla.
+        
+    2. **Sussurri Corrotti:** Si sentono frammenti di inni a Lathander, distorti e minacciosi.
+        
+    3. **Luce Danzante:** Una sfera di luce dorata fluttua nel tunnel prima di svanire.
+        
+    4. **Trappola dei Ratfolk:** Una semplice trappola a rete (Percezione CD 18 per notarla, Acrobazia o Thievery CD 17 per disarmarla). Chirr-Click la disattiva se è con loro.
+        
+    5. Un **Golem di Fossili** inattivo.
+        
+    6. Un **Ragno Etereo** solitario che sta cacciando. Se Chirr-Click è presente, diventa indifferente.
+        
+
+#### **Esagono 3: La Caverna dei Funghi Spettrali**
+
+- **Terreno:** Un'enorme caverna illuminata dalla luce bluastra e viola di funghi bioluminescenti. L'aria è umida e sa di ozono.
+    
+- **Punti di Interesse:**
+    
+    - **Giardino di Funghi Psicoattivi:** Mangiare questi funghi (o respirarne le spore concentrate) richiede un TS Tempra CD 18 o si hanno visioni casuali (un ricordo di Lathander che imprigiona Morun Tag, un'immagine della Forgiacarne, il volto di Zorvath).
+        
+    - **Nido di Ragni Eterei:** La caverna principale è il nido di una colonia di **2-3 Ragni Eterei**. Sono territoriali. Chirr-Click può tentare di negoziare un passaggio pacifico (prova di Diplomazia o Natura).
+        
+- **Incontri Casuali (d6):**  
+    1-3. Nulla.  
+    4-5. **1d3 Ratfolk Scouts** che raccolgono funghi.  
+    6. La caverna trema per il passaggio di un **Verme del Midolfo** in un tunnel sottostante.
     
 
-**Progressione:** Superato l'ingresso franato, si trovano in una lunga galleria.
+#### **Esagono 4: Le Gallerie della Fornace**
+
+- **Terreno:** Tunnel larghi e rozzamente scavati. L'aria è calda, secca e sa di carbone e metallo. Un rumore costante di martelli sull'incudine echeggia da ovest.
+    
+- **Punti di Interesse:**
+    
+    - **Avamposto Duergar:** Un piccolo avamposto (circa 10-15 [Duergar](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FMonsters.aspx%3FID%3D164)) sorveglia questo snodo di tunnel. Sono ostili e attaccano a vista. Sconfiggerli potrebbe fornire equipaggiamento di buona fattura ma rivelare la presenza dei PG ad altre forze di Vecna.
+        
+- **Incontri Casuali (d6):**  
+    1-2. Nulla.  
+    3-4. Pattuglia di **1d4+1 Duergar**.  
+    5. Un **Golem di Fossili** di guardia.  
+    6. Un mercante Duergar che trasporta minerali, disposto a ignorare i PG in cambio di un pedaggio (50 gp).
+    
+
+#### **Esagono 5: Il Cuore dei Conflitti**
+
+- **Terreno:** Questo esagono è un punto di incontro tra le tre aree principali. Tunnel di marmo dal Tempio (nord), gallerie fungine (est) e scavi Duergar (ovest) si intersecano qui.
+    
+- **Punti di Interesse:**
+    
+    - **Campo di Battaglia Recente:** Resti di una schermaglia tra Duergar e Ragni Eterei. Si possono recuperare frammenti di armi Duergar e carcasse di ragno.
+        
+    - **Messaggio Nascosto:** Un messaggio in nanico (comprensibile da Smilzo) è nascosto in una crepa (Percezione CD 20). Dice: "La forgia attende il carico di Pietra-Anima. Evitate i tunnel del canto di luce. Portate il tributo al Ponte della Spina Dorsale."
+        
+- **Incontri Casuali:** Tira due volte sulla tabella e combina i risultati (es. una pattuglia Duergar che combatte contro un Ragno Etereo).
+    
+
+#### **Esagono 6: Verso Fungorgo**
+
+- **Terreno:** I tunnel iniziano a mostrare segni della presenza dei Falchi Cremisi. Graffiti ribelli (un falco che artiglia un occhio), resti di trappole e funghi rossi coltivati deliberatamente.
+    
+- **Punti di Interesse:**
+    
+    - **Avamposto dei Falchi Cremisi:** Una pattuglia di **3 Falchi Ribelli** (usa le statistiche di un [Esploratore Umano (Human Scout)](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FNPCs.aspx%3FID%3D978) ma con equipaggiamento migliore) sorveglia questo accesso. Se i PG hanno il Segnale Ribelle (ottenuto nella sessione precedente), vengono accolti e guidati. Altrimenti, devono convincerli della loro buona fede (Diplomazia CD 18).
+        
+- **Incontri Casuali:** Nessuno. Quest'area è sotto il controllo dei Falchi.
+    
+
+---
+
+### **Dungeon-Puzzle: Il Tempio dell'Alba Infranta (Esagono 2)**
+
+**(Questo è l'incontro che hai richiesto, ora inserito come un dungeon opzionale nell'hexcrawl)**
+
+- **Ingresso:** La grande porta di marmo è sigillata. Può essere aperta forzandola (Atletica CD 25, 4 successi), scassinando il sigillo magico (Thievery CD 28, 3 successi) o trovando la sequenza runica corretta (Arcano/Religione CD 25 per decifrare le rune circostanti). Ogni tentativo fallito di più di 5 sulla prova di Thievery o Atletica causa una piccola esplosione di luce sacra (2d6 danni da bene a chi interagisce).
+    
+- **Stanza 1: La Galleria degli Arazzi (Puzzle Sociale/Investigativo)**
+    
+    - Come descritto nella risposta precedente: tre arazzi che mostrano la propaganda di Lathander.
+        
+    - Il Tomo sul leggio, "L'Ordine dell'Alba: Liturgie e Custodia", che fornisce gli indizi per la boss fight.
+        
+- **Stanza 2: L'Altare dell'Offerta (La Trappola)**
+    
+    - La stanza circolare con l'altare e il magnifico equipaggiamento. I tre Simboli Solari intessuti negli arazzi sono ben visibili.
+        
+    - **La Trappola:** Quando un oggetto viene toccato, le porte si sigillano e i due **Arcangeli Guardiani** si manifestano.
+        
+- **Stanza 3: La Prova della Purificazione (Boss Fight Puzzle)**
+    
+    - **I Nemici:** **Lyraelle, la Lama dell'Alba (Trumpet Archon CR 8)** e **Kaelus, il Baluardo del Giorno (Legion Archon CR 7)**.
+        
+    - **Meccanica Chiave:** Gli angeli sono invulnerabili e guariscono completamente alla fine del loro turno. Per danneggiarli, i PG devono prima **distruggere i Simboli Solari sugli arazzi**.
+        
+        - **Arazzo della Creazione (Sinistra):** Vulnerabile a **danni da vuoto/negativi**.
+            
+        - **Arazzo dell'Ordine (Centro):** Vulnerabile a **danni sonori/caotici**.
+            
+        - **Arazzo della Purificazione (Destra):** Vulnerabile a **danni da fuoco**.
+            
+    - **Dinamica:** Il combattimento si trasforma in una lotta per il controllo della stanza. Kaelus cerca di bloccare i PG in mischia, mentre Lyraelle li bersaglia a distanza, proteggendo gli arazzi.
+        
+- **Stanza 4: La Fuga e la Ricompensa**
+    
+    - Sconfitti gli angeli, il tempio inizia a crollare. I PG devono afferrare il loot dall'altare e fuggire.
+        
+    - **Loot:** Elmo del Re Sole, Corazza del Sole Nascente, Scudo dell'Alba Sorridente, Fischietto del Leone Solare, Pergamene e Rune.
+
+
+
+### **Dungeon-Puzzle: Il Tempio dell'Alba Infranta (Esagono 2)**: L'Eco di un'Alba Infranta**
+
+
+---
+
 
 ---
 
@@ -117,13 +258,3 @@ Nel momento in cui uno degli oggetti sull'altare viene toccato, la luce della st
 
 **Finale:**  
 Una volta sconfitti, gli angeli si dissolvono in polvere di luce come nella versione precedente, innescando il crollo del santuario e la fuga disperata dei PG. La ricompensa (loot sull'altare) può essere afferrata durante la fuga.
-
----
-
-### **Note per il DM:**
-
-- **Comunicazione:** È essenziale descrivere chiaramente l'effetto della guarigione alla fine del primo round. "Nonostante i colpi andati a segno, vedete le ferite su Kaelus richiudersi in un istante, la sua carne ricomposta da fili di luce dorata che sembrano provenire dagli arazzi alle pareti. L'angelo è di nuovo illeso."
-    
-- **Dinamismo:** Questo design incoraggia il movimento, la risoluzione di puzzle sotto pressione e la collaborazione. Mentre Smilzo tiene a bada Kaelus, Elthon e Liora potrebbero lavorare per decifrare le debolezze degli arazzi, e Gianni potrebbe usare la sua agilità per raggiungere e colpire i punti deboli.
-    
-- **Odio per Lathander:** Sconfiggere i suoi angeli non perché sono "malvagi", ma perché sono ostacoli dogmatici e implacabili verso la libertà dei PG, cementerà il loro odio. Non stanno combattendo mostri, stanno combattendo un'ideologia tirannica.
