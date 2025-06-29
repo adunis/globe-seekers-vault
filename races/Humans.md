@@ -7,7 +7,7 @@ kanka_id: 741391
 **Presence**:
 
 * *Majority*: Anelectorate of Cormyr, Cryparchy of Sembia
-* *Minority*: Mercantocracy of Amn, Free City of Procampur
+* *Minority*: [[Mercantocracy of Amn]], [[Free City of Procampur]]
 
 **Values**: Adaptability, trade, and diplomacy. Chondathans respect wits, family loyalty, and commerce.  
 **Typical Food**: Bread with olive oil, roasted meats, cheeses, and spiced wine.  
@@ -25,8 +25,8 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Majority*: Mercantocracy of Amn
-* *Minority*: Tetrasultanate of Akanul, Anelectory of Cormyr
+* *Majority*: [[Mercantocracy of Amn]]
+* *Minority*: [[Tetrasultanate of Akanul]], Anelectory of Cormyr
 
 **Values**: Tradition, social hierarchy, and vampiric influence, emphasizing refinement and loyalty to status.  
 **Typical Food**: Rich stews, spiced breads, cured meats, olives, and blood sausage.  
@@ -63,7 +63,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Majority*: Exorcistat of Damara
+* *Majority*: [[Exorcistat of Damara]]
 * *Minority*: Hexadom of Aglarond, Hexadom of Vaasa
 
 **Values**: Faith, resilience, and opposition to evil forces. They hold a strong commitment to religious values and protection.  
@@ -82,7 +82,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Majority*: Necrocracy of Thay
+* *Majority*: [[Necrocracy of Thay]]
 * *Minority*: Hexadom of Aglarond
 
 **Values**: Knowledge, power, and control over life and death. Thayans value necromancy and ambition.  
@@ -109,7 +109,7 @@ kanka_id: 741391
 **Clothing**: Flowing, layered robes with dragon motifs, usually in red, gold, and blue.  
 **Deities Followed**:
 
-* *Bahamut*: Revered as a god of civilization and wisdom, closely tied to their draconic traditions.
+* *Bahamut*: Revered as a god of civilization and wisdom, closely tied to their [[Draconic]] traditions.
 * *Mystra*: For magic and continuity, essential to their spiritual and cultural practices.
 * *Selune*: Honored for intuition and harmony, important to their sense of balance.
 * *Helm*: For vigilance and duty, particularly among those involved in governance.
@@ -121,7 +121,7 @@ kanka_id: 741391
 **Presence**:
 
 * *Majority*: Hexadom of Vaasa
-* *Minority*: Exorcistat of Damara
+* *Minority*: [[Exorcistat of Damara]]
 
 **Values**: Magic, secrecy, and endurance in harsh environments, respecting strength in both magic and resilience.  
 **Typical Food**: Preserved meats, dried fish, hearty stews, potatoes, and mushrooms.  
@@ -159,7 +159,7 @@ kanka_id: 741391
 **Presence**:
 
 * *Majority*: Hexadom of Aglarond
-* *Minority*: Necrocracy of Thay
+* *Minority*: [[Necrocracy of Thay]]
 
 **Values**: Spirituality, resilience, and loyalty to the Witch Queen, with a strong community emphasis.  
 **Typical Food**: Root vegetables, stews, herbal teas, fish, and preserved meats with sour flavors.  
@@ -196,7 +196,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Minority*: Spread throughout Faerûn, often in nomadic groups across the Anelectory of Cormyr, Cryparchy of Sembia, and Tetrasultanate of Akanul
+* *Minority*: Spread throughout Faerûn, often in nomadic groups across the Anelectory of Cormyr, Cryparchy of Sembia, and [[Tetrasultanate of Akanul]]
 
 **Values**: Freedom, family, and storytelling. The Gur celebrate life through music, dance, and rich oral traditions, emphasizing independence and kinship.  
 **Typical Food**: Flatbreads, spiced meats, roasted vegetables, and herb-infused stews, often cooked over an open flame.  
@@ -214,7 +214,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Majority*: Sparse communities in desert regions near the Necrocracy of Thay and Tetrasultanate of Akanul
+* *Majority*: Sparse communities in desert regions near the [[Necrocracy of Thay]] and [[Tetrasultanate of Akanul]]
 
 **Values**: Survival, wisdom, and resilience. Bedin people highly value water as a sacred resource, given their harsh desert environment.  
 **Typical Food**: Flatbreads, dried fruits, goat meat, and preserved cheeses and dates, designed to last in arid conditions.  
@@ -232,7 +232,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Minority*: Small communities and remnants in the Mercantocracy of Amn and Tetrasultanate of Akanul
+* *Minority*: Small communities and remnants in the [[Mercantocracy of Amn]] and [[Tetrasultanate of Akanul]]
 
 **Values**: Heritage, tradition, and elemental ancestry. Calishites honor their lineage and are proud of their historical ties to djinn and elemental spirits.  
 **Typical Food**: Spiced rice dishes, lamb kebabs, and citrus-flavored sweets. Their meals are often fragrant with herbs like mint and thyme.  
@@ -250,7 +250,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Minority*: Small groups found in the southeast of Faerûn, particularly in the Cryparchy of Sembia and Free City of Procampur
+* *Minority*: Small groups found in the southeast of Faerûn, particularly in the Cryparchy of Sembia and [[Free City of Procampur]]
 
 **Values**: Pride, loyalty, and tradition, with a strong bond to their ancestral heritage. Chessentians are often wary of arcane magic, preferring physical and martial pursuits.  
 **Typical Food**: Grilled meats, olives, and bread with olive oil and herbs, reminiscent of Mediterranean flavors.  
@@ -268,7 +268,7 @@ kanka_id: 741391
 
 **Presence**:
 
-* *Minority*: Found mainly in the Hexadom of Vaasa and Exorcistat of Damara
+* *Minority*: Found mainly in the Hexadom of Vaasa and [[Exorcistat of Damara]]
 
 **Values**: Power, legacy, and overcoming a dark heritage tied to demon worship. The Nar people seek redemption and often aspire to rise above their past.  
 **Typical Food**: Game meats, mushrooms, berry wines, and dark bread with spiced meats.  

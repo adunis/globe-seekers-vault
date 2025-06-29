@@ -87,15 +87,15 @@ miele, amara come tradimento."
 
 ### ⚔️ Fazioni delle Sabbie
 
-| Fazione | Descrizione | Figure Chiave |
-| --- | --- | --- |
-| **Concilio delle 7 Oasi** | Custodi segreti delle fonti d'acqua. Governano attraverso sussurri idromantici. | *Sheikha Amatallah* (donna con occhi d'acqua stagnante) |
-| **Cacciatori di Shard** | Mercenari in cerca di frammenti Netheresi. Usano dune vive come mappe viventi. | *Zayna* (mercante con carro-armatura a vapore) |
-| **Circo delle Ossa** | Giullari nomadi che addestrano vermi delle sabbia. Recitano tragedie sulle rovine. | *Khalid il Bevitore di Ombre* (uomo con pelle di mummia) |
-| Ziggurat | **Ordine del Ciclo Perduto** (Sacerdoti di Mystra) | Cultisti che cercano di controllare le tempeste magiche. Governano attraverso editti scritti sulla sabbia. | - Alto Sacerdote Kharad (corpo di sabbia animata) - Zyrra, Veggente con occhi di quarzo fuso |
-| Ribelli | **Figli del Vero Sole** (Distruttori di Illusioni) | Nomadi che rifiutano i miraggi. Combattono con lame che dissipano le proiezioni termiche. | - Garreth, Umano con pelle carbonizzata - Lysandra, Tiefling con spada di luce pura |
-| Mercanti | **Carovane del Miraggio Perfetto** (Mercanti di Realtà) | Viaggiatori che vendono illusioni personalizzate. Le merci svaniscono all'alba. | - Voryn, Gnoll con manto di sabbia vivente - Nira, Ratfolk che vende sogni idratanti |
-| Alchimisti | **Gilda degli Assetati** (Alchimisti della Sete) | Fabbricanti di droghe che sopprimono il bisogno d'acqua. Hanno laboratori mobili su dromedari scheletrici. | - Dr. Thalazir (sangue sostituito con mercurio) - Unit-S, Golem alimentato a sabbia radioattiva |
+| Fazione                   | Descrizione                                                                        | Figure Chiave                                                                                              |                                                                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Concilio delle 7 Oasi** | Custodi segreti delle fonti d'acqua. Governano attraverso sussurri idromantici.    | *Sheikha Amatallah* (donna con occhi d'acqua stagnante)                                                    |                                                                                                 |
+| **Cacciatori di N-Shard** | Mercenari in cerca di frammenti Netheresi. Usano dune vive come mappe viventi.     | *Zayna* (mercante con carro-armatura a vapore)                                                             |                                                                                                 |
+| **Circo delle Ossa**      | Giullari nomadi che addestrano vermi delle sabbia. Recitano tragedie sulle rovine. | *Khalid il Bevitore di Ombre* (uomo con pelle di mummia)                                                   |                                                                                                 |
+| Ziggurat                  | **Ordine del Ciclo Perduto** (Sacerdoti di Mystra)                                 | Cultisti che cercano di controllare le tempeste magiche. Governano attraverso editti scritti sulla sabbia. | - Alto Sacerdote Kharad (corpo di sabbia animata) - Zyrra, Veggente con occhi di quarzo fuso    |
+| Ribelli                   | **Figli del Vero Sole** (Distruttori di Illusioni)                                 | Nomadi che rifiutano i miraggi. Combattono con lame che dissipano le proiezioni termiche.                  | - Garreth, Umano con pelle carbonizzata - Lysandra, Tiefling con spada di luce pura             |
+| Mercanti                  | **Carovane del Miraggio Perfetto** (Mercanti di Realtà)                            | Viaggiatori che vendono illusioni personalizzate. Le merci svaniscono all'alba.                            | - Voryn, Gnoll con manto di sabbia vivente - Nira, Ratfolk che vende sogni idratanti            |
+| Alchimisti                | **Gilda degli Assetati** (Alchimisti della Sete)                                   | Fabbricanti di droghe che sopprimono il bisogno d'acqua. Hanno laboratori mobili su dromedari scheletrici. | - Dr. Thalazir (sangue sostituito con mercurio) - Unit-S, Golem alimentato a sabbia radioattiva |
 
 ---
 

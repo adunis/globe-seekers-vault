@@ -32,7 +32,7 @@ mesoamericane, ecc.), adattandole al contesto fantasy.
 
 **TEMPLATE DI DENOMINAZIONE REGIONALE (Revisionati):**
 
-**1. Venthrum Vecnarius (Altopiano delle Ossa)**
+**1. Venthrum Vecnarius ([[Altopiano delle Ossa]])**
 
 * **Cultura Ispiratrice:** Antico Egitto + Elementi Gotici/Slavi Oscuri.
 * **Suoni Chiave:** K, T, H (aspirata), S, R, Sh; vocali A, U, E; uso di ' (ayin/stop glottale); gruppi consonantici slavi (zh, cz, sz, kr).
@@ -56,7 +56,7 @@ mesoamericane, ecc.), adattandole al contesto fantasy.
     ('Orizzonte di Vecna').
   + **Oggetti:** Ankh del Cinere Gelido, Khopesh dell'Arcano Finale, Scarabeo dell'Oculus Vacuus (Occhio Vuoto, latino).
 
-**2. Fungorgo e Territori dei Falchi Cremisi**
+**2. [[Fungorgo]] e Territori dei Falchi Cremisi**
 
 * **Cultura Ispiratrice:** Celtico/Gaelico + Elementi Tribali/Primitivi.
 * **Suoni Chiave:** Suoni morbidi (F, V, L, S), R arrotata, ma anche duri (K/C, G, D); dittonghi (ae, oi, ui); suoni aspirati (Bh, Mh, Dh).
@@ -92,7 +92,7 @@ mesoamericane, ecc.), adattandole al contesto fantasy.
   + **Persone:**
     Horgar Steinfaust ('Pugno di Pietra'), Borin Eisenfaust ('Pugno di
     Ferro'), Astrid Zahnrad-dottir ('Figlia dell'Ingranaggio'), Kael
-    Schwarzamboss ('Incudine Nera'), Ticchettio (soprannome goblin, nome
+    Schwarzamboss ('Incudine Nera'), Ticchettio (soprannome [[Goblin]], nome
     forse Gruk-nak il Dentato).
   + **Luoghi:**
     Karak-Dum ('Fortezza del Fato/Rovina'), Aschenherd ('Focolare

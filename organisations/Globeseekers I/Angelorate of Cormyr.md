@@ -4,7 +4,7 @@ kanka_id: 327281
 
 Cormyr is a feudalistic kingdom governed by a council of archangels, each representing a god—Lathander, Anhur, Tyr, Ilmater, and Bahamut. While this divine council oversees major decisions from the background, they appoint a King to act as their earthly ruler and uphold their vision for Cormyr. Known for its powerful military, Cormyr is protected by elite gryphon riders and mighty clerics, whose divine power fortifies the realm’s defenses.
 
-The kingdom’s history is deeply intertwined with that of an ancient elven empire whose ruins are now part of Cormyr's cities, giving rise to a mixed population where half-elves live alongside humans. This elven heritage contributes to Cormyr’s cultural richness and unique architectural charm, blending ancient magic with human resilience.
+The kingdom’s history is deeply intertwined with that of an ancient elven empire whose ruins are now part of Cormyr's [[Cities]], giving rise to a mixed population where half-elves live alongside [[Humans]]. This elven heritage contributes to Cormyr’s cultural richness and unique architectural charm, blending ancient magic with human resilience.
 
 **Opposition to the Kraken King:** Cormyr is actively involved in resisting the Kraken King's expanding influence across the Sea of Fallen Stars. The kingdom’s Imperial Navy patrols the Dragonmere and the surrounding waters, guarding against this threat. Recently, Cormyr’s King, under the guidance of the archangels, condemned the Kraken King’s actions, pledging to safeguard Cormyr’s interests in the region.
 

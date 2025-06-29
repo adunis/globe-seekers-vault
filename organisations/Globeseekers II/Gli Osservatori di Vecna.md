@@ -7,7 +7,7 @@ kanka_id: 362781
   
 
 * **Descrizione:**
-  Non sono i Caroniti di Vryss (che operano più sul campo), ma una
+  Non sono [[I Caroniti]] di Vryss (che operano più sul campo), ma una
   guarnigione più stanziale e organizzata, forse appartenente a un'altra
   branca dell'esercito di Vecna o a una forza di polizia segreta interna.
   Potrebbero chiamarsi "Gli Osservatori" o "La Guardia del Segreto". Sono **umani viventi** (cultisti addestrati, soldati mercenari legati a Vecna, personale amministrativo corrotto) e **non-morti minori**
@@ -31,6 +31,6 @@ kanka_id: 362781
   interessato a mantenere l'ordine e a inviare rapporti positivi a
   Protonecropoli che a sporcarsi le mani. Teme il fallimento più della
   morte. (Nota: Nome simile a Malakor, l'eremita, ma personaggio diverso. Potrebbe creare confusione o essere un aggancio narrativo).
-* **Forze Tipiche:** **Guardia Cittadina di Fungorgo (Guard - CR 1/2)**, **Accolito di Vecna (Acolyte - CR 1)**, **Spia dell'Occhio Vigile (Spy - CR 2)**, **Scheletro Bracciante (Skeleton Guard - CR -1)**.
+* **Forze Tipiche:** **Guardia Cittadina di [[Fungorgo]] (Guard - CR 1/2)**, **Accolito di Vecna (Acolyte - CR 1)**, **Spia dell'Occhio Vigile (Spy - CR 2)**, **Scheletro Bracciante ([[Skeleton]] Guard - CR -1)**.
 
   

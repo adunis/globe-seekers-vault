@@ -1,7 +1,7 @@
 
 ### **Le Gallerie della Risonanza Muta**
 
-**Contesto Generale:** Dopo essere fuggiti dalla Cripta-Sussurrante, i PG si trovano in una rete di tunnel sotterranei sotto l'Altopiano delle Ossa. **Chirr-Click**, il leader dei Ratfolk, funge da loro guida. Il percorso più diretto per Fungorgo è bloccato o troppo pericoloso in superficie a causa dell'allerta dei Caroniti. Devono navigare questi tunnel.
+**Contesto Generale:** Dopo essere fuggiti dalla Cripta-Sussurrante, i PG si trovano in una rete di tunnel sotterranei sotto l'[[Altopiano delle Ossa]]. **Chirr-Click**, il leader dei [[Ratfolk]], funge da loro guida. Il percorso più diretto per [[Fungorgo]] è bloccato o troppo pericoloso in superficie a causa dell'allerta dei Caroniti. Devono navigare questi tunnel.
 
 **Spiegazione di Chirr-Click:**
 

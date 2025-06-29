@@ -11,7 +11,7 @@ understanding of this changed reality.
 * **Azara's Choice:** Azara, a githzerai fleeing the ruins of her
   monastery after its collapse during the Great Descent, desperately sought
   any means to preserve her people's traditions. Drawn in by promises of
-  knowledge, she delivered a Netherese Globe to the Githyanki hoping it
+  knowledge, she delivered a [[Netherese Globe]] to the Githyanki hoping it
   would be studied, a decision that continues to haunt her.
 * **Vordekai's Experiment:** Vordekai's morbid fascination led him to
   offer githyanki brains and hearts to githzerai guards, a gesture meant

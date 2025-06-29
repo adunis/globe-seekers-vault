@@ -10,7 +10,7 @@ Known Members and Connections
 
 ●
 
-Zarov: Mentioned in our conversation history as a member of the Shadow Council, Zarov is a powerful vampire lord who rules over the village of Halendos. His membership suggests a connection between the Shadow Council and powerful, influential figures who operate outside conventional power structures.
+Zarov: Mentioned in our conversation history as a member of the Shadow Council, Zarov is a powerful vampire lord who rules over the village of [[Halendos]]. His membership suggests a connection between the Shadow Council and powerful, influential figures who operate outside conventional power structures.
 
 ○
 
@@ -18,7 +18,7 @@ Please note that the information about Zarov's membership in the Shadow Council 
 
 ●
 
-Miciotsu: A vampire cat serving Zarov, Miciotsu has potential ties to the Shadow Council through his master. However, the sources do not explicitly confirm Miciotsu's direct involvement in the Shadow Council's activities.
+[[Miciotsu]]: A vampire cat serving Zarov, [[Miciotsu]] has potential ties to the Shadow Council through his master. However, the sources do not explicitly confirm [[Miciotsu]]'s direct involvement in the Shadow Council's activities.
 
 Potential Goals and Influence
 

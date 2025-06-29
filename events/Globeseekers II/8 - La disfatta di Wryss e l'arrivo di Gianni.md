@@ -1,28 +1,24 @@
 
-Il ronzio mentale che aveva pervaso la Cripta-Sussurrante cessò di colpo. Con la distruzione del macabro **Risuonatore d'Ossa**, un silenzio quasi doloroso calò nella camera, rotto solo dal vostro respiro affannoso. Tra le mani di Elthon, il **Cuore di Cristallo Nero**, nucleo dell'artefatto, pulsava di una fredda e antica tristezza. Avevate onorato il vostro patto con i Ratfolk.
+## Un Patto Onorato
+Con la distruzione del macabro **Risuonatore d'Ossa**, il ronzio mentale che pervadeva la Cripta-Sussurrante cessò di colpo. Un silenzio quasi doloroso calò nella camera, rotto solo dal respiro affannoso del gruppo. Tra le mani di Elthon, il **Cuore di Cristallo Nero**—nucleo dell'artefatto—pulsava di una fredda e antica tristezza. Il patto con i Ratfolk era stato onorato.
 
-Il ritorno attraverso i corridoi gelidi fu carico di una nuova inquietudine. Il silenzio che avevate creato non portava pace, ma un'attesa opprimente. Quando riemergeste nel Santuario Spezzato, la vasta sala profanata, vedeste **Chirr-Click** e i suoi Tessitori del Silenzio attendervi, le loro ombre allungate dalla luce delle torce, con le sagome tremolanti dei Ragni Eterei che si materializzavano alle loro spalle.
+Al ritorno nel Santuario Spezzato, i Globeseekers trovarono **Chirr-Click** e i suoi Tessitori del Silenzio ad attenderli, affiancati dalle sagome tremolanti dei Ragni Eterei. Alla vista del Cuore di Cristallo, un mormorio di sorpresa e rispetto si diffuse tra i Ratfolk. Chirr-Click si fece avanti, il suo occhio meccanico ronzante. "Avete fatto... silenzio," sibilò, con un misto di sollievo e incredulità.
 
-Presentaste il Cuore di Cristallo come prova del vostro successo. Un mormorio di sorpresa e forse di rispetto si diffuse tra i Ratfolk. Chirr-Click, il suo occhio meccanico che ronzava e scattava, si fece avanti, la sua mano-pinza che si apriva e chiudeva in un gesto di approvazione. "Avete fatto... silenzio," sibilò, la sua voce un misto di incredulità e sollievo. Aprì la bocca per parlare, forse per ringraziarvi, forse per indicarvi la via promessa verso la salvezza...
+## L'Invasione dei Caroniti
+Le sue parole, però, furono soffocate da un clangore metallico proveniente dal passaggio segreto. Un raggio di luce viola malata incise l'oscurità, seguito dalle figure spettrali dei **Caroniti**. Alla loro testa, l'imponente **Custode Vryss**, il cui occhio psionico pulsava di furia gelida.
 
-Ma le sue parole furono soffocate da un clangore metallico proveniente dal passaggio segreto da cui eravate entrati. Un raggio di luce viola malata incise l'oscurità, seguito dalle figure spettrali e disciplinate dei **Caroniti**. Alla loro testa, la figura alta e imponente del **Custode Vryss**, il suo occhio psionico che pulsava di una furia gelida e controllata.
+"Traditori e ladri," la voce di Vryss risuonò direttamente nelle menti di tutti. "Pensavate di potervi nascondere dopo aver profanato i nostri segreti e rubato ciò che appartiene a Vecna?"
 
-"Traditori e ladri," risuonò la sua voce, non nelle vostre orecchie, ma direttamente nelle vostre menti, un'intrusione fredda e affilata. "Pensavate di potervi nascondere nel buio dopo aver profanato i nostri segreti e rubato ciò che appartiene a Vecna?"
+Il panico serpeggiò tra i Ratfolk. Con parole cariche d'urgenza, il gruppo convinse Chirr-Click che la minaccia era per tutti: Vryss era lì per recuperare il Cuore di Cristallo e "purificare" la cripta da ogni testimone. Soppesata la minaccia, Chirr-Click ordinò ai suoi balestrieri di voltarsi contro gli invasori. Nell'oscurità, un'alleanza disperata fu forgiata.
 
-Il panico serpeggiò tra i Ratfolk. Le loro armi si levarono, incerte se puntare contro di voi o contro la nuova, terrificante minaccia. Fu in quell'istante, sull'orlo del caos, che la vostra alleanza fu forgiata nel fuoco. Con parole cariche di urgenza, convinceste Chirr-Click che non si trattava più del vostro passaggio sicuro. Vryss non era lì solo per voi; era lì per recuperare il Cuore di Cristallo e per "purificare" la cripta da ogni testimone. Quella era la loro casa, il loro territorio, e i Caroniti erano un'invasione.
+## La Disfatta di Vryss
+La battaglia che ne seguì fu disperata. L'equilibrio dello scontro fu però sconvolto da un tradimento inaspettato: Gianni, il Gatto Investigatore, fino ad allora camuffato da soldato Caronita, rivelò il suo doppio gioco. Svelò il punto debole di Vryss e delle creazioni psioniche di Vecna: una vulnerabilità ai danni spirituali, in netto contrasto con la loro resistenza agli attacchi psichici.
 
-Lo sguardo di Chirr-Click passò da voi a Vryss, soppesando la minaccia. Un rapido, stridulo ordine nella loro lingua echeggiò nella sala. I balestrieri Ratfolk si voltarono, non più verso di voi, ma verso i nuovi arrivati.
+La rivelazione permise un assalto coordinato. Chirr-Click, in sella a un terrificante Ragno Etereo, caricò Vryss con il suo tridente elettrificato. Il colpo di grazia, tuttavia, fu sferrato da Elthon: un colpo in "overdrive" dal suo cannone, sparato con precisione letale, decapitò il Custode, ponendo fine alla sua minaccia.
 
-E così, nell'oscurità profanata della Cripta-Sussurrante, un'alleanza impossibile e disperata nacque. Guerrieri, inventori, streghe e opportunisti dal pelo grigio, fianco a fianco, pronti ad affrontare la fredda e implacabile volontà del Dio dei Segreti. La battaglia per la vostra sopravvivenza, e per il controllo della cripta, era appena iniziata.
+## Nuove Alleanze, Nuovo Cammino
+A battaglia conclusa, le maschere caddero. Gianni spiegò la sua vera missione: infiltrarsi tra le file di Vecna per trovare un laboratorio segreto e vendicare il suo mentore, mosso da un odio profondo per gli Dei Antichi. A loro volta, Elthon, Liora e Smilzo rivelarono il proprio obiettivo: raggiungere la città-rifugio di Fungorgo per consegnare un dossier di vitale importanza a B.B. Secondo, leader della resistenza.
 
-Durante il disperato scontro contro le forze di Vecna. Voi – Elthon, Liora e Smilzo – insieme ai vostri nuovi alleati, i Ratfolk dei Tessitori del Silenzio, stavate affrontando le forze Caronite guidate dal temibile psionico, il Custode Vryss.
+Riconoscendo un nemico comune e obiettivi convergenti, fu stretta una nuova e fragile alleanza con Gianni.
 
-L'equilibrio della battaglia è stato sconvolto da un tradimento inaspettato. Gianni, il Gatto Investigatore, che fino a quel momento si era finto un soldato Caronita, ha rivelato il suo inganno. Nel momento cruciale, ha svelato il punto debole di Vryss e delle creazioni psioniche di Vecna: una vulnerabilità ai danni spirituali, a dispetto della loro resistenza agli attacchi psichici.
-
-Questo ha aperto la strada a un assalto coordinato. Chirr-Click, il leader dei Ratfolk, cavalcando un terrificante Ragno Etereo, ha caricato il comandante nemico con il suo tridente elettrificato, mettendolo alle strette. L'attacco decisivo, però, è arrivato dal cannone di Elthon: un colpo in "overdrive", sparato con precisione mortale, ha decapitato Vryss, ponendo fine alla sua minaccia.
-
-Con la battaglia conclusa, le maschere sono cadute. Gianni ha spiegato la sua vera missione: infiltrato tra le file di Vecna per trovare un laboratorio segreto e vendicare il suo mentore, alimentato da un profondo odio per gli Dei Antichi. Voi, a vostra volta, gli avete rivelato il vostro obiettivo: raggiungere la città-rifugio di Fungorgo per consegnare un dossier di vitale importanza a B.B. Secondo, il leader della resistenza.
-
-Riconoscendo un nemico comune e un obiettivo convergente, è stata forgiata una nuova e fragile alleanza.
-
-La superficie, ora troppo pericolosa a causa dell'allarme lanciato, è stata abbandonata. Sotto la guida esperta di Chirr-Click e dei suoi Tessitori del Silenzio, avete lasciato la Cripta-Sussurrante alle spalle, addentrandovi nei tunnel bui e tortuosi che si snodano nelle viscere dell'Altopiano delle Ossa, in cammino verso Fungorgo.
+Poiché la superficie era diventata troppo pericolosa, il gruppo, ora ampliato, abbandonò la Cripta-Sussurrante. Sotto la guida esperta di Chirr-Click e dei Tessitori del Silenzio, si addentrarono nei tunnel bui e tortuosi dell'Altopiano delle Ossa, in marcia verso Fungorgo.

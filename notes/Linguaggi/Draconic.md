@@ -2,7 +2,7 @@
 kanka_id: 268167
 ---
 
-Draconis, born from the confluence of all elemental planes, is the ancestral home of dragons. Draconic is a language of power and majesty, befitting these mighty creatures.
+[[Draconis]], born from the confluence of all elemental planes, is the ancestral home of dragons. Draconic is a language of power and majesty, befitting these mighty creatures.
 
 ●
 

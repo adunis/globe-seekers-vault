@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "8 - Loot Carotidi e Chirr-Click"
             }
+          },
+          {
+            "id": "d36f4f23764a4b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "events/Globeseekers II/3 -  Echi dalla Cenere I Tre Compagni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 -  Echi dalla Cenere I Tre Compagni"
+            }
           }
         ]
       }
@@ -73,12 +87,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e338254011e72d23",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 305.5
   },
   "right": {
     "id": "483f087699912bd1",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/characters/Agatha the Banshee.md",
+                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agatha the Banshee"
+              "title": "Backlinks for 8 - Loot Carotidi e Chirr-Click"
             }
           },
           {
@@ -113,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/characters/Agatha the Banshee.md",
+                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agatha the Banshee"
+              "title": "Outgoing links from 8 - Loot Carotidi e Chirr-Click"
             }
           },
           {
@@ -142,20 +166,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/characters/Agatha the Banshee.md",
+                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agatha the Banshee"
+              "title": "Outline of 8 - Loot Carotidi e Chirr-Click"
+            }
+          },
+          {
+            "id": "f983972d0677f279",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 365.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,48 +201,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "gemini-scribe:Open Gemini Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
-    "items/N-Shard.md",
-    "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
     "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
+    "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
+    "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
+    "gemini-scribe/History/events_Globeseekers II_8 - La disfatta di Wryss e l'arrivo di Gianni.md",
+    "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
+    "organisations/Globeseekers II/I Figli della Forgia Cinerea.md",
+    "organisations/Globeseekers II/Broken Chain.md",
+    "2025-06-29.md",
+    "TagsRoutes/logMessage.md",
+    "events/Globeseekers II/2 - L'Evasione dalla Prigione Cinerea.md",
+    "organisations/Globeseekers II/I Caroniti.md",
+    "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
+    "locations/Globeseekers II/Le Fortezze Divine.md",
+    "locations/Globeseekers II/Cittá/Fungorgo.md",
+    "TagsRoutes/logs",
+    "TagsRoutes",
+    "events/Globeseekers II/8 - La disfatta di Wryss e l'arrivo di Gianni.md",
+    "gemini-scribe/History",
+    "gemini-scribe",
+    "locations/Globeseekers II/Regioni/Saharat'al-Mutayya, il Deserto dei Vermi.md",
+    "events/Globeseekers II/3 -  Echi dalla Cenere I Tre Compagni.md",
+    "journals/Globeseekers II/Trama Generale Campagna.md",
+    "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
+    "items/N-Shard.md",
     "journals/Globeseekers II/Note del DM.md",
     "Globeseekers II - The Godfall Mandate.md",
     "organisations/Globeseekers I/Angelorate of Cormyr.md",
     "creatures/Angeli.md",
     "creatures/Bestia Scavatrice del Vuoto.md",
-    "locations/Globeseekers II/Le Fortezze Divine.md",
     "notes/La Grande Discesa.md",
-    "organisations/Globeseekers I/Silver Blades.md",
-    "organisations/Globeseekers 0/Redbrand Gang.md",
-    "organisations/Realms.md",
-    "organisations/Globeseekers 0/Red Sashes.md",
     "organisations/Globeseekers 0",
-    "organisations/Globeseekers I/Free City of Procampur.md",
-    "organisations/Pre-Descent Organizations.md",
-    "organisations/Nations.md",
-    "organisations/Globeseekers I/Exorcistat of Damara.md",
-    "organisations/Faction.md",
-    "organisations/Globeseekers I/Eternal Council.md",
-    "organisations/Globeseekers I/Empire of Nether.md",
-    "organisations/Globeseekers I/Duchy of Khaldarin.md",
-    "organisations/Globeseekers I/Cryptarchy of Sembia.md",
-    "organisations/Cuori di Pietra.md",
-    "organisations/Globeseekers I/Congrega della Catena Spezzata.md",
-    "organisations/Globeseekers I/City-State of Shammath.md",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
     "journals/Globeseekers II/Programmi Sessioni",
     "journals/Globeseekers II",
     "journals/Globeseekers 1",
-    "notes/Cosmology",
-    "notes/Linguaggi",
-    "notes/Divinitá",
-    "locations/Globeseekers II/Cittá",
     "Untitled.canvas",
     "gallery/ea1619b1-e6c9-4774-bf01-4e40dc44b1aa.jpg"
   ]

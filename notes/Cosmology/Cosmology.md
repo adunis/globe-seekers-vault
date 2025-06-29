@@ -190,8 +190,8 @@ Zeal Domain:
 
 Wyrmkin Domain:
 
-* Low: Grant a person draconic features for a day
-* Medium: Awaken draconic heritage in a bloodline
+* Low: Grant a person [[Draconic]] features for a day
+* Medium: Awaken [[Draconic]] heritage in a bloodline
 * High: Create a new species of dragon
 * Cosmic: Transform a continent's ecosystem to be dragon-centric
 
@@ -304,7 +304,7 @@ Soul Domain:
 
 * Low: View a person's past lives
 * Medium: Separate a soul from its body temporarily
-* High: Create a new type of outsider (celestial, fiend, etc.)
+* High: Create a new type of [[Outsider]] (celestial, fiend, etc.)
 * Cosmic: Redefine the nature of souls for all beings
 
 Sorrow Domain:
@@ -573,11 +573,11 @@ Cold Domain:
 * High: Create a new ice age
 * Cosmic: Lower the temperature of the universe
 
-Cities Domain:
+[[Cities]] Domain:
 
 * Low: Improve a city's infrastructure overnight
 * Medium: Create a magically self-sustaining metropolis
-* High: Establish a network of teleporting cities
+* High: Establish a network of teleporting [[Cities]]
 * Cosmic: Transform an entire planet into a single, world-spanning city
 
 Change Domain:
@@ -637,11 +637,11 @@ Abomination Domain:
    in terms of Pathfinder 2e levels: Divine Being Level = √(Total Lifetime Offerings / 100) rounded down. Minimum level is 1, maximum level is 20
 3. Interpretation:
    * A level 1-5 Divine Being might be a minor celestial or fiend (Messengers, minor helpers)
-   * A level 6-10 Divine Being could be equivalent to a powerful outsider (Emissaries, skilled agents)
+   * A level 6-10 Divine Being could be equivalent to a powerful [[Outsider]] (Emissaries, skilled agents)
    * A level 11-15 Divine Being might be on par with demigods or archangels (Champions, leaders of divine armies)
    * A level 16-20 Divine Being would be incredibly powerful, close to lesser deities in strength (Demigods, direct representatives of the deity)
 4. Divine Being Capabilities:
-   * These beings can travel between Divine Planes, serving as messengers or warriors for their deity.
+   * These beings can travel between [[Divine Planes]], serving as messengers or warriors for their deity.
    * Their power level determines their effectiveness in various tasks and combat situations.
 
 ## Impact on Divine Economy
@@ -651,7 +651,7 @@ Abomination Domain:
 2. Divine Conflict:
    * Deities may compete for the souls of powerful or influential mortals, potentially leading to divine interventions or conflicts.
 3. Balance of Power:
-   * Deities with more devoted worshippers will have more powerful Divine Beings, potentially shifting the balance of power in the Divine Planes.
+   * Deities with more devoted worshippers will have more powerful Divine Beings, potentially shifting the balance of power in the [[Divine Planes]].
 4. Material Plane Influence:
    * While deities can't directly manifest in the Material Plane, their influence through domain powers and the promise of a powerful afterlife can significantly shape mortal societies and beliefs.
 
@@ -665,7 +665,7 @@ Abomination Domain:
    * Balance offerings between immediate divine assistance and long-term afterlife prospects.
 3. For Divine Beings:
    * Serve their deity faithfully to potentially gain more power or responsibilities.
-   * Navigate the complex politics of the Divine Planes as representatives of their deity.
+   * Navigate the complex politics of the [[Divine Planes]] as representatives of their deity.
 
 ## 
 
