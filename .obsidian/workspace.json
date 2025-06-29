@@ -6,7 +6,6 @@
       {
         "id": "d2ec9b381e4511ce",
         "type": "tabs",
-        "dimension": 48.566610455311974,
         "children": [
           {
             "id": "79f3e6bcc1c431b7",
@@ -15,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -49,12 +48,11 @@
         ]
       },
       {
-        "id": "c4e7a318d80d1c56",
+        "id": "ea1daa1016b512c3",
         "type": "tabs",
-        "dimension": 51.433389544688026,
         "children": [
           {
-            "id": "87008a7eec44ac00",
+            "id": "fab8d8ab9d36cf75",
             "type": "leaf",
             "state": {
               "type": "tags-routes",
@@ -250,9 +248,9 @@
   },
   "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
-    "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
-    "locations/Globeseekers II/Cittá/Fungorgo.md",
     "TagsRoutes/logMessage.md",
+    "locations/Globeseekers II/Cittá/Fungorgo.md",
+    "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
     "TagsRoutes/logs",
     "TagsRoutes",
     "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
