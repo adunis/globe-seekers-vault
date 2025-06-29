@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
+                "file": "items/Pietre-Anima.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "8 - Loot Carotidi e Chirr-Click"
+              "title": "Pietre-Anima"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes",
     "gemini-scribe/History/events_Globeseekers II_8 - La disfatta di Wryss e l'arrivo di Gianni.md",
@@ -178,7 +179,6 @@
     "gemini-scribe",
     "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
     "items/N-Shard.md",
-    "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
     "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
     "journals/Globeseekers II/Note del DM.md",
     "Globeseekers II - The Godfall Mandate.md",
