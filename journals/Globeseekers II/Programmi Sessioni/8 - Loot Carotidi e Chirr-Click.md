@@ -302,3 +302,80 @@ Più carte aggiungi al tuo mazzo, più la sua energia caotica cresce, offrendoti
         2. Lanciare **entrambe** le carte (la seconda richiede le normali azioni per essere lanciata, ma non consuma usi giornalieri se non quelli della pesca iniziale).
             
         3. Rimettere entrambe le carte nel mazzo e considerare l'azione come un Rifiutare il Fato con i benefici di Piegare la Sorte.
+### **2. Doni dei Ratfolk (Ricompense a Tema "Noir" e Ingegno)**
+
+Chirr-Click, chiaramente impressionato dal metodo... persuasivo di Gianni, fruga tra i suoi averi e ti porge alcuni oggetti con un cenno di rispetto da ficcanaso a ficcanaso.
+
+#### **Per Gianni, l'Investigatore:**
+
+- **Fiaschetta del "Coraggio Liquido" (Pozione Alchemica - Livello 4, Non Comune)**
+    
+    > Chirr-Click ti passa una fiaschetta di metallo ammaccata. "Per i nervi saldi," squittisce. L'odore è pungente, un misto di alcol forte e qualcosa di speziato e innaturale.
+    
+    - **Meccaniche:** Berla richiede un'azione. Per i successivi 10 minuti, diventi immune agli effetti di **paura**. Tuttavia, la spavalderia ti rende imprudente. Subisci una **penalità di circostanza di -1 alle prove di Furtività e Intuizione (Sense Motive)**, ma ottieni un **bonus di circostanza di +1 alle prove di Inganno (Deception) per mentire**.
+
+### **Loot Rielaborato e Dettagliato (Versione 3.0)**
+
+### **1. Dai Resti dei Caroniti (Loot di Vecna)**
+
+#### **Per Gianni, l'Investigatore (L'Inquisitore dal Grilletto Facile):**
+
+- **1. "L'Ultima Parola" (Revolver dell'Inquisitore Caronita - Oggetto Unico, Livello 5, Raro)**
+    
+    > Dal corpo di Vryss o di uno dei suoi luogotenenti più fidati, recuperi un'arma da fuoco diversa da qualsiasi cosa tu abbia mai visto. Non è un fucile a pietra focaia, ma un revolver compatto, forgiato in metallo nero opaco che sembra assorbire la luce. È freddo, pesante, e inciso con una singola, sottile runa di Vecna vicino al tamburo: un occhio che piange una lacrima d'argento. Senti che quest'arma non è stata creata per le battaglie campali, ma per porre fine alle conversazioni.
+    
+    **Statistiche di Base (Arma da Fuoco Avanzata):**
+    
+    - **Danni:** 1d6 Perforanti
+        
+    - **Volume:** 1; **Mani:** 1; **Gittata:** 30 piedi
+        
+    - **Tratti:** Concussive, Fatal d10
+        
+    - **Ricarica:** 6 (il tamburo contiene 6 proiettili)
+        
+    - **Munizioni:** Richiede speciali **"Proiettili Silenti"** (vedi sotto).
+        
+    
+    **Meccanica Speciale: La Roulette della Verità**
+    
+    - **Attivazione:** <span class="action-glyph">AAA</span> **Intavolare un Gioco (Start a Game)** - Azione di Interagire
+        
+    - **Requisiti:** Hai una creatura indifesa, legata o consenziente di fronte a te.
+        
+    - **Effetto:** Annunci di voler giocare alla "Roulette della Verità". Carichi un singolo Proiettile Silente nel tamburo da sei colpi, fai girare il tamburo, e punti l'arma alla tempia del bersaglio (o alla tua, se sei particolarmente teatrale). Spieghi le regole: farai una domanda, e per ogni risposta che ritieni falsa, premerai il grilletto. La tensione e la minaccia della morte istantanea spezzano la volontà.  
+        Per la durata dell'interrogatorio (massimo 10 minuti), ottieni un **bonus di circostanza di +2 alle tue prove di Intimidazione** per Coercere informazioni. Se decidi di premere il grilletto:
+        
+        - Tira 1d6. Se il risultato è **1**, il proiettile è in canna. Effettui automaticamente un colpo con l'arma. Se il bersaglio è indifeso, è un colpo critico.
+            
+        - Se il risultato è **2-6**, il cane scatta a vuoto con un 'clic' secco e terrificante. Il bersaglio deve superare un **TS su Volontà CD 20** o essere **Spaventato 2** (Spaventato 3 in caso di fallimento critico).
+            
+        - Puoi "giocare" fino a 5 volte (finché non rimangono solo slot vuoti). Ogni 'clic' a vuoto aumenta la tensione e la probabilità che il prossimo colpo sia quello fatale.
+            
+- **2. Proiettili Silenti (Munizioni Alchemiche - Livello 3)**
+    
+    > In una fondina di pelle trovi sei proiettili di metallo nero. La polvere da sparo al loro interno è mescolata con polvere d'ossa e un reagente alchemico che soffoca il suono.
+    
+    - **Meccaniche:** Munizioni speciali per "L'Ultima Parola". Quando sparate, il colpo produce un suono attutito, quasi un sibilo, invece di un forte scoppio. La CD per sentire lo sparo a più di 15 piedi di distanza è 20. Gianni trova **6 proiettili**. La formula per crearli potrebbe trovarsi nel diario di Vryss.
+
+**Sigaro dell'Intuizione Cinerea (Oggetto Alchemico/Magico - Livello 4, Non Comune)**
+
+> In una custodia di metallo trovata su un Caronita di alto rango, c'è un singolo, sigaro scuro, avvolto in foglie essiccate che non riconosci. Sembra quasi pietrificato e puzza debolmente di cenere e segreti repressi.
+
+- **Meccaniche:** Questo non è un semplice sigaro. È un focus alchemico, trattato con spore fungine psicoattive e polvere di Pietra-Anima.
+    
+- **Uso:** Tenuto in una mano. Accenderlo è un'azione di Interagire. Il sigaro brucia molto lentamente e dura per **1 ora di uso continuo** prima di consumarsi. Può essere spento e riacceso.
+    
+- **Effetto Passivo (Mentre è acceso):** Il fumo che esala non è normale. Si muove in modo innaturale, indugiando su oggetti o persone di interesse, quasi indicando indizi nascosti. Ottieni un **bonus di oggetto di +1 alle prove di Percezione per Cercare (Seek)**.
+    
+- **Attivazione:** <span class="action-glyph">A</span> **Soffio della Rivelazione (Puff of Revelation)** - Azione di Concentrazione
+    
+- **Frequenza:** Una volta ogni 10 minuti.
+    
+- **Requisiti:** Il sigaro è acceso.
+    
+- **Effetto:** Fai un lungo tiro dal sigaro e soffi il fumo verso una creatura, un oggetto o una piccola area (un quadrato di 5 piedi) entro 15 piedi. Il fumo si avvolge attorno al bersaglio, rivelando ciò che è nascosto.
+    
+    - **Contro una Creatura:** Il fumo rivela il suo vero stato emotivo. È come se stessi usando l'azione **Intuizione (Sense Motive)**, ma il GM ti fornisce direttamente l'emozione dominante del bersaglio (paura, rabbia, menzogna, sicurezza) senza bisogno di una prova.
+        
+    - **Contro un Oggetto/Area:** Il fumo evidenzia dettagli nascosti. Ottieni un **bonus di circostanza di +2** alla tua prossima prova per trovare oggetti nascosti, porte segrete o trappole in quell'area. Il fumo potrebbe anche rivelare brevemente residui di aure magiche (ma non ne identifica la scuola).
