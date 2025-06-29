@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organisations/Globeseekers II/Broken Chain.md",
+                "file": "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broken Chain"
+              "title": "6 - La Forgia Cinerea e l'Accampamento CArotida"
             }
           },
           {
@@ -33,22 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "3 -  Echi dalla Cenere I Tre Compagni"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6d59b8a4ae7e91ce",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6badfc265aed7caf",
-            "type": "leaf",
-            "state": {
-              "type": "tags-routes",
-              "state": {},
-              "icon": "waypoints",
-              "title": "Tags routes"
             }
           }
         ]
@@ -134,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organisations/Globeseekers II/Broken Chain.md",
+                "file": "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Broken Chain"
+              "title": "Backlinks for 6 - La Forgia Cinerea e l'Accampamento CArotida"
             }
           },
           {
@@ -153,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organisations/Globeseekers II/Broken Chain.md",
+                "file": "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Broken Chain"
+              "title": "Outgoing links from 6 - La Forgia Cinerea e l'Accampamento CArotida"
             }
           },
           {
@@ -182,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organisations/Globeseekers II/Broken Chain.md",
+                "file": "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Broken Chain"
+              "title": "Outline of 6 - La Forgia Cinerea e l'Accampamento CArotida"
             }
           },
           {
@@ -223,14 +207,16 @@
       "smart-connections:Open: View Smart Connections": false,
       "gemini-scribe:Open Gemini Chat": false,
       "tags-routes:Open tags routes": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
+    "organisations/Globeseekers II/Broken Chain.md",
     "2025-06-29.md",
     "TagsRoutes/logMessage.md",
-    "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
     "events/Globeseekers II/2 - L'Evasione dalla Prigione Cinerea.md",
     "organisations/Globeseekers II/I Caroniti.md",
     "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
@@ -257,7 +243,6 @@
     "organisations/Globeseekers I/Silver Blades.md",
     "organisations/Globeseekers 0/Redbrand Gang.md",
     "organisations/Realms.md",
-    "organisations/Globeseekers 0/Red Sashes.md",
     "organisations/Globeseekers 0",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
