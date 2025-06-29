@@ -1,5 +1,5 @@
 
----
+***
 
 ### **Estratto da "De Materia Necrotica et Psionica", Vol. III, autore sconosciuto**
 
@@ -9,7 +9,7 @@
 
 Si parla spesso, tra gli arcanisti imprudenti e gli scavatori disperati dell'Altopiano delle Ossa, di tesori nascosti e gemme rare. Ma pochi comprendono la vera natura della risorsa più preziosa e terribile di questo regno desolato: le **Pietre-Anima**. Non sono semplici minerali, né gemme da incastonare su una corona. Sono il fondamento su cui Vecna sta costruendo il suo impero silenzioso, la chiave della sua terrificante innovazione nella guerra cosmica.
 
----
+***
 
 #### **Origine e Natura Geologica: Un Legame con la Morte**
 
@@ -18,7 +18,7 @@ Le Pietre-Anima si trovano quasi esclusivamente nelle profonde vene minerarie at
 **Ipotesi sulla Formazione (Nota a margine: *Pericolosa speculazione*):**  
 Non credo che queste pietre siano un prodotto naturale di questo piano. La loro struttura suggerisce una cristallizzazione avvenuta sotto un'immensa pressione spirituale. Potrebbero essere i resti fossilizzati di un evento di estinzione di massa, forse una battaglia dimenticata della Grande Discesa o, più sinistramente, il "sedimento" lasciato da un'antica entità legata alla morte che un tempo riposava sotto queste montagne. Le vene di Pietra-Anima seguono spesso le radici di antichi **Alberi d'Ossa**, suggerendo una simbiosi tra il minerale e la flora necrotica.
 
----
+***
 
 #### **Proprietà Fondamentali: L'Assorbimento e la Stabilizzazione**
 
@@ -28,7 +28,7 @@ La caratteristica più notevole di una Pietra-Anima è la sua capacità di agire
 
 2.  **Stabilizzazione Psionica:** Questa è la scoperta più cruciale e il motivo per cui Vecna le brama. L'energia immagazzinata all'interno di una Pietra-Anima crea un "campo di stasi entropica". Questo campo ha un effetto incredibilmente utile sugli **N-Shard**: ne **smorza le fluttuazioni caotiche e le risonanze aliene** provenienti dal Reame Remoto. Un N-Shard in prossimità di una Pietra-Anima carica diventa più stabile, più prevedibile e, soprattutto, più sicuro da manipolare e impiantare.
 
----
+***
 
 #### **Applicazioni nell'Impero di Vecna: Dalla Teoria alla Tirannia**
 
@@ -45,7 +45,7 @@ Vecna, nel suo genio perverso, ha compreso e sfruttato appieno queste proprietà
 3.  **Come Focus e Batterie:**
     I necromanti e psionici di alto rango di Vecna possono usare piccole Pietre-Anima lavorate come **focus per incantesimi o poteri**. La pietra assorbe parte del "rinculo" magico o psionico, permettendo all'utilizzatore di manipolare energie più grandi e instabili con minor rischio personale. Agiscono come batterie monouso o ricaricabili per il potere mentale.
 
----
+***
 
 #### **Vulnerabilità e Rischi**
 
@@ -58,7 +58,7 @@ Nonostante la loro utilità, le Pietre-Anima non sono prive di difetti, che potr
 
 3.  **Dipendenza:** I psionici che usano le pietre come focus possono sviluppare una dipendenza. Senza la pietra, i loro poteri diventano più deboli e instabili, e i "sussurri" degli N-Shard che portano dentro di sé si fanno più forti e difficili da ignorare.
 
----
+***
 
 ### **Conclusione Strategica**
 
