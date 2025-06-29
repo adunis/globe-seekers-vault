@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
+                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9 - L'Eco di un'Alba Infranta"
+              "title": "7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
+                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9 - L'Eco di un'Alba Infranta"
+              "title": "Backlinks for 7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
             }
           },
           {
@@ -137,12 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
+                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9 - L'Eco di un'Alba Infranta"
+              "title": "Outgoing links from 7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
+                "file": "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9 - L'Eco di un'Alba Infranta"
+              "title": "Outline of 7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra"
             }
           },
           {
@@ -213,6 +213,7 @@
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
     "gemini-scribe/History/events_Globeseekers II_8 - La disfatta di Wryss e l'arrivo di Gianni.md",
     "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
     "organisations/Globeseekers II/I Figli della Forgia Cinerea.md",
@@ -227,7 +228,6 @@
     "locations/Globeseekers II/Cittá/Fungorgo.md",
     "TagsRoutes/logs",
     "TagsRoutes",
-    "journals/Globeseekers II/Programmi Sessioni/9 - L'Eco di un'Alba Infranta.md",
     "events/Globeseekers II/8 - La disfatta di Wryss e l'arrivo di Gianni.md",
     "gemini-scribe/History",
     "gemini-scribe",
