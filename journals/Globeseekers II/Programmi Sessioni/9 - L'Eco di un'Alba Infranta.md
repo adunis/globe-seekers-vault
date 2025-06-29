@@ -258,3 +258,310 @@ Nel momento in cui uno degli oggetti sull'altare viene toccato, la luce della st
 
 **Finale:**  
 Una volta sconfitti, gli angeli si dissolvono in polvere di luce come nella versione precedente, innescando il crollo del santuario e la fuga disperata dei PG. La ricompensa (loot sull'altare) può essere afferrata durante la fuga.
+
+
+### **Sfida di Abilità: Il Crollo dell'Alba**
+
+**Contesto:** Sconfitto l'ultimo Arcangelo Guardiano, l'energia divina che sosteneva il santuario diventa instabile. L'altare si incrina, la luce dorata pulsa selvaggiamente e l'intera struttura inizia a crollare. Polvere di marmo piove dal soffitto, e il pavimento trema sotto i vostri piedi. Avete pochi istanti per afferrare il tesoro e fuggire prima di essere sepolti per sempre.
+
+**Obiettivo:** Raggiungere l'uscita della Galleria degli Arazzi (da dove siete entrati) prima di accumulare **3 fallimenti**. Il gruppo ha bisogno di **6 successi** per fuggire.
+
+**Complessità:** 4 (per un gruppo di 4 avventurieri di livello 5).  
+**Livello:** 5  
+**CD Base:** 20 (CD allenata per un compito di livello 5).  
+**Tempo per Round:** Ogni round della sfida di abilità rappresenta circa 6 secondi di caos. Il crollo peggiora ad ogni round.
+
+---
+
+#### **Struttura della Sfida**
+
+La sfida si svolge in round. In ogni round, ogni personaggio giocante può usare **una singola azione (o un'attività che richiede più azioni, a discrezione del GM)** per contribuire alla fuga. Non possono usare la stessa abilità in due round consecutivi per compiere la stessa azione (es. non si può usare Atletica per "scattare tra le macerie" due volte di fila, ma si potrebbe usare per "scattare" e poi per "spostare un pilastro").
+
+**Fallimento:** Se un personaggio fallisce una prova, il gruppo subisce un contrattempo. Se fallisce di 10 o più (fallimento critico), subisce due contrattempi. Accumulare **3 contrattempi** significa che la fuga è fallita e il gruppo affronta conseguenze gravi.
+
+---
+
+#### **Round 1: Afferrare il Tesoro e la Prima Fuga**
+
+**Descrizione:**
+
+> "La morte di Lyraelle scatena un'onda d'urto dorata. L'altare si crepa, e l'equipaggiamento sacro rotola sulla sua superficie. Enormi blocchi di marmo iniziano a staccarsi dal soffitto a volta, schiantandosi a terra con un rumore assordante. La via d'uscita attraverso la Galleria degli Arazzi sembra improvvisamente molto lontana."
+
+**Azioni Possibili (Esempi):**
+
+- **Afferrare il Bottino (Rapidità/Thievery):** Un personaggio può tentare di afferrare rapidamente uno o più oggetti dall'altare prima che vengano seppelliti o distrutti.
+    
+    - **CD 20 Thievery/Rapidità:** Afferra un oggetto specifico (es. lo scudo).
+        
+    - **Successo Critico:** Afferra due oggetti o tutti gli oggetti piccoli (fischietto, pergamene, rune).
+        
+    - **Fallimento:** Un blocco di marmo si schianta vicino, l'oggetto viene sbalzato via e richiede un'azione extra per essere recuperato (accumula 1 Fallimento parziale per il ritardo).
+        
+    - **Fallimento Critico:** Un oggetto fragile (pergamene, fischietto) viene distrutto. (1 Fallimento).
+        
+- **Creare un Percorso Iniziale (Atletica):** Un personaggio può usare la sua forza per spostare un pilastro che sta per cadere o per aprire una breccia tra le prime macerie.
+    
+    - **CD 20 Atletica:** Apre un varco, contribuendo con **1 successo** alla sfida.
+        
+    - **Fallimento:** Il personaggio non riesce a spostare l'ostacolo, perdendo tempo prezioso. (1 Fallimento).
+        
+- **Valutare il Crollo (Percezione/Sopravvivenza):** Un personaggio analizza la traiettoria dei detriti per trovare il percorso più sicuro.
+    
+    - **CD 20 Percezione:** Identifica il sentiero più sicuro per il prossimo round, fornendo a tutto il gruppo un **bonus di circostanza di +2** alla loro prossima prova di abilità nella sfida. Questo conta come **1 successo**.
+        
+    - **Fallimento:** L'analisi è errata, non fornisce alcun vantaggio.
+        
+
+---
+
+#### **Round 2: La Galleria degli Arazzi**
+
+**Descrizione:**
+
+> "State correndo lungo la galleria dove le vetrate infrante scricchiolano sotto i vostri piedi. Gli arazzi, ora privati della loro energia, si staccano dalle pareti, creando pesanti ostacoli. Il pavimento trema violentemente, aprendo crepe nel marmo."
+
+**Azioni Possibili (Esempi):**
+
+- **Scattare tra le Macerie (Acrobazia):** Un personaggio usa la sua agilità per schivare i detriti che cadono e saltare le crepe che si aprono.
+    
+    - **CD 20 Acrobazia:** Supera la sezione indenne, contribuendo con **1 successo**.
+        
+    - **Fallimento Critico:** Cade in una crepa, rimanendo impigliato (condizione Afferrato) e deve usare un'azione nel prossimo round per liberarsi. (1 Fallimento).
+        
+- **Stabilizzare la Struttura (Creazione/Magia):** Un personaggio usa la sua abilità artigianale o un incantesimo per puntellare temporaneamente una sezione del soffitto, garantendo un passaggio sicuro.
+    
+    - **CD 20 Creazione (o CD Appropriata per l'incantesimo, es. Stone Shape):** La struttura regge per qualche secondo, garantendo al gruppo **2 successi**.
+        
+    - **Fallimento:** Il tentativo è inutile, il crollo continua. (1 Fallimento).
+        
+- **Guidare il Gruppo (Diplomazia/Intimidazione):** Un personaggio urla ordini chiari e decisi, coordinando la fuga del gruppo e dei Ratfolk.
+    
+    - **CD 20 Diplomazia/Intimidazione:** Il gruppo si muove in modo coeso. Questo conta come **1 successo** e rimuove la condizione Stupefatto o Spaventato da un alleato, se presente.
+        
+    - **Fallimento:** Gli ordini creano solo più confusione. Nessun effetto.
+        
+
+---
+
+#### **Round 3: L'Uscita Bloccata e il Conto alla Rovescia Finale**
+
+**Descrizione:**
+
+> "Vedete l'arco franato da cui siete entrati! La libertà è a pochi passi, ma l'onda d'urto finale del crollo ha quasi sigillato il passaggio. Un'enorme lastra di marmo blocca gran parte dell'uscita, e la polvere vi acceca. Il soffitto sopra di voi emette un ultimo, terribile gemito."
+
+**Azioni Possibili (Esempi):**
+
+- **Sfondare l'Uscita (Atletica - Azione Collettiva):** Due o più personaggi possono collaborare per spostare la lastra di marmo.
+    
+    - **CD 22 Atletica:** Richiede due personaggi che usano la loro azione per **Aiutare**. Ogni personaggio che aiuta effettua una prova. Se almeno due hanno successo, il gruppo ottiene **2 successi** e il passaggio è libero. Se solo uno riesce, ottengono 1 successo ma il passaggio è stretto (rallenta).
+        
+    - **Fallimento:** La lastra non si muove. (1 Fallimento).
+        
+- **Disintegrare l'Ostacolo (Incantesimo):** Un incantatore usa un incantesimo distruttivo (come Disintegrate o un Fireball mirato) per frantumare la lastra.
+    
+    - **Successo:** L'incantesimo crea un'apertura. **2 successi**.
+        
+    - **Rischio:** Usare un incantesimo così potente potrebbe accelerare il crollo finale. Il GM potrebbe decidere che questo tentativo, anche se riuscito, aggiunge 1 Fallimento al totale a causa della destabilizzazione.
+        
+- **Usare l'Ingegno (Creazione/Thievery - Elthon/Gianni):** Trovare un punto debole nella struttura o usare un meccanismo di leva per spostare la lastra.
+    
+    - **CD 22 Creazione/Thievery:** Con un'azione ingegnosa, si crea una via d'uscita. **2 successi**.
+        
+- **Protezione Finale (Abilità/Incantesimo):** Un personaggio crea una barriera protettiva (es. uno scudo alzato, un incantesimo Wall of Stone) per proteggere il gruppo dai detriti finali mentre un altro apre la via.
+    
+    - **Successo:** Previene un contrattempo automatico che il GM avrebbe altrimenti inflitto a causa del crollo finale. Questo conta come **1 successo**.
+        
+
+---
+
+### **Conseguenze**
+
+- **Successo (6 o più successi):** Il gruppo emerge nei tunnel, malconcio e coperto di polvere, ma con il tesoro e la vita salvi. Il passaggio dietro di loro è completamente sigillato. Hanno superato la prova.
+    
+- **Fallimento (3 o più fallimenti):** L'uscita crolla prima che tutti possano passare.
+    
+    - **Fallimento "Morbido" (3 fallimenti):** L'ultimo personaggio a passare rimane intrappolato o gravemente ferito (subisce danni moderati/gravi e forse ottiene una condizione persistente come Zoppicante finché non viene curato). Hanno perso parte del loot nella fretta.
+        
+    - **Fallimento "Duro" (4+ fallimenti):** Il gruppo è separato. Alcuni riescono a uscire, altri rimangono intrappolati nel tempio crollato, ma in una bolla d'aria precaria. Questo si trasforma in una nuova sfida: come salvare i compagni intrappolati prima che l'aria finisca o che qualcos'altro nelle rovine li trovi? O forse tutti rimangono intrappolati, e la prossima sessione inizia con "Siete sepolti vivi... cosa fate?".
+
+
+
+### **Tesori dell'Alba Infranta**
+
+Mentre la luce dorata del santuario pulsa minacciosamente, i vostri occhi cadono sul magnifico equipaggiamento disposto sull'altare di alabastro. Ogni pezzo sembra essere forgiato dalla luce solare stessa, un'incarnazione del potere e del dogma di Lathander. Sono artefatti di un'epoca passata, carichi di un potere che attende solo di essere reclamato... o di punire chi non ne è degno.
+
+---
+
+#### **1. Elmo del Re Sole**
+
+**Descrizione Visiva:**
+
+> Un elmo completo, forgiato in un oro che non sembra metallo ma luce solida. Una corona di raggi appuntiti si estende dalla fronte, conferendo a chi lo indossa un'aura di maestà regale e autorità incrollabile. Le incisioni raffigurano un sole nascente che scaccia le ombre.
+
+**Meccaniche (PF2e):**
+
+- **Oggetto 5, Non Comune, Divino, Investito, Bene**
+    
+- **Uso:** Indossato, Elmo; **Volume:** L
+    
+- **Bonus di Oggetto:** +1 alla CA.
+    
+- **Proprietà:** Questo elmo infonde nel portatore la fiducia incrollabile dell'alba. Ottieni un **bonus di oggetto di +1 ai tiri salvezza contro effetti di paura**.
+    
+- **Attivazione:** <span class="action-glyph">R</span> (Comando)
+    
+- **Frequenza:** Una volta al giorno
+    
+- **Innesco:** Stai per effettuare un tiro salvezza contro un effetto che ti renderebbe Spaventato.
+    
+- **Effetto:** Il sole inciso sull'elmo brilla intensamente. Ottieni un **bonus di circostanza di +2** al tuo tiro salvezza contro l'effetto scatenante. Se con questo bonus ottieni un successo, lo consideri un successo critico. Se l'effetto è creato da una creatura non morta, la creatura subisce 1d6 danni da bene (TS base su Volontà con la tua CD di classe o incantesimo).
+    
+
+**JSON per Foundry VTT:**
+
+Generated json
+
+      `[   {     "name": "Elmo del Re Sole",     "type": "armor",     "img": "icons/equipment/head/helmet-horned-gold.webp",     "system": {       "description": {         "value": "<p>Un elmo completo in oro scintillante, sormontato da una corona di raggi solari. Conferisce un'aura di maestosità.</p><p><strong>Bonus Oggetto:</strong> +1 alla CA e +1 ai tiri salvezza contro effetti di paura.</p><hr /><p><strong>Attivazione</strong> <span class=\"action-glyph\">R</span> (Comando);</p><p><strong>Frequenza</strong> una volta al giorno;</p><p><strong>Innesco</strong> Stai per effettuare un tiro salvezza contro un effetto che ti renderebbe Spaventato;</p><p><strong>Effetto</strong> Ottieni un <strong>bonus di circostanza di +2</strong> al tuo tiro salvezza contro l'effetto scatenante. Se ottieni un successo, lo consideri un successo critico. Se l'effetto è creato da una creatura non morta, essa subisce 1d6 danni da bene (TS base Volontà con la tua CD di classe/incantesimo).</p>"       },       "source": { "value": "Campagna Personalizzata" },       "level": { "value": 5 },       "acBonus": 1,       "category": "armor",       "group": null,       "baseItem": "steel-helm",       "rarity": "uncommon",       "traits": { "value": ["invested", "divine", "good", "light"], "rarity": "uncommon" },       "usage": { "value": "wornhelmet" }     }   } ]`
+    
+
+IGNORE_WHEN_COPYING_START
+
+Use code [with caution](https://support.google.com/legal/answer/13505487). Json
+
+IGNORE_WHEN_COPYING_END
+
+---
+
+#### **2. Corazza del Sole Nascente**
+
+**Descrizione Visiva:**
+
+> Un'armatura a scaglie che sembra tessuta con raggi di sole solidificati. Ogni scaglia dorata si muove con fluidità, emettendo un calore gentile e una luce soffusa. Nonostante l'aspetto robusto, è sorprendentemente leggera e non produce quasi alcun rumore.
+
+**Meccaniche (PF2e):**
+
+- **Oggetto 6, Non Comune, Divino, Bene**
+    
+- **Uso:** Indossata, Armatura; **Volume:** 1
+    
+- **Categoria:** Media; **Gruppo:** Scaglie
+    
+- **Statistiche:** Bonus CA +3, Penalità di Prova -2, Cap Dex +1, Forza 16
+    
+- **Rune:** Runa di Potenza dell'Armatura +1, Runa di Resilienza (nessuna), Runa di Proprietà: **Ready** (Pronta).
+    
+- **Effetto Speciale:** Se sei esposto alla luce solare naturale, ottieni **Guarigione Rapida 2**. Questa guarigione si disattiva se subisci danni da un attacco o un effetto con il tratto male o negativo, e si riattiva all'inizio del tuo turno successivo se sei ancora sotto la luce solare.
+    
+
+**JSON per Foundry VTT:**
+
+Generated json
+
+      `[   {     "name": "Corazza del Sole Nascente",     "type": "armor",     "img": "icons/equipment/chest/breastplate-scaly-sun-gold.webp",     "system": {       "description": { "value": "<p>Un'armatura a scaglie dorate che brilla di luce propria. È sorprendentemente leggera e flessibile.</p><p>Se sei esposto alla luce solare naturale, ottieni <strong>Guarigione Rapida 2</strong>. Questa guarigione si disattiva se subisci danni con il tratto male o negativo, riattivandosi all'inizio del tuo turno successivo.</p>" },       "source": { "value": "Campagna Personalizzata" },       "level": { "value": 6 },       "acBonus": 3,       "category": "medium",       "group": "scale",       "strength": 16,       "checkPenalty": -2,       "dexCap": 1,       "price": { "value": { "gp": 250 } },       "potencyRune": { "value": 1 },       "resiliencyRune": { "value": "" },       "propertyRune1": { "value": "ready" },       "rarity": "uncommon",       "traits": { "value": ["divine", "good", "light"], "rarity": "uncommon" }     }   } ]`
+    
+
+IGNORE_WHEN_COPYING_START
+
+Use code [with caution](https://support.google.com/legal/answer/13505487). Json
+
+IGNORE_WHEN_COPYING_END
+
+---
+
+#### **3. Scudo dell'Alba Sorridente**
+
+**Descrizione Visiva:**
+
+> Uno scudo rotondo in acciaio, lucidato a specchio al punto da riflettere la luce con intensità. Al centro è inciso il volto di un sole sorridente, i cui raggi si estendono fino ai bordi. Impugnandolo, si avverte una sensazione di ottimismo e calore, come il primo raggio di sole dopo una lunga notte.
+
+**Meccaniche (PF2e):**
+
+- **Oggetto 4, Non Comune, Divino, Bene**
+    
+- **Uso:** Tenuto in una mano; **Volume:** 1
+    
+- **Statistiche:** Bonus CA +2, Durezza 8, HP 32, BT 16
+    
+- **Attivazione:** <span class="action-glyph">AA</span> (Comando, Interagire)
+    
+- **Frequenza:** Una volta ogni 10 minuti
+    
+- **Effetto:** Sollevi lo scudo e il sole inciso emette un lampo di luce accecante. Tutte le creature in un cono di 15 piedi devono superare un **TS su Tempra CD 19**.
+    
+    - **Fallimento Critico:** La creatura è Accecata per 1 round e Abbagliata per 1 minuto.
+        
+    - **Fallimento:** La creatura è Abbagliata per 1 minuto.
+        
+    - **Successo:** La creatura è Abbagliata per 1 round.
+        
+    - **Successo Critico:** Nessun effetto.
+        
+
+**JSON per Foundry VTT:**
+
+Generated json
+
+      `[   {     "name": "Scudo dell'Alba Sorridente",     "type": "armor",     "img": "icons/equipment/shield/buckler-round-wood-sun-gold.webp",     "system": {       "description": {         "value": "<p>Uno scudo rotondo d'acciaio lucidato a specchio, con inciso il volto di un sole benevolo e sorridente.</p><hr /><p><strong>Attivazione</strong> <span class=\"action-glyph\">AA</span> (Comando, Interagire);</p><p><strong>Frequenza</strong> una volta ogni 10 minuti;</p><p><strong>Effetto</strong> Sollevi lo scudo e il sole inciso emette un lampo di luce accecante. Tutte le creature in un cono di 15 piedi devono superare un <strong>TS su Tempra CD 19</strong> o essere Abbagliate (o Accecate in caso di fallimento critico).</p>"       },       "source": { "value": "Campagna Personalizzata" },       "level": { "value": 4 },       "acBonus": 2,       "hardness": 8,       "hp": { "value": 32, "max": 32 },       "brokenThreshold": 16,       "price": { "value": { "gp": 80 } },       "rarity": "uncommon",       "traits": { "value": ["divine", "good", "light"], "rarity": "uncommon" },       "usage": { "value": "held-in-one-hand" }     }   } ]`
+    
+
+IGNORE_WHEN_COPYING_START
+
+Use code [with caution](https://support.google.com/legal/answer/13505487). Json
+
+IGNORE_WHEN_COPYING_END
+
+---
+
+#### **4. Fischietto del Leone Solare**
+
+**Descrizione Visiva:**
+
+> Un piccolo fischietto finemente intagliato nell'avorio, caldo al tatto. Non ha fori per le dita, solo un'apertura per soffiare. Emana una debole sensazione di coraggio e nobiltà.
+
+**Meccaniche (PF2e):**
+
+- **Oggetto 7, Non Comune, Magico, Divino, Evocazione, Bene, Luce**
+    
+- **Uso:** Tenuto in una mano; **Volume:** L
+    
+- **Attivazione:** <span class="action-glyph\">AA</span> (Interagire)
+    
+- **Frequenza:** Una volta al giorno
+    
+- **Requisiti:** Ti trovi in un'area di luce solare (naturale o magica).
+    
+- **Effetto:** Soffi nel fischietto. Il suono non è udibile all'orecchio comune, ma evoca accanto a te un **Leone di Luce**. La creatura è amichevole verso di te e i tuoi alleati e obbedisce ai tuoi comandi verbali. Dura per **10 minuti** o finché non viene ridotto a 0 HP, dopodiché si dissolve in un pacifico lampo di luce. Se usato al chiuso o di notte senza luce solare, il fischietto emette solo un suono acuto e malinconico, senza alcun altro effetto.
+    
+- **Leone di Luce:** Usa le statistiche di un [Leone Guardiano (Guardian Lion)](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FMonsters.aspx%3FID%3D1893) (CR 6), ma con il tratto **Celestiale** e **Debolezza 5 al Male**. I suoi attacchi infliggono 1d6 danni da bene aggiuntivi.
+    
+
+**JSON per Foundry VTT:**
+
+Generated json
+
+      `[   {     "name": "Fischietto del Leone Solare",     "type": "equipment",     "img": "icons/tools/instruments/fife-flute-ivory.webp",     "system": {       "description": {         "value": "<p>Un piccolo fischietto d'avorio, caldo al tatto. Se usato alla luce del sole, evoca un Leone di Luce.</p><hr /><p><strong>Attivazione</strong> <span class=\"action-glyph\">AA</span> Interagire;</p><p><strong>Frequenza</strong> una volta al giorno;</p><p><strong>Requisiti</strong> Ti trovi in un'area di luce solare;</p><p><strong>Effetto</strong> Evochi un <strong>Leone di Luce</strong> (usa statistiche di un Leone Guardiano, CR 6, ma con tratto Celestiale e Debolezza 5 al Male) che ti è amico per 10 minuti.</p>"       },       "source": { "value": "Campagna Personalizzata" },       "level": { "value": 7 },       "price": { "value": { "gp": 300 } },       "rarity": "uncommon",       "traits": { "value": ["magical", "divine", "conjuration", "good", "light"], "rarity": "uncommon" },       "usage": { "value": "held-in-one-hand" }     }   } ]`
+    
+
+IGNORE_WHEN_COPYING_START
+
+Use code [with caution](https://support.google.com/legal/answer/13505487). Json
+
+IGNORE_WHEN_COPYING_END
+
+---
+
+#### **5. Pergamene e Rune**
+
+**Descrizione Visiva:**
+
+> Accanto agli oggetti più imponenti, giace una pila di pergamene di papiro finissimo, sigillate con cera dorata, e tre piccole pietre solari piatte, ognuna incisa con una singola, potente runa che brilla di luce propria.
+
+- **Pergamena di Searing Light (4° Rango):** Una pergamena per lanciare l'incantesimo Searing Light a livello 4.
+    
+- **Pergamena di Sunburst (7° Rango):** Una pergamena di un potere eccezionale. Attualmente i PG non possono lanciarla, ma è un oggetto di grande valore (circa 700 gp) o una risorsa strategica da conservare.
+    
+- **Runa Flaming:** Una runa fondamentale pronta per essere trasferita su un'arma.
+    
+- **Runa Disrupting:** Una runa fondamentale, ideale per Smilzo o chiunque combatta i non-morti di Vecna.
+    
+- **Runa di Proprietà Ready (Pronta):** (Già applicata alla Corazza) Una runa minore per armatura che permette di estrarre armi più rapidamente.
