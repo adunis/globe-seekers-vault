@@ -9,7 +9,7 @@ kanka_id: 1714712
 Fungorgo... Non lasciarti ingannare dal nome o dalla puzza. Certo, ci
 sono funghi che crescono anche sui denti dei morti, ma sotto c'è...
 vita. Una vita strana, sudata, che lotta per respirare tra le spore e le
-pattuglie degli Osservatori. È un mercato nero con le radici, una città
+pattuglie degli [[Gli Osservatori di Vecna]]. È un mercato nero con le radici, una città
 che marcisce e combatte allo stesso tempo. Ci trovi di tutto: veleni
 rari, segreti sussurrati, un pasto caldo (se non fai troppe domande
 sull'ingrediente principale), e una pugnalata alle spalle. È il cuore

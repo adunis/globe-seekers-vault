@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -248,8 +248,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79f3e6bcc1c431b7",
+  "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
+    "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
+    "locations/Globeseekers II/Cittá/Fungorgo.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes/logs",
     "TagsRoutes",
@@ -279,8 +281,6 @@
     "organisations/Pre-Descent Organizations.md",
     "organisations/Nations.md",
     "organisations/Globeseekers I/Exorcistat of Damara.md",
-    "organisations/Faction.md",
-    "organisations/Globeseekers I/Eternal Council.md",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
