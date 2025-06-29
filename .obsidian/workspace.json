@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organisations/Globeseekers II/I Caroniti.md",
+                "file": "TagsRoutes/logMessage.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Caroniti"
-            }
-          },
-          {
-            "id": "551e404d0d6d4504",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "title": "logMessage"
             }
           },
           {
@@ -43,6 +33,22 @@
               },
               "icon": "lucide-file",
               "title": "3 -  Echi dalla Cenere I Tre Compagni"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d59b8a4ae7e91ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6badfc265aed7caf",
+            "type": "leaf",
+            "state": {
+              "type": "tags-routes",
+              "state": {},
+              "icon": "waypoints",
+              "title": "Tags routes"
             }
           }
         ]
@@ -128,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organisations/Globeseekers II/I Caroniti.md",
+                "file": "TagsRoutes/logMessage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for I Caroniti"
+              "title": "Backlinks for logMessage"
             }
           },
           {
@@ -147,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organisations/Globeseekers II/I Caroniti.md",
+                "file": "TagsRoutes/logMessage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from I Caroniti"
+              "title": "Outgoing links from logMessage"
             }
           },
           {
@@ -176,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organisations/Globeseekers II/I Caroniti.md",
+                "file": "TagsRoutes/logMessage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of I Caroniti"
+              "title": "Outline of logMessage"
             }
           },
           {
@@ -194,19 +200,9 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "5cc05a0b419d7e66",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -230,8 +226,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79f3e6bcc1c431b7",
+  "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
+    "events/Globeseekers II/1 - Il Cortile delle Cripte Cenerinee.md",
+    "events/Globeseekers II/2 - L'Evasione dalla Prigione Cinerea.md",
+    "organisations/Globeseekers II/I Caroniti.md",
     "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
     "locations/Globeseekers II/Le Fortezze Divine.md",
     "locations/Globeseekers II/Cittá/Fungorgo.md",
@@ -260,9 +259,6 @@
     "organisations/Globeseekers 0/Red Sashes.md",
     "organisations/Globeseekers 0",
     "organisations/Globeseekers I/Free City of Procampur.md",
-    "organisations/Pre-Descent Organizations.md",
-    "organisations/Nations.md",
-    "organisations/Globeseekers I/Exorcistat of Damara.md",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
