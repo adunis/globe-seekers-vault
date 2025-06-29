@@ -8,6 +8,23 @@ Mentre la polvere si posa e l'eco dell'ultimo grido si spegne nei tunnel, vi pre
 
 #### **Per Smilzo, il Campione della Morte (Champion of Death):**
 
+
+**. Filatterio del Cavaliere Infranto (Oggetto Unico - Livello 5, Raro)**
+
+> Dal collo del Custode Vryss recuperi non un amuleto, ma una piccola e fredda teca di cristallo fumé e ferro nero, delle dimensioni di un pugno. All'interno, l'anima di un destriero tormentato turbina come una tempesta silenziosa. Senti un'eco di lealtà e disperazione provenire dall'oggetto. Questo non è un semplice focus, è una prigione.
+
+- **Meccaniche:**
+    
+    - **Uso:** Tenuto in una mano o appeso alla cintura.
+        
+    - **Attivazione:** <span class="action-glyph">AAA</span> **Evocare Destriero (Summon Steed)** - Azione di Evocazione
+        
+    - **Frequenza:** Una volta al giorno.
+        
+    - **Effetto:** Apri la teca e liberi l'anima intrappolata. Essa si materializza di fronte a te come una **Cavalcatura Scheletrica (Skeletal Horse)**, ma potenziata dalla tua fede oscura. La cavalcatura ha il tratto **Non Morto** e **Spettrale**. Ottiene un numero di Punti Ferita temporanei pari al tuo livello e un bonus di stato alla sua Velocità di +10 piedi. La cavalcatura rimane per **1 ora** o finché non viene distrutta, dopodiché la sua essenza ritorna nel filatterio.
+        
+    - **Legame del Campione:** Finché la cavalcatura è evocata, puoi spendere una delle tue reazioni per permetterle di effettuare un Colpo extra quando sei in sella.
+
 - **Lama Psionica del Silenzio (Runa d'Arma - Striking - Livello 4)**
     
     > Recuperi la spada del Custode Vryss. La lama, forgiata in acciaio nero come la notte, non riflette la luce. Impugnandola, senti un ronzio silenzioso che non è suono, ma una vibrazione direttamente nella tua mente. È una Runa Striking, ma con un'aggiunta sinistra.
@@ -52,7 +69,6 @@ Chirr-Click si avvicina, i suoi occhialoni meccanici che analizzano i vostri vol
     > Chirr-Click ti porge un pezzo di pelle di Verme del Midolfo arrotolato. Srotolandolo, vedi lo schema dettagliato, anche se caotico, per un dispositivo che sembra una versione più potente e imprevedibile del suo tridente.
     
     - **Meccaniche:** Questa formula permette a Elthon di creare un **"Generatore di Scintille Instabile"**. È un'arma avanzata a una mano (o un'aggiunta a un'arma esistente) che, una volta al giorno, può essere sovraccaricata (1 Azione). Al prossimo colpo andato a segno entro 1 minuto, l'arma non solo infligge i suoi danni normali, ma scatena anche un Chain Lightning di 3° Rango (CD 19) che parte dal bersaglio colpito. La CD per creare l'oggetto è 19.
-#### **er Elthon, l'Inventore:**
 
 - **Schema: Trappola a Gabbia Fulminante (Formula - Livello 4)**
     
@@ -61,7 +77,29 @@ Chirr-Click si avvicina, i suoi occhialoni meccanici che analizzano i vostri vol
     - **Meccaniche:** Formula per una trappola meccanica (CD di Creazione 19).
         
         - **Trappola a Gabbia Fulminante:** Quando una creatura entra nel quadretto, barre di elettricità crepitante emergono dal terreno, formando una gabbia di 5 piedi. La creatura subisce **3d10 danni da elettricità** (TS base su Riflessi CD 20). Con un fallimento, è anche intrappolata all'interno. Le pareti della gabbia sono solide solo per la creatura intrappolata e infliggono 1d10 danni da elettricità a chiunque cerchi di attraversarle (dall'interno o dall'esterno). La gabbia dura 1 minuto.
+
+
+**Bracciale del Condensatore Sovraccarico (Oggetto Unico - Livello 5, Raro)**
+
+> Chirr-Click non ti dà uno schema, ma un oggetto completo, un bracciale di rame e fili intrecciati con al centro un cristallo di quarzo crepitante. "Nostro capolavoro. Attento... a volte fa più di quello che chiedi."
+
+- **Meccaniche:** Questo bracciale può immagazzinare e rilasciare energia.
+    
+    - **Attivazione (Assorbire):** <span class="action-glyph">R</span> **Reazione**
         
+    - **Innesco:** Stai per subire danni da elettricità da un incantesimo o effetto.
+        
+    - **Effetto:** Ottieni **Resistenza 10 all'elettricità** contro l'attacco scatenante. Il bracciale si carica.
+        
+    - **Attivazione (Rilasciare):** <span class="action-glyph">A</span> **Interagire**
+        
+    - **Requisiti:** Il bracciale è carico.
+        
+    - **Effetto:** Puoi rilasciare l'energia immagazzinata in uno dei due modi:
+        
+        1. **Colpo Potenziato:** Il tuo prossimo colpo con un'arma (entro 1 minuto) infligge **2d10 danni da elettricità aggiuntivi**.
+            
+        2. **Sovraccarico Instabile (per il tuo Cannone a Mano):** Se stai impugnando il tuo Cannone a Mano, puoi incanalare l'energia in esso. Al prossimo attacco, l'arma entra in **Overdrive** (come dall'abilità dell'Inventor) senza rischiare il fallimento critico e senza che conti per il normale uso di Overdrive.
 
 #### **Per Liora, la Strega (Witch):**
 
