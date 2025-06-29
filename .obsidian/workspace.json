@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
+                "file": "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fungorgo"
+              "title": "Gli Osservatori di Vecna"
             }
           },
           {
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
+                "file": "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fungorgo"
+              "title": "Backlinks for Gli Osservatori di Vecna"
             }
           },
           {
@@ -163,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
+                "file": "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fungorgo"
+              "title": "Outgoing links from Gli Osservatori di Vecna"
             }
           },
           {
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "locations/Globeseekers II/Cittá/Fungorgo.md",
+                "file": "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fungorgo"
+              "title": "Outline of Gli Osservatori di Vecna"
             }
           },
           {
@@ -246,10 +246,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2cefcbdaed30b51b",
+  "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
-    "TagsRoutes/logMessage.md",
+    "locations/Globeseekers II/Le Fortezze Divine.md",
     "locations/Globeseekers II/Cittá/Fungorgo.md",
+    "TagsRoutes/logMessage.md",
     "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
     "TagsRoutes/logs",
     "TagsRoutes",
@@ -268,7 +269,6 @@
     "organisations/Globeseekers I/Angelorate of Cormyr.md",
     "creatures/Angeli.md",
     "creatures/Bestia Scavatrice del Vuoto.md",
-    "locations/Globeseekers II/Le Fortezze Divine.md",
     "notes/La Grande Discesa.md",
     "organisations/Globeseekers I/Silver Blades.md",
     "organisations/Globeseekers 0/Redbrand Gang.md",
