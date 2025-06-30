@@ -143,7 +143,8 @@ sabotaggio o da un'entità esterna. Utilizzare le sue abilità uniche
 legate al Limbo per superare ostacoli specifici. La tensione tra la sua
 natura caotica e la necessità di ordine per combattere efficacemente.
 
-***
+***
+
 ## Gallery
 ![[cd27afae-8fca-4fa0-a10b-50ace1b52125.jpg]]
 ![[30d8ac02-f675-4c4c-8c9d-fa61d6d1721d.png]]

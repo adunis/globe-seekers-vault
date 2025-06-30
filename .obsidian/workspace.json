@@ -11,14 +11,10 @@
             "id": "79f3e6bcc1c431b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Psionismo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Psionismo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -171,6 +167,12 @@
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "characters/Globeseekers II/Il Party/ELTHON MUSCHIATO, LA SCINTILLA DEL CAOS.md",
+    "maps/Cormyr at War.md",
+    "characters/Globeseekers I/B.B.md",
+    "notes/La Grande Discesa.md",
+    "notes/La Magia.md",
+    "notes/Psionismo.md",
     "fix_lines.py",
     "items/Pietre-Anima.md",
     "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
@@ -188,7 +190,6 @@
     "creatures/Angeli.md",
     "creatures/Bestia Scavatrice del Vuoto.md",
     "locations/Globeseekers II/Le Fortezze Divine.md",
-    "notes/La Grande Discesa.md",
     "organisations/Globeseekers I/Silver Blades.md",
     "organisations/Globeseekers 0/Redbrand Gang.md",
     "organisations/Realms.md",
@@ -197,17 +198,12 @@
     "organisations/Globeseekers I/Free City of Procampur.md",
     "organisations/Pre-Descent Organizations.md",
     "organisations/Nations.md",
-    "organisations/Globeseekers I/Exorcistat of Damara.md",
-    "organisations/Faction.md",
-    "organisations/Globeseekers I/Eternal Council.md",
-    "organisations/Globeseekers I/Empire of Nether.md",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
     "journals/Globeseekers II/Programmi Sessioni",
     "journals/Globeseekers II",
     "journals/Globeseekers 1",
-    "notes/Cosmology",
     "Untitled.canvas",
     "gallery/ea1619b1-e6c9-4774-bf01-4e40dc44b1aa.jpg"
   ]
