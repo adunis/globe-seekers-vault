@@ -42,6 +42,6 @@ Strategic Alliances: The Wyrmclaw have formed alliances with certain nations, in
 
 Overall, the Wyrmclaw pose a significant threat to the balance of power in Faerûn. Their aggression, desire for power, and manipulative tactics make them a formidable force that the adventurers will likely have to confront at some point in their journey.
 
----
+***
 ## Gallery
 ![[9d43f1ef-83f3-4f5b-9790-2a20c09fa264.webp]]

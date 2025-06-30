@@ -4,7 +4,7 @@
 
 New entry: Caroniti di Wryss.
 
----
+***
 ## Gallery
 ![[4a8a492a-d2ce-4bac-80a7-1fe44982a8bb.webp]]
 ![[c394d711-e61b-4f2f-9f40-db7a2b65558d.png]]

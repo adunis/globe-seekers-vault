@@ -44,6 +44,6 @@ Azara used a Netherese artefact to summon demons and attack Airspur. Azara used 
 
  This suggests that she was working to destabilise Airspur and weaken its defences, possibly to facilitate the theft of the Urn of Geb.
 
----
+***
 ## Gallery
 ![[f79972d7-dcf0-4c5e-bfb0-acdbad0397b8.webp]]

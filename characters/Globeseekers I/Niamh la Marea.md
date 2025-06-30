@@ -21,6 +21,6 @@ race: Genasi
   inclinazione verso il piacere personale la rende impopolare tra i suoi
   sudditi.
 
----
+***
 ## Gallery
 ![[9d6c9c3b-8725-4e8d-86c8-918caef7bbd8.webp]]

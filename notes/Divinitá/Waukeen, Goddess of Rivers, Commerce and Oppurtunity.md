@@ -20,6 +20,6 @@ kanka_id: 265283
 
 **Cleric Outfit**: Clerics of Waukeen wear yellow robes adorned with intricate embroidery of gold coins and gems, representing wealth and trade. They carry ceremonial nunchaku, often decorated with chains of gold. Their attire is practical yet luxurious, with fine silks and fabrics, symbolizing the balance between function and prosperity. Many clerics also wear pouches filled with coins or scales for weighing and measuring during trade deals.
 
----
+***
 ## Gallery
 ![[9d745dea-47a4-4543-845c-06fb7a4eb2d2.jpg]]

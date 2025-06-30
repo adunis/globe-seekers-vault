@@ -50,6 +50,6 @@ a war that shattered the multiverse.
   Githyanki seeking to rewrite history and undo the Great Descent,
   potentially unraveling the fabric of reality itself.
 
----
+***
 ## Gallery
 ![[9d44c2bf-198f-4135-9c0f-e3958d2af065.jpg]]

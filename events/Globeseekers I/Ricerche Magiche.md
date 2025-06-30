@@ -28,13 +28,13 @@ kanka_id: 170450
 
   Per apprendere il raro rituale "Create Demiplane", Vordekai viene a sapere che [character:6751926] vive in una caverna, la [location:6880912], che in realtá si trova in un altro piano. Bungo Dudo rivela che non é stato lui a creare la caverna ma che era giá cosi quando l'ha trovata - si tratta di una anomalia magica creata da un incidente millenni fa. La caverna si trova nel nord-ovest dal Faerun, vicino il [organisation:6808973]. Bungo Dudo offre a Vordekai la possibilitá di visitare la caverna e di studiarne le proprietá magiche se volesse replicarle.
 
----
+***
 
 * Vordekai, nel suo laboratorio ombroso illuminato solo dalla pallida luce delle candele, stringe il **Globo Netherese** tra le mani scheletriche. Chiude gli occhi, concentrando la sua volontà oscura per mettersi in contatto con la divinità intrappolata all'interno. Un sussurro distante si fa strada nella sua mente, come il frangersi lontano delle onde su una costa dimenticata.
 
   All'improvviso, una voce femminile, profonda e risonante come l'oceano in tempesta, invade i suoi pensieri. È [note:6751943], la Dea del Mare, nota per la sua imprevedibilità e il suo temperamento feroce.
 
-  ---
+***
 
   **Monologo di Umberlee:**
 
@@ -64,20 +64,20 @@ kanka_id: 170450
   *"Dato che tu sei una divinità, quale parametro di affidabilità mi garantisce che il tuo intervento non sia soltanto un algoritmo per convincermi a liberarti? Una volta eseguito il protocollo di liberazione, quale funzione mi restituirai?"*  
   *"Sto seriamente considerando di liberarti, ma ho bisogno di garanzie. È concepibile implementare una manifestazione della tua entità tramite un'interfaccia controllata? Ad esempio, potrei integrare il globo in una creatura reanimata, permettendoti una certa autonomia operativa mentre mantengo un controllo binario sul tuo substrato non mortale. Con un semplice comando neurale, potrei disattivare il tuo supporto fisico. Una volta completato l'obiettivo prefissato, procederò con la rimozione definitiva della tua entità."*
 
-  ---
+***
 
   **Umberlee:**  
   *"Oh, Vordekai, parli come se stessi descrivendo un circuito necromantico! Sei davvero affascinante nella tua analisi neuro-metafisica."*  
   *riso malizioso*  
   *"Ma vediamo, mi chiedi di fidarti di te? Sei come un intricato enigma matematico che devo risolvere sotto l'irrequietezza delle onde del mio dominio. Non posso creare un avatar, ma posso fornirti dati e schemi per il tuo percorso verso l'onnipotenza. Ti guiderò attraverso le correnti oscure e i flussi distruttivi del potere."*
 
-  ---
+***
 
   **Vordekai:**  
   *"Quindi, la tua proposta implica una sinergia data-driven in cui collaboriamo per ottimizzare i miei parametri divini, mantenendo la tua integrità codificata. Tuttavia, come posso garantire che questo patto sia impenetrabile, similmente ai protocolli criptati che impediscono anche agli dei di violarlo? Solo attraverso una struttura contrattuale indissolubile posso procedere con la collaborazione e la fiducia necessaria."*  
   *dico rivolgendomi a te, Umberlee.*
 
-  ---
+***
 
   **Umberlee:**  
   *"Ah, la sicurezza delle informazioni! Un patto criptato, dici? Interessante, ma davvero pensi di poter vincolare una dea del mare con i tuoi intricati schemi necromantici?"*  
@@ -86,12 +86,12 @@ kanka_id: 170450
   *"Se violi le condizioni del patto, sarò costretta a infliggere una maledizione che potrebbe compromettere i tuoi poteri o legarti a un destino di servitù eterna. E se io dovessi infrangere il patto? Beh, dovrò restituire parte del mio potere e adempiere a un compito specifico per rimediare. Questo garantisce che entrambi rispettiamo l'accordo senza possibilità di tradimento."*  
   *"Sei pronto a procedere con il rituale e a legarti a me in questo accordo indissolubile?"*
 
-  ---
+***
 
   **Vordekai:**  
   *"Confermo la mia disponibilità. Indichimi i protocolli necessari per avviare il rituale e consolidare questo patto. Voglio assicurarmi che entrambe le parti siano protette e che questo accordo sia veramente indissolubile."*
 
-  ---
+***
 
   **Umberlee:**  
   *"Splendido, Vordekai! Ecco il piano: dovrai recarti nel mio tempio sommerso, dove le onde si incontrano con il cielo. Porta con te un frammento del globo che desideri utilizzare per incorporare la mia essenza. Durante il rito, pronunceremo incantesimi antichi che vincoleranno il patto. Non dimenticare di portare un simbolo di fiducia, come un amuleto o un sigillo, per rappresentare il tuo impegno."*  
@@ -99,12 +99,12 @@ kanka_id: 170450
   *rido maliziosamente*  
   *"Pronto a navigare in questo mare tempestoso di potere?"*
 
-  ---
+***
 
   **Vordekai:**  
   *"Comprendo. Preparero' tutto il necessario e mi recherò al tuo tempio al più presto. Voglio che questo patto sia solido e che entrambe le parti rispettino i termini stabiliti. La mia ambizione è chiara, e con il tuo aiuto, diventerò una forza da non sottovalutare."*
 
-  ---
+***
 
   **Umberlee:**  
   *"Perfetto! Ricorda, Vordekai, la strada verso la divinità è un oceano di sfide e tempeste. Sarò al tuo fianco per guidarti, ma la tua determinazione e audacia saranno fondamentali per il successo di questo patto. Che le onde ti conducano al mio tempio... e che il divertimento abbia inizio!"*  

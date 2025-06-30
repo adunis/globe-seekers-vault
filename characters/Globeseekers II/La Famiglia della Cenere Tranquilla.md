@@ -206,6 +206,6 @@ subito dopo, si comporta di nuovo come la silenziosa e spaventata
 ragazzina, ma porta con sé il peso di ciò che è accaduto e forse è ora
 inconsapevolmente legata (o monitorata) più da vicino da Zorvath.
 
----
+***
 ## Gallery
 ![[1a44e0cf-9b0f-4bc5-91fc-4bc1aaf560e0.jpg]]

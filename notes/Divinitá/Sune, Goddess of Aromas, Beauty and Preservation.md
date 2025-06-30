@@ -32,6 +32,6 @@ kanka_id: 265646
 
 **Cleric Outfit:** Clerics of Sune wear elegant robes and armor in shades of rose red and gold, often adorned with delicate embroidery depicting hearts, roses, and doves. Their attire is as much a celebration of beauty as it is a symbol of their devotion. The garments are designed to be graceful yet functional, blending chainmail with luxurious fabrics to maintain their divine appeal. They carry rapiers or ceremonial whips that symbolize both the allure and the discipline of love, with their hilts crafted in ornate designs.
 
----
+***
 ## Gallery
 ![[9dcde1c5-4452-49f4-b6fb-f21c2d7b970a.png]]

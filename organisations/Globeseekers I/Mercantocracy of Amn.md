@@ -8,6 +8,6 @@ Beneath the polished façade of Amn's wealth, however, lies a darker truth. Vamp
 
 While internal conflicts and tensions simmer under the surface, with accusations of anti-government plots suggesting the existence of rebel factions, Amn’s government remains steadfast. Its mercantile class shows no hesitation in sacrificing loyalty or morals in exchange for wealth and influence, leveraging alliances and rivalries in equal measure to expand Amn's power in the face of both mortal and supernatural forces.
 
----
+***
 ## Gallery
 ![[9d6cfd62-d7e9-43ec-9be4-4ab0de2865e6.webp]]

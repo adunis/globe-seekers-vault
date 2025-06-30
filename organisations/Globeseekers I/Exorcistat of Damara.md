@@ -129,6 +129,6 @@ The Kingdom of Damara is a complex society where power, loyalty, and secrets int
 * **Redemption and Betrayal**: Characters like Daren Feuerstein and Lord Eamon Eisen offer narratives of betrayal and redemption, providing opportunities for players to influence their paths or exploit their vulnerabilities.
 * **Hidden Agendas of NPCs**: With NPCs like Lady Astrid Wulfgar and Dame Isolde Schatten harboring their own secrets, players can uncover hidden motives, form alliances, or confront antagonists operating behind the scenes.
 
----
+***
 ## Gallery
 ![[9d448329-bd2e-4a81-9055-60c5ec740cd3.webp]]

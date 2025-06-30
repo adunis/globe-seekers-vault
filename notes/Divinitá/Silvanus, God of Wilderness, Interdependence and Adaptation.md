@@ -20,6 +20,6 @@ kanka_id: 265282
 
 **Cleric Outfit**: Clerics of Silvanus wear robes made from leaves and vines, woven together to symbolize their bond with nature. Their great clubs are carved from ancient trees and are covered in moss or ivy. They often adorn themselves with natural elements like flowers or animal bones and carry small pouches of seeds, ready to spread life wherever they go.
 
----
+***
 ## Gallery
 ![[9d74d41d-c499-4864-be7f-bef8c70e5b47.jpg]]

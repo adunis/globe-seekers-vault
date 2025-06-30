@@ -72,6 +72,6 @@ The Ritual of Divine Absorption (Karsus's Hunger): This ritual takes its name fr
 
 The Ritual of Divine Ascension (Echo of Creation): This ritual requires a Globe containing the essence of at least one deity. The ritual must be performed on the Celestial Stairway during twilight. The number of worshippers required to perform the ritual increases for each additional divine domain the ritualist wishes to acquire. The ritual is contained in the Netherese Codex of Ascension.
 
----
+***
 ## Gallery
 ![[9d43cdad-4ae9-4dd1-a1db-94d41378dfe4.webp]]

@@ -49,6 +49,6 @@ kanka_id: 1954881
   come inventore unico, che fonde l'ingegnosità goblin con lampi di genio
   divino. La ricerca della sua tribù perduta.
 
----
+***
 ## Gallery
 ![[49933903-dd52-4c1e-b3e8-378b7c1c38c8.webp]]

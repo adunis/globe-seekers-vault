@@ -50,6 +50,6 @@ Tuttavia, il suo passato lo raggiunse quando scoprì che Raphael, ora un potente
   
 ![9d6c99a8-3223-4b15-bc86-2d0ea41aacd8.png](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/273567/9d6c99a8-3223-4b15-bc86-2d0ea41aacd8.png)
 
----
+***
 ## Gallery
 ![[9d6c998b-eac2-4aa0-8345-350f245e9036.jpg]]

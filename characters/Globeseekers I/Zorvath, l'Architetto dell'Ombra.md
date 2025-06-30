@@ -84,6 +84,6 @@ Potential Ally or Deceptive Foe?: Zorvath's role in the larger narrative remains
 
 Zorvath's presence introduces a layer of intrigue and complexity to the narrative. His knowledge and ambitions make him a pivotal figure in the fight against Xul'koroth, but his true intentions and his role in the unfolding events remain to be seen.
 
----
+***
 ## Gallery
 ![[9d25a562-9b84-40ff-84d0-ab07b011eac8.png]]

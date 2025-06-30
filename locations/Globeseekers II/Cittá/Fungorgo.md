@@ -221,7 +221,7 @@ tipi di materiali e forse sui metodi di trasporto.
 
   
 
----
+***
 ## Gallery
 ![[9ac81322-adf9-4697-9617-1c0eb64d9c99.png]]
 ![[8651b3f5-2a60-487b-bc52-b2cd9b7cf127.png]]

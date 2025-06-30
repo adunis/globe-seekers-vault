@@ -28,6 +28,6 @@ Connection to the Black Spider: After the party confronts Glasstaff at Old Owl W
 
 . This implies a deeper connection between Glasstaff and the Black Spider.
 
----
+***
 ## Gallery
 ![[51082f89-6016-4d4f-98e4-1eb5f7f166da.png]]

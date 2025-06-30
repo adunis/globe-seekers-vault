@@ -36,6 +36,6 @@ Did Omera's association with the vampires influence their actions as the cleric 
 
 Omera's Significance: Omera embodies the duality of light and darkness, a fallen cleric with a heroic past entangled in a web of secrets and potentially sinister connections. Uncovering the truth behind their fall from grace, their relationship with the vampires, and their motivations as the cleric of Halendos could reveal hidden depths to the seemingly peaceful village of Halendos and its inhabitants.
 
----
+***
 ## Gallery
 ![[ddca1cd8-2613-485a-89ff-c7dca8ed7a7d.webp]]

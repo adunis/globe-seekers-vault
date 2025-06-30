@@ -20,6 +20,6 @@ kanka_id: 265287
 
 **Cleric Outfit**: Selune’s clerics wear white robes that shimmer in the moonlight, adorned with silver moon symbols. They carry heavy maces shaped like crescent moons, and their attire often includes silver jewelry in the form of stars or moons. Their robes are lined with soft velvet, symbolizing their connection to dreams and the protection of the vulnerable during the night.
 
----
+***
 ## Gallery
 ![[9d74dca6-0c1c-4cfd-a12f-ecd30b18c83e.png]]

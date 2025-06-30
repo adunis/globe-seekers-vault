@@ -10,7 +10,7 @@ On the remnants of this elven empire, the **Anelectory of Cormyr** was eventuall
 
 In the northern regions, a powerful **Ancient Dwarven Empire** once held sway over the lands now controlled by the **Kingdom of Damara**. Renowned for their mastery of stonework and fortification, the dwarves built vast [[Cities]], roads, and subterranean halls. Although the empire has long since vanished, Damara’s [[Cities]] and infrastructure still stand on dwarven foundations. Today, the Damarians incorporate dwarven ruins into their own [[Cities]], honoring the dwarves’ architectural legacy while building a society centered on faith, resilience, and defense against dark forces.
 
----
+***
 
 ### The Netheril Empire and the Formation of the Inner Sea
 
@@ -18,7 +18,7 @@ At the heart of Faerûn once lay the **Nether Empire**, an empire of powerful ma
 
 Refugees from Netheril fled to various regions, with a significant number seeking sanctuary in the distant south in what is now known as **Halruaa**. These exiled mages brought their arcane knowledge with them, merging it with local traditions and founding a unique, magic-infused society. Halruaan culture, deeply influenced by Netheril’s legacy, became known for its dedication to arcane research, innovation, and mastery of magical technology, including flying ships and other arcanapunk advancements. Over time, Halruaa evolved into a mystical kingdom where *Mystra*, *Gond*, and *Lathander* are widely revered, representing the pursuit of magic, invention, and progress.
 
----
+***
 
 ### The Current Conflict: The War Between the Wyrmclaw Empire and Akanul
 
@@ -26,7 +26,7 @@ In the south, the **Tri-Draconate Empire of the Wyrmclaw** has recently found it
 
 This ongoing war has destabilized the southern region, affecting trade routes and causing political tension among nearby nations. Akanul, a vibrant land with strong elemental ties and a merchant-driven economy, struggles to withstand the Wyrmclaw’s aggressive expansionist ambitions. The conflict has also drawn the attention of neighboring powers, including Amn and Cormyr, which have been pulled into diplomatic and military support roles to either stabilize the region or leverage the war for their own strategic interests.
 
----
+***
 
 ### Recent Historical Alliances and the Lasting Legacy of Ancient Civilizations
 

@@ -16,7 +16,7 @@ head(
 | --- | --- | --- |
 | Deserto Magico | Rovine Character 1 | Rovine Character 2 |
 
----
+***
 
 > *"Qui la sete non è mancanza d'acqua, è mancanza di speranza. Le dune ridono delle tue ossa."*
 >
@@ -30,7 +30,7 @@ head(
 >
 > * Tavo il Cartografo, prima di essere dissolto nel Vortice di Zaffiro
 
----
+***
 
 *(frammenti recuperati da una carovana sommersa nella sabbia radioattiva)*
 
@@ -69,7 +69,7 @@ mura sono fatte di schegge d'osso e disperazione. Il Duca offre acqua
 pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 (il resto è cancellato da macchie di ruggine bioluminescente)"
 
----
+***
 
 ## 🌵 Sopravvivenza nell'Abraccio Arido
 
@@ -87,7 +87,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 * Fiaschetta termica con condensa di cactus psicoattivo
 * Scarpe con suola in gomma di **Scorpione Silicio** (resiste a 700°C)
 
----
+***
 
 ## 🏜️ Specie Dominanti
 
@@ -97,7 +97,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 | Orco | **Lance Infuocate** (Orchi del Plasma) | Tribù con pelle adattata alle radiazioni. Usano fucili a particelle alimentati a bile. Adorano i fulmini del deserto. |
 | Umano | **Cercasangue** (Umani Degenerati) | Sopravvissuti con ghiandole salivari modificate. Riciclano l'urina in acqua potabile. Commerciano ricordi come moneta. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -107,7 +107,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 | Carovane | **Carovane del Vuoto** (Mercanti Djinn) | Mercanti nomadi che viaggiano su dune mobili. Vendono armi proibite in cambio di emozioni. | - Sheik Al'Raz (entità di sabbia animata) - Lissa, Ragazza con occhi da serpente a sonagli |
 | Culto | **Adoratori del Crepuscolo** (Setta del Sole Nero) | Fanatici che scavano nel sottosuolo per risvegliare un antico dio del deserto. | - Alto Sacerdote Kethra (pelle ricoperta di schegge di meteorite) - Nix, Profeta Senza Lingua |
 
----
+***
 
 ## 🌵 Flora Letale
 
@@ -117,7 +117,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 | Vortice | **Vortici di Zaffiro** Formazioni cristalline rotanti che creano microclimi letali. Chi viene tagliato dalle schegge inizia a dissolversi in luce pura. |
 | Fungo | **Ombra Fungina** Colonie fungine che si nutrono di ombre. Lasciano le vittime vulnerabili alla luce solare estrema. |
 
----
+***
 
 ## 🦂 Fauna Desertica
 
@@ -127,7 +127,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 | Serpente | **Sonagli Laser** Serpenti che emettono fasci termici dagli occhi. Il sonaglio provoca allucinazioni uditive. |
 | Avvoltoio | **Avvoltoi Trisenzienti** Uccelli a tre teste che banchettano con ricordi rubati. Le piume sono lame naturali. |
 
----
+***
 
 ## 👥 Personaggi d'Esempio
 
@@ -137,7 +137,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 | **Ingeniera Idrovora** Cyborg con impianti per distillare urina. Il braccio sinistro è una pompa idraulica. | Inventore (Macchinista) / Orco | - Trapano a plasma alimentato a sudore |
 | **Mercante d'Emozioni** Djinn minore intrappolato in forma umana. Vende ricordi rubati in fiale di vetro. | Bardo (Museo dell'Inganno) / Fetchling | - Liuto a corde fotoniche |
 
----
+***
 
 ## ⚔️ Equipaggiamento Tipico
 

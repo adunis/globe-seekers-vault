@@ -16,6 +16,6 @@ Secretive and Strategic Buyers: Sembia is a potential buyer of rare and exotic w
 
 In Sembia, real faces and names are guarded secrets, and society functions within a complex web of hidden motives and shifting loyalties. Every layer of Sembian society—from government to the marketplace—operates behind a mask, making the nation one of the most mysterious and unpredictable powers in the region.
 
----
+***
 ## Gallery
 ![[9d6cf54a-6d17-4635-9d38-be4ddac4b823.webp]]

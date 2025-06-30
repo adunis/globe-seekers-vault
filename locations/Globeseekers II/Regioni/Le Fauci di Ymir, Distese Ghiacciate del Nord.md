@@ -16,7 +16,7 @@ head(
 | --- | --- | --- |
 | Ghiaccio 1 | Gigante | Lupo |
 
----
+***
 
 > *"Qui il freddo non uccide... ti scolpisce. Diventi statua di te stesso, monumento alla tua follia."*  
 > – Hjalmarr, Sciamano delle Tribù dei Denti Spezzati
@@ -27,7 +27,7 @@ head(
 > *"La Cittadella non è una fortezza. È una* fossa*. Le sue mura sono fatte di urla congelate."*  
 > – Ultimo messaggio della spedizione di Jorund Bloodeye
 
----
+***
 
 **(frammenti di una mappa incisa su pelle di tricheco)**
 
@@ -54,7 +54,7 @@ hanno preso Bjorn. La sua slitta era una trappola: l’ha inghiottito in
 un blocco di ghiaccio vivo. Dite a mia figlia... che il padre è
 diventato... *(il testo è cancellato dal gelo)*"
 
----
+***
 
 ## ❄️ Sopravvivenza nelle Fauci di Ymir
 
@@ -72,7 +72,7 @@ diventato... *(il testo è cancellato dal gelo)*"
 * Sciabole di ghiaccio vulcanico (tagliano i Mimici)
 * Lanterne alimentate a grasso di tricheco (non si spengono mai)
 
----
+***
 
 ## 🧊 Specie Dominanti
 
@@ -82,7 +82,7 @@ diventato... *(il testo è cancellato dal gelo)*"
 | Gigante | **Figli di Ymir** (Giganti del Gelo) | Colossi con barba di stalattiti. Governano tramite sacrifici alla Cittadella. Parlano con lingue di ghiaccio. |
 | Orchi | **Predatori del Vuoto** (Orchi del Freddo) | Cacciatori con pelle bianca come neve. Usano armi fatte di denti di Lupo degli Spiriti. |
 
----
+***
 
 ## 🌪️ Fazioni Principali
 
@@ -92,7 +92,7 @@ diventato... *(il testo è cancellato dal gelo)*"
 | Ribelli | **Figli dell'Aurora** (Stregoni delle Luci) | Cultisti che venerano le aurore. Rubano ricordi per alimentare rituali. | - Valtyss, Donna senza Volto - Kragnar, Sciamano con mani trasparenti |
 | Nani | **Forgiatori di Runir** (Nani dei Ghiacci) | Fabri che estraggono metallo dalle viscere dei ghiacciai. Creano armi maledette. | - Thrain "Manodiferro" - Drifa, Alchimista con sangue blu |
 
----
+***
 
 ## ❄️ Flora Letale
 
@@ -102,7 +102,7 @@ diventato... *(il testo è cancellato dal gelo)*"
 | Lichene | **Lichene Sanguinante** Piante che si nutrono di calore corporeo. Causano allucinazioni termiche (victims si spogliano credendo di bruciare). |
 | Neve | **Neve Nera** Precipitazioni tossiche che corrodevano metallo. Usata dai Giganti come arma. |
 
----
+***
 
 ## 🐺 Fauna Glaciale
 
@@ -112,7 +112,7 @@ diventato... *(il testo è cancellato dal gelo)*"
 | Manticora | **Manticore del Vuoto** Ibridi con ali di ghiaccio. I pungiglioni iniettano cristalli letali. |
 | Tricheco | **Trichechi Runici** Bestie con zanne incise da rune antiche. Difendono i santuari sepolti nel ghiaccio. |
 
----
+***
 
 ## 👤 Personaggi d'Esempio
 
@@ -122,7 +122,7 @@ diventato... *(il testo è cancellato dal gelo)*"
 | **Forgiatore Maledetto** Nano con mani bruciate dal metallo runico. Crea armi assetate di anime. | Inventore (Arma Runica) / Nano | - Martello da fabbro incandescente |
 | **Sciamana Senza Volto** Ex-umana posseduta dagli Spiriti del Gelo. Il volto è una maschera di ghiaccio. | Druido (Spiriti Polari) / Umano | - Bastone di legno petrificato |
 
----
+***
 
 ## ⚔️ Equipaggiamento Tipico
 

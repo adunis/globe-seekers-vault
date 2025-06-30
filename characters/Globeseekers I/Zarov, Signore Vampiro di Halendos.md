@@ -48,6 +48,6 @@ How does Zarov's connection to the Aboleth influence his actions? Is he a willin
 
 Zarov represents a shadowy force operating within the narrative, his true intentions and the extent of his power remaining shrouded in mystery. Unravelling the secrets surrounding his rule, his connection to the Aboleth, and his motivations could reveal crucial insights into the forces at play and the potential threats facing the protagonists.
 
----
+***
 ## Gallery
 ![[9d6c9a3f-ebc7-44b7-b3c7-a19537860112.jpg]]

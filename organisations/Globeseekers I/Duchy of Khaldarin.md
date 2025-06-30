@@ -46,6 +46,6 @@ The current state of Khaldarin under Damara's rule.
 
 Khaldarin, though shrouded in mystery, represents a significant element in Er Tozzo's personal narrative. Uncovering more information about Khaldarin, its people, and its fate could reveal crucial insights into the broader conflicts within the world and the motivations of those involved.
 
----
+***
 ## Gallery
 ![[9d6cf5a5-cfee-4efb-9917-56d3f15a129a.webp]]

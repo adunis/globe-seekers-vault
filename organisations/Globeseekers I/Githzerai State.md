@@ -64,6 +64,6 @@ Azara, a promising Githzerai monk and magus, betrayed her people by delivering a
 
 The sources portray the Githzerai state as a haven of order within the unpredictable realm of Limbo. Despite providing opportunities for wealth and advancement, the society seems to place a high value on power and ruthlessness. The ongoing conflict with the Githyanki remains a defining aspect of their existence, as does their mastery of mental discipline for survival in the chaotic plane they inhabit.
 
----
+***
 ## Gallery
 ![[9d45b280-c1cd-40e3-a6a5-433f474dc16a.webp]]

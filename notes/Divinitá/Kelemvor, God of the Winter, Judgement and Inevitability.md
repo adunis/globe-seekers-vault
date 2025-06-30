@@ -22,6 +22,6 @@ kanka_id: 265273
 
 **Cleric Outfit**: Kelemvor’s clerics wear dark blue robes with silver trim, and they often wear silver masks resembling tranquil faces. Their attire is designed to evoke calm and solemnity, helping them guide mourners and perform funeral rites. They carry silver amulets shaped like owls, symbolizing their role as watchers of the dead.
 
----
+***
 ## Gallery
 ![[9d595a6a-64cf-48e1-88f9-26d808476bdf.webp]]

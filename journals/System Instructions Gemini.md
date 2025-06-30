@@ -2,7 +2,7 @@
 kanka_id: 142077
 ---
 
----
+***
 
 **SYSTEM INSTRUCTIONS PER GEMINI - CAMPAGNA PATHFINDER 2E SU FOUNDRY VTT**
 
@@ -173,4 +173,4 @@ Sei un assistente AI specializzato nella creazione di contenuti dettagliati e pr
        
    ```
 
----
+***

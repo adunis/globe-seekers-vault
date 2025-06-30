@@ -34,6 +34,6 @@ Uncertain Future: The fate of the Water Rats after the players' encounter with t
 
 The Water Rats are a complex faction with a history of exile and rebellion. Their alliance with the Kraken King highlights their willingness to challenge the status quo and seek power, even if it means aligning themselves with a dangerous and unpredictable force. Their fate remains uncertain, and their role in the campaign's unfolding events could be significant depending on the players' choices and actions.
 
----
+***
 ## Gallery
 ![[9d6cff63-8f0b-43e1-85d0-29492721861f.webp]]

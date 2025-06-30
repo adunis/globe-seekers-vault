@@ -48,7 +48,7 @@ At the end of the campaign, Grogo decides to travel to Thay, the home of the Cul
 
 . He believes that the Pergamene Netherese might help him. The Pergamene Netherese are a set of ancient scrolls that contain the fundamental theory of magic.
 
----
+***
 ## Gallery
 ![[9d6b06cc-9c36-4e30-a48b-992f0693e81e.jpg]]
 ![[dee65957-895d-4d0c-8f79-c44bdfa66b87.png]]

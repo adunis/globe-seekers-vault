@@ -43,7 +43,7 @@ piano, l'equilibrio sarà ripristinato e potrete tornare a casa.»*
 * **«Non arrendetevi mai, anche quando sembra impossibile.»**
 * **«E, cosa più importante, credete nella magia del Natale.»**\*
 
----
+***
 
 ## **Un Inizio di Giornata Inaspettato**
 
@@ -92,7 +92,7 @@ delusa. Mentre uscite dalla palestra, sentite bisbigli tra i genitori.*
 
 *La sensazione che qualcosa non vada è palpabile.*
 
----
+***
 
 ## **Le Prime Voci e i Volantini Misteriosi**
 
@@ -174,7 +174,7 @@ Fermare la distruzione dei giocattoli e ricordare al quartiere il loro valore se
   + Usa attacchi basati sulla forza con strumenti.
   + Chiama operai di fabbrica come rinforzi.
 
----
+***
 
 ## **Quartiere 2: Central Park – L'Albero di Natale Perfetto**
 
@@ -225,7 +225,7 @@ Decorare segretamente gli alberi naturali con la comunità per ripristinare la t
   + Usa la torcia del telefono per accecare i giocatori.
   + Chiama "fan adoranti" (minion) per assisterla.
 
----
+***
 
 ## **Quartiere 3: Il Bronx – Il Concorso di Canti Natalizi**
 
@@ -315,7 +315,7 @@ Smascherare la "Ruota del Progresso" truccata e ripristinare le tradizioni artig
   + Lancia regolamenti per "far rispettare l'ordine".
   + Chiama assistenti aziendali per formare barricate.
 
----
+***
 
 ## **L'Ultimo Atto: Lo Scontro Finale**
 
@@ -358,7 +358,7 @@ viene crivellato, i suoi tentacoli si contorcono spasmodicamente mentre
 viene riempito di piombo. Un'ultima, straziante urlo risuona nella notte
 prima che il mostro cada a terra, un ammasso informe di carne e sangue.*
 
----
+***
 
 ### **Confronto Finale**
 
@@ -376,7 +376,7 @@ X si trasforma nella sua vera forma di Aboleth in un momento di rabbia,
 ma gli abitanti della città, ispirati dai giocatori, reagiscono con
 armi improvvisate e palle di neve, sconfiggendola.**
 
----
+***
 
 ## **Il Ritorno a Casa**
 

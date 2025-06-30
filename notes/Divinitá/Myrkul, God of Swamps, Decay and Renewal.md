@@ -20,6 +20,6 @@ kanka_id: 265280
 
 **Cleric Outfit**: Clerics of Myrkul wear long, tattered black robes made to resemble decaying fabric, with bone jewelry and necklaces fashioned from skulls. Their scythes are both tools and symbols, and they often carry pouches of bone dust. Their faces are painted or masked to appear skeletal, representing their dedication to the god of death and decay.
 
----
+***
 ## Gallery
 ![[9dcde44e-c8f5-4562-a180-fcdb86cd3bfe.png]]

@@ -20,6 +20,6 @@ kanka_id: 265292
 
 **Cleric Outfit**: Clerics of Bhaal wear long, dark red robes with swirling black patterns, representing the shadows of death and murder. Their daggers are made from obsidian and they wear raven feathers as decorations. Their hoods cover most of their faces, leaving only their eyes visible to instill fear in those they encounter.
 
----
+***
 ## Gallery
 ![[9d8a8578-7ac8-4fac-9020-f14310c68903.png]]

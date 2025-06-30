@@ -20,6 +20,6 @@ kanka_id: 265284
 
 **Cleric Outfit**: Clerics of Oghma wear robes resembling old parchment, dyed in soft yellow with intricate ink-like designs flowing across the fabric. They carry long scrolls or books strapped to their belts and often wield finely crafted longswords, representing the protection of knowledge. Many also wear writing quills tucked behind their ears as a symbol of creativity.
 
----
+***
 ## Gallery
 ![[9d6af51b-1eea-4cd9-89b9-f528cbf96b71.png]]

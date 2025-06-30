@@ -77,7 +77,7 @@ The Curse of Voracity does not discriminate between native and foreign life. Cre
 
 This slow but inevitable transformation reshapes those who linger in Materia for too long, leaving them altered both physically and spiritually. Over time, their cultures adapt to include the necessity of predation, their societies developing rituals and justifications for the relentless cycle of consumption.
 
----
+***
 
 **Materia’s Unique Ecosystem**  
 Materia’s ecology is a reflection of this harsh reality. Predation is not only a survival mechanism but a defining aspect of every living being’s existence. From the towering crystal trees whose roots siphon life from the soil to the apex predators that dominate the wilderness, every form of life contributes to a complex, brutal balance.
@@ -85,7 +85,7 @@ Materia’s ecology is a reflection of this harsh reality. Predation is not only
 **The Curse’s Origins**  
 Legends tell of the Curse of Voracity being tied to the fall of the Terran Accord. Some say the curse was the result of the saurian lizardfolk's hubris, a punishment for their domination over the other species. Others claim it was an ancient deal struck with the primal forces of earth and darkness, ensuring survival at a terrible price. Regardless of its origin, the curse has persisted, binding all life to its inexorable cycle.
 
----
+***
 
 ### **The Terran Accord and the Curse**
 
@@ -97,7 +97,7 @@ The Terran Accord thrived despite the Curse of Voracity, its society rooted in c
 
 However, the Curse of Voracity also sowed the seeds of the Accord’s downfall. As resources grew scarce and the lizardfolk sought greater control, the fragile balance shattered. The rebellion of the frog people and the exodus of the beastfolk left the lizardfolk isolated, their society collapsing under the weight of their hubris and the curse's unyielding demands.
 
----
+***
 
 ### **Echoes of Voracity**
 
@@ -111,7 +111,7 @@ The Curse of Voracity ensures that Materia remains both a place of unparalleled 
 
 When the ancestors of elves, dwarves, gnomes, and other species from distant planes first arrived in Materia, they were not bound by the **Curse of Voracity**. Their origins in other planes, untouched by the primal forces of Materia, allowed them to exist without the need to consume other living beings for sustenance. However, the Curse of Voracity, deeply rooted in the essence of Materia, is not simply a local phenomenon—it is a pervasive, insidious force that alters life itself over time.
 
----
+***
 
 #### **The Gradual Transformation**
 
@@ -126,7 +126,7 @@ However, Materia’s influence is persistent and unavoidable. Over time, as thes
 3. **Cultural Shifts**  
    As their descendants adapted biologically, their cultures began to reflect the curse’s influence. Rituals surrounding hunting, farming, and sustenance emerged, embedding the necessity of consumption into their way of life.
 
----
+***
 
 #### **The Birth of New Species**
 
@@ -136,13 +136,13 @@ This gradual transformation gave rise to the species we now recognize as elves, 
 * **Dwarves**: Their industriousness and resilience led them to focus on cultivating and harvesting life sustainably, often through careful management of underground ecosystems.
 * **Gnomes**: Their creativity and curiosity drove them to experiment with ways to reduce their reliance on predation, leading to the development of innovative farming techniques and alchemical solutions.
 
----
+***
 
 #### **The Curse’s Dual Nature**
 
 The Curse of Voracity acts as both a survival mechanism and a force of transformation. For the descendants of the original planar immigrants, it represents a new way of life dictated by Materia’s laws. While the curse compels them to consume life, it also binds them more deeply to the plane, granting them a unique understanding of its natural cycles and fostering a deep connection to its ecosystems.
 
----
+***
 
 #### **Legacy of the Ancestors**
 

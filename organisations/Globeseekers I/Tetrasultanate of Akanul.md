@@ -106,6 +106,6 @@ One possible buyer for the rare personal ballistae is the nation of Akanul, repr
 
  She believes the ballistae would be helpful against the Wyrmclaws.
 
----
+***
 ## Gallery
 ![[9d44c45d-07ad-4e11-bdab-b0ff8ca14fd8.jpg]]

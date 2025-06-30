@@ -46,6 +46,6 @@ Smilzo, lontano durante l'attacco iniziale, fu catturato poco dopo. Il suo statu
 
 Smilzo è l'ultimo rampollo conosciuto di una casata nobile che, disillusa dalla crudeltà e dall'ipocrisia degli Antichi Dei dopo la Grande Discesa, trovò una nuova, pericolosa fede in Vordekai, uno dei Nuovi Dei imprigionati. La sua famiglia fu distrutta per questa recente eresia. Ora, scelto da Vordekai stesso, Smilzo porta il peso di questa eredità spezzata e il compito di navigare un mondo ostile, combattendo proprio quegli dei che la sua famiglia aveva imparato a odiare, mentre cerca di recuperare i pezzi del suo passato e del suo scopo.
 
----
+***
 ## Gallery
 ![[62c90651-4d17-41e7-a9fb-86716252d05e.webp]]

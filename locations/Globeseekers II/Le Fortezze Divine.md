@@ -1,7 +1,7 @@
 ---
 kanka_id: 1706005
 ---
----
+***
 
 **LE FORTEZZE DIVINE**
 
@@ -40,7 +40,7 @@ estranei.
   funzionamento dell’insediamento e dei territori circostanti secondo la
   sua volontà.
 
----
+***
 
 🌅 **Lathandyr, The Eternal Dawn**
 
@@ -73,7 +73,7 @@ estranei.
 * **Flora & Fauna:** Girasoli Cannibali (divorano chi si ferma all'ombra), Cavalli Fantasma (ossa luminose che guidano verso trincee infestate).
 * **Sopravvivenza:** Indossare abiti neri per confondere le ombre, offrire un occhio alle sentinelle d'oro per passare.
 
----
+***
 
 🌀 **Mystralis, The Arcane Spire**
 
@@ -110,7 +110,7 @@ estranei.
 * **Flora & Fauna:** Poliedri Sanguinanti (cristalli che replicano organi), Ragni di Möbius (tessono ragnatele a 4 dimensioni).
 * **Sopravvivenza:** Risolvere enigmi matematici, indossare abiti senza cuciture.
 
----
+***
 
 ⚔️ **Anhurion, Il Grande Sole**
 
@@ -146,7 +146,7 @@ estranei.
 * **Flora & Fauna:** Rose di Carne (fiori che sbocciano da ferite), Canidi a Due Teste (metà lupo, metà demone).
 * **Sopravvivenza:** Sfregarsi cenere di demone sulla pelle, offrire il proprio nome alle mura per asilo temporaneo.
 
----
+***
 
 🌪️ **Airspur, The Elemental Spire**
 
@@ -182,7 +182,7 @@ estranei.
   delle Nuvole (predatori tentacolari che nuotano nelle tempeste).
 * **Sopravvivenza:** Usare paracadute fatti di vele rubate, offrire perle preziose alle correnti d'aria per placarle.
 
----
+***
 
 🎭 **Maskyr, The Masked Cathedral**
 
@@ -263,7 +263,7 @@ estranei.
   + **Flora & Fauna:** Fiori di Velenombra (cancellano ricordi), Ragni del Silenzio (tessono bozzoli di mutismo).
   + **Sopravvivenza:** Legarsi con nodi complessi per confondere le ombre, parlare in rima per ingannare i sussurri.
 
-  ---
+***
 
   🕸️ **Lolthara, La Città delle Ragnatele Eterne**
 
@@ -305,7 +305,7 @@ estranei.
   + **Flora & Fauna:** Funi Velenose (liane allucinogene), Scorpioni a Due Code (verità/menzogna).
   + **Sopravvivenza:** Sputare per sciogliere le tele, offrire un dito come tassa ai ponti di ragnatela.
 
-  ---
+***
 
   📚 **Oghmaris, Il Bastione della Saggezza Proibita**
 
@@ -341,7 +341,7 @@ estranei.
   + **Flora & Fauna:** Libri Carnivori (tomi con denti d'osso), Corvi Mnemonici (rubano parole e concetti).
   + **Sopravvivenza:** Leggere a lume di candela di sego umano, bruciare un ricordo prima di fare domande.
 
-  ---
+***
 
   ⚡ **Talorith, La Città dei Fulmini Incatenati**
 
@@ -404,7 +404,7 @@ estranei.
     - **Flora & Fauna:** Rose di Brina (fiori che succhiano calore), Orsi Ombra (predatori che assorbono luce e calore).
     - **Sopravvivenza:** Tenere una moneta calda in bocca, non guardare le proprie impronte (si animano).
 
-    ---
+***
 
     ⚙️ **Gondantha, La Città delle Meraviglie Meccaniche**
 
@@ -441,7 +441,7 @@ estranei.
     - **Flora & Fauna:** Viti d’Acciaio (perforano metallo), Ratti a Vapore (roditori con boiler esplosivi).
     - **Sopravvivenza:** Ungersi con grasso per evitare trappole, cantare ninnenanne per calmare motori.
 
-    ---
+***
 
     💰 **Monetalia, La Città delle Monete Sanguinanti**
 
@@ -476,7 +476,7 @@ estranei.
     - **Flora & Fauna:** Alberi d'Oro (radici nei caveau, frutti sono monete), Ratti degli Interessi (roditori che si moltiplicano con la ricchezza).
     - **Sopravvivenza:** Non contare ad alta voce (attira Banchieri Ombra), sputare sulle monete per rompere tracciamenti.
 
-    ---
+***
 
     ⚖️ **Tyrastia, La Rocca della Giustizia Perfetta**
 
@@ -508,7 +508,7 @@ estranei.
     - **Flora & Fauna:** Viti del Verdetto (sussurrano colpe), Grifoni della Gogna (trasportano rei in gabbie volanti).
     - **Sopravvivenza:** Camminare all'indietro per confondere sensori legali, recitare leggi come scudo.
 
-    ---
+***
 
     💀 **Protonecropoli, La Città che Sussurra**
 
@@ -551,7 +551,7 @@ estranei.
       sorveglianza).
     - **Sopravvivenza:** Non rivelare mai segreti importanti, schermare i propri pensieri, barattare conoscenza arcana (ma attenti al prezzo).
 
-    ---
+***
 
     **(Nota
     Finale: Alcune divinità come Chauntea, Ilmater, Selune, Bahamut (oltre

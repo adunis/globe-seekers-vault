@@ -16,6 +16,6 @@ The kingdom’s history is deeply intertwined with that of an ancient elven empi
 
 Overall, Cormyr is a strong and influential kingdom where divine guidance shapes its policies and inspires its people. The kingdom’s military prowess, rich heritage, and commitment to protecting its lands exemplify its role as a formidable and respected presence in the region.
 
----
+***
 ## Gallery
 ![[9d6cf303-616b-4ec6-b8eb-cb4137127325.webp]]

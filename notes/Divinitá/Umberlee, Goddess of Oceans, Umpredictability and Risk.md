@@ -20,6 +20,6 @@ kanka_id: 263630
 
 **Cleric Outfit**: Clerics of Umberlee wear flowing robes made of seaweed and shells, with a deep blue color that resembles the stormy ocean. Their tridents are decorated with coral and barnacles, and their attire often includes capes shaped like waves, constantly in motion as if caught in the wind. Their garb evokes the wild, unpredictable nature of the sea.
 
----
+***
 ## Gallery
 ![[9d725b0c-ff71-4547-970d-890cca056d96.png]]

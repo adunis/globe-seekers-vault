@@ -16,7 +16,7 @@ head (
 | --- | --- | --- |
 | Pilastri Elementali | Genasi del Fuoco | Kobold Geomante |
 
----
+***
 
 > *"Qui la terra canta inni di fuoco, l'aria scolpisce montagne e
 > l'acqua brucia più del sole. L'equilibrio è una menzogna per chi non sa
@@ -27,7 +27,7 @@ head (
 > *"Non cercare leggi nella Forgia Vivente. Oggi cammini su roccia, domani nuoti in un fiume di fulmini."*  
 > — Ultimo rapporto del Geomante Khaldir
 
----
+***
 
 *(frammenti da un taccuino incenerito e ricomposto)*
 
@@ -65,7 +65,7 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 
 *(il testo si trasforma in un diagramma alchemico animato)*
 
----
+***
 
 ## 🧭 Sopravvivenza nella Forgia
 
@@ -88,7 +88,7 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 > *"Nella Forgia, sopravvivere è tradire se stessi. Resistere è morire."*  
 > — Massima degli Alchimisti Xoriat
 
----
+***
 
 ## 🌋 Specie Dominanti
 
@@ -100,7 +100,7 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 | Iruxi | **Scalpotribù Telluriche** (Iruxi della Pietra) | Lizardfolk con derma adamantino. Comunicano attraverso vibrazioni sismiche. |
 | Iruxi | **Gli Ingenui**  Halfling | Lizardfolk con derma adamantino. Comunicano attraverso vibrazioni sismiche. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -111,7 +111,7 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 | Mercanti | **Carovane Eteree** (Mercanti del Plasma) | Viaggiatori che commerciano stati della materia. I loro carri sono fatti di energia solidificata. | - Voryn, Umano con occhi di neutronio - Lysandra, Salamandra che vende ricordi liquefatti |
 | Alchimisti | **Gilda della Trasmutazione** (Alteratori della Forgia) | Scienziati che sperimentano fusioni elementali. Hanno laboratori mobili in vulcani viventi. | - Dr. Thalax (corpo ibrido acqua-fuoco) - Unit-X, Golem con nucleo di buco nero |
 
----
+***
 
 ## 🔥 Flora Letale
 
@@ -121,7 +121,7 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 | Venti Solidificati | **Tornado Fioriti** Colonne d'aria cristallizzata che rilasciano spore esplosive quando spezzate. |
 | Fiumi Elettrici | **Fiumi del Fulmine Perpetuo** Corsi d'acqua fatti di plasma che mutano direzione seguendo le emozioni. |
 
----
+***
 
 ## 🧙♂️ Personaggi d'Esempio
 
@@ -133,7 +133,7 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 | **Comunicatore Tellurico** Iruxi con pelle di roccia vivente. Parla con i terremoti e le eruzioni. | Monk (Mountain Stance) / Iruxi | - Bastone sismico che provoca micro-terremoti - Armature di placche tettoniche - Amuleto che assorbe energie telluriche |
 | **Alchimista del Caos** Ex membro della Gilda della Trasmutazione. Porta una provetta con un big bang in miniatura. | Alchimista (Bomber) / Genasi | - Kit alchemico multielementale - Bombe che mutano elemento casualmente - Guanti isolanti al plasma |
 
----
+***
 
 ## ⚒️ Equipaggiamento Tipico
 

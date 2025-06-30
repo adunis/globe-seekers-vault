@@ -28,7 +28,7 @@ I giocatori potrebbero essere assoldati da Gungra per ottenere informazioni cruc
 
 Gungra é in possesso di un uovo avvolto in rune che pulsano di energia. È una creatura speciale che ha legami stretti con Morun Tag. I giocatori potrebbero dover proteggere l'uovo da chi desidera farne cattivo uso, o dovranno scoprirne le proprietà uniche e il suo potenziale uso.
 
----
+***
 ## Gallery
 ![[9d7f91d0-55b4-4d27-8ae3-b51ddc6d2bc2.png]]
 ![[95393e46-e7d7-4ead-afcb-32419ccc0ef1.png]]

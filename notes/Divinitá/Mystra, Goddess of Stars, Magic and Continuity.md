@@ -20,6 +20,6 @@ kanka_id: 265277
 
 **Cleric Outfit**: Mystra’s clerics wear flowing blue robes adorned with crystal star patterns. They carry quarterstaffs embedded with crystal shards that glow softly with magical energy. Their robes are light and practical, allowing for ease of movement during spellcasting. They often wear silver circlets with a single gemstone, symbolizing Mystra’s connection to the weave of magic.
 
----
+***
 ## Gallery
 ![[9d7454d0-ce37-4c48-8715-98cf6aa77243.jpg]]

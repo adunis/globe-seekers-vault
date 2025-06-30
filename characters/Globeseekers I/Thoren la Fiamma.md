@@ -21,6 +21,6 @@ race: Genasi
   arroganza lo porta a sottovalutare chiunque non dimostri la sua stessa
   potenza.
 
----
+***
 ## Gallery
 ![[9d6cbf7e-2c11-462a-8926-c134f61c53e5.webp]]

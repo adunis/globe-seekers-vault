@@ -38,7 +38,7 @@ Devoto ad [note:6810283], dio della guerra e dell'onore, Korgak è stato scelto 
 
 I Wyrmclaw hanno fornito a Korgak informazioni cruciali su come ottenere l'Urna di Geb. Tuttavia, se Korgak non riuscirà a completare i suoi obiettivi di eliminazione dei Signori Elementali, i Wyrmclaw potrebbero revocare la sua posizione, esiliarlo o addirittura ordinarne l'eliminazione, compromettendo le sue alleanze e la sua sicurezza.
 
----
+***
 ## Gallery
 ![[9d6aa1eb-cf82-4256-b688-b69d15c842cc.jpg]]
 ![[4b35a1a2-df20-49ea-be81-d4b6f206f08b.webp]]

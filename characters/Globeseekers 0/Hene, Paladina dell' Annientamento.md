@@ -14,7 +14,7 @@ Hene often makes sarcastic or witty remarks, especially to Bungo Dudo. She is no
 
 Despite her tough exterior, Hene is deeply affected by the loss of her brother. She eventually accepts that he is gone, and learns to find peace without revenge. At the end of the campaign, Hene remains dedicated to her god Tyr, and continues to fight for justice in Baldur’s Gate.
 
----
+***
 ## Gallery
 ![[9d6b0256-bbbe-4936-b4a4-c535a46ed06a.webp]]
 ![[8b9c8d68-9c96-457a-94ab-43ab3511b70b.png]]

@@ -54,6 +54,6 @@ kanka_id: 1954880
   Ticchettio o altri eventi). La possibilità che la tecnologia Halruaana
   sia la chiave per capire (o ripetere) il fallimento di Karak-Dum.
 
----
+***
 ## Gallery
 ![[0058fe19-7392-4d42-839b-6d5fa3dbd1cd.webp]]

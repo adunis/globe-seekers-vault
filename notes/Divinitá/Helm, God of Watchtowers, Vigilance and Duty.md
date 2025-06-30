@@ -20,6 +20,6 @@ kanka_id: 265276
 
 **Cleric Outfit**: Clerics of Helm wear heavy, grey steel armor, with a simple tabard displaying the symbol of an open eye. Their helms are featureless, and they often carry large shields adorned with divine symbols. A long grey cloak is worn over their armor, symbolizing the weight of their protective duties.
 
----
+***
 ## Gallery
 ![[9d4c2545-b2e4-4b3e-997c-a2e326acdd6b.webp]]

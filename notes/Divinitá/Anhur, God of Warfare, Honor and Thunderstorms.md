@@ -20,6 +20,6 @@ kanka_id: 265269
 
 Cleric Outfit: Clerics of Anhur wear bronze breastplates over flowing gold-and-white robes. Their armor is intricately engraved with lion motifs, and they often wear lion-head helmets. A bright golden sash tied around their waist represents their oath to protect the weak, and they carry spears crackling with magical energy.
 
----
+***
 ## Gallery
 ![[9dce1753-ef36-4342-9483-5a0e4c5629a7.jpg]]

@@ -34,7 +34,7 @@ What makes her particularly effective in this crisis is her ability to see the b
 
 Through careful study of previous invasions of Cormyr, she's also begun to suspect that the Patron's fixation on the Heavenly Staircase might be its greatest weakness. Like many ancient beings, it seems to have become obsessed with a single path to power, potentially blinding it to other vulnerabilities - vulnerabilities that might be exposed through proper understanding of the Netherese globes.
 
----
+***
 ## Gallery
 ![[3cfa5184-ac98-4db7-8ab5-e6d7530766e7.webp]]
 ![[86483674-915d-4548-81dd-45c73bc03bb7.png]]

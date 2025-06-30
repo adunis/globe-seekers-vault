@@ -19,7 +19,7 @@ kanka_id: 741391
 * *Helm*: Honored for vigilance in business and social dealings.
 * *Tyr*: For justice and fairness in their dealings.
 
----
+***
 
 ### Amnese
 
@@ -38,7 +38,7 @@ kanka_id: 741391
 * *Cyric*: Representing change and freedom, appealing to those who pursue ambition.
 * *Tymora*: Embraced by traders and risk-takers within the Mercantocracy.
 
----
+***
 
 ### Tethyrian
 
@@ -57,7 +57,7 @@ kanka_id: 741391
 * *Tyr*: For justice and fairness, integral to their chivalric values.
 * *Chauntea*: For nurturing the land and promoting community.
 
----
+***
 
 ### Damarian
 
@@ -76,7 +76,7 @@ kanka_id: 741391
 * *Ilmater*: Revered for compassion and endurance through hardship.
 * *Helm*: For vigilance and duty, guiding their protective nature.
 
----
+***
 
 ### Thay
 
@@ -95,7 +95,7 @@ kanka_id: 741391
 * *Vecna*: Honored for lore and revelation, significant for their pursuit of hidden knowledge.
 * *Cyric*: Embraced by those desiring change and freedom from traditional constraints.
 
----
+***
 
 ### Shou
 
@@ -114,7 +114,7 @@ kanka_id: 741391
 * *Selune*: Honored for intuition and harmony, important to their sense of balance.
 * *Helm*: For vigilance and duty, particularly among those involved in governance.
 
----
+***
 
 ### Vaasa
 
@@ -133,7 +133,7 @@ kanka_id: 741391
 * *Cyric*: Honored for mirages and freedom, significant for those who pursue magical secrecy.
 * *Bane*: For leadership and discipline, valued in their structured, mystical society.
 
----
+***
 
 ### Halruaan
 
@@ -152,7 +152,7 @@ kanka_id: 741391
 * *Lathander*: For renewal and optimism, promoting new ideas.
 * *Oghma*: Revered for lore and creativity, important to scholars and inventors.
 
----
+***
 
 ### Rashemi
 
@@ -190,7 +190,7 @@ kanka_id: 741391
 * *Kelemvor*: For winter and inevitability, respected for the acceptance of life’s harsh realities.
 * *Silvanus*: For wilderness and adaptation, important to those who live in nature’s extremes.
 
----
+***
 
 ### Gur
 
@@ -208,7 +208,7 @@ kanka_id: 741391
 * *Sune*: For beauty and preservation, celebrated in their love for vibrant attire and lively traditions.
 * *Oghma*: For lore and creativity, significant for their storytelling culture.
 
----
+***
 
 ### Bedin
 
@@ -226,7 +226,7 @@ kanka_id: 741391
 * *Anhur*: For honor and thunderstorms, revered during rare rains.
 * *Shaar*: For reflection and detachment, aligning with their introspective desert lifestyle.
 
----
+***
 
 ### Calishite
 
@@ -244,7 +244,7 @@ kanka_id: 741391
 * *Asmodeus*: For ambition and authority, significant in preserving their traditions.
 * *Cyric*: For freedom and change, representing the adaptability of their culture.
 
----
+***
 
 ### Chessentian
 
@@ -262,7 +262,7 @@ kanka_id: 741391
 * *Cyric*: For freedom and change, respected among those seeking personal autonomy.
 * *Talos*: For wildfires and passion, resonating with their fervent loyalty.
 
----
+***
 
 ### Nar
 
@@ -280,7 +280,7 @@ kanka_id: 741391
 * *Bane*: For discipline and leadership, aligning with their resolve to overcome ancestral ties.
 * *Myrkul*: For decay and renewal, reflecting their journey toward redemption.
 
----
+***
 
 ### Chultan
 
@@ -298,7 +298,7 @@ kanka_id: 741391
 * *Umberlee*: For unpredictability and risk, honored for her influence over coastal and river areas.
 * *Talos*: For violence and passion, representing the power of natural forces.
 
----
+***
 
 ### Kozakuran
 

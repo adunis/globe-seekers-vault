@@ -48,6 +48,6 @@ Potential for Redemption: The sources offer no indication of Daren's potential f
 
 Daren's Significance: Despite the limited information, Daren Fireforge is a crucial figure in the narrative. His betrayal serves as a driving force for Er Tozzo's quest for vengeance and liberation. Uncovering Daren's motivations and his current role in the larger conflict orchestrated by Xul'koroth could provide valuable insights into the power dynamics at play and the potential consequences of his actions.
 
----
+***
 ## Gallery
 ![[9d679abc-9d2b-47eb-9d4e-1300bea0795f.webp]]

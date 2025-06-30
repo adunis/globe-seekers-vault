@@ -8,6 +8,6 @@ la signora dell'aria é morente in acqua, l'uccello gigante é stato distrutto d
   
 B.B ed Er Tozzo rimangono impassibili alle parole della Signora dell'Aria che cerca di convincerli che i Wyrmclaw sono cattivi e che distrugeranno anche le loro case e i loro amici. b.B ed Er tozzo rimangono impassibili ai tentativi di Malaria/Re Kraken di unirsi al Patrono e vivere in un mondo piú equo.
 
----
+***
 ## Gallery
 ![[22ce0d23-7626-4c9e-aa88-c3f547b0e4ca.webp]]

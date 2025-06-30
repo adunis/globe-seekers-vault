@@ -23,6 +23,6 @@ Did Apela play any role in Godfrey's death, whether intentionally or unintention
 Who kidnapped Apela and took her to the vampire's mausoleum, and what was their purpose in doing so? Was it connected to Godfrey's murder, or part of a separate scheme?  
 Apela's Potential Significance: Apela, despite her limited presence in the sources, represents a point of intrigue within the narrative. Uncovering her true motivations, her knowledge of events surrounding Godfrey's death, and her connection to potential manipulators could shed light on the hidden agendas and power dynamics operating within Halendos and the surrounding region.
 
----
+***
 ## Gallery
 ![[3c172b0f-f162-407d-95ba-e7335d15cda1.webp]]

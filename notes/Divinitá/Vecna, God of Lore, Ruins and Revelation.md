@@ -50,6 +50,6 @@ Le forze di Vecna nell'[[Altopiano delle Ossa]] non sono solo non-morti o Caroni
 * **La Spia Eterea:** Ylvina, agente di Zorvath, potrebbe chiedere aiuto o riapparire come nemica.
 * **Il Risveglio del Nuovo Dio:** Trovare modi per aiutare Vordekai, un suo nemico, potrebbe portare a eventi inaspettati.
 
----
+***
 ## Gallery
 ![[9d743a71-1f4e-425c-9ced-84faa9deb01e.png]]

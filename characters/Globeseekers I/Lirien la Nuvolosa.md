@@ -17,6 +17,6 @@ race: Genasi
   conoscenza
 * **Personalità:** Calma e riflessiva, apprezza la libertà e l’innovazione, ma è distaccata.
 
----
+***
 ## Gallery
 ![[9d43c763-4ec3-4388-ae05-76cc0f72b9bd.png]]

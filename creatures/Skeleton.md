@@ -14,6 +14,6 @@ Though they are inherently soulless, there are persistent rumors that Vecna occa
 
 **Plot Hooks:** Investigating the source of increased skeletal instability. Uncovering the true extent of Vecna's influence on the skeletons. Discovering a method to control or disrupt the enchantment binding the skeletons, potentially allowing them to be used against Vecna's forces.
 
----
+***
 ## Gallery
 ![[f26377f7-470b-47fa-9bfa-ce268cc9d4bc.webp]]

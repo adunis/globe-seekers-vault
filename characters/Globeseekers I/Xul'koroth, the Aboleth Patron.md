@@ -37,7 +37,7 @@ Therefore, based on the information within the sources, the Patron is Xul'koroth
 
 ![9d6c8c62-d0d7-4990-bf22-c21cc35374fc.jpg](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/273567/9d6c8c62-d0d7-4990-bf22-c21cc35374fc.jpg)
 
----
+***
 ## Gallery
 ![[9d6c8bf4-3271-404c-ac6d-ed7bca813c00.jpg]]
 ![[d3258db5-195e-47e6-b216-ceb095f79d1b.webp]]

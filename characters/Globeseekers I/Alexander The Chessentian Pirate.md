@@ -47,6 +47,6 @@ The Pursuit of Morun Tag and Nilfyr: Alexander's pursuit of Morun Tag and Nilfyr
 
 . His offer to Temura to join his crew in exchange for information suggests a manipulative nature, seeking to exploit others' knowledge to further his own aims.
 
----
+***
 ## Gallery
 ![[cb691351-25ae-4163-a9c1-e39a4ab4c528.png]]

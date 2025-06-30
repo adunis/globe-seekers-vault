@@ -72,7 +72,7 @@ Le rune avanzate combinano più rune base per creare un unico simbolo rappresent
 4. **Drak’hor** – Drago Sacro: Una *Drak* che incorpora una *Hur*, indicando potere e sacralità.
 5. **Ruk’kaz** – Cuore di Pietra: Una *Ruk* sovrapposta a una *Kaz*, formando un cerchio racchiuso da linee angolari.
 
----
+***
 
 ### **Esempi di Frasi in Khuror**
 

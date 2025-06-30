@@ -7,6 +7,6 @@ Whispers on the winds and fragmented scrolls hidden in the deepest vaults of Dam
 
 Over centuries, Akrazul has whispered from its prison, seeking a soul desperate enough to break its chains. It believes that entities like the Aboleth Patron, with his desire to reshape reality, possess the power to free it. Akrazul's powers are said to be insidious, reflecting its Abyssal origins. It can warp minds, planting seeds of discord and turning allies against each other. Its whispers can manifest as physical illusions, creating visions of false hope or terrifying nightmares to break the will of its enemies. The daemon's connection to Khaldarin is twofold. First, it is believed that Akrazul's prison lies beneath the dwarven city itself, making the city a focal point for its whispers. Second, the daemon's ambition to exploit the region's resources suggests a deeper connection to the earth's essence, possibly mirroring the dwarven reverence for metal and craftsmanship.
 
----
+***
 ## Gallery
 ![[28fa2e50-050e-42ad-84db-41a4bbe0e357.webp]]

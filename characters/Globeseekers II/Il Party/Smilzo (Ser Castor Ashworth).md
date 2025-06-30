@@ -100,7 +100,7 @@ di ritrovare i pezzi mancanti della sua anima, di ricordare chi era Ser
 Castor Ashworth e perché la sua famiglia scelse di cercare la verità
 nell'ombra, nel cuore stesso della luce accecante.
 
----
+***
 ## Gallery
 ![[94df4aac-8524-4c3c-a233-7ce58944ca14.png]]
 ![[1e7a3d30-ff7c-4459-849a-168edfaf22c7.webp]]

@@ -31,6 +31,6 @@ Un giorno, mentre meditava, Nilfyr ebbe una visione inquietante del Mare delle S
   
   
 
----
+***
 ## Gallery
 ![[9d6c859b-ec9a-46fe-93d2-0072616f32df.jpg]]

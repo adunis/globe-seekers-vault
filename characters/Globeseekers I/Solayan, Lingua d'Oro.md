@@ -41,6 +41,6 @@ Durante il suo viaggio, Solayan ha sentito parlare di una leggenda molto diffusa
 Recentemente, mentre si trovava nel Mare delle Stelle Cadenti, Solayan ha appreso che un gruppo di esploratori ha scoperto un antichissimo Tempio di Selune su un'isola remota. Convinto che questo tempio possa contenere indizi sulla posizione della Lacrima di Selune, Solayan si è messo in viaggio per raggiungere l'isola e svelare i segreti del tempio.  
 Armato della sua pistola benedetta e delle lezioni di compassione apprese dagli gnomi, Solayan è determinato a trovare la Lacrima di Selune e a usare il suo potere per aiutare altri in difficoltà. Spera che, lungo la strada, possa trovare un vero senso di appartenenza e di scopo in un mondo che spesso sembra crudele e ingiusto.
 
----
+***
 ## Gallery
 ![[9d692d71-3aa5-417d-8c25-f2ddc7a127c9.jpg]]

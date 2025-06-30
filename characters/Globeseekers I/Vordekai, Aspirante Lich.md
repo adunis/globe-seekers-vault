@@ -34,7 +34,7 @@ Pur desiderando potere e vendetta, Vordekai è tormentato dalla perdita della su
 * **Recuperare i Globi Netheresi** per utilizzarli nei suoi piani.
 * **Decidere se abbracciare completamente l'oscurità** o cercare una forma di redenzione.
 
----
+***
 ## Gallery
 ![[9d6aa2d4-7394-4041-857b-6652cd876636.jpg]]
 ![[a323b5c4-e3c0-49fa-b891-3aa994d5bb0b.webp]]

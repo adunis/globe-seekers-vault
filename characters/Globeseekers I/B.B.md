@@ -102,7 +102,7 @@ B.B. è ora un ufficiale della **Gilda dei Mercanti Interplanari**, una potente 
 
 La Gilda dei Mercanti Interplanari ha fornito a B.B. informazioni vitali su come ottenere l'Urna di Geb e il Timonre Spelljammer. Tuttavia, se B.B. non completerà i suoi obiettivi, la gilda potrebbe imporre severi castighi, inclusa la revoca dei suoi privilegi, l'eliminazione di alleati chiave e l'ostilità aperta verso di lui e i suoi compagni.
 
----
+***
 ## Gallery
 ![[9d6a81bf-0904-403d-92fb-93cef6b975e7.jpg]]
 ![[ea0a08c4-2656-49e3-b0d3-b67f85fde899.jpg]]

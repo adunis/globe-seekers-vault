@@ -9,7 +9,7 @@ kanka_id: 1706003
 ![Abisso](https://snipboard.io/jkLdQl.jpg)
 
 
----
+***
 
 > *"Nell’Abisso, la carne è argilla. Noi siamo i Vasi. Loro... i Vasaio."* – Alto Patriarca Vryzzek, *Omelie delle Catene*
 >
@@ -17,7 +17,7 @@ kanka_id: 1706003
 >
 > *"La Luna Nuova non è assenza... è un* occhio *che ci guarda attraverso il vuoto."* – Incisione sul Portale di Obsidiana Nera
 
----
+***
 
 ### 🌑 **Ecologia dell’Oscurità Pura**
 
@@ -29,7 +29,7 @@ kanka_id: 1706003
   + *Ragni del Vuoto*: Ragni con occhi a raggi X, tessono ragnatele di energia oscura che dissolvono la materia.
   + *Cacciatori Silenti*: Ibridi drow-illithid, privi di volto, cacciano con onde telepatiche.
 
----
+***
 
 ### 👑 **Società Patriarcale**
 
@@ -45,7 +45,7 @@ kanka_id: 1706003
   + *Legge del Sangue Straniero*: Ogni donna catturata deve generare almeno tre Ibridi prima di essere uccisa.
   + *Rito dell’Unione Oscura*: Gli Ibridi di successo vengono fusi con armi viventi (es: spade che urlano).
 
----
+***
 
 ### 👽 **Xul’Korth**
 
@@ -54,7 +54,7 @@ kanka_id: 1706003
   + *Cuori di Obsidiana*: Motori che alimentano le città con energia estratta dalle emozioni negative.
   + *Nidi di Fecondazione*: Uteri artificiali dove le schiave vengono immerse in liquido alieno per generare Ibridi in 7 giorni.
 
----
+***
 
 ### 🧙 **Specie Dominanti**
 
@@ -64,7 +64,7 @@ kanka_id: 1706003
 | **Ibridi di Sangue** (*Beastkin Ancestry*) | Umani/drow modificati con DNA alieno. +2 Str, +2 Dex. Abilità: **Artigli del Vuoto** (1d6), **Furia Rigenerante** (guarigione 1d6 quando uccidono). |
 | **Schiavi Radice** (*Leshy Ancestry*) | Ex-esseri viventi fusi con funghi. +2 Con, +2 Wis. Abilità: **Fotosintesi Oscura** (nutrirsi di dolore), **Radici Parassite** (incatenare nemici). |
 
----
+***
 
 ### ⚔️ **Fazioni**
 
@@ -74,7 +74,7 @@ kanka_id: 1706003
 | **Falchi della Fecondazione** | Cacciatori che rapiscono donne da superficie. Usano **Ragni del Vuoto** come cavalcatura. | **Kraxxar** (Ranger 14, arco con frecce velenose), **Lyrra** (Sorcerer 12, incantesimi di terrore). |
 | **Ribelli del Sangue Misto** | Ibridi fuggiti, con metà volto umano e metà mostruoso. Vivono nelle **Grotte del Lamento**. | **Dax** (Fighter 10, spada vivente), **Mira** (Oracle 14, maledetta da Xul’Korth). |
 
----
+***
 
 ### 🌌 **Personaggi d’Esempio**
 
@@ -84,7 +84,7 @@ kanka_id: 1706003
 | **Alchemist 10** (Mutagenista) | Scienziato che crea Ibridi con DNA di Ragno del Vuoto. Ha sei braccia robotiche. | **Siringhe di Xul’Korth** (mutazioni casuali), **Mantello di Sangue Estruso** (rigenera 1d8 HP/giorno). |
 | **Rogue 8** (Assassino) | Ibrida fuggita, metà volto è divorato da funghi. Uccide Patriarchi per vendetta. | **Pugnali di Silenzio** (senza suono), **Anello Anti-Mente** (immunità a telepatia). |
 
----
+***
 
 ### 🛸 **Tecnologie/Rituali Alieni**
 
@@ -92,6 +92,6 @@ kanka_id: 1706003
 * **Generatore di Oscurità**: Dispositivo che spegne ogni fonte di luce in 1km. Usato durante le invasioni in superficie.
 * **Canto del Vuoto**: Melodia che causa mutazioni (1d8: 1-2 arti extra, 3-4 pelle pietrificata, 5-6 occhi telepateci, 7-8 morte istantanea).
 
----
+***
 
 > *"Nell’Abisso di Xul’Korth, ogni grido è una preghiera. Ogni lacrima, un sacrificio. E il Vuoto... il Vuoto è sempre affamato."* – Inno dei Patriarchi del Vuoto

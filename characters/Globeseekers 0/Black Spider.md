@@ -16,6 +16,6 @@ The Black Spider is afflicted by an ancient curse that transformed him into a we
 
  He is vulnerable to silver, like other werewolves.
 
----
+***
 ## Gallery
 ![[142acac7-94fa-4b88-9c82-60f7034cc2f2.webp]]

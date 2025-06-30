@@ -13,7 +13,7 @@ kanka_id: 266813
   the only site on the Material Plane where gods can manifest fully and
   mortals can ascend, is central to the Patron's scheme.
 
-  ---
+***
 
   ### Central Conflict
 * **The Patron's Ambition**:
@@ -23,7 +23,7 @@ kanka_id: 266813
   The players must navigate a world rife with danger, intrigue, and
   powerful entities vying for their own interests in the chaos.
 
----
+***
 
 ### Key Locations
 
@@ -38,7 +38,7 @@ kanka_id: 266813
   and at war with the Wyrmclaw, a dragon faction, Akanûl offers players
   opportunities to forge alliances and gather resources.
 
----
+***
 
 ### Factions and Characters
 
@@ -49,7 +49,7 @@ kanka_id: 266813
   vengeful drow warrior, whose assistance or opposition may depend on
   player interactions.
 
----
+***
 
 ### Possible Endings
 
@@ -62,7 +62,7 @@ kanka_id: 266813
   leaving an enduring threat that could spark future campaigns.
 * **Crushing Defeat**: The Patron succeeds, ascends to godhood, and reshapes Faerûn to his will, plunging the world into chaos or tyranny.
 
----
+***
 
 ### Additional Considerations
 
@@ -76,7 +76,7 @@ kanka_id: 266813
   Patron’s power or use them for their own ends, introducing potential
   conflicts and dilemmas.
 
----
+***
 
 The plot and outcomes for the
 "Globe Seekers" campaign will ultimately hinge on player choices and the
@@ -137,7 +137,7 @@ stakes and consequences.
   + **Troubled Past with Nyssandra**: Has unresolved conflict with Nyssandra, a drow warrior, from a failed heist.
   + **Conflict with the Kraken King**: His quest for Netherese Globes could bring him into direct conflict with this sea tyrant.
 
----
+***
 
 ### Important NPCs
 
@@ -178,7 +178,7 @@ stakes and consequences.
 * **The Necromancer of Thay**: Involved in dark experiments under the Patron’s influence.
 * **Miciotsu**: A resurrected follower of Zarov, possibly seeking revenge.
 
----
+***
 
 ### Key Locations
 
@@ -204,7 +204,7 @@ stakes and consequences.
 **Thay**: Known for its necromancers and possible conflicts with the party.  
 **Limbo**: Plane of chaotic shifts and challenges, home to a Derro-run casino.
 
----
+***
 
 ### Key Nations
 
@@ -217,7 +217,7 @@ stakes and consequences.
 **Thay**: Land of necromancers, involved in Patron’s schemes.  
 **Maztica**: Distant land, hinted at for future campaign potential.
 
----
+***
 
 ### Chronicle of Events
 
@@ -239,7 +239,7 @@ stakes and consequences.
 
 * **Siege and Trail to Airspur**: Kraken King’s forces lay siege to Procampur, pushing party toward Airspur’s depths for answers.
 
----
+***
 
 ### Open-Ended Questions for Campaign Development
 

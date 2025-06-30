@@ -16,7 +16,7 @@ head(
 | --- | --- | --- |
 | Dune Mobili | Ziggurat Sommersa | Miraggio |
 
----
+***
 
 > *"Camminate sulle tombe di imperi più vecchi delle stelle. Ogni granello di sabbia è un pezzo di arroganza polverizzata."*  
 > – Jabari il Senzacqua, ultima guida di Untherys
@@ -27,7 +27,7 @@ head(
 > *"Le Dune non uccidono. Ti adottano. E i figli del deserto non piangono mai."*  
 > – Proverbio dei Nomadi Neri
 
----
+***
 
 ### 📜 Frammenti del Diario di Elias il Folle
 
@@ -50,7 +50,7 @@ miele, amara come tradimento."
 **Ultima annotazione:**  
 "Lo Ziggurat non è una rovina. È una prigione. L'hanno sepolto perché... (il resto è cancellato da un'artiglio di sabbia)"
 
----
+***
 
 ## 🐪 Sopravvivenza nelle Sabbie
 
@@ -69,7 +69,7 @@ miele, amara come tradimento."
 * **Lacrime di Scorpione**: Fiale di veleno che dissetano per 12 ore (1d6 danni da tossico)
 * **Bussola Ossea**: Ago ricavato dalla spina dorsale di un Verme delle Sabbie
 
----
+***
 
 ## 🦂 Specie Dominanti
 
@@ -83,7 +83,7 @@ miele, amara come tradimento."
 | Ratfolk | **Alchimisti della Sabbia** (Distillatori d'Essenza) | Mercanti che trasformano granelli in elisir. Portano fiale che contengono oasi in miniatura. |
 | Umano | **Custodi delle Ombre** (Signori delle Dune) | Esploratori con tatuaggi idrodinamici. Misurano il tempo in gocce di sudore. |
 
----
+***
 
 ### ⚔️ Fazioni delle Sabbie
 
@@ -97,7 +97,7 @@ miele, amara come tradimento."
 | Mercanti                  | **Carovane del Miraggio Perfetto** (Mercanti di Realtà)                            | Viaggiatori che vendono illusioni personalizzate. Le merci svaniscono all'alba.                            | - Voryn, Gnoll con manto di sabbia vivente - Nira, Ratfolk che vende sogni idratanti            |
 | Alchimisti                | **Gilda degli Assetati** (Alchimisti della Sete)                                   | Fabbricanti di droghe che sopprimono il bisogno d'acqua. Hanno laboratori mobili su dromedari scheletrici. | - Dr. Thalazir (sangue sostituito con mercurio) - Unit-S, Golem alimentato a sabbia radioattiva |
 
----
+***
 
 ## 🌵 Flora & Fauna Letali
 
@@ -110,7 +110,7 @@ miele, amara come tradimento."
 | Venti Incarnati | **Danze di Zephyr** Tornadi semi-senzienti che raccolgono oggetti per costruire nidi mobili. |
 | Fiori d'Ombra | **Bocche della Sete** Piante carnivore che imitano pozze d'acqua. Le radici bevono i liquidi corporei. |
 
----
+***
 
 ## 👥 Personaggi d'Esempio
 
@@ -122,7 +122,7 @@ miele, amara come tradimento."
 | **Custode delle Ombre** Umano con tatuaggi idrodinamici. Misura il tempo in gocce di sudore. | Ranger (Outwit) / Umano | - Arco composito con frecce termiche - Mappa scritta su pergamena di cactus | - Turbante riflettente |
 | **Profeta della Siccità** Ex sacerdote maledetto dal sole. Le lacrime si trasformano in sale. | Oracolo (Mistero della Cenere) / Tiefling | - Amuleto di ossidiana nera - Libro di preghiere carbonizzate - Falcetto per raccogliere sabbia sacra |
 
----
+***
 
 ## ⚒️ Equipaggiamento Tipico
 

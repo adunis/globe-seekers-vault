@@ -27,6 +27,6 @@ kanka_id: 265270
 
 **Cleric Outfit**: Clerics of Geb wear earth-toned robes of rough-spun cloth with stone-like patterns. Over their robes, they wear stone bracelets and necklaces, with small stone carvings hanging from their belts. Their warhammers are engraved with ancient runes, symbolizing their connection to the earth and permanence.
 
----
+***
 ## Gallery
 ![[9d595d35-8c76-4889-9761-df50c7e8d8f6.webp]]

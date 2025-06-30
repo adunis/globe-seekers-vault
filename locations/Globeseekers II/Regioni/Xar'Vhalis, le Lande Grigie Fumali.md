@@ -16,7 +16,7 @@ head(
 | --- | --- | --- |
 | Grey Fumalia 1 | Necromante Orchesco | Leyline Snail |
 
----
+***
 
 > *"Qui la magia non muore, marcisce. Ogni incantesimo è un rischio, ogni respiro un patto col caos."*
 >
@@ -34,7 +34,7 @@ head(
 > *"Le Lande Grigie non uccidono, trasformano. Ma ciò che emerge... è ancora umano?"*  
 > — Iscrizione su una lapide senza nome
 
----
+***
 
 *(frammenti da un taccuino legato con tendini essiccati)*
 
@@ -64,7 +64,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 
 *(il resto della pagina è consumato da muffe psichiche)*
 
----
+***
 
 ## 🧭 Sopravvivenza nelle Lande Grigie
 
@@ -82,7 +82,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 * Stivali con suola in gomma di **Lumaca Leyline**
 * Bussola magnetizzata con frammento di Pietra del Vuoto
 
----
+***
 
 ## 👥 Specie Dominanti
 
@@ -93,7 +93,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 | Fetchling Ombra | **Ombre di Xar'Vhalis** | Fetchling mutati che si teletrasportano attraverso i cerchi rituali. Parlano in rime profetiche. |
 | Tiefling Maledetto | **Bocche di Blasfemia** | Tiefling con lingue biforcute che lanciano maledizioni involontarie. Le lacrime sono acido puro. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -103,7 +103,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 | **Cacciatori Leyline** | Mercenari che intrappolano energia magica in cristalli. Hanno armi che si auto-riparano con il caos. | - Gorruk (Orco con fucile ad arco leyline) - Zara (Umana con guanti che assorbono incantesimi) |
 | **Figli della Purificazione** | Paladini mutilati che cercano di sigillare i cerchi rituali. Portano spade fatte di silenzio magico. | - Sir Valtor (Campione senza bocca) - Elara (Chierica con crocefisso di ossidiana) |
 
----
+***
 
 ## 🌿 Flora Letale
 
@@ -113,7 +113,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 | **Vite del Vuoto** | Parassita che trasforma gli alberi in portali dimensionali. I frutti contengono occhi senzienti. |
 | **Muschio Sanguinante** | Ricopre i cerchi rituali. Si nutre di ricordi, lasciando le vittime in stato vegetativo. |
 
----
+***
 
 ## 🦴 Fauna Blasfema
 
@@ -123,7 +123,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 | **Lumache Leyline** | Molluschi con gusci cristallini che registrano eventi passati. Esplodono se esposti a magia pura. |
 | **Acari della Disperazione** | Insetti che iniettano ormoni della paura. Le vittime si suicidano per porre fine alle visioni. |
 
----
+***
 
 ## 👤 Personaggi d'Esempio
 
@@ -133,7 +133,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 | **Cartografa delle Tempeste** | Mago (Scuola di Divinazione) / Umano | - Mappa tatuata sulla pelle - Occhiali che vedono flussi magici |
 | **Cacciatore di Portali** | Ranger (Cacciatore di Mostri) / Fetchling | - Arco con frecce di silenzio magico - Bussola fatta di guscio di Lumaca Leyline |
 
----
+***
 
 ## ⚙️ Equipaggiamento Unico
 
@@ -142,7 +142,7 @@ rocce... ancora vivi. Le loro urla risuonano nel vento."
 * **Strumenti**: Lanterne alimentate a spore di Fungo Ombra (illuminano solo verità nascoste)
 * **Consumabili**: Elisir di Purificazione Leyline (cura magica ma cancella 1 ricordo casuale)
 
----
+***
 
 =
 
@@ -155,7 +155,7 @@ head(# Myrthylvain, l'Antica Boscalia
 | --- | --- | --- |
 | Foresta 1 | Elfo Silvano |  |
 
----
+***
 
 > *"Qui gli alberi respirano con polmoni di clorofilla e le radici custodiscono segreti più antichi delle civiltà."* - Elandril, Anziano dei Circoli
 >
@@ -164,7 +164,7 @@ head(# Myrthylvain, l'Antica Boscalia
 > *"Le pietre qui cantano inni dimenticati. Chi non sa ascoltare diventa concime per i Treanti Vampirici."*  
 > — Ultimo rapporto della Compagnia dei Cartografi Sussurranti
 
----
+***
 
 *(frammenti dal diario ritrovato in un tronco cavo)*
 
@@ -196,7 +196,7 @@ luogo... ma non le *ombre* che si nutrono delle sue radici."
 Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...  
 *(il testo si trasforma in venature fogliari)*
 
----
+***
 
 ## 🍃 Sopravvivenza nella Boscalia
 
@@ -219,7 +219,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 > *"La vera minaccia non sono le creature, ma la foresta che ti convince a diventare parte di essa."*  
 > — Ultimo avviso di Kaelthra
 
----
+***
 
 ## 🌳 Specie Dominanti
 
@@ -230,7 +230,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 | Gnomo | **Alchimisti delle Linfe** | Manipolatori di sostanze naturali. Creano esplosivi da spore fungine e veleni da nettari. |
 | Treant | **Treanti Vampirici** | Alberi senzienti con radici assetate. Si nutrono di ricordi e liquidi spinali. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -240,7 +240,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 | Culto | **Seguaci di B.B.** | Eredi del culto oscuro. Sacrificano intrusi allo Ziggurat di Legno. | - Vorthax, Sacerdote con artigli di linfa nera - Xylia, Incantatrice di Spore |
 | Ribelli | **Figli della Luce Lunare** | Ex-druidi che combattono la corruzione. Usano falci di cristallo lunare. | - Thaladir, Guerriero con armatura di funghi bioluminescenti - Lira, Alchimista mutaforma |
 
----
+***
 
 ## 🌿 Flora Letale
 
@@ -250,7 +250,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 | Vite Carnivora | **Strangolapassi** Liane semi-sensienti che reagiscono al calore corporeo. Preferiscono prede silenziose. |
 | Albero Sanguinario | **Quercia Rossa** Emette linfa simile a sangue. Le radici cercano ferite aperte per inoculare semi. |
 
----
+***
 
 ## 🐺 Fauna Pericolosa
 
@@ -260,7 +260,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 | Lumaca Corazzata | **Gasteropodi d'Ambra** Lasciano scie di melma corrosiva. Il guscio è un potente catalizzatore alchemico. |
 | Ragno Setaverde | **Tessitori di Veleno** Ragni che intrecciano tele con fili di clorofilla concentrata. Il morso fossilizza gli arti. |
 
----
+***
 
 ## 🌟 Personaggi d'Esempio
 
@@ -271,7 +271,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 | **Paladino della Linfa** Centauro con zoccoli d'ambra infuocata. Difende i luoghi sacri con una lancia di cristallo. | Campione (Paladino) / Centauro | - Lancia di Quarzo Iridescente - Scudo con incisioni druidiche - Fiaschetta di Linfa Rigenerante |
 | **Cacciatore di Reliquie Verdi** Umano braccato dagli spiriti arborei. Specializzato nel rubare artefatti druidici. | Ladro (Scoundrel) / Umano | - Grimaldelli di Legno Fosso - Rete di Fibra Velenosa - Mappa Tatuata su Corteccia |
 
----
+***
 
 ## 🛡️ Equipaggiamento Tipico
 
@@ -280,6 +280,6 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 * **Strumenti**: Corni da Richiamo per Animali, semi di Piante Carnivore
 * **Consumabili**: Nettare di Rigenerazione (cura 2d8 ma causa dipendenza), Spore di Visione (vedi attraverso gli alberi)
 
----
+***
 
 *"Ogni foglia un universo, ogni radice una strada per mondi dimenticati."*

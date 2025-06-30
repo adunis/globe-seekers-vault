@@ -303,7 +303,7 @@ globi e tentato di utilizzarli per scopi propri, forse per sfidare gli
 dei o accedere a poteri proibiti. Ma giocare con tali forze ha un prezzo
 terribile."
 
----
+***
 
 🧝‍♂️ Bungo Dudo riprende, la sua voce carica di urgenza e autorità. "C'è un altro aspetto da considerare. Le Scale Celesti
 non sono necessariamente opera degli dei. Potrebbero essere luoghi di
@@ -360,7 +360,7 @@ tra i piani, ma anche per seminare caos e follia."
 
 Indica il luogo dove si trova il Patrono sulla mappa. "È evidente capire perché il Patrono é in grado di guarire chi é afflitto da questa condizione”
 
----
+***
 
 🧝‍♂️ Con voce ferma, Bungo Dudo propone: "Dobbiamo
 interrogare gli dei stessi. Dobbiamo chiedere loro cosa trovarono

@@ -32,6 +32,6 @@ L'indebolimento delle barriere tra i piani ha creato nuove opportunità per i de
 * **Pressioni psichiche:** I demoni potrebbero usare il nuovo equilibrio instabile per invadere le menti mortali, instillando paura, odio e disperazione.
 * **Corruzione progressiva dei luoghi di potere:** La costante presenza demoniaca potrebbe corrompere luoghi di potere preesistenti, alterandone la natura e i poteri.
 
----
+***
 ## Gallery
 ![[9d7c7a24-00c2-4f85-b039-ef269892ad52.png]]

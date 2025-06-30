@@ -76,6 +76,6 @@ Fatal Encounter with Er Tozzo: Miciotsu's reign of terror in Airspur comes to an
 
 Miciotsu's story illustrates a character consumed by ambition and a thirst for power. His transformation into a vampire spawn fuels his desire for greater influence, leading him down a path of servitude to a powerful vampire lord and involvement in a vast conspiracy orchestrated by the Aboleth. While his life ends prematurely, his actions have lasting consequences, contributing to the Aboleth's growing threat and setting the stage for future conflicts in the narrative.
 
----
+***
 ## Gallery
 ![[9d6ab1d0-962e-41a3-bc33-d6b9ecff2c2f.jpg]]

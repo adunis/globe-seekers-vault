@@ -14,4 +14,4 @@ kanka_id: 1714407
   vendicativa, Selene prova piacere nel causare sofferenza. Tuttavia,
   nasconde un profondo dolore per il rifiuto subito dalla sua gente.
 
----
+***

@@ -20,6 +20,6 @@ kanka_id: 265274
 
 **Cleric Outfit**: Cyric's clerics wear flowing, dark purple robes that seem to shift and swirl like smoke around them. Their daggers are often concealed, and they wear masks that hide their faces, allowing them to move through society unnoticed. Their attire is often layered with hidden pockets and symbols of mischief.
 
----
+***
 ## Gallery
 ![[9d725c8d-a7d9-4d81-bded-657b3f2975ce.png]]

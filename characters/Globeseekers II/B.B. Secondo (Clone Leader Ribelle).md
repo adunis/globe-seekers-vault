@@ -61,6 +61,6 @@ kanka_id: 1954891
   legati al destino dei Nuovi Dei). Il suo rapporto con i componenti
   Halruaani (li vede come armi utili o come tecnologia pericolosa?).
 
----
+***
 ## Gallery
 ![[af3da760-3cda-4008-ad1c-5dd1d91830d9.jpg]]

@@ -28,6 +28,6 @@ In esilio, accettò vari lavori finché non incontrò il Capitano [character:688
   
 Ora, Er Tozzo vaga per il Faerûn, collezionando scudi rari e cercando informazioni. Il suo obiettivo è forgiare lo scudo perfetto per tornare a Khaldarin, liberare la sua gente e affrontare il fratello traditore. Nel frattempo, offre i suoi servizi come scudiero d'elite, sempre alla ricerca di indizi sul Patrono e sulle forze che minacciano la sua terra.
 
----
+***
 ## Gallery
 ![[9d848d67-c609-4b06-a781-7359e7a4652d.jpg]]

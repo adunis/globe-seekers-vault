@@ -50,7 +50,7 @@ Return: Does Yilvynna actually die in Session 10? The sources are unclear about 
 
 These unanswered questions provide opportunities to expand upon Yilvynna's character and role in the narrative. You can use these gaps in the information to create a more complex and intriguing backstory, motivations, and potential future involvement in the campaign.
 
----
+***
 ## Gallery
 ![[9d6cbd4b-3d4a-4a40-9cde-6e463bf50cc3.jpg]]
 ![[18bec0c1-dc6c-4705-aca6-f4d96ec787c9.jpg]]

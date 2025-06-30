@@ -20,6 +20,6 @@ kanka_id: 265281
 
 **Cleric Outfit**: Clerics of Chauntea wear green robes embroidered with wheat stalks and flowers, symbolizing growth and life. They often wear wide-brimmed straw hats when outdoors and carry scythes that are both ceremonial and practical for farming. Their attire is simple, practical, and often dirt-stained from their work in the fields.
 
----
+***
 ## Gallery
 ![[9d745a75-4eda-49c3-94ee-de68d47b9cee.jpg]]

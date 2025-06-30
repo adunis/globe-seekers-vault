@@ -47,6 +47,6 @@ Searching for the King Kraken's Artefacts: Temura embarked on a quest to locate 
 
 Temura embodies the spirit of a true adventurer, driven by a thirst for knowledge and a desire to protect the innocent. Her unique abilities, combined with her strong sense of honour, make her a formidable force for good. As she navigates the treacherous waters of the Sea of Fallen Stars, her quest for answers and her pursuit of justice will undoubtedly lead her to further adventures and confrontations with powerful forces that threaten the balance of the world.
 
----
+***
 ## Gallery
 ![[9d6c97a7-c969-4b32-8571-f99a8aa72d23.jpg]]

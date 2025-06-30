@@ -16,7 +16,7 @@ head (
 | --- | --- | --- |
 | Nebbia Vivente | Fetchling Ombratile | Gnomo Antinebbia |
 
----
+***
 
 > *"Qui le verità indossano maschere di nebbia, e le bugie brillano come fari. Fidati solo dell'ombra che ti precede."* - Lysandra Vintar, Maestra delle Trame
 >
@@ -25,7 +25,7 @@ head (
 > *"Camminare nei Veli è come sfogliare un libro i cui capitoli combattono tra loro. Ogni passo cancella la pagina precedente."*  
 > — Ultimo messaggio del Cartografo Thalivar
 
----
+***
 
 *(frammenti da un diario rilegato in pelle d'ombra)*
 
@@ -63,7 +63,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 
 *(il testo si dissolve in macchie d'inchiostro animate)*
 
----
+***
 
 ## 🧭 Sopravvivenza nei Veli
 
@@ -86,7 +86,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 > *"Nei Veli, l'unica mappa affidabile è il proprio sangue. Segui le ferite che bruciano di più."*  
 > — Detto degli Straziaombre
 
----
+***
 
 ## 👥 Specie Dominanti
 
@@ -97,7 +97,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | Gnomo | **Luminanti** (Gnomi Antinebbia) | Inventori ossessionati dal dissolvere le nebbie. Portano occhiali che vedono attraverso i traumi. |
 | Halfling | **Mercanti di Maschere** (Contrabbandieri Dimensionali) | Ladri che commerciano identità rubate. Posseggono borse che contengono universi tascabili. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -108,7 +108,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | Mercanti | **Bazar delle Verità Nascoste** (Mercato delle Anime) | Mercanti che vendono ricordi e identità. Le monete sono fatte di tempo condensato. | - Zethis, Halfling con occhi-bussola - Morgra, Veggente che vende futuri alternativi |
 | Alchimisti | **Gilda dei Mnemotecnici** (Architetti della Memoria) | Manipolatori di ricordi. Creano labirinti mentali nelle nebbie. | - Dr. Thalios (cervello in ampolla) - Unit-9, Automa che incarna ricordi rubati |
 
----
+***
 
 ## 🌫️ Flora Letale
 
@@ -118,7 +118,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | Nebbie Viventi | **Nebbie di Mnemosine** Vapori che cristallizzano i pensieri in diamanti psichici. Inalarla causa amnesie selettive. |
 | Fiori d'Ombra | **Fiori del Peccato Oculto** Piante che sbocciano solo al buio. Il polline rivela verità scomode. |
 
----
+***
 
 ## 🕵️♂️ Personaggi d'Esempio
 
@@ -130,7 +130,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | **Inventore della Luce Nera** Gnomo che crea dispositivi per combattere le nebbie. Ha sostituito un occhio con un faro mistico. | Inventore (Clockwork) / Gnomo | - Lanterna a dissoluzione nebbiosa | - Occhiali a raggi veritieri - Kit per smontare illusioni |
 | **Manipolatore di Maschere** Ex membro della Chiesa Velata. Porta una collezione di volti in una valigia di pelle. | Bardo (Enigma) / Fetchling | - Flauto che suona ricordi - Maschere che cambiano personalità - Inchiostro che scrive sul vuoto |
 
----
+***
 
 ## 🗡️ Equipaggiamento Tipico
 

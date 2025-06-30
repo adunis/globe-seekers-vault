@@ -4,7 +4,7 @@ kanka_id: 1954952
 
 Okay GM, ecco un background dettagliato per Lysandra Vayne e la sua integrazione nella Congrega della Catena Spezzata, seguito da un plot hook con risoluzione ambigua.
 
----
+***
 
 **BACKGROUND: LYSANDRA VAYNE, L'ORACOLO DEL SILENZIO INFRANTO**
 

@@ -23,6 +23,6 @@ The sources provide no further details about Agatha's motivations, her history, 
 
 Agatha's willingness to aid the characters, despite her capricious nature, suggests that even beings associated with death and the supernatural can be swayed by appeals for help or offers of appropriate exchange.
 
----
+***
 ## Gallery
 ![[2d8e1806-7d6e-4b7e-a459-0377e68f8ad0.webp]]

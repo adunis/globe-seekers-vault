@@ -20,6 +20,6 @@ kanka_id: 265285
 
 **Cleric Outfit**: Gond’s clerics are usually seen in steel-gray robes adorned with intricate mechanical designs and cogs. They wear tool belts and aprons, always ready to tinker or repair. Their hammers are both symbols of their craft and practical tools, often glowing with magical energy.
 
----
+***
 ## Gallery
 ![[9d4c22cc-14e6-4ef8-93c4-ce50dd7f4953.jpg]]

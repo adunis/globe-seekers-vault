@@ -11,7 +11,7 @@ planes, only the servants and manifestations of the deities can be
 found. Creatures such as dragons, dryads, elementals, and other beings
 native to the Prime Planes do not inhabit these realms.
 
----
+***
 
 ### [location:6929095]
 
@@ -25,7 +25,7 @@ native to the Prime Planes do not inhabit these realms.
 
 * **Native Inhabitants**: **Angels**—celestial beings embodying the virtues of their deity, serving as messengers, warriors, and guardians.
 
----
+***
 
 ### [location:6929096]
 
@@ -38,7 +38,7 @@ native to the Prime Planes do not inhabit these realms.
 
 * **Native Inhabitants**: **Devils**—fiendish entities serving their deities in roles of temptation, corruption, and enforcement of infernal law.
 
----
+***
 
 ### [location:6929097]
 
@@ -53,7 +53,7 @@ native to the Prime Planes do not inhabit these realms.
 
 * **Native Inhabitants**: **Celestials**—divine beings serving their deities, representing aspects of nature and the natural order.
 
----
+***
 
 ### [location:6929098]
 
@@ -67,7 +67,7 @@ native to the Prime Planes do not inhabit these realms.
 
 * **Native Inhabitants**: **Archons**—celestial beings of high order serving as judges, protectors, and executors of divine will.
 
----
+***
 
 ### [location:6929099]
 
@@ -80,7 +80,7 @@ native to the Prime Planes do not inhabit these realms.
 
 * **Native Inhabitants**: **Demons**—chaotic entities carrying out the unpredictable and often inscrutable plans of their deities.
 
----
+***
 
 ### [location:6929100]
 

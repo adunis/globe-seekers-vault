@@ -20,6 +20,6 @@ kanka_id: 265295
 
 **Cleric Outfit**: Tymora’s clerics wear light, blue traveler's garb that allows for ease of movement, often embroidered with silver stars and dice patterns. They wear practical yet elegant cloaks, often with hoods to conceal their faces when needed. Shurikens, symbolic of quick, precise action, are attached to their belts, and they carry pouches of lucky charms, dice, or talismans. Their attire represents both the unpredictability of luck and their readiness for the next adventure.
 
----
+***
 ## Gallery
 ![[9d746995-2a02-4869-8127-8a1cd9a2b8db.jpg]]

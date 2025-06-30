@@ -16,7 +16,7 @@ head(
 | --- | --- | --- |
 | Rovine 1 | Paladino Aasimar | Nano Sigillatore |
 
----
+***
 
 > *"Qui le pietre urlano memorie di sangue. Le torri naniche sono diventate gabbie per carne demoniaca pulsante."* - Thordak, Ultimo Runemastro
 >
@@ -25,7 +25,7 @@ head(
 > *"Le mappe mentono. Le strade si riavvolgono su sé stesse per nutrire l'Abisso."*  
 > — Ultimo messaggio del Battaglione Perduto di Illefarn
 
----
+***
 
 *(frammenti da un diario ritrovato in una corazza spezzata)*
 
@@ -61,7 +61,7 @@ numeri che contano alla rovescia."
 La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite a mio fratello che...  
 *(il testo si dissolve in una ricetta alchemica per carne demoniaca)*
 
----
+***
 
 ## ❄️ Sopravvivenza nella Fauce di Cania
 
@@ -84,7 +84,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 > *"Nelle Rovine, sopravvivere è tradire. Resistere è diventare ciò che si odia."*  
 > — Massima dei Sigillatori Nanici
 
----
+***
 
 ## 👹 Specie Dominanti
 
@@ -95,7 +95,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 | Tiefling | **Anatomisti Infernali** | Studiosi ossessionati dalla fusione tra carne e metallo. Portano bisturi runici. |
 | Umani | **Cacciatori di Veli** | Sopravvissuti con occhi modificati da cristalli di Cania. Vedono attraverso le illusioni demoniache. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -105,7 +105,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 | Ribelli | **Ordine del Sigillo Infranto** | Ex-nanici che usano tecnologie proibite. Hanno fucine mobili nelle rovine. | - Thaladir (Fabbro con martello plasma) - Lira (Ingeniera con braccio meccanico) |
 | Mercanti | **Compagnia dei Veli Strappati** | Trafficanti di reliquie demoniache. Viaggiano su carri blindati. | - Gorruk (Mezzorco con lancia elettrica) - Myra (Tiefling contrabbandiera) |
 
----
+***
 
 ## 🌫️ Flora Letale
 
@@ -115,7 +115,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 | Fungo Demoniaco | **Ombre Fungine di Cania** Emettono spore che trasformano la carne in bronzo vivente. |
 | Vite Metallica | **Strozzapassi Ferrosi** Liane con foglie seghettate che reagiscono al movimento. |
 
----
+***
 
 ## 🦴 Fauna Demoniaca
 
@@ -125,7 +125,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 | Verme Acciaio | **Divoratori di Memoria** Parassiti metallici che si nutrono di ricordi. Lasciano vittime in stato vegetativo. |
 | Ragno Ghiaccio | **Tessitori di Veli** Aracnidi che creano tele con fili di freddo assoluto. Il morso congela i fluidi vitali. |
 
----
+***
 
 ## ⚡ Personaggi d'Esempio
 
@@ -136,7 +136,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 | **Anatomista della Carne** Tiefling con bisturi alchemici. Studia fusioni demoniache. | Investigatore (Empirismo) / Tiefling | - Bisturi Runici - Diario con Annotazioni Infernali - Siringa di Siero Anti-Demone |
 | **Cacciatore di Veli** Umano con occhi modificati. Caccia demoni per vendetta personale. | Ranger (Cacciatore di Predatori) / Umano | - Arco Composito con Frecce d'Argento - Rete di Acciaio Demoniaco - Mappa Tatuata su Braccio |
 
----
+***
 
 ## 🔨 Equipaggiamento Tipico
 
@@ -145,7 +145,7 @@ La Carne del Abisso mi chiama. Le mie vene pulsano in sincrono con le mura. Dite
 * **Strumenti**: Runografi Portatili, chiavi per Sigilli Dimensionali
 * **Consumabili**: Pillole Anti-Congelamento (immunità freddo 1h), Granate di Sangue Demoniaco (evocano tentacoli)
 
----
+***
 
 🌍 **Globeseekers 2.0 [GB-∞] - Godfall Mandate**  
 *"Dove il metallo canta inni di guerra e la carne urla silenzi di tradimento."*

@@ -25,6 +25,6 @@ dragon, each representing a different chromatic dragon color. They often
 wear gold jewelry and dragon-scale armor, symbolizing their devotion to
 power, wealth, and dominance.
 
----
+***
 ## Gallery
 ![[9d725bd7-decd-4c75-961b-48f2a57f1583.png]]

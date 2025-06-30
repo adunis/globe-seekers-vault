@@ -2,14 +2,14 @@
 kanka_id: 170330
 ---
 
----  
+***
 title: "[character:6880443] Campaign"  
 icon: ":sticky-note:"  
 aliases: "Black Spider Campaign"  
 foundryId: JournalEntry.gAaBz3OVpQh5Wv6V.JournalEntryPage.fzJ2YshVJVMtG5f2  
 tags:  
   - JournalEntryPage  
----  
+***
   
 # Black Spider Campaign  
 # Session 1: Arrival in Phandalin and Goblin Encounter  

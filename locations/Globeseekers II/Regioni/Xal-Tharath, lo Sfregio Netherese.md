@@ -10,7 +10,7 @@ kanka_id: 1705990
 | --- | --- | --- |
 | Sfregio 1 | Arcanista Mutato | Ratfolk Reliquiario |
 
----
+***
 
 > *"Qui la pietra respira e il vuoto canta. Ogni passo è un tradimento della geometria, ogni respiro un patto col caos."* - Velyssra, Stregone Aberrante
 >
@@ -18,7 +18,7 @@ kanka_id: 1705990
 >
 > *"Non cercare logica in queste lande. Le leggi che conosci sono fantasmi, e i fantasmi qui hanno denti più affilati della verità."* — Ultima trasmissione del Teocristallo di Oorlth
 
----
+***
 
 *(frammenti recuperati da un cristallo mnemonico incrinato)*
 
@@ -42,7 +42,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 
 *(il cristallo esplode in una nube di polvere frattale)*
 
----
+***
 
 ## 🧭 Sopravvivenza nello Sfregio
 
@@ -64,7 +64,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 
 > *"Lo Sfregio non uccide, trasforma. Ma ciò che emerge dal crogiolo... è ancora te?"* — Messaggio finale del Teocristallo
 
----
+***
 
 ## 🔮 Specie Dominanti
 
@@ -75,7 +75,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 | Ratfolk | **Saccheggiatori di Singolarità** (Ratfolk Reliquiari) | Mercanti di frammenti di realtà. Trasportano borse che pesano meno del vuoto. |
 | Alghe Antigravità | **Alghe di Hawking** (Vegetazione Antigravitazionale) | Colonie simbiotiche che creano isole fluttuanti. Emettono raggi di inversione entropica. |
 
----
+***
 
 ## ⚔️ Fazioni Principali
 
@@ -86,7 +86,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 | Mercanti | **Cartello degli Anti-Materassi** (Mercanti di Realtà) | Trafficanti di frammenti spazio-temporali. Vendono ricordi rubati come merce. | - Grishnak, Orco con borsa a buco nero - Lyssandra, Mezzodrago che commercia futuri alternativi |
 | Ricercatori | **Accademia della Singolarità** (Scienziati Folli) | Studiosi che sperimentano con leggi fisiche alterate. Hanno laboratori in bolle dimensionali. | - Dr. Vorthas (cervello in contenitore di vetro) - Unit-7, Costrutto che parla in lingue estinte |
 
----
+***
 
 ## 🌌 Flora Letale
 
@@ -96,7 +96,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 | Vite Temporali | **Viti di Chronovore** Parassiti che si nutrono di linee temporali. Avvolgono le vittime in loop di 6 secondi. |
 | Fiori Quantici | **Fiori di Schrödinger** Piante simultaneamente vive e morte. Raccoglierle modifica la probabilità circostante. |
 
----
+***
 
 ## 🦸♂️ Personaggi d'Esempio
 
@@ -108,7 +108,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 | **Guardiano dei Frattali** Elfo che protegge le zone stabili dello Sfregio. Il suo sangue è liquido di non-newtoniano. | Stregone (Aberrante) / Elfo | - Bastone fatto di spazio compresso - Mantello che assorbe radiazioni arcane - Anello che piega la luce (invisibilità 1 min/giorno) |
 | **Ingegnere delle Realtà** Inventore che costruisce armi con frammenti dimensionali. Ha sostituito un braccio con un'artiglio di vuoto. | Inventore (Costrutto) / Halfling | - Martello che ripara le fessure dimensionali - Drone esploratore a levitazione quantica - Occhiali che vedono le linee di forza magiche |
 
----
+***
 
 ## ⚗️ Equipaggiamento Tipico
 

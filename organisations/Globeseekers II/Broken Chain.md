@@ -45,7 +45,7 @@ Rimangono attivi nella ricerca dei Globi Netheresi, non più (forse) per aprire 
 * Il Patrono, ancora attivo sullo sfondo, tenta di manipolare nuovamente la Congrega (o una sua fazione) per i propri fini, forse offrendo un modo per liberare Vordekai in cambio del loro aiuto per raggiungere la Scala Celeste.
 * Hene scopre che l'Anatema Lunare ha poteri nascosti legati alla non-morte, attirando l'attenzione della Congrega che desidera l'artefatto.
 
----
+***
 ## Gallery
 ![[9d6cf3fe-d598-4c20-baa5-180a9badc70e.webp]]
 ![[1b12590b-e205-47bd-b941-97d84571f8cd.webp]]

@@ -16,7 +16,7 @@ head(
 | --- | --- |
 | Rovine Tech | Golem |
 
----
+***
 
 > *"Qui non esistono dei, solo macchine che sognano di essere divine."*  
 > – Arkon il Folle, Ultimo Artefice della Collettiva
@@ -27,7 +27,7 @@ head(
 > *"Il passato non è sepolto... è* vivo*. E ha denti affilati."*  
 > – Ultimo messaggio della spedizione di Thalos il Cartografo
 
----
+***
 
 **(frammenti di un taccuino ritrovato in una cripta biomeccanica)**
 
@@ -51,7 +51,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 **Ultima Annotazione:**  
 "Il **Nucleo Primordiale** pulsa sotto la città. Non è una macchina... è un *organo*. Dite al Concilio che... che gli Dèi erano solo... *(il testo è cancellato da scariche elettriche)*"
 
----
+***
 
 ## ⚡ Sopravvivenza nelle Cicatrici di Ao
 
@@ -69,7 +69,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 * Maschera anti-risonanza con filtri runici
 * Pugnale di **Ossidiana Programmabile** (cambia forma a comando)
 
----
+***
 
 ## 🤖 Specie Dominanti
 
@@ -79,7 +79,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 | Golem | **Golem del Giudizio** (Guardiani Autonomi) | Costrutti con intelligenza corrotta. Attaccano chi non ha "crediti divini". |
 | Fetchling | **Ombre del Vuoto** (Fetchling del Nucleo) | Ibridi nati dalle distorsioni temporali. Viaggiano tra i frammenti di realtà. |
 
----
+***
 
 ## 🌌 Fazioni Principali
 
@@ -89,7 +89,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 | Predatori | **Predatori del Vuoto** (Cacciatori di Reliquie) | Mercenari che vendono artefatti al mercato nero. Hanno alleati tra i Golem corrotti. | - Vorys "Lama di Data" - Krell, Mezzoscuri con occhi a infrarossi |
 | Culto | **Culto della Runa Antica** (Adoratori del Nucleo) | Fanatici che credono il Nucleo sia il vero dio. Compiono sacrifici di metallo vivo. | - Hierophant Null (senza volto) - Zara, Bambina con schede madri al posto dei nervi |
 
----
+***
 
 ## 🔮 Flora Letale
 
@@ -99,7 +99,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 | Vite | **Viti del Vuoto** Liane metalliche che iniettano codice maligno. Trasformano la carne in hardware. |
 | Fungo | **Funghi di Datasangue** Colonie che emettono spore corrosive. Si nutrono di informazioni genetiche. |
 
----
+***
 
 ## ⚙️ Fauna Meccanica
 
@@ -109,7 +109,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 | Mimic | **Mimici dell'Eco** Creature che imitano oggetti e persone. La loro forma vera è un groviglio di cavi e denti. |
 | Sciame | **Sciami Cronofagi** Entità che risucchiano il tempo. Lasciano vittime in stati d'età casuali. |
 
----
+***
 
 ## 👤 Personaggi d'Esempio
 
@@ -119,7 +119,7 @@ vere rovine. L'aria sa di ozono e sangue antico. Le ombre... *si muovono al cont
 | **Tombarolo Mezzoscuri** Ladra specializzata in trappole antiche. Ha una mano robotica rubata. | Rogue (Esploratore) / Fetchling | - Grimaldelli a risonanza sonica |
 | **Oracolo del Nucleo** Ex-scienziato posseduto da un'IA antica. Parla in codici binari. | Oracolo (Mistero della Macchina) / Umano | - Tavolette runiche programmabili |
 
----
+***
 
 ## ⚔️ Equipaggiamento Tipico
 

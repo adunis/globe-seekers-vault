@@ -48,7 +48,7 @@ have far-reaching consequences for the world. Deities can die through:
 
 When a deity dies, their power may dissipate, be absorbed by other deities, or linger in the world as wild magic.
 
----
+***
 ## Divine Delegation
 
 ## Divine Hierarchy
@@ -88,7 +88,7 @@ This granular delegation serves several purposes:
 3. It strengthens the religious hierarchy and the role of priests in society.
 4. It provides tangible evidence of divine power to common people, reinforcing the Divine Economy system.
 
----
+***
 ## The Divine Economy
 
 ## Power Acquisition
@@ -136,7 +136,7 @@ perceive that their offerings are not resulting in the desired outcomes,
 they may cease making offerings to that deity, potentially diminishing
 the deity's power over time.
 
----
+***
 ## Power Acquisition and Usage
 
 ## Offering Point System
@@ -608,7 +608,7 @@ Abomination Domain:
 * High: Transform an entire city's population into horrific monstrosities
 * Cosmic: Rewrite the laws of nature to make abominations the norm across all worlds
 
----
+***
 ## Divine Planes and Soul Mechanics
 
 # Divine Planes and Soul Mechanics

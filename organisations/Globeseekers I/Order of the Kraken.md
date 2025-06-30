@@ -76,6 +76,6 @@ Captain Daelar Darkshadow: The Kraken King's right-hand man, described as a ruth
 
 The Order of the Kraken presents a significant challenge to the established order within the Sea of Fallen Stars. Their ambition, ruthlessness, and connection to Xul'koroth make them a formidable adversary for those seeking to maintain balance and stability within the region. Their actions have far-reaching consequences, shaping the political landscape and influencing the decisions of other factions. The campaign's outcome will likely hinge on whether the players can successfully counter the Order's ambitions and disrupt their alliance with the Aboleth mastermind
 
----
+***
 ## Gallery
 ![[9d44bef4-2bab-4388-848f-1bf0fb339a07.jpg]]

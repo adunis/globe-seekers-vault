@@ -6,13 +6,13 @@ kanka_id: 170314
 
 *Mentre ti rilassi nella locanda "La Gilda dell'Orso", un messaggero della Compagnia di Esploratori Feywild entra frettolosamente e ti consegna una lettera sigillata. La missiva descrive la scoperta di una città abbandonata nel Feywild, ora invasa da strane creature. Gli esploratori credono che la città sia stata fondata anticamente dagli elfi di Cormanthyr prima della sua caduta. Questi elfi, famosi nemici dell'impero di Netheril, possedevano conoscenze su come distruggere e rendere inefficaci anche i più potenti degli artefatti netheresi. Questa scoperta potrebbe essere cruciale per la tua missione di trovare l'Urna di Geb e spezzare il tuo patto con Zorvath.*
 
----
+***
 
 #### Morun Tag (Downtime a Procampur)
 
 *Passeggiando per le strade affollate di Procampur, noti dei manifesti con la tua descrizione e una taglia di 10.000 monete d'oro per chiunque ti trovi. Essendo un derro fuggito dal sottosuolo e non essendo cittadino di Procampur, non godi di alcuna protezione dalla città. Mentre riflettevi sul da farsi, un individuo misterioso ti avvicina. Si presenta come Lyra Zampetta, un membro della Gilda dei Ladri di Procampur. Lyra, un'elfa dai capelli argentati e occhi penetranti, ti propone un'offerta: unirti alla Gilda in cambio della cittadinanza e protezione. La Gilda ritiene che tu abbia i contatti necessari per rubare l'Urna di Geb, un artefatto di valore inestimabile. Accettare l'offerta potrebbe fornirti risorse e alleati potenti.*
 
----
+***
 
 #### Temura (Downtime a Teziir)
 
@@ -22,7 +22,7 @@ kanka_id: 170314
 
 *Mentre mediti nell'oscurità del tuo rifugio temporaneo a Teziir, giunge voce di un incontro segreto. Gli emissari di Thay stanno per organizzare uno scambio di urne contenenti anime di aasimar con una fazione chiamata la Catena Spezzata. L'incontro è programmato per il 25/06/1501 sull'Isola di Prespur, un luogo noto per le sue rovine antiche e le sue coste frastagliate. Il negoziato avverrà in una vecchia fortezza costiera, abbandonata da secoli ma recentemente riutilizzata per incontri clandestini. Tra i membri della delegazione di Thay c'è il braccio destro del tuo ex padrone, colui che ti ha creato e tormentato. Questa è l'occasione perfetta per vendicarti e impedire che queste anime vengano utilizzate per scopi nefasti. Preparati a infiltrarti nell'isola e a sconfiggere i tuoi nemici.*
 
----
+***
 
 #### Korgak (Downtime a Teziir)
 

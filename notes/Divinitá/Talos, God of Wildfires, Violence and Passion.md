@@ -25,6 +25,6 @@ kanka_id: 265294
 
 **Cleric Outfit:** Clerics of Talos wear heavy, red and iron-colored armor adorned with intricate carvings of storms and legendary battles. Their weapons, often inscribed with runes invoking destruction, are kept in pristine condition, ready for combat at a moment's notice. Their capes are tattered from the storms they willingly endure, and their armor is designed for function and protection in the fiercest of battles, incorporating chainmail and plate for maximum resilience.
 
----
+***
 ## Gallery
 ![[9d725c5c-7e91-4eb0-a948-82d84165dd6f.jpg]]

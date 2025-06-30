@@ -20,6 +20,6 @@ kanka_id: 265278
 
 **Cleric Outfit**: Lolth's clerics wear form-fitting black silk robes woven to resemble spider webs. Their attire is adorned with spider-shaped jewelry, and they often have veils that partially obscure their faces. Their daggers are curved and encrusted with black onyx, and their robes shift in the dark like shadows. Some even incorporate live spiders into their attire.
 
----
+***
 ## Gallery
 ![[9d744b49-1719-42dd-ba8c-1b6d8bc6d805.jpg]]

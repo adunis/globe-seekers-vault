@@ -16,7 +16,7 @@ head(
 | --- | --- | --- |
 | Abisso 1 | Sahuagin | Tritone |
 
----
+***
 
 > *"Qui non si nuota, si sopravvive. Ogni bolla d'aria è un debito con la Fossa."*  
 > – Kraxar, Predatore del Colosseo Abissale
@@ -27,7 +27,7 @@ head(
 > *"Le città sahuagin non sono costruite, sono* cresciute*. Come tumori su uno scheletro di vulcano."*  
 > – Ultimo rapporto del Capitano Nyrath, Esploratore del Profondo
 
----
+***
 
 **(frammenti di una pergamena incisa su foglia di kelp)**
 
@@ -60,7 +60,7 @@ non è un'arena. È una creatura viva. Le pareti pulsano, il sangue nutre
 coralli predatori. Dite a mio fratello che... che il mare lo sta
 aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 
----
+***
 
 ## 🌊 Sopravvivenza nelle Fauci di Olhydra
 
@@ -78,7 +78,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 * Armatura ricavata da scaglie di **Squalo Corazzato** (-1 danni da perforazione)
 * Pugnale di ossidiana vulcanica (taglia il corallo vivente)
 
----
+***
 
 ## 🦈 Specie Dominanti
 
@@ -88,7 +88,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 | Drow | **Ombre delle Profondità** (Drow Abissali) | Elfi oscuri con pelle bioluminescente. Specializzati in veleni e inganni. Alleati instabili dei Sahuagin. |
 | Tritone | **Tritoni Liberati** (Ribelli del Kelp) | Fuggiaschi con coralli simbiotici sulla pelle. Combattenti abili nel sabotaggio delle reti da pesca Sahuagin. |
 
----
+***
 
 ## 🌋 Fazioni Principali
 
@@ -98,7 +98,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 | Ribelli | **Alveari di Sangue** (Culto del Polpo) | Setta che venera polpi mutaforma. Sostituiscono leader per controllare le rotte. | - Il Camaleonte (forma indefinita) - Lysandra, Ex-Regina con volto rubato |
 | Corallo | **Cerchio del Corallo** (Druidi Abissali) | Custodi degli ecosistemi. Usano alghe assassine per punire i predatori. | - Yggdara, Druido fuso con un anemone - Nix, Ranger con squalo addomesticato |
 
----
+***
 
 ## 🌿 Flora Letale
 
@@ -108,7 +108,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 | Alga | **Alghe Strangolatrici** Piante semi-sensienti che avvolgono le vittime. Digestione lenta: la preda rimane cosciente per settimane. |
 | Kelp | **Foresta di Kelp Nera** Piante che assorbono la luce. Le foglie tagliano come rasoi. Rifugio dei Tritoni ribelli. |
 
----
+***
 
 ## 🐙 Fauna Abissale
 
@@ -118,7 +118,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 | Medusa | **Medusa dei Sussurri** Creature trasparenti che replicano i pensieri delle vittime. Causano follia temporanea. |
 | Polpo | **Polpo Mutaforma** Cefalopodi che imitano volti umani. Infiltrati nelle carovane per sabotaggio. |
 
----
+***
 
 ## 👤 Personaggi d'Esempio
 
@@ -128,7 +128,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 | **Alchimista delle Tenebre** Drow con braccio modificato da polpo. Sperimenta tossine abissali. | Alchimista (Velenologo) / Drow | - Kit distillazione in vescica di medusa |
 | **Paladino del Kelp** Tritone con armatura di corallo vivo. Difende i deboli dalle reti Sahuagin. | Campione (Liberatore) / Tritone | - Lancia di ossidiana vulcanica |
 
----
+***
 
 ## ⚔️ Equipaggiamento Tipico
 

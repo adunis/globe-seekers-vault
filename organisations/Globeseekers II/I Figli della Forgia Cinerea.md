@@ -165,6 +165,6 @@ tatuaggi di schemi tecnici o rune (non magiche, ma di "programmazione").
 
   
 
----
+***
 ## Gallery
 ![[d22ddf84-a250-4fac-a631-a9b6ef5a280f.jpg]]

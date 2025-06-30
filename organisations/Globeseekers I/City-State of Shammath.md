@@ -72,6 +72,6 @@ understanding [[Sshamath]], you may wish to draw on additional resources
 from the Forgotten Realms setting to further develop the city and its
 inhabitants for your players.
 
----
+***
 ## Gallery
 ![[9d6cf50e-e3aa-463d-aae8-21357669c564.webp]]

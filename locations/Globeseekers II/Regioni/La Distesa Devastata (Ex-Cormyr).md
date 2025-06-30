@@ -15,7 +15,7 @@ Head(
 | --- | --- | --- |
 | Cielo Elettrico | Mutante |  |
 
----
+***
 
 > *"Qui la luce non guarisce, brucia. L'aria non nutre, corrode. Persino i morti rifiutano di giacere in pace."*  
 > – Voryssa, Veggente delle Scorie
@@ -26,7 +26,7 @@ Head(
 > *"Cercate Cormyr? Scavate. È sepolta sotto strati di follia cristallizzata."*  
 > – Ultimo messaggio del Capitano Myrthar, 32° Reggimento dei Dragoni Purpurei
 
----
+***
 
 **(frammenti di un diario ritrovato incastonato in vetro radioattivo)**
 
@@ -65,7 +65,7 @@ non è una leggenda. Torri di ossa metalliche che pulsano come cuori.
 Gli automi mi guardano con occhi di vittime. Dite al Conte che... che il
 prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 
----
+***
 
 ## ☢️ Sopravvivenza nella Carne di Karsus
 
@@ -83,7 +83,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 * Guanti isolanti in pelle di Mollusco Geyser
 * Bussola a sospensione magnetica (le normali puntano al Nucleo di Karsus)
 
----
+***
 
 ## 🧬 Specie Dominanti
 
@@ -93,7 +93,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | Automi | **Guardiani Fulminati** (Automaton) | Costrutti rianimati dalle radiazioni. Cercano "riparazioni" rubando organi ai vivi. |
 | Goblin | **Rompiscorie** (Goblin Radioattivi) | Piccoli predatori con denti al plutonio. Costruiscono trappole con detriti esplosivi. |
 
----
+***
 
 ## ⚡ Fazioni Principali
 
@@ -103,7 +103,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | Mercanti | **Mercanti di Scorie** (Carovane Djinn) | Entità di pura energia che viaggiano su dune radioattive. Vendono acqua in cambio di emozioni. | - Sheik Noctiluca (essere di plasma instabile) - Lorkhan, Bambino con occhi da reactor |
 | Predoni | **Predoni del Crepuscolo** (Centauri Mutati) | Banditi con zampe metalliche e lance al plasma. Sacrificano prigionieri alle tempeste. | - Tharax, Capo con corazza fatta di schede madri - Myrsha, Sciamana con capelli a cavi elettrici |
 
----
+***
 
 ## ☣️ Flora Letale
 
@@ -113,7 +113,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | Fungo | **Ombre Fungine** Colonie che emettono spore psicoattive. Causano allucinazioni violente. I tossicodipendenti ne ricercano i "frutti del delirio". |
 | Cactus | **Spine di Karsus** Cactus bioluminescenti che iniettano veleno radioattivo. Le radici penetrano nei cadaveri per crearne zombie. |
 
----
+***
 
 ## 🧪 Fauna Apocalittica
 
@@ -123,7 +123,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | Mollusco | **Geyser-Scale** Molluschi con gusci termici. Sputano getti d'acqua bollente contaminata. Le perle nel loro interno sono mini reattori. |
 | Raptor | **Sussurratori d'Ossa** Predatori scheletrici con arti in quarzo. Emettono urla che frantumano il vetro. |
 
----
+***
 
 ## 👤 Personaggi d'Esempio
 
@@ -133,7 +133,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | **Automa Rianimato** Costrutto con frammenti di anime umane. Cerca il proprio creatore nella Cittadella. | Inventore (Costrutto) / Automaton | - Martello a impulsi magnetici |
 | **Predone del Plasma** Centauro con zampe al plasma. Razzie carovane per nutrire la sua fame di energia. | Barbaro (Furia Radioattiva) / Centauro | - Lancia al plasma a ricarica solare |
 
----
+***
 
 ## ⚙️ Equipaggiamento Tipico
 

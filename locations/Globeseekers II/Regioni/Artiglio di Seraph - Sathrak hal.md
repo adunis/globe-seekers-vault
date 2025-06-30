@@ -14,7 +14,7 @@ head(
 | --- | --- | --- |
 | Giungla 1 | Wyrmclaw Character | Lizardfolk Character |
 
----
+***
 
 note (
 *Qui non esiste il metallo che non sanguini, il legno che non morda,
@@ -70,7 +70,7 @@ figlia che…
 *(il resto è illeggibile, macchiato di una sostanza che corrode la pergamena)*
 )
 
----
+***
 
 ## 🧭 Sopravvivenza nell'Artiglio di Seraph
 
@@ -115,7 +115,7 @@ note(
 | Villaggio | **Villaggi Sommersi** (Insediamenti Segreti) | Ex schiavi nascosti tra i Colossi Succhiasavie. Coltivano funghi bioluminescenti nelle cavità degli alberi. | - Lira, Alchimista mutaforma - Tohruk, Fabbro sordo che lavora l'ossidiana vivente |
 | Basilisco | **Cerchio dei Colossi** (Druidi Selvaggi) | Culto che venera i Colossi Succhiasavie come divinità. Si oppongono all'impero con epidemie di spore letali. | - Yggdara, Druido fuso con le radici di un Colosso - Nix, Ranger con falco addestrato a rubare occhi |
 
----
+***
 
 ## 🐉 Insediamenti dell'Artiglio di Seraph
 
@@ -131,7 +131,7 @@ note(
 | **Alveare di Chitin** | Ostile | Torre biologica costruita con esoscheletri di Coleotteri giganti. Dominata da un culto di ibridi insetto-draconici. | Le mura emettono un ronzio che liquefa il cervello dopo un'ora. |
 | **Rifugio dei Senzapelle** | Neutrale | Accampamento mobile su dorso di Colossi Succhiasavie addomesticati. Gli abitanti hanno sostituito la pelle con corteccia. | Il villaggio "migra" ogni luna nuova per sfuggire alla Ziggurat. |
 
----
+***
 
 ## 🌿 Flora Letale
 

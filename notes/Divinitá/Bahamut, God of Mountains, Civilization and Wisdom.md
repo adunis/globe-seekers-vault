@@ -20,6 +20,6 @@ kanka_id: 265291
     
   ![9d4c02cb-7784-4d5d-9862-bbea3eb6bf57.png](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/273567/9d4c02cb-7784-4d5d-9862-bbea3eb6bf57.png)Cleric Outfit: Clerics of Bahamut wear flowing silver cloaks over platinum-scaled armor, with dragon-wing motifs embroidered in silver thread. Their helms are shaped like dragon heads, and they carry symbols of justice—a platinum dragon's claw—around their neck. They often wield their heavy picks with precision and carry tomes of law or wisdom.
 
----
+***
 ## Gallery
 ![[9d4c01df-b2f1-4597-920a-e044703253c8.png]]

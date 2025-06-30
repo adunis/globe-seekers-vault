@@ -13,6 +13,6 @@ kanka_id: 1714402
   eliminare B.B., considerandolo un traditore e una minaccia al suo
   dominio.
 
----
+***
 ## Gallery
 ![[9d6c9cfb-103e-49a6-90d0-5c8c082178c3.webp]]

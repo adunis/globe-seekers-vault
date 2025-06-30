@@ -10,6 +10,6 @@ Queen Isolde the Frost Empress commands a vast army of drakes—wingless dragons
 
 ![9d6ad8ce-3530-4dda-b316-f52646d0876f.jpg](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/273567/9d6ad8ce-3530-4dda-b316-f52646d0876f.jpg)
 
----
+***
 ## Gallery
 ![[9d6ad8a4-2b68-4978-bb2b-2fbef320a578.webp]]

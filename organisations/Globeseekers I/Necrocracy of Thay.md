@@ -42,6 +42,6 @@ This suggests that Thay is actively pursuing the acquisition of souls for potent
 
 Thay's involvement in soul trading and its association with dark magic paint a picture of a nation steeped in morally questionable practices and potentially dangerous ambitions.
 
----
+***
 ## Gallery
 ![[9d44c33a-eb29-4685-99ce-e532ccd00490.jpg]]

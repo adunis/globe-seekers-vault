@@ -5,7 +5,7 @@ source_file: "[[8 - La disfatta di Wryss e l'arrivo di Gianni]]"
 *Started: 2025-06-29T08:26:35.976Z*
 *Plugin Version: 3.0.0*
 
----
+***
 
 ## User
 
@@ -18,4 +18,4 @@ source_file: "[[8 - La disfatta di Wryss e l'arrivo di Gianni]]"
 > [!user]+
 > improve this file 
 
---- 
+***

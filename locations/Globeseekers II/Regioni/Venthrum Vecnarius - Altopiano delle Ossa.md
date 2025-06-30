@@ -80,7 +80,7 @@ sorto il regno personale del Dio Mutilato.
   nome. Dite a mio figlio... che il padre è diventato un sussurro nella
   cenere."
 
----
+***
 
 **☠️ Sopravvivenza nel Ventre di Vecna**
 
@@ -123,7 +123,7 @@ sorto il regno personale del Dio Mutilato.
   torce alchemiche (più sicure ma rare), o pietre luminose (deboli).
 * **Acqua e Cibo Sigillati:** La contaminazione è costante.
 
----
+***
 
 **💀 Specie Dominanti (Intelligenti/Semi-Intelligenti):**
 
@@ -142,7 +142,7 @@ sorto il regno personale del Dio Mutilato.
   Legati alle ombre e ai segreti.
 * **(Rari) Nani Stregoni (Figli della Runa Nera):** Isolati e paranoici, praticano forme oscure di magia runica e demonologia in enclave nascoste. Ostili verso tutti.
 
----
+***
 
 **⚰️ Fazioni Principali:**
 
@@ -197,7 +197,7 @@ sorto il regno personale del Dio Mutilato.
     economiche/logistiche. Arroganti e spietati. (PNG: Lord Valerius Thorne,
     Lady Seraphina Vane).
 
----
+***
 
 **🏚️ Insediamenti dell'Altopiano delle Ossa:**
 
@@ -248,7 +248,7 @@ sorto il regno personale del Dio Mutilato.
   della Forgia Cinerea riparano equipaggiamento e creano armi sfidando il
   dominio di Vecna.
 
----
+***
 
 **🌑 Flora dell'Altopiano:**
 
@@ -265,7 +265,7 @@ sorto il regno personale del Dio Mutilato.
   Liane grigiastre che si animano al suono del dolore o della paura,
   avvolgendo le vittime. Si dice si nutrano di emozioni negative.
 
----
+***
 
 **🦴 Fauna dell'Altopiano:**
 
@@ -283,7 +283,7 @@ sorto il regno personale del Dio Mutilato.
 * **(Comuni) Ossa Parlanti (Skeleton Guard):** Guardie scheletriche base, onnipresenti.
 * **(Comuni) Cavalcature Scheletriche:** Resti animati di cavalli o altre bestie da soma, usati dai Caroniti e altre forze di Vecna.
 
----
+***
 
 **👥 Archetipi di Abitanti/Avventurieri:**
 
@@ -296,7 +296,7 @@ sorto il regno personale del Dio Mutilato.
 * **Fabbro della Forgia Cinerea:** Inventore, Guerriero o Artigiano nano/umano/goblin, abile con metallo e polvere da sparo.
 * **Agente Cromatico:** Mago o Bardo arrogante, vestito splendidamente, protetto da magia e ricchezza.
 
----
+***
 
 **⚔️ Equipaggiamento Tipico:**
 
@@ -1186,7 +1186,7 @@ sorto il regno personale del Dio Mutilato.
 
   
 
----
+***
 ## Gallery
 ![[27fea0fc-a88c-42c1-b3d4-0444baa6f53f.png]]
 ![[98dda3a5-9490-4b4f-b1aa-efb582bdabda.png]]

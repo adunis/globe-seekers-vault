@@ -26,7 +26,7 @@ Bungo Dudo is revealed to be a mysterious figure, as the other members of the gr
 
 Bungo Dudo is a complex and multi-faceted character who brings a unique perspective to the group. He is intelligent, resourceful and humorous, and his knowledge and skills are invaluable to the group's success. He is also, however, somewhat self-absorbed, and sometimes has difficulty reading social situations. His ultimate goals are unclear
 
----
+***
 ## Gallery
 ![[9d6b0150-e032-43d9-b18a-7bc5ced8602d.png]]
 ![[7b32917a-3392-4d59-b1a1-b5a977be8eab.webp]]

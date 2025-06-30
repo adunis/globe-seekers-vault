@@ -19,6 +19,6 @@ The three figures move and speak in perfect synchronization, each holding a uniq
 
 ![9d6ad5ea-f451-46c0-8577-e2139587eda3.jpg](https://d3a4xjr8r2ldhu.cloudfront.net/campaigns/273567/9d6ad5ea-f451-46c0-8577-e2139587eda3.jpg)
 
----
+***
 ## Gallery
 ![[9d6ad499-5264-49f3-ac45-574425449c08.jpg]]
