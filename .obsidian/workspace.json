@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "items/Pietre-Anima.md",
+                "file": "notes/Psionismo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pietre-Anima"
+              "title": "Psionismo"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "79f3e6bcc1c431b7",
   "lastOpenFiles": [
+    "items/Pietre-Anima.md",
     "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
     "TagsRoutes/logMessage.md",
     "TagsRoutes",
@@ -200,7 +201,6 @@
     "organisations/Globeseekers I/Eternal Council.md",
     "organisations/Globeseekers I/Empire of Nether.md",
     "organisations/Globeseekers I/Duchy of Khaldarin.md",
-    "organisations/Globeseekers I/Cryptarchy of Sembia.md",
     "organisations/Globeseekers I",
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
