@@ -47,7 +47,8 @@ Connection to B.B. and Korgak: The sources highlight Morun's association with B.
 
 Morun Tag represents a complex and intriguing character who defies typical derro stereotypes. His engineering prowess, entrepreneurial spirit, and adaptable nature make him a force to be reckoned with. While his motivations may be shrouded in self-interest, his actions often intersect with the adventurers' paths, making him a significant figure in the unfolding events.
 
-***
+***
+
 ## Gallery
 ![[9d695508-c443-47f2-b9ce-34a21219a0b1.png]]
 ![[ea1619b1-e6c9-4774-bf01-4e40dc44b1aa.jpg]]
