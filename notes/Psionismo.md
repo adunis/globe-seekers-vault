@@ -1,11 +1,11 @@
 
----
+***
 
 ### **MEMORANDUM INTERNO - VALUTAZIONE MINACCIA: VECNA**
 **CIFRATURA:** ZORVATH-OCULUS-7  
 **OGGETTO:** ANALISI STRATEGICA SULLA DOTTRINA DELLA MENTE SILENZIOSA
 
----
+***
 
 #### **1. Introduzione: L'Arroganza di Mystra e la Soluzione di Vecna**
 
@@ -15,7 +15,7 @@ La sua risposta non è stata sfidare Mystra sul suo stesso terreno. È stata agg
 
 Vecna ha riscoperto e perfezionato un potere più antico, più sottile, e fondamentalmente diverso: la **Psionica**. Il potere della mente. Una forza che non attinge alla Trama, non chiede permesso a nessuna divinità, ma sgorga direttamente dalla volontà e dalla disciplina dell'individuo. È un'arma silenziosa, invisibile e, soprattutto, **libera dal giogo di Mystra**.
 
----
+***
 
 #### **2. La Natura della Psionica: Volontà come Realtà**
 
@@ -28,7 +28,7 @@ A differenza della magia arcana, che "piega" le leggi della realtà manipolando 
     *   **Pirocinesi Mentale:** Non è un fuoco evocato, ma la volontà che agita le molecole di un oggetto fino a farlo incendiare.
 *   **Il Silenzio:** L'aspetto più terrificante e strategico della Psionica è la sua natura furtiva. Non richiede componenti verbali, gesti plateali o focus arcani. Un Caronita può leggervi la mente, schiacciarvi il cuore o farvi sanguinare dagli occhi rimanendo perfettamente immobile e silenzioso. È l'arma perfetta per spie, assassini e tiranni.
 
----
+***
 
 #### **3. La Fabbrica di Psionici di Vecna: N-Shard e Condizionamento**
 
@@ -46,7 +46,7 @@ Come dettagliato nel dossier precedente, questi frammenti Netheresi non sono fon
     *   **Sintonizzazione:** Il condizionamento li sintonizza su un'unica, assordante frequenza psionica: **la fede in Vecna**.
     *   **Il Coro Psionico:** Collettivamente, formano un **Nexus Mind**, una coscienza gestaltica che genera un'immensa quantità di energia devozionale. Questa energia alimenta direttamente Vecna, permettendogli di accumulare potere divino **senza bisogno di veri fedeli**. È il suo percorso per sfidare e, un giorno, superare la dipendenza dalla fede mortale che ancora affligge gli altri Dei Antichi. Ogni Faith Baby è un generatore in questa blasfema centrale elettrica spirituale.
 
----
+***
 
 #### **4. Debolezze Strategiche: La Fragilità della Mente Forzata**
 
@@ -63,7 +63,7 @@ L'approccio di Vecna, per quanto potente, non è privo di difetti. La sua dottri
 *   **Dipendenza dal Focus:**
     Molti psionici di alto livello, come Vryss, imparano a usare il loro stesso [[N-Shard]] impiantato come focus. Sebbene questo renda i loro poteri più forti, crea anche un punto debole. Danneggiare o disturbare il focus (l'occhio viola di Vryss, un cristallo impiantato sulla mano di un altro, ecc.) potrebbe interrompere la loro concentrazione e lasciare un'apertura tattica.
 
----
+***
 
 #### **5. Implicazioni per la Ribellione**
 
