@@ -1,4 +1,4 @@
-[[La Magia]][[Genasi]][[Genasi]][[Genasi]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Goblin]][[Menzoberranzan]][[Menzoberranzan]][[Menzoberranzan]][[La Magia]][[Grazia]][[La Magia]]---
+[[La Magia]][[Genasi]][[Genasi]][[Genasi]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Goblin]][[Menzoberranzan]][[Menzoberranzan]][[Menzoberranzan]][[La Magia]][[Grazia]][[La Magia]][[La Magia]][[Genasi]][[Genasi]][[Genasi]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Halfling]][[Goblin]][[Menzoberranzan]][[Menzoberranzan]][[Menzoberranzan]][[La Magia]][[Grazia]][[La Magia]]---
 kanka_id: 267327
 ---
 

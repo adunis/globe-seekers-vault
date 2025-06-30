@@ -1,4 +1,4 @@
-[[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-[[Altopiano delle Ossa]]n Tag]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]]---
+[[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-Shard]][[B.B]][[Morun Tag]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]][[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-[[Altopi[[Altopiano delle Ossa]]g]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]]---
 kanka_id: 1714713
 ---
 
@@ -18,7 +18,7 @@ mortali, le complesse e arroganti strutture di potere di Thay implosero.
 Tempeste di mana selvaggio spazzarono le sue città, le linee ley
 sovraccariche eruttarono energia grezza che mutò il paesaggio e i suoi
 abitanti, e i portali dimensionali mantenuti dai Maghi Rossi divennero
-instabili, vomitando orror[[Halfling]]cchiando intere regioni nel caos
+instabili, vomitando orror[[Ha[[Halfling]]cchiando intere regioni nel caos
 planare. Fu in questo vuoto di potere, tra le rovine fumanti di un
 impero magico e un paesaggio ormai irriconoscibile e saturo di energia
 necrotica residua, che **Vecna**,
