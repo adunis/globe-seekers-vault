@@ -123,7 +123,8 @@ Si diffonde tramite spore aeree rilasciate da vittime infette (specialmente al m
 * **Rivelazione:** Potrebbero assistere direttamente a qualcuno (un profugo, un Figlio della Forgia Cinerea, un cultista della Catena Spezzata) che cerca di pregare o invocare il proprio dio e viene colpito dalla malattia.
 * **Implicazioni:** Costringe i seguaci dei Nuovi Dei alla preghiera silenziosa o mentale, rendendo più difficile organizzarsi e coordinare rituali. Aumenta la paranoia e la paura. Diventa una priorità trovare una cura o un modo per contrastarla, forse cercando conoscenze mediche/alchemiche proibite, l'aiuto di divinità legate alla guarigione (se accessibili), o persino rubando dati dai laboratori di Vecna. Questo potrebbe diventare una sotto-missione o un arco narrativo parallelo.
 
-***
+***
+
 
 # Ambientazione
 
@@ -178,7 +179,8 @@ La paura e l'imprevedibilità della magia fecero smettere alle persone di fare a
 * Aurilisca (Città del Ghiaccio Eterno di Auril)
 * Gondantha (Città delle Meraviglie Meccaniche di Gond)
 
-***
+***
+
 
 # Introduzione Campagna ai Giocatori
 
@@ -238,7 +240,8 @@ Questi sono i motori nascosti della vostra potenziale ascesa al potere:
 
 Queste città-fortezza rappresentano l'influenza diretta delle divinità sul mondo mortale, ognuna riflettendo i valori e i poteri del dio o della dea che la governa.
 
-***
+***
+
 
 # HOUSERULES
 
@@ -270,7 +273,8 @@ La campagna inizierà con voi, le divinità imprigionate, che sentono le preghie
 
 Il Mondo Attende la Vostra Influenza. Anche in prigionia, il vostro potere è in crescita. Guidate il vostro Campione, nutrite i vostri seguaci e forse un giorno, l'Era degli Eroi non annuncerà solo il regno degli dei, ma il vostro trionfante ritorno. Ricordate, l'Era degli Eroi è iniziata. Il vostro regno attende
 
-***
+***
+
 
 # DIVINITA' IMPRIGIONATE
 
@@ -283,7 +287,8 @@ Come divinità imprigionata, avete le seguenti capacità:
 * **Manifestazione dell'Avatar:** Potete manifestare un avatar temporaneo sul Piano Materiale. Questo avatar è un'estensione della vostra volontà, possiede un insieme limitato delle vostre abilità divine ed è vulnerabile. Se un avatar viene ucciso, la divinità che si riforma all'interno di Malopoli è significativamente indebolita, richiedendo tempo e venerazione per riprendersi.
 * **Guida del Culto:** Potete influenzare sottilmente le azioni e le credenze dei vostri seguaci, guidando lo sviluppo e l'espansione del vostro culto.
 
-***
+***
+
 
 # Abilità Divine (Divine Abilities as Feats)
 
@@ -331,7 +336,8 @@ All deities begin with the Divine Being feat, which outlines their basic abiliti
 * **Divine Spellcasting:** This feat allows deities to cast spells they know as divine spells. They don't have spell slots but spend Hero Points instead.
 * **Limited Manifestation:** You are considered a level 20 character with all your class abilities and feats during this manifestation.
 
-***
+***
+
 ## Session 4:
 
 **(L'ultimo
@@ -905,7 +911,8 @@ combattimenti caotici e decisioni da prendere al volo.
 
   
   
-***
+***
+
 ## Sessione 3: Cenere Bianca, Sentieri Incerti
 
 **Livello del Party:** 4
@@ -1134,7 +1141,8 @@ vi gela il sangue..."
 * **Mappa Thayano Antica / Reagente FB (Narrativo/Info):** Dalla rovina (Kaelen) o dal carro (Imboscata).
 
   
-***
+***
+
 ## Recap Campagna Generale
 
 **Recap Trama Principale (Post-Grande Discesa):**
@@ -1425,14 +1433,16 @@ avendo forse appena incontrato dei profughi o assistito a un raid.
            rubando dati dai laboratori di Vecna. Questo potrebbe diventare una
            sotto-missione o un arco narrativo parallelo.
 
-***
+***
+
 ## Ambientazione
 
 # La Grande Discesa
 
 "Gli dei hanno spezzato il mondo, ora dovete raccoglierne i pezzi" - Arvandor , dio della Memoria Eterna
 
-***
+***
+
 
 #### B.B, Vordekai e Morun Tag pianificano impazientemente la loro vendetta
 
@@ -1440,7 +1450,8 @@ avendo forse appena incontrato dei profughi o assistito a un raid.
 | --- |
 | img1 |
 
-***
+***
+
 
 * **La Caduta degli Antichi Dei:** Gli antichi dei,
   sentendosi minacciati dall'ascesa di nuove divinità, scatenarono la loro
@@ -1482,27 +1493,33 @@ avendo forse appena incontrato dei profughi o assistito a un raid.
   e armi da fuoco.
 * =
 
-***
+***
+
 
 [location:7570358]
 
-***
+***
+
 
 [location:7570359]
 
-***
+***
+
 
 [location:7570360]
 
-***
+***
+
 
 [location:7570361|Xurth'azaan, il Regno di Akanu]
 
-***
+***
+
 
 [location:7570362|Myrghalath, i Veli Sembian]
 
-***
+***
+
 
 [location:7570363]  
 [location:7570364|   Xar'Vhalis, le Lande Grigie Fumali]
@@ -1526,7 +1543,8 @@ avendo forse appena incontrato dei profughi o assistito a un raid.
 
 [location:7570375]
 
-***
+***
+
 ## Introduzione Campagna ai Giocatori
 
 # L'Era degli Eroi - Un Regno Frantumato
@@ -1873,7 +1891,8 @@ giorno, l'Era degli Eroi non annuncerà solo il regno
 degli dei, ma il vostro trionfante ritorno. Ricordate,
 l'Era degli Eroi è iniziata. Il vostro regno attende
 
-***
+***
+
 ## Abilitá divine
 
 **Divine Abilities as Feats**
