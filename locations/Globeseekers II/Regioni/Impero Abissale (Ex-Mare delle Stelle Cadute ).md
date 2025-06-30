@@ -14,7 +14,7 @@ head(
 
 |  |  |  |
 | --- | --- | --- |
-| Abisso 1 | Sahuagin | Tritone |
+| Abisso 1 | [[Sahuagin]] | Tritone |
 
 ***
 
@@ -24,7 +24,7 @@ head(
 > *"Le Correnti Senzienti mentono solo ai morti. Ascolta i loro sussurri... prima che ti strappino le branchie."*  
 > – Lady Voryn, Regina delle Ombre Sottomarine
 >
-> *"Le città sahuagin non sono costruite, sono* cresciute*. Come tumori su uno scheletro di vulcano."*  
+> *"Le città [[Sahuagin]] non sono costruite, sono* cresciute*. Come tumori su uno scheletro di vulcano."*  
 > – Ultimo rapporto del Capitano Nyrath, Esploratore del Profondo
 
 ***
@@ -34,7 +34,7 @@ head(
 **Giorno 3:**  
 "Oltre le **Colonne del Disfacimento**
 - formazioni di corallo nero che cantano inni funebri - inizia il vero
-dominio dei Sahuagin. L'acqua brucia la pelle come acido. Le ombre... *si muovono al contrario*."
+dominio dei [[Sahuagin]]. L'acqua brucia la pelle come acido. Le ombre... *si muovono al contrario*."
 
 **Giorno 7:**  
 "Incontrato un **Banco di Sussurri**. Meduse trasparenti che ripetono le ultime parole degli annegati. Una mi ha toccato: ora sento piangere nel sonno."
@@ -84,9 +84,9 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 
 | Immagine | Nome | Descrizione |
 | --- | --- | --- |
-| Sahuagin | **Artigli di Olhydra** (Sahuagin Dominatori) | Guerrieri con branchie irte di spine. Governano tramite sacrifici al Kraken Addormentato. Onorano solo chi versa sangue. |
-| Drow | **Ombre delle Profondità** (Drow Abissali) | Elfi oscuri con pelle bioluminescente. Specializzati in veleni e inganni. Alleati instabili dei Sahuagin. |
-| Tritone | **Tritoni Liberati** (Ribelli del Kelp) | Fuggiaschi con coralli simbiotici sulla pelle. Combattenti abili nel sabotaggio delle reti da pesca Sahuagin. |
+| [[Sahuagin]] | **Artigli di Olhydra** ([[Sahuagin]] Dominatori) | Guerrieri con branchie irte di spine. Governano tramite sacrifici al Kraken Addormentato. Onorano solo chi versa sangue. |
+| Drow | **Ombre delle Profondità** (Drow Abissali) | Elfi oscuri con pelle bioluminescente. Specializzati in veleni e inganni. Alleati instabili dei [[Sahuagin]]. |
+| Tritone | **Tritoni Liberati** (Ribelli del Kelp) | Fuggiaschi con coralli simbiotici sulla pelle. Combattenti abili nel sabotaggio delle reti da pesca [[Sahuagin]]. |
 
 ***
 
@@ -94,7 +94,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 
 | Immagine | Nome Fazione | Descrizione | Figure Chiave |
 | --- | --- | --- | --- |
-| Labirinto | **Città Labirinto** (Dominio Sahuagin) | Capitale costruita su un vulcano attivo. Schiavi Tritoni alimentano fornaci sottomarine. | - Re Xarkull (con corona di denti di megalodonte) - Vryssa, Sacerdotessa del Kraken |
+| Labirinto | **Città Labirinto** (Dominio [[Sahuagin]]) | Capitale costruita su un vulcano attivo. Schiavi Tritoni alimentano fornaci sottomarine. | - Re Xarkull (con corona di denti di megalodonte) - Vryssa, Sacerdotessa del Kraken |
 | Ribelli | **Alveari di Sangue** (Culto del Polpo) | Setta che venera polpi mutaforma. Sostituiscono leader per controllare le rotte. | - Il Camaleonte (forma indefinita) - Lysandra, Ex-Regina con volto rubato |
 | Corallo | **Cerchio del Corallo** (Druidi Abissali) | Custodi degli ecosistemi. Usano alghe assassine per punire i predatori. | - Yggdara, Druido fuso con un anemone - Nix, Ranger con squalo addomesticato |
 
@@ -104,7 +104,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 
 | Immagine | Descrizione |
 | --- | --- |
-| Corallo | **Corallo Parlante** Colonie che emettono voci ipnotiche. Le spine iniettano veleni allucinogeni. I Sahuagin li usano per interrogare i prigionieri. |
+| Corallo | **Corallo Parlante** Colonie che emettono voci ipnotiche. Le spine iniettano veleni allucinogeni. I [[Sahuagin]] li usano per interrogare i prigionieri. |
 | Alga | **Alghe Strangolatrici** Piante semi-sensienti che avvolgono le vittime. Digestione lenta: la preda rimane cosciente per settimane. |
 | Kelp | **Foresta di Kelp Nera** Piante che assorbono la luce. Le foglie tagliano come rasoi. Rifugio dei Tritoni ribelli. |
 
@@ -114,7 +114,7 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 
 | Immagine | Descrição |
 | --- | --- |
-| Squalo | **Squalo Corazzato** Predatori con placche ossee. Addestrati dai Sahuagin per pattugliare le prigioni sottomarine. |
+| Squalo | **Squalo Corazzato** Predatori con placche ossee. Addestrati dai [[Sahuagin]] per pattugliare le prigioni sottomarine. |
 | Medusa | **Medusa dei Sussurri** Creature trasparenti che replicano i pensieri delle vittime. Causano follia temporanea. |
 | Polpo | **Polpo Mutaforma** Cefalopodi che imitano volti umani. Infiltrati nelle carovane per sabotaggio. |
 
@@ -124,9 +124,9 @@ aspett... *(il testo si dissolve in inchiostro bioluminescente)*"
 
 | Background | Classe e Ancestry (PF2e) | Equipaggiamento Iniziale |
 | --- | --- | --- |
-| **Cacciatore di Kraken** Sahuagin con cicatrici da tentacolo. Cerca gloria nel Colosseo. | Barbaro (Furia del Profondo) / Sahuagin | - Tridente con punte di denti di megalodonte - Rete fatta di tendini di squalo |
+| **Cacciatore di Kraken** [[Sahuagin]] con cicatrici da tentacolo. Cerca gloria nel Colosseo. | Barbaro (Furia del Profondo) / [[Sahuagin]] | - Tridente con punte di denti di megalodonte - Rete fatta di tendini di squalo |
 | **Alchimista delle Tenebre** Drow con braccio modificato da polpo. Sperimenta tossine abissali. | Alchimista (Velenologo) / Drow | - Kit distillazione in vescica di medusa |
-| **Paladino del Kelp** Tritone con armatura di corallo vivo. Difende i deboli dalle reti Sahuagin. | Campione (Liberatore) / Tritone | - Lancia di ossidiana vulcanica |
+| **Paladino del Kelp** Tritone con armatura di corallo vivo. Difende i deboli dalle reti [[Sahuagin]]. | Campione (Liberatore) / Tritone | - Lancia di ossidiana vulcanica |
 
 ***
 

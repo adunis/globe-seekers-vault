@@ -79,7 +79,7 @@ Cremisi.
 1. **Le Forze di Vecna ("Gli Osservatori"):**
 
    * **Descrizione:**
-     Non sono i Caroniti di Vryss (che operano più sul campo), ma una
+     Non sono [[I Caroniti]] di Vryss (che operano più sul campo), ma una
      guarnigione più stanziale e organizzata, forse appartenente a un'altra
      branca dell'esercito di Vecna o a una forza di polizia segreta interna.
      Potrebbero chiamarsi "Gli Osservatori" o "La Guardia del Segreto". Sono **umani viventi** (cultisti addestrati, soldati mercenari legati a Vecna, personale amministrativo corrotto) e **non-morti minori**
@@ -103,7 +103,7 @@ Cremisi.
      interessato a mantenere l'ordine e a inviare rapporti positivi a
      Protonecropoli che a sporcarsi le mani. Teme il fallimento più della
      morte. (Nota: Nome simile a Malakor, l'eremita, ma personaggio diverso. Potrebbe creare confusione o essere un aggancio narrativo).
-   * **Forze Tipiche:** **Guardia Cittadina di Fungorgo (Guard - CR 1/2)**, **Accolito di Vecna (Acolyte - CR 1)**, **Spia dell'Occhio Vigile (Spy - CR 2)**, **Scheletro Bracciante (Skeleton Guard - CR -1)**.
+   * **Forze Tipiche:** **Guardia Cittadina di Fungorgo (Guard - CR 1/2)**, **Accolito di Vecna (Acolyte - CR 1)**, **Spia dell'Occhio Vigile (Spy - CR 2)**, **Scheletro Bracciante ([[Skeleton]] Guard - CR -1)**.
 2. **I Falchi Cremisi (Resistenza Radicata):**
 
    * **Presenza:**
@@ -117,7 +117,7 @@ Cremisi.
      di risorse), protezione (a modo loro) degli abitanti delle Radici,
      gestione del mercato nero, reclutamento di nuovi membri (spesso tra i
      disperati), coltivazione e sperimentazione con il Velo Cremisi.
-   * **Leader (Apparente):** **B.B. Secondo**.
+   * **Leader (Apparente):** **[[B.B]]. Secondo**.
      Opera da un quartier generale nascosto nelle profondità delle Radici,
      forse una vecchia camera di consiglio mineraria trasformata in sala
      strategica fungoide.
@@ -125,9 +125,9 @@ Cremisi.
 
      + **Sciamano del Micelio Grok (Druido/Oracolo - CR 4):**
        Interprete della "Madre Micelio", esperto in veleni fungini e rituali
-       strani. Potrebbe avere influenza quasi quanto B.B. Secondo su alcuni
+       strani. Potrebbe avere influenza quasi quanto [[B.B]]. Secondo su alcuni
        Falchi.
-     + **Nix lo Sporeweaver (Alchimista/Ladro Goblin - CR 3):** Responsabile della creazione di bombe e veleni a base di spore. Caotico e inaffidabile.
+     + **Nix lo Sporeweaver (Alchimista/Ladro [[Goblin]] - CR 3):** Responsabile della creazione di bombe e veleni a base di spore. Caotico e inaffidabile.
      + **"Mamma" Elara (Guaritrice/Oste - CR 1):**
        Umana anziana che gestisce una taverna/infermeria nascosta nelle
        Radici. Usa rimedi a base di funghi (alcuni efficaci, altri pericolosi).
@@ -179,10 +179,10 @@ Fungorgo è cruciale per Vecna non solo per i minerali, ma perché qui si trovan
 * **Il Velo Cremisi Modificato:** Forse non è il fungo stesso, ma una variante specifica
   coltivata (o trovata) solo nelle profondità delle miniere sotto
   Fungorgo, le cui spore hanno proprietà uniche nel preparare i tessuti
-  mortali all'infusione degli N-Shard.
+  mortali all'infusione degli [[N-Shard]].
 * **La Pietra-Anima:**
   Il minerale estratto qui potrebbe essere usato per stabilizzare
-  l'energia degli N-Shard o per creare i contenitori/incubatori per i
+  l'energia degli [[N-Shard]] o per creare i contenitori/incubatori per i
   Faith Babies.
 * **Estratti Alchemici:**
   Altri funghi o minerali unici della zona potrebbero essere trasformati
@@ -191,7 +191,7 @@ Fungorgo è cruciale per Vecna non solo per i minerali, ma perché qui si trovan
 
 **Le
 spedizioni che partono da Fungorgo verso Protonecropoli, supervisionate
-dagli Osservatori, sono quindi bersagli primari per B.B. Secondo e i
+dagli Osservatori, sono quindi bersagli primari per [[B.B]]. Secondo e i
 Falchi Cremisi.**
 Intercettarle significa danneggiare direttamente la produzione dei
 Faith Babies e privare Vecna di risorse vitali. Il dossier di Ylvina
@@ -200,13 +200,13 @@ tipi di materiali e forse sui metodi di trasporto.
 
 **PLOT HOOKS A FUNGORGO:**
 
-* **Contattare B.B. Secondo:**
+* **Contattare [[B.B]]. Secondo:**
   Trovare "Mamma" Elara o un altro contatto nelle Radici, superare la
   diffidenza di Jarek/Ryka, raggiungere il quartier generale nascosto.
 * **Indagare sulle Spedizioni:**
   Usare le informazioni del dossier (o rubarne altre dagli Osservatori)
   per pianificare un'intercettazione di un carico destinato a
-  Protonecropoli (potrebbe essere una missione data da B.B. Secondo).
+  Protonecropoli (potrebbe essere una missione data da [[B.B]]. Secondo).
 * **Esplorare le Miniere:**
   Cercare risorse (Pietra-Anima? Velo Cremisi speciale?), passaggi
   segreti, o scoprire cosa si nasconde nelle profondità (mostri

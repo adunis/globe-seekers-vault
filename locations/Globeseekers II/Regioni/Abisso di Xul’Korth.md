@@ -26,7 +26,7 @@ kanka_id: 1706003
   + *Funghi del Sangue Estruso*: Crescono dove scorre sangue di superficie. Le spore creano dipendenza, obbligando gli schiavi a mangiarli.
   + *Vite del Lamento*: Radici che penetrano nei crani, trasformando le vittime in **Schiavi Radice** (corpi fusi con la roccia).
 * **Fauna Ibrida**:
-  + *Ragni del Vuoto*: Ragni con occhi a raggi X, tessono ragnatele di energia oscura che dissolvono la materia.
+  + *Ragni del Vuoto*: Ragni con occhi a raggi X, tessono ragnatele di energia oscura che dissolvono la [[Materia]].
   + *Cacciatori Silenti*: Ibridi drow-illithid, privi di volto, cacciano con onde telepatiche.
 
 ***
@@ -60,7 +60,7 @@ kanka_id: 1706003
 
 | Nome | Descrizione |
 | --- | --- |
-| **Drow del Vuoto** (*Elf Ancestry*) | Pelle nera come petrolio, occhi bianco latte. +2 Int, +2 Con. Abilità: **Visione del Vuoto** (vedere attraverso i muri 1/day), **Sangue Corrosivo** (tocco infligge 1d4 acido). |
+| **Drow del Vuoto** (*[[Elf]] Ancestry*) | Pelle nera come petrolio, occhi bianco latte. +2 Int, +2 Con. Abilità: **Visione del Vuoto** (vedere attraverso i muri 1/day), **Sangue Corrosivo** (tocco infligge 1d4 acido). |
 | **Ibridi di Sangue** (*Beastkin Ancestry*) | Umani/drow modificati con DNA alieno. +2 Str, +2 Dex. Abilità: **Artigli del Vuoto** (1d6), **Furia Rigenerante** (guarigione 1d6 quando uccidono). |
 | **Schiavi Radice** (*Leshy Ancestry*) | Ex-esseri viventi fusi con funghi. +2 Con, +2 Wis. Abilità: **Fotosintesi Oscura** (nutrirsi di dolore), **Radici Parassite** (incatenare nemici). |
 

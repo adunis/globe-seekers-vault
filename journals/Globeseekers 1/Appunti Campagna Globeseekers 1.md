@@ -27,9 +27,9 @@ kanka_id: 266813
 
 ### Key Locations
 
-* **Airspur**:
+* **[[Airspur]]**:
   A city under dragon siege and surrounded by occult intrigue, holding a
-  Netherese Globe, making it a focal point in the campaign.
+  [[Netherese Globe]], making it a focal point in the campaign.
 * **The Heavenly Staircase**:
   This sacred site, protected by the Temple of Selune, is crucial to the
   Patron's plan, as it is the only place where his ascension ritual can
@@ -42,10 +42,10 @@ kanka_id: 266813
 
 ### Factions and Characters
 
-* **The Kraken King**: A formidable pirate lord allied with the Patron, controlling key sea routes and possessing a Netherese Globe.
+* **The Kraken King**: A formidable pirate lord allied with the Patron, controlling key sea routes and possessing a [[Netherese Globe]].
 * **The Wyrmclaw**: A faction of dragons in conflict with Akanûl, which could become either allies or enemies, based on the players' choices.
 * **Key NPCs**:
-  Diverse figures such as Malaria, the Wererat Queen, and Nyssandra, a
+  Diverse figures such as [[Malaria]], the Wererat Queen, and Nyssandra, a
   vengeful drow warrior, whose assistance or opposition may depend on
   player interactions.
 
@@ -110,7 +110,7 @@ stakes and consequences.
 #### Korgak, the Goliath Barbarian Seeking His Tribe's Fate
 
 * **Class and Archetype**: Barbarian (Instinct of the Giant), Mauler
-* **Appearance**: Towering goliath with grey, tattooed skin and a war-painted, shaved head.
+* **Appearance**: Towering [[Goliath]] with grey, tattooed skin and a war-painted, shaved head.
 * **Backstory**:
 
   + **Mountain Roots**: Originates from the Stoneheart tribe in Thay’s harsh mountains.
@@ -126,7 +126,7 @@ stakes and consequences.
 #### B.B., the Halfling Rogue Seeking Profit and Survival
 
 * **Class and Archetype**: Rogue (Thief), Underground Chemist
-* **Appearance**: Agile and cunning halfling, using alchemical tricks and agility to navigate challenges.
+* **Appearance**: Agile and cunning [[Halfling]], using alchemical tricks and agility to navigate challenges.
 * **Backstory**:
 
   + **Master Thief and Alchemist**: Skilled in thievery and alchemy, crafting potions and bombs for his pursuits.
@@ -148,7 +148,7 @@ stakes and consequences.
 * **Alliances**: Kraken King, Zhentarim, Cult of the Dragon.
 * **Motivations**: Seeks ultimate power and reality manipulation.
 
-**The Kraken King**: Commands the Netherese Globe of Water and wreaks havoc on Faerûn's seas.
+**The Kraken King**: Commands the [[Netherese Globe]] of Water and wreaks havoc on Faerûn's seas.
 
 * **Forces**: Includes sea monsters and loyal pirates, with ambitions of dominion over the seas.
 * **Alliance with Patron**: Assists in destabilizing Faerûn for the Aboleth invasion.
@@ -174,9 +174,9 @@ stakes and consequences.
 
 **Other Notable NPCs**:
 
-* **Malaria**: Wererat queen serving the Kraken King, secretly manipulates Airspur.
+* **[[Malaria]]**: Wererat queen serving the Kraken King, secretly manipulates [[Airspur]].
 * **The Necromancer of Thay**: Involved in dark experiments under the Patron’s influence.
-* **Miciotsu**: A resurrected follower of Zarov, possibly seeking revenge.
+* **[[Miciotsu]]**: A resurrected follower of Zarov, possibly seeking revenge.
 
 ***
 
@@ -184,9 +184,9 @@ stakes and consequences.
 
 #### Urban Centers of Power and Intrigue
 
-**Airspur**: War-torn city and party’s starting point, vulnerable to Kraken King’s forces.  
-**Procampur**: Strategically important city, facing Kraken King’s attacks.  
-**Zerthadlun**: Githzerai city in Limbo, a center for interplanar diplomacy and magic.
+**[[Airspur]]**: War-torn city and party’s starting point, vulnerable to Kraken King’s forces.  
+**[[Procampur]]**: Strategically important city, facing Kraken King’s attacks.  
+**[[Zerthadlun]]**: Githzerai city in Limbo, a center for interplanar diplomacy and magic.
 
 #### Islands of Peril and Opportunity
 
@@ -196,13 +196,13 @@ stakes and consequences.
 #### Sites of Ancient Power
 
 **Heavenly Staircase of Selune**: Sacred site where gods can manifest fully, key to the Patron’s ascension.  
-**City-Temple of Zerthadlun**: Githzerai site of worship and power, with connections to psionics and interplanar travel.
+**City-Temple of [[Zerthadlun]]**: Githzerai site of worship and power, with connections to psionics and interplanar travel.
 
 #### Other Notable Locations
 
-**Halendos**: Home to healer Vitali and a past demonic invasion site.  
+**[[Halendos]]**: Home to healer Vitali and a past demonic invasion site.  
 **Thay**: Known for its necromancers and possible conflicts with the party.  
-**Limbo**: Plane of chaotic shifts and challenges, home to a Derro-run casino.
+**Limbo**: Plane of chaotic shifts and challenges, home to a [[Derro]]-run casino.
 
 ***
 
@@ -223,21 +223,21 @@ stakes and consequences.
 
 **Early Adventures**:
 
-* **B.B.'s Heist**: Failed attempt with lasting ties to Nyssandra.
+* **[[B.B]].'s Heist**: Failed attempt with lasting ties to Nyssandra.
 * **Rise of the Kraken King**: Expanding influence and control over sea creatures.
 
 **Quest for the Urn of Geb**:
 
-* **Holy Mission**: Korgak tasked with securing the Urn of Geb to prevent Patron’s ascension.
-* **Alliance with Dragons**: Korgak gains Wyrmclaw’s support in exchange for challenging Akanûl’s Elemental Lords.
+* **Holy Mission**: [[Korgak]] tasked with securing the Urn of Geb to prevent Patron’s ascension.
+* **Alliance with Dragons**: [[Korgak]] gains Wyrmclaw’s support in exchange for challenging Akanûl’s Elemental Lords.
 
 **Journeying Through Limbo**:
 
-* **Crossing Planes**: Party navigates Limbo with Morun Tag’s portal, gaining insight and wealth.
+* **Crossing Planes**: Party navigates Limbo with [[Morun Tag]]’s portal, gaining insight and wealth.
 
-**Confrontation in Procampur and Airspur**:
+**Confrontation in [[Procampur]] and [[Airspur]]**:
 
-* **Siege and Trail to Airspur**: Kraken King’s forces lay siege to Procampur, pushing party toward Airspur’s depths for answers.
+* **Siege and Trail to [[Airspur]]**: Kraken King’s forces lay siege to [[Procampur]], pushing party toward [[Airspur]]’s depths for answers.
 
 ***
 
@@ -245,7 +245,7 @@ stakes and consequences.
 
 **Netherese Globes and the Patron’s Ambitions**:
 
-* What unique powers and consequences do each Netherese Globe have?
+* What unique powers and consequences do each [[Netherese Globe]] have?
 * Who is the Patron’s target deity, and how does he plan to achieve godhood?
 
 **Kraken King’s Agenda**:
@@ -254,7 +254,7 @@ stakes and consequences.
 
 **Akanûl’s Ambitions**:
 
-* How will Akanûl respond to Korgak’s decisions regarding the Elemental Lords?
+* How will Akanûl respond to [[Korgak]]’s decisions regarding the Elemental Lords?
 
 **Faerûn’s Political Landscape**:
 
@@ -264,9 +264,9 @@ stakes and consequences.
     
     
     
-  Xul'koroth, the Aboleth Patron] ha soggiogato queste fazioni: [organisation:6752081], [organisation:6808962], [organisation:6752078], [organisation:6752071], [organisation:6810318], [organisation:6810317], [organisation:6810319], [organisation:6808963], [organisation:6737814]
+  [[Xul'koroth, the Aboleth Patron]]] ha soggiogato queste fazioni: [organisation:6752081], [organisation:6808962], [organisation:6752078], [organisation:6752071], [organisation:6810318], [organisation:6810317], [organisation:6810319], [organisation:6808963], [organisation:6737814]
 * [organisation:6752081] e [organisation:6808962] dichiareranno guerra a [organisation:6810759] perche' la posizione della Scala Celeste 'e custodita negli archivi del Templio di Selune nella capitale. La [location:6873909] e' l'unico luogo sul Piano Materiale dove gli dei possono manifestarsi nella loro forma reale (invece di usare un avatar). Inoltre 'e anche il luogo dove un mortale puo' ascendere a dio. Il Patrono intende farlo usando uno dei [item:6873910].
 * [organisation:6752081] sta ricevendo forniture di armi da [organisation:6808969], una fazione di nani di montagna.
-* [organisation:6808962] 'e segretamente controllata dal [organisation:6808963], un gruppo di vampiri. Il Shadow Council sta sperimentando sui soldati rendendoli non-morti, a guidare gli esperimenti c'e' un Necromante di Thay, chiamato il [character:6873911], lo stesso che rese [character:6751917] un [race:6873912].
+* [organisation:6808962] 'e segretamente controllata dal [organisation:6808963], un gruppo di vampiri. Il [[Shadow Council]] sta sperimentando sui soldati rendendoli non-morti, a guidare gli esperimenti c'e' un Necromante di Thay, chiamato il [character:6873911], lo stesso che rese [character:6751917] un [race:6873912].
 * I [organisation:6737814], una volta mercenari di [organisation:6752082], ora seguaci del Parono, hanno come compito di indebolire Thay facendo incursioni su di esso.
-* Ci sono 5 Globi Netheresi: 1 in possesso di Er Tozzo, globo dei demoni, 1 di B.B, globo della terra, 1 di [character:6751878], globo della pace, 1 del [character:6746761], globo dell' acqua e uno non si sa dove sia (ma e' il globo della morte, in possesso del Burattinaio).
+* Ci sono 5 Globi Netheresi: 1 in possesso di Er Tozzo, globo dei demoni, 1 di [[B.B]], globo della terra, 1 di [character:6751878], globo della pace, 1 del [character:6746761], globo dell' acqua e uno non si sa dove sia (ma e' il globo della morte, in possesso del Burattinaio).

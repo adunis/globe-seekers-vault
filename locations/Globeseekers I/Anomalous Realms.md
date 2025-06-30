@@ -7,11 +7,11 @@ kanka_id: 1547846
 ## [location:6929102]  (The Ever-Hunger)
 
 * A cancerous growth in reality itself
-* Origin of all Demons
+* Origin of all [[Demons]]
 * Expansion Mechanics:
   + Grows like cosmic roots through reality
-  + Each breach into a divine plane creates new paths to prime planes
-  + Consumed souls birth new demons
+  + Each breach into a divine plane creates new paths to [[Prime Planes]]
+  + Consumed souls birth new [[Demons]]
   + Demon death returns souls to the spawning cycle
 * Notable Features:
   + Infinite layers, each more horrific than the last

@@ -14,13 +14,13 @@ head (
 
 |  |  |  |
 | --- | --- | --- |
-| Pilastri Elementali | Genasi del Fuoco | Kobold Geomante |
+| Pilastri Elementali | [[Genasi]] del Fuoco | Kobold Geomante |
 
 ***
 
 > *"Qui la terra canta inni di fuoco, l'aria scolpisce montagne e
 > l'acqua brucia più del sole. L'equilibrio è una menzogna per chi non sa
-> danzare col caos."* - Zyrrax, Genasi del Plasma
+> danzare col caos."* - Zyrrax, [[Genasi]] del Plasma
 >
 > *"I Pilastri non governano, divorano. Ogni respiro è un tiro ai dadi col destino elementale."* - Vossk, Scalpotribù Iruxi
 >
@@ -94,11 +94,11 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 
 | Immagine | Nome | Descrizione |
 | --- | --- | --- |
-| Genasi | **Figli della Forgia** (Genasi Elementali) | Esseri fusi con un elemento: pelle di lava, capelli di turbine d'aria o sangue d'acqua magnetica. |
+| [[Genasi]] | **Figli della Forgia** ([[Genasi]] Elementali) | Esseri fusi con un elemento: pelle di lava, capelli di turbine d'aria o sangue d'acqua magnetica. |
 | Predatori | **Draghi del Crogiolo** (Elementali Ibridi) | Fusioni di drago ed elemento primordiale. Le scaglie cambiano proprietà fisiche ogni ora. |
 | Kobold | **Geomanti Pyrax** (Kobold Alchimisti) | Manipolatori del substrato magmatico. Trasportano fiale con micro-terremoti. |
 | Iruxi | **Scalpotribù Telluriche** (Iruxi della Pietra) | Lizardfolk con derma adamantino. Comunicano attraverso vibrazioni sismiche. |
-| Iruxi | **Gli Ingenui**  Halfling | Lizardfolk con derma adamantino. Comunicano attraverso vibrazioni sismiche. |
+| Iruxi | **Gli Ingenui**  [[Halfling]] | Lizardfolk con derma adamantino. Comunicano attraverso vibrazioni sismiche. |
 
 ***
 
@@ -107,8 +107,8 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 | Immagine | Nome Fazione | Descrizione | Figure Chiave |
 | --- | --- | --- | --- |
 |  | **Circulo Armonico** (Signori dei Pilastri) | Cultisti che cercano di fondersi con i Pilastri. Governano attraverso editti cantati. | - Lord Ignarius (corpo di magma sonoro) - Zephyra, Archimaga con ali di fulmini |
-| Ribelli | **Ribelli del Quinto Elemente** (Puri del Vuoto) | Mistificatori che vogliono spegnere i Pilastri. Combattono con armi anti-materia. | - Nyrroth, Genasi senza elemento - Kraxis, Kobold con lancia di silenzio |
-| Mercanti | **Carovane Eteree** (Mercanti del Plasma) | Viaggiatori che commerciano stati della materia. I loro carri sono fatti di energia solidificata. | - Voryn, Umano con occhi di neutronio - Lysandra, Salamandra che vende ricordi liquefatti |
+| Ribelli | **Ribelli del Quinto Elemente** (Puri del Vuoto) | Mistificatori che vogliono spegnere i Pilastri. Combattono con armi anti-[[Materia]]. | - Nyrroth, [[Genasi]] senza elemento - Kraxis, Kobold con lancia di silenzio |
+| Mercanti | **Carovane Eteree** (Mercanti del Plasma) | Viaggiatori che commerciano stati della [[Materia]]. I loro carri sono fatti di energia solidificata. | - Voryn, Umano con occhi di neutronio - Lysandra, Salamandra che vende ricordi liquefatti |
 | Alchimisti | **Gilda della Trasmutazione** (Alteratori della Forgia) | Scienziati che sperimentano fusioni elementali. Hanno laboratori mobili in vulcani viventi. | - Dr. Thalax (corpo ibrido acqua-fuoco) - Unit-X, Golem con nucleo di buco nero |
 
 ***
@@ -127,11 +127,11 @@ I Pilastri mi chiamano. La mia carne diventa puro plasma. Dite al Conclave che..
 
 | Background | Classe e Ancestry (PF2e) | Equipaggiamento Iniziale |
 | --- | --- | --- |
-| **Fusionato con il Pilastro** Genasi che perde gradualmente la forma umana. Le mani sono artigli di lava sonora. | Kineticist (Dual Gate) / Genasi | - Guanti di condensazione elementale - Fiaschetta con tempesta in miniatura - Tatuaggi che controllano il caos |
+| **Fusionato con il Pilastro** [[Genasi]] che perde gradualmente la forma umana. Le mani sono artigli di lava sonora. | Kineticist (Dual Gate) / [[Genasi]] | - Guanti di condensazione elementale - Fiaschetta con tempesta in miniatura - Tatuaggi che controllano il caos |
 | **Cacciatore di Essenze** Wyrmclaw umano con corna di cristallo. Caccia elementali per estrarne il nucleo vitale. | Sorcerer (Draconico) / Umano | - Lancia che assorbe elementi - Scudo fatto di scaglie di drago tellurico - Occhiali per vedere i flussi magmatici |
 | **Geomante Pirata** Kobold che cavalca correnti magmatiche. Ha una gamba meccanica alimentata a geotermia. | Inventore (Construct) / Kobold | - Arpione a pressione vulcanica - Zaino-refrigeratore per campioni elementali | - Mappa termica della regione |
 | **Comunicatore Tellurico** Iruxi con pelle di roccia vivente. Parla con i terremoti e le eruzioni. | Monk (Mountain Stance) / Iruxi | - Bastone sismico che provoca micro-terremoti - Armature di placche tettoniche - Amuleto che assorbe energie telluriche |
-| **Alchimista del Caos** Ex membro della Gilda della Trasmutazione. Porta una provetta con un big bang in miniatura. | Alchimista (Bomber) / Genasi | - Kit alchemico multielementale - Bombe che mutano elemento casualmente - Guanti isolanti al plasma |
+| **Alchimista del Caos** Ex membro della Gilda della Trasmutazione. Porta una provetta con un big bang in miniatura. | Alchimista (Bomber) / [[Genasi]] | - Kit alchemico multielementale - Bombe che mutano elemento casualmente - Guanti isolanti al plasma |
 
 ***
 

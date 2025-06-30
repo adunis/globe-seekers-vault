@@ -6,17 +6,17 @@ A small, struggling town that acts as the initial hub for the campaign.
 
 ●
 
-The characters arrive in Phandalin with a delivery for Barthen's Provisions, a trading post, as hired by Gundren Rockseeker.
+The characters arrive in Phandalin with a delivery for Barthen's Provisions, a trading post, as hired by [[Gundren]] Rockseeker.
 
 ●
 
-The town is under the oppressive control of the Redbrand gang, a group of bandits terrorizing the locals.
+The town is under the oppressive control of the [[Redbrand Gang]], a group of bandits terrorizing the locals.
 
  The characters learn about their activities through interactions with the townsfolk, who fear the Redbrands' growing influence and aggressive behaviour.
 
 ●
 
-Phandalin is also where the characters discover that Gundren and his brothers are missing, adding another layer of urgency to their mission.
+Phandalin is also where the characters discover that [[Gundren]] and his brothers are missing, adding another layer of urgency to their mission.
 
 ●
 

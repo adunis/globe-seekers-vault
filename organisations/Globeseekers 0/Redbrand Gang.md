@@ -2,7 +2,7 @@
 kanka_id: 330390
 ---
 
-he Redbrands are a gang of bandits operating out of the ruined Tresendar Manor in [[Phandalin]]. They are led by a mysterious figure known as Glasstaff. The sources describe them as a source of fear and oppression for the townsfolk of [[Phandalin]]
+he Redbrands are a gang of bandits operating out of the ruined Tresendar Manor in [[[[Phandalin]]]]. They are led by a mysterious figure known as Glasstaff. The sources describe them as a source of fear and oppression for the townsfolk of [[[[Phandalin]]]]
 
 .
 
@@ -38,7 +38,7 @@ Influence and Control
 
 ●
 
-The Redbrands' influence in [[Phandalin]] has grown, and the townspeople are afraid to speak out against them
+The Redbrands' influence in [[[[Phandalin]]]] has grown, and the townspeople are afraid to speak out against them
 
 .
 
@@ -54,7 +54,7 @@ Affiliations
 
 Goblins: There is evidence of a connection between the Redbrands and the goblins that plague the area. Villagers report seeing Redbrands with hobgoblins
 
-, and the party might find evidence of this connection in the [[Goblin]] hideout
+, and the party might find evidence of this connection in the [[[[Goblin]]]] hideout
 
 .
 
@@ -66,7 +66,7 @@ Glasstaff: Glasstaff is the leader of the Redbrands. He is a powerful magic user
 
 ●
 
-[[Black Spider]]: Though not explicitly stated, the appearance of Drow warriors, who serve the [[Black Spider]], after the party's encounter with Glasstaff suggests a possible connection between the Redbrands and the [[Black Spider]]
+[[[[Black Spider]]]]: Though not explicitly stated, the appearance of Drow warriors, who serve the [[[[Black Spider]]]], after the party's encounter with Glasstaff suggests a possible connection between the Redbrands and the [[[[Black Spider]]]]
 
 .
 
@@ -94,7 +94,7 @@ The Party's Role
 
 ●
 
-The party learns about the Redbrands' activities from the people of [[Phandalin]]
+The party learns about the Redbrands' activities from the people of [[[[Phandalin]]]]
 
 .
 
@@ -116,4 +116,4 @@ During the assault, the party defeats the Redbrands and discovers their stash of
 
 .
 
-The Redbrands are a significant threat to [[Phandalin]] and its people. They represent the dangers that lurk in the seemingly peaceful region. By confronting and defeating the Redbrands, the party takes a step toward restoring peace and order to [[Phandalin]] and gains valuable experience that will help them face the larger dangers of the campaign.
+The Redbrands are a significant threat to [[[[Phandalin]]]] and its people. They represent the dangers that lurk in the seemingly peaceful region. By confronting and defeating the Redbrands, the party takes a step toward restoring peace and order to [[[[Phandalin]]]] and gains valuable experience that will help them face the larger dangers of the campaign.

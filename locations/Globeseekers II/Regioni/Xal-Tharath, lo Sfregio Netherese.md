@@ -8,13 +8,13 @@ kanka_id: 1705990
 
 |  |  |  |
 | --- | --- | --- |
-| Sfregio 1 | Arcanista Mutato | Ratfolk Reliquiario |
+| Sfregio 1 | Arcanista Mutato | [[Ratfolk]] Reliquiario |
 
 ***
 
 > *"Qui la pietra respira e il vuoto canta. Ogni passo è un tradimento della geometria, ogni respiro un patto col caos."* - Velyssra, Stregone Aberrante
 >
-> *"Le Torri Sospese non sono rovine, sono ferite. Sangue arcano che stilla dalle carni della realtà."* - Krelnik, Inventore Ratfolk
+> *"Le Torri Sospese non sono rovine, sono ferite. Sangue arcano che stilla dalle carni della realtà."* - Krelnik, Inventore [[Ratfolk]]
 >
 > *"Non cercare logica in queste lande. Le leggi che conosci sono fantasmi, e i fantasmi qui hanno denti più affilati della verità."* — Ultima trasmissione del Teocristallo di Oorlth
 
@@ -58,7 +58,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 
 **Equipaggiamento Consigliato:**
 
-* Guanti di pelle di **Ragno Non-Locale** (maneggiano materia instabile)
+* Guanti di pelle di **Ragno Non-Locale** (maneggiano [[Materia]] instabile)
 * Occhiali con lenti di **Vuoto Stabilizzato** (neutralizzano illusioni geometriche)
 * Bussola a Entropia Direzionale (punta verso il caos minore)
 
@@ -72,7 +72,7 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 | --- | --- | --- |
 | Elfo Mutato | **Figli di Xal'Tharath** (Elfi Arcani-Sintonizzati) | Elfi con pelle traslucida e ossa di cristallo. Comunicano attraverso equazioni vocali che alterano la realtà. |
 | Predatore Vuoto | **Predatori del Vuoto** (Entità Non-Euclidee) | Esseri multidimensionali appartenenti a geometrie impossibili. Si nutrono di paradossi logici. |
-| Ratfolk | **Saccheggiatori di Singolarità** (Ratfolk Reliquiari) | Mercanti di frammenti di realtà. Trasportano borse che pesano meno del vuoto. |
+| [[Ratfolk]] | **Saccheggiatori di Singolarità** ([[Ratfolk]] Reliquiari) | Mercanti di frammenti di realtà. Trasportano borse che pesano meno del vuoto. |
 | Alghe Antigravità | **Alghe di Hawking** (Vegetazione Antigravitazionale) | Colonie simbiotiche che creano isole fluttuanti. Emettono raggi di inversione entropica. |
 
 ***
@@ -81,8 +81,8 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 
 | Immagine | Nome Fazione | Descrizione | Figure Chiave |
 | --- | --- | --- | --- |
-| Torri Sospese | **Congrega delle Torri** (Arcanisti Ricostruttori) | Culto che cerca di ripristinare la magia Netherese. Usano schiavi come batterie viventi. | - Archimandrita Lyrex (corpo fatto di equazioni) - Zethra, Alchimista con 7 mani spettrali |
-| Ribelli Quantici | **Ribellione Olografica** (Resistenza Frattale) | Gruppo di mutanti che combatte la Congrega. Si duplicano attraverso paradossi temporali. | - Vix, Ratfolk con 3 esistenze parallele - Nyrissa, Elfa il cui corpo esiste in 5 dimensioni |
+| Torri Sospese | **Congrega delle Torri** (Arcanisti Ricostruttori) | Culto che cerca di ripristinare [[La Magia]] Netherese. Usano schiavi come batterie viventi. | - Archimandrita Lyrex (corpo fatto di equazioni) - Zethra, Alchimista con 7 mani spettrali |
+| Ribelli Quantici | **Ribellione Olografica** (Resistenza Frattale) | Gruppo di mutanti che combatte la Congrega. Si duplicano attraverso paradossi temporali. | - Vix, [[Ratfolk]] con 3 esistenze parallele - Nyrissa, Elfa il cui corpo esiste in 5 dimensioni |
 | Mercanti | **Cartello degli Anti-Materassi** (Mercanti di Realtà) | Trafficanti di frammenti spazio-temporali. Vendono ricordi rubati come merce. | - Grishnak, Orco con borsa a buco nero - Lyssandra, Mezzodrago che commercia futuri alternativi |
 | Ricercatori | **Accademia della Singolarità** (Scienziati Folli) | Studiosi che sperimentano con leggi fisiche alterate. Hanno laboratori in bolle dimensionali. | - Dr. Vorthas (cervello in contenitore di vetro) - Unit-7, Costrutto che parla in lingue estinte |
 
@@ -103,16 +103,16 @@ Il Teocristallo sta... risvegliandosi. Le equazioni nella mia mente si materiali
 | Background | Classe e Ancestry (PF2e) | Equipaggiamento Iniziale |
 | --- | --- | --- |
 | **Ex Batteria Umana** Fuggito dai laboratori della Congrega. Porta cicatrici luminose che emanano equazioni. | Magus (Arco Stellare) / Umano | - Bacchetta fatta di luce solidificata - Tatuaggi che proiettano scudi olografici - Frammento di Teocristallo (causa 1d4 danni mentali/uso) |
-| **Cacciatore di Singolarità** Ratfolk che cerca artefatti dimensionali. Ha occhi che vedono attraverso i muri. | Ladro (Mente Suprema) / Ratfolk | - Gancio a grimaldello quantico (apre porte in realtà parallele) - Borsa a sospensione entropica - Mappa che si riscrive con le scelte dell'utente |
-| **Alchimista Entropico** Scienziato pazzo che mescola chimica e magia del caos. La sua provetta contiene un big bang in miniatura. | Alchimista (Mutagenista) / Tiefling | - Kit alchemico con reagenti instabili - Mutageni che causano mutazioni casuali - Guanti che dissolvono la materia (3 cariche/giorno) |
+| **Cacciatore di Singolarità** [[Ratfolk]] che cerca artefatti dimensionali. Ha occhi che vedono attraverso i muri. | Ladro (Mente Suprema) / [[Ratfolk]] | - Gancio a grimaldello quantico (apre porte in realtà parallele) - Borsa a sospensione entropica - Mappa che si riscrive con le scelte dell'utente |
+| **Alchimista Entropico** Scienziato pazzo che mescola chimica e magia del caos. La sua provetta contiene un big bang in miniatura. | Alchimista (Mutagenista) / Tiefling | - Kit alchemico con reagenti instabili - Mutageni che causano mutazioni casuali - Guanti che dissolvono la [[Materia]] (3 cariche/giorno) |
 | **Guardiano dei Frattali** Elfo che protegge le zone stabili dello Sfregio. Il suo sangue è liquido di non-newtoniano. | Stregone (Aberrante) / Elfo | - Bastone fatto di spazio compresso - Mantello che assorbe radiazioni arcane - Anello che piega la luce (invisibilità 1 min/giorno) |
-| **Ingegnere delle Realtà** Inventore che costruisce armi con frammenti dimensionali. Ha sostituito un braccio con un'artiglio di vuoto. | Inventore (Costrutto) / Halfling | - Martello che ripara le fessure dimensionali - Drone esploratore a levitazione quantica - Occhiali che vedono le linee di forza magiche |
+| **Ingegnere delle Realtà** Inventore che costruisce armi con frammenti dimensionali. Ha sostituito un braccio con un'artiglio di vuoto. | Inventore (Costrutto) / [[Halfling]] | - Martello che ripara le fessure dimensionali - Drone esploratore a levitazione quantica - Occhiali che vedono le linee di forza magiche |
 
 ***
 
 ## ⚗️ Equipaggiamento Tipico
 
-* **Armature**: Placche di **Materia Exo** (assorbono 50% danni energetici), mantelli di **Fotoni Legati**
+* **Armature**: Placche di **[[Materia]] Exo** (assorbono 50% danni energetici), mantelli di **Fotoni Legati**
 * **Armi**: Spade di **Entropia Orientata** (ignorano DR), archi che scoccano **Freccie di Hilbert** (traiettorie impossibili)
 * **Strumenti**: Astrolabi a **N-Dimensioni**, chiavi che aprono porte inesistenti
 * **Consumabili**: Pillole di **Tempo Condensato** (extra azione, ma invecchiamento accelerato), **Granate di Caos** (1d6 effetti casuali)

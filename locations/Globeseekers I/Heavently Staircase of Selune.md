@@ -4,7 +4,7 @@ kanka_id: 1535174
 
 Heavently Staircase of Selune
 
-The Heavently Staircase of Selune is a location of significant importance within the cosmology of the Forgotten Realms, specifically within the world of Faerûn. It is described as the only place on the Material Plane where deities can manifest in their true forms, rather than through avatars. Additionally, it is the sole location where a mortal being can ascend to godhood.
+The Heavently Staircase of Selune is a location of significant importance within the [[Cosmology]] of the Forgotten Realms, specifically within the world of Faerûn. It is described as the only place on the Material Plane where deities can manifest in their true forms, rather than through avatars. Additionally, it is the sole location where a mortal being can ascend to godhood.
 
 Location and Access
 

@@ -6,13 +6,13 @@ Sshamath is a subterranean city introduced in Session 7 of your campaign. It is 
 
 Exile and Teleportation Circles
 
-The sources you provided suggest that owning a teleportation circle connected to the surface is a serious crime in Sshamath, potentially leading to exile. This law highlights the city's isolationist nature and its desire to remain hidden from the outside world. Exile from Sshamath is considered a fate worse than death for many, particularly those who fear capture by the priestesses of Menzoberranzan, the traditional enemy of Sshamath.
+The sources you provided suggest that owning a teleportation circle connected to the surface is a serious crime in Sshamath, potentially leading to exile. This law highlights the city's isolationist nature and its desire to remain hidden from the outside world. Exile from Sshamath is considered a fate worse than death for many, particularly those who fear capture by the priestesses of [[Menzoberranzan]], the traditional enemy of Sshamath.
 
-Power Struggles and the Black Spider's Role
+Power Struggles and the [[Black Spider]]'s Role
 
 Yilvynna, a Drow encountered by the party, reveals that Sshamath is embroiled in a power struggle between the schools of Necromancy and Conjuration.
 
- The Black Spider, a rogue Drow wizard from Menzoberranzan, is allied with the School of Necromancy and is seeking to gain power in the city. He is particularly interested in obtaining a magical item known as the Brain Drill, which is capable of reading thoughts, from the School of Conjuration.
+ The [[Black Spider]], a rogue Drow wizard from [[Menzoberranzan]], is allied with the School of Necromancy and is seeking to gain power in the city. He is particularly interested in obtaining a magical item known as the Brain Drill, which is capable of reading thoughts, from the School of Conjuration.
 
 Session Locations
 
@@ -26,7 +26,7 @@ Your sources only offer glimpses into Sshamath, focusing on locations and events
 
 ●
 
-In the Forgotten Realms setting, Sshamath is a prominent Drow city located deep beneath the Underdark. It is known for its treacherous politics, its connection to the demonic Abyss, and its fierce rivalry with Menzoberranzan.
+In the Forgotten Realms setting, Sshamath is a prominent Drow city located deep beneath the Underdark. It is known for its treacherous politics, its connection to the demonic Abyss, and its fierce rivalry with [[Menzoberranzan]].
 
 ●
 

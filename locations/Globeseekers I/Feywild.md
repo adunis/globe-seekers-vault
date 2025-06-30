@@ -18,7 +18,7 @@ kanka_id: 1547460
 * **Drow**: Elves corrupted through Lolth's influence
 * **Fey Creatures**: Sprites, Pixies, Brownies
 * **Beastfolk**: Satyrs, Centaurs
-* **Gnomes**: Forest Gnomes with strong fey heritage
+* **[[Gnomes]]**: Forest [[Gnomes]] with strong fey heritage
 * **Goblinoids**: Goblins, Hobgoblins, Bugbears (originated here and later migrated to the Material Plane)
 
 The Feywild, also known as Tel'Quessir Shaneren, is the origin of Elven races, Fey creatures and Goblinoids. It is a plane of vibrant and ever-changing landscapes shaped by emotions and beliefs.
@@ -29,7 +29,7 @@ The Eladrin, the ancestors of the elves, were the first sentient beings to inhab
 
 Imagine a time when mountains rose and fell with the tides of joy and sorrow, forests bloomed with the whispers of love, and rivers flowed with the currents of dreams. This was the Feywild under the Eladrin: a realm of untamed beauty and chaotic wonder.
 
-The Eladrin established a civilisation that thrived on this symbiotic relationship with the plane. Their cities were living works of art, woven from the fabric of the Feywild itself, changing and adapting with the flow of magic. They lived in harmony with the Fey creatures that sprung from their collective imagination, forming complex societies where art, music, and magic intertwined.
+The Eladrin established a civilisation that thrived on this symbiotic relationship with the plane. Their [[Cities]] were living works of art, woven from the fabric of the Feywild itself, changing and adapting with the flow of magic. They lived in harmony with the Fey creatures that sprung from their collective imagination, forming complex societies where art, music, and magic intertwined.
 
 Seeds of Discord and the Sundering
 
@@ -43,7 +43,7 @@ The Exodus and the Rise of the Fey
 
 In the aftermath of the Sundering, many Eladrin chose to leave the Feywild, seeking a more stable existence. They crossed the weakened planar boundaries, migrating to the Material Plane and other realms. These Eladrin became the ancestors of the elves, their connection to the Feywild diluted but not entirely severed.
 
-The Feywild, left to its own devices, began to evolve in the absence of the Eladrin. The Fey creatures, once reflections of the Eladrin's imagination, gained independence, becoming the dominant force in this new, untamed world. The once-ordered cities of the Eladrin fell into ruin, overgrown with vibrant, chaotic vegetation. Their magic lingered, however, imbuing the landscape with an aura of enchantment and wonder.
+The Feywild, left to its own devices, began to evolve in the absence of the Eladrin. The Fey creatures, once reflections of the Eladrin's imagination, gained independence, becoming the dominant force in this new, untamed world. The once-ordered [[Cities]] of the Eladrin fell into ruin, overgrown with vibrant, chaotic vegetation. Their magic lingered, however, imbuing the landscape with an aura of enchantment and wonder.
 
 The Feywild Today: A Realm of Contrasts
 
@@ -59,7 +59,7 @@ The Fey Courts: The Fey creatures, no longer mere reflections of the Eladrin, ha
 
 ●
 
-Legacy of the Eladrin: The remnants of the Eladrin civilisation can still be found scattered throughout the Feywild. Ruined cities overgrown with enchanted vegetation, ancient artifacts imbued with potent magic, and lingering enchantments that warp reality itself are a testament to their once-dominant presence. These remnants are often sought by adventurers and scholars seeking knowledge of the Feywild's past or hoping to harness the Eladrin's lost magic.
+Legacy of the Eladrin: The remnants of the Eladrin civilisation can still be found scattered throughout the Feywild. Ruined [[Cities]] overgrown with enchanted vegetation, ancient artifacts imbued with potent magic, and lingering enchantments that warp reality itself are a testament to their once-dominant presence. These remnants are often sought by adventurers and scholars seeking knowledge of the Feywild's past or hoping to harness the Eladrin's lost magic.
 
 ●
 

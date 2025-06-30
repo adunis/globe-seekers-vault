@@ -22,28 +22,28 @@ Perché le mani non ti abbandonano mai."
 **Origini e la Cicatrice di Karak-Dum:**
 
 I
-Figli della Forgia Cinerea non sono nati nell'Altopiano delle Ossa, ma
+Figli della Forgia Cinerea non sono nati nell'[[Altopiano delle Ossa]], ma
 dalle rovine di ciò che fu. Molti dei loro membri fondatori provenivano
-da **Karak-Dum, la Forgia Perduta**, una volta la più grande e venerata cittadella nanica dedicata al culto di **Morun Tag**,
-il Dio-Ingegnere Derro. Karak-Dum non era solo una città, ma un immenso
+da **Karak-Dum, la Forgia Perduta**, una volta la più grande e venerata cittadella nanica dedicata al culto di **[[Morun Tag]]**,
+il Dio-Ingegnere [[Derro]]. Karak-Dum non era solo una città, ma un immenso
 laboratorio, un tempio vivente alla creazione, dove l'ingegneria
 meccanica e la devozione divina si fondevano nella costruzione di
 meraviglie d'orologeria, automi e macchine complesse. Era un luogo di
 fervore e innovazione senza pari.
 
 Durante
-i mesi cruciali che precedettero la Grande Discesa, gli artefici di
+i mesi cruciali che precedettero [[La Grande Discesa]], gli artefici di
 Karak-Dum, guidati dai loro Maestri e Arcipreti, lavoravano a progetti
 ambiziosi, sentendo l'instabilità crescente nella Trama e
 interpretandola come un segno che il mondo aveva bisogno della guida e
-della protezione di Morun Tag e delle sue creazioni. Costruirono "Cuori"
+della protezione di [[Morun Tag]] e delle sue creazioni. Costruirono "Cuori"
 meccanici per stabilizzare la terra, armature divine per i campioni, e
 automi di difesa che avrebbero dovuto respingere qualsiasi caos.
 Credevano sinceramente che la loro fede e la loro maestria sarebbero
 state la salvezza.
 
 Ma
-quando la Discesa colpì, la magia stessa si ribellò. Le complesse reti
+quando la Discesa colpì, [[La Magia]] stessa si ribellò. Le complesse reti
 energetiche di Karak-Dum si sovraccaricarono, le rune protettive
 implosero in modo catastrofico, e persino le creazioni più sacre,
 alimentate da energie impazzite, si rivoltarono contro i loro
@@ -58,7 +58,7 @@ arrivò.
 
 I pochi sopravvissuti fuggirono dalle rovine di Karak-Dum, portando con sé cicatrici fisiche, mentali, e soprattutto, la **cenere della loro fede tradita**.
 Si dispersero per il mondo fratturato, molti trovando infine rifugio
-(paradossalmente) nel dominio di Vecna, l'Altopiano delle Ossa, un luogo
+(paradossalmente) nel dominio di Vecna, l'[[Altopiano delle Ossa]], un luogo
 che odiavano ma dove potevano nascondersi e dove i rottami abbondavano.
 
 **Filosofia: Dal Divino al Tangibile:**
@@ -68,14 +68,14 @@ La filosofia centrale dei Figli della Forgia Cinerea è la **disillusione teolog
 * **Disprezzo per gli Dei Distanti:**
   Non si fidano più degli dei, Antichi o Nuovi. Li vedono come esseri
   volubili, potenti ma assenti, che giocano con il mondo mortale come con
-  un giocattolo e poi lo abbandonano. La loro fede in Morun Tag è stata
+  un giocattolo e poi lo abbandonano. La loro fede in [[Morun Tag]] è stata
   sostituita da un amaro risentimento o da una fredda indifferenza.
 * **Fede nell'Artigianato:** La loro vera "fede" è ora riposta nel **Processo della Creazione**
   stesso. La precisione di un ingranaggio, la forza di un metallo ben
   forgiato, l'ingegnosità di un meccanismo complesso, il "linguaggio" dei
   progetti e degli schemi – questi sono i loro nuovi dogmi. Credono che il
   vero potere e l'unica speranza di ordine in un mondo caotico derivino
-  dalla comprensione e dalla manipolazione tangibile della materia, non
+  dalla comprensione e dalla manipolazione tangibile della [[Materia]], non
   dalla preghiera.
 * **Odio per la Necromanzia:** Vecna e la sua necromanzia sono l'**antitesi assoluta**
   della loro filosofia. Vedono l'animazione dei non-morti come una
@@ -99,7 +99,7 @@ La filosofia centrale dei Figli della Forgia Cinerea è la **disillusione teolog
 * **Membri:**
   La maggior parte sono nani da Karak-Dum o da altre fortezze cadute, ma
   la necessità e la filosofia pragmatica li hanno resi aperti. Accolgono **artigiani, fabbri, inventori, alchimisti, minatori, ingegneri (di qualsiasi razza)**
-  che mostrano abilità, diffidenza verso gli dei e odio per Vecna. Goblin
+  che mostrano abilità, diffidenza verso gli dei e odio per Vecna. [[Goblin]]
   come Ticchettio sono apprezzati per la loro innata (seppur caotica)
   affinità con i meccanismi e per la loro capacità di muoversi
   inosservati. Possono esserci umani che erano mercanti o tecnici, gnomi
@@ -122,7 +122,7 @@ La filosofia centrale dei Figli della Forgia Cinerea è la **disillusione teolog
   altri gruppi che combattono Vecna (anche se li disprezzano, come i
   Falchi Cremisi), e diffondere disordine tecnico dove possibile.
 * **Conoscenza Perduta (Fazione Interna):** Una minoranza all'interno dei Figli della Forgia Cinerea non
-  ha abbandonato del tutto l'idea di Morun Tag. Credono che la chiave per
+  ha abbandonato del tutto l'idea di [[Morun Tag]]. Credono che la chiave per
   comprendere il fallimento di Karak-Dum e forse per liberare il loro dio
   si trovi nella conoscenza perduta o negli schemi originali. Questa
   fazione minoritaria (forse guidata dai pochi sopravvissuti più anziani o
@@ -142,7 +142,7 @@ La filosofia centrale dei Figli della Forgia Cinerea è la **disillusione teolog
   (specialmente da fuoco) che i Falchi non possono produrre. Non c'è
   fiducia, ma una tregua basata sul mutuo beneficio e sull'odio per Vecna.
 * **Scavatori di Midollo:** Utili fonti di rottami e informazioni sulle rovine, ma completamente inaffidabili. Commerciano con loro a caro prezzo.
-* **Congrega della Catena Spezzata:**
+* **[[Congrega della Catena Spezzata]]:**
   Disprezzati quasi quanto Vecna. Vedono il culto di Vordekai come
   un'altra forma di stagnazione e distruzione (focus sulla morte e
   sull'oblio). L'odio di Horgar per loro è profondo.
@@ -154,7 +154,7 @@ La filosofia centrale dei Figli della Forgia Cinerea è la **disillusione teolog
   Osservati con una miscela di ammirazione tecnologica (Zorvath ha
   tecnologia avanzata) e profonda paranoia. Chi è veramente? Cosa vuole?
   La loro rete cerca attivamente informazioni sulla Guglia Eterea. Vedono
-  B.B. Secondo come uno strumento di Zorvath, non come un vero leader.
+  [[B.B]]. Secondo come uno strumento di Zorvath, non come un vero leader.
 
 **Simbolismo:**
 

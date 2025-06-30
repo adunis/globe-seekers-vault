@@ -31,7 +31,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
         
     2. **Eco Psionico:** Un'ondata di dolore mentale residuo (TS Volontà CD 16 o Stupefatto 1 per 10 minuti).
         
-    3. **Pattuglia di Ratfolk:** 1d4+1 [Ratfolk Scouts](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FNPCs.aspx%3FID%3D972). Se Chirr-Click è con i PG, sono amichevoli e offrono informazioni vaghe ("Attenti ai rumori metallici a ovest").
+    3. **Pattuglia di [[Ratfolk]]:** 1d4+1 [Ratfolk Scouts](https://www.google.com/url?sa=E&q=https%3A%2F%2F2e.aonprd.com%2FNPCs.aspx%3FID%3D972). Se Chirr-Click è con i PG, sono amichevoli e offrono informazioni vaghe ("Attenti ai rumori metallici a ovest").
         
     4. **Sciame di Insetti Cadaverici:** Uno sciame di coleotteri che si nutre dei resti, innocuo ma disgustoso.
         
@@ -48,7 +48,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
     
     - **Il Tempio Sotterraneo di Lathander (L'Alba Infranta):** L'ingresso principale al dungeon-puzzle. Una grande porta di marmo bianco, incrinata ma sigillata magicamente. (Vedi sotto per i dettagli del dungeon).
         
-    - **Altare profanato:** Un piccolo altare laterale a una divinità dimenticata, ora usato come punto di sosta dai Ratfolk. Ci sono resti di un piccolo fuoco e ossa di roditori.
+    - **Altare profanato:** Un piccolo altare laterale a una divinità dimenticata, ora usato come punto di sosta dai [[Ratfolk]]. Ci sono resti di un piccolo fuoco e ossa di roditori.
         
 - **Incontri Casuali (d6):**
     
@@ -58,11 +58,11 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
         
     3. **Luce Danzante:** Una sfera di luce dorata fluttua nel tunnel prima di svanire.
         
-    4. **Trappola dei Ratfolk:** Una semplice trappola a rete (Percezione CD 18 per notarla, Acrobazia o Thievery CD 17 per disarmarla). Chirr-Click la disattiva se è con loro.
+    4. **Trappola dei [[Ratfolk]]:** Una semplice trappola a rete (Percezione CD 18 per notarla, Acrobazia o Thievery CD 17 per disarmarla). Chirr-Click la disattiva se è con loro.
         
-    5. Un **Golem di Fossili** inattivo.
+    5. Un **[[Golem di Fossili]]** inattivo.
         
-    6. Un **Ragno Etereo** solitario che sta cacciando. Se Chirr-Click è presente, diventa indifferente.
+    6. Un **[[Ragno Etereo]]** solitario che sta cacciando. Se Chirr-Click è presente, diventa indifferente.
         
 
 #### **Esagono 3: La Caverna dei Funghi Spettrali**
@@ -71,13 +71,13 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
     
 - **Punti di Interesse:**
     
-    - **Giardino di Funghi Psicoattivi:** Mangiare questi funghi (o respirarne le spore concentrate) richiede un TS Tempra CD 18 o si hanno visioni casuali (un ricordo di Lathander che imprigiona Morun Tag, un'immagine della Forgiacarne, il volto di Zorvath).
+    - **Giardino di Funghi Psicoattivi:** Mangiare questi funghi (o respirarne le spore concentrate) richiede un TS Tempra CD 18 o si hanno visioni casuali (un ricordo di Lathander che imprigiona [[Morun Tag]], un'immagine della Forgiacarne, il volto di Zorvath).
         
     - **Nido di Ragni Eterei:** La caverna principale è il nido di una colonia di **2-3 Ragni Eterei**. Sono territoriali. Chirr-Click può tentare di negoziare un passaggio pacifico (prova di Diplomazia o Natura).
         
 - **Incontri Casuali (d6):**  
     1-3. Nulla.  
-    4-5. **1d3 Ratfolk Scouts** che raccolgono funghi.  
+    4-5. **1d3 [[Ratfolk]] Scouts** che raccolgono funghi.  
     6. La caverna trema per il passaggio di un **Verme del Midolfo** in un tunnel sottostante.
     
 
@@ -92,7 +92,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
 - **Incontri Casuali (d6):**  
     1-2. Nulla.  
     3-4. Pattuglia di **1d4+1 Duergar**.  
-    5. Un **Golem di Fossili** di guardia.  
+    5. Un **[[Golem di Fossili]]** di guardia.  
     6. Un mercante Duergar che trasporta minerali, disposto a ignorare i PG in cambio di un pedaggio (50 gp).
     
 
@@ -106,7 +106,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
         
     - **Messaggio Nascosto:** Un messaggio in nanico (comprensibile da Smilzo) è nascosto in una crepa (Percezione CD 20). Dice: "La forgia attende il carico di Pietra-Anima. Evitate i tunnel del canto di luce. Portate il tributo al Ponte della Spina Dorsale."
         
-- **Incontri Casuali:** Tira due volte sulla tabella e combina i risultati (es. una pattuglia Duergar che combatte contro un Ragno Etereo).
+- **Incontri Casuali:** Tira due volte sulla tabella e combina i risultati (es. una pattuglia Duergar che combatte contro un [[Ragno Etereo]]).
     
 
 #### **Esagono 6: Verso Fungorgo**
@@ -144,7 +144,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
     
     - **I Nemici:** **Lyraelle, la Lama dell'Alba (Trumpet Archon CR 8)** e **Kaelus, il Baluardo del Giorno (Legion Archon CR 7)**.
         
-    - **Meccanica Chiave:** Gli angeli sono invulnerabili e guariscono completamente alla fine del loro turno. Per danneggiarli, i PG devono prima **distruggere i Simboli Solari sugli arazzi**.
+    - **Meccanica Chiave:** Gli [[Angeli]] sono invulnerabili e guariscono completamente alla fine del loro turno. Per danneggiarli, i PG devono prima **distruggere i Simboli Solari sugli arazzi**.
         
         - **Arazzo della Creazione (Sinistra):** Vulnerabile a **danni da vuoto/negativi**.
             
@@ -156,7 +156,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
         
 - **Stanza 4: La Fuga e la Ricompensa**
     
-    - Sconfitti gli angeli, il tempio inizia a crollare. I PG devono afferrare il loot dall'altare e fuggire.
+    - Sconfitti gli [[Angeli]], il tempio inizia a crollare. I PG devono afferrare il loot dall'altare e fuggire.
         
     - **Loot:** Elmo del Re Sole, Corazza del Sole Nascente, Scudo dell'Alba Sorridente, Fischietto del Leone Solare, Pergamene e Rune.
 
@@ -174,7 +174,7 @@ Ogni esagono rappresenta circa 4-6 ore di viaggio. I tunnel sono un misto di pas
 
 **Testo per i Giocatori:**
 
-> "Vi trovate in una galleria le cui pareti un tempo dovevano essere adornate da magnifiche vetrate colorate. Ora, la maggior parte sono in frantumi, e schegge di vetro multicolore scricchiolano sotto i vostri stivali. La poca luce che filtra da crepe nel soffitto illumina i pannelli superstiti, che raccontano una storia. La prima vetrata mostra Lathander che crea un sole per un mondo nell'oscurità. La seconda, lui che guida i mortali nella costruzione di una città gloriosa. Ma la terza è diversa. Raffigura Lathander e i suoi angeli che purificano con il fuoco una biblioteca, mentre dei sapienti in abiti scuri fuggono. L'ultima, quasi intatta, è agghiacciante: Lathander, con un'espressione di fredda giustizia, osserva mentre uno dei suoi angeli incatena una figura ammantata, un dio il cui simbolo... è un ingranaggio spezzato. Morun Tag."
+> "Vi trovate in una galleria le cui pareti un tempo dovevano essere adornate da magnifiche vetrate colorate. Ora, la maggior parte sono in frantumi, e schegge di vetro multicolore scricchiolano sotto i vostri stivali. La poca luce che filtra da crepe nel soffitto illumina i pannelli superstiti, che raccontano una storia. La prima vetrata mostra Lathander che crea un sole per un mondo nell'oscurità. La seconda, lui che guida i mortali nella costruzione di una città gloriosa. Ma la terza è diversa. Raffigura Lathander e i suoi [[Angeli]] che purificano con il fuoco una biblioteca, mentre dei sapienti in abiti scuri fuggono. L'ultima, quasi intatta, è agghiacciante: Lathander, con un'espressione di fredda giustizia, osserva mentre uno dei suoi [[Angeli]] incatena una figura ammantata, un dio il cui simbolo... è un ingranaggio spezzato. [[Morun Tag]]."
 
 **Setup:**  
 Questa galleria è un pezzo di propaganda divina congelata nel tempo. È la versione della storia secondo gli Dei Antichi. La rivelazione che Lathander abbia imprigionato uno dei Nuovi Dei è un colpo diretto alle fondamenta della loro fede pre-Discesa.
@@ -182,7 +182,7 @@ Questa galleria è un pezzo di propaganda divina congelata nel tempo. È la vers
 **Sfida (Interpretazione e Impatto Emotivo):**  
 Non c'è un combattimento qui, ma una battaglia per la comprensione.
 
-- **Elthon:** Vede il suo dio imprigionato, non da un'entità malvagia, ma da un presunto dio del bene. La sua fede in Morun Tag si rafforza, ma il suo odio per l'ordine imposto dagli Antichi Dei diventa personale e bruciante.
+- **Elthon:** Vede il suo dio imprigionato, non da un'entità malvagia, ma da un presunto dio del bene. La sua fede in [[Morun Tag]] si rafforza, ma il suo odio per l'ordine imposto dagli Antichi Dei diventa personale e bruciante.
     
 - **Smilzo:** Riconosce la retorica. È la "giustizia" che gli è stata insegnata, ma vederla applicata a un altro dio, in modo così spietato, potrebbe far nascere i primi, veri dubbi sulla rettitudine della sua vecchia fede.
     
@@ -200,9 +200,9 @@ Non c'è un combattimento qui, ma una battaglia per la comprensione.
 > 
 > "**L'arazzo a sinistra** mostra Lathander che emerge da un sole radioso, portando ordine in un mondo avvolto dal caos primordiale."
 > 
-> "**L'arazzo al centro** raffigura Lathander, con volto severo, che supervisiona i suoi angeli mentre costruiscono una magnifica città-fortezza (Lathandarion), le cui mura sembrano fatte di luce solidificata."
+> "**L'arazzo al centro** raffigura Lathander, con volto severo, che supervisiona i suoi [[Angeli]] mentre costruiscono una magnifica città-fortezza (Lathandarion), le cui mura sembrano fatte di luce solidificata."
 > 
-> "**L'arazzo a destra** è il più inquietante. Mostra Lathander, con un'espressione di fredda determinazione, che osserva i suoi angeli purificare con fiamme dorate intere regioni, trasformando paesaggi rigogliosi in deserti di cenere bianca. Le fiamme sembrano consumare non solo la terra, ma anche le anime di chi si oppone."
+> "**L'arazzo a destra** è il più inquietante. Mostra Lathander, con un'espressione di fredda determinazione, che osserva i suoi [[Angeli]] purificare con fiamme dorate intere regioni, trasformando paesaggi rigogliosi in deserti di cenere bianca. Le fiamme sembrano consumare non solo la terra, ma anche le anime di chi si oppone."
 
 **Setup e Indagine:**  
 L'ambiente è la chiave. I PG hanno tempo per investigare prima di toccare il tesoro.
@@ -227,15 +227,15 @@ Nel momento in cui uno degli oggetti sull'altare viene toccato, la luce della st
 
 **Testo per i Giocatori:**
 
-> "La luce dorata esplode dall'altare, accecante. I tre soli intessuti negli arazzi pulsano con un potere immenso, proiettando fasci di luce verso il centro della stanza che convergono sui due angeli appena apparsi. Le loro forme, prima eteree, si solidificano, le loro ali di luce diventano dure come diamante e le loro armature brillano di un potere schiacciante. Non vi parlano. Vi giudicano. E il loro verdetto è la purificazione."
+> "La luce dorata esplode dall'altare, accecante. I tre soli intessuti negli arazzi pulsano con un potere immenso, proiettando fasci di luce verso il centro della stanza che convergono sui due [[Angeli]] appena apparsi. Le loro forme, prima eteree, si solidificano, le loro ali di luce diventano dure come diamante e le loro armature brillano di un potere schiacciante. Non vi parlano. Vi giudicano. E il loro verdetto è la purificazione."
 
 **Meccaniche della Boss Fight:**
 
 1. **I Guardiani Immortali:** Lyraelle (CR 8) e Kaelus (CR 7) sono i combattenti. All'inizio del combattimento, e alla fine di ogni loro turno, **guariscono completamente tutti i danni subiti** finché almeno un Simbolo Solare è attivo. Questa guarigione è visibile: le loro ferite si richiudono in fiotti di luce dorata che fluisce dagli arazzi.
     
-    - **Tattica degli Angeli:** Non sono stupidi. **Kaelus** (il bruto) si lancia immediatamente sui PG per tenerli impegnati in mischia e lontani dagli arazzi. **Lyraelle** (l'incantatrice) vola in alto, usando la sua tromba per debuffare e incantesimi ad area (come Wall of Fire) per separare i PG e proteggere gli arazzi più vulnerabili. Se un PG si avvicina a un arazzo, diventa il suo bersaglio primario.
+    - **Tattica degli [[Angeli]]:** Non sono stupidi. **Kaelus** (il bruto) si lancia immediatamente sui PG per tenerli impegnati in mischia e lontani dagli arazzi. **Lyraelle** (l'incantatrice) vola in alto, usando la sua tromba per debuffare e incantesimi ad area (come Wall of Fire) per separare i PG e proteggere gli arazzi più vulnerabili. Se un PG si avvicina a un arazzo, diventa il suo bersaglio primario.
         
-2. **I Simboli Solari (L'Obiettivo):** Per poter danneggiare permanentemente gli angeli, i PG devono **disattivare i Simboli Solari**. Ogni simbolo è legato a un arazzo.
+2. **I Simboli Solari (L'Obiettivo):** Per poter danneggiare permanentemente gli [[Angeli]], i PG devono **disattivare i Simboli Solari**. Ogni simbolo è legato a un arazzo.
     
     - **Distruzione Fisica:** Ogni arazzo ha **Durezza 8, HP 30, BT 15**. Possono essere colpiti da attacchi fisici o da incantesimi.
         
@@ -249,15 +249,15 @@ Nel momento in cui uno degli oggetti sull'altare viene toccato, la luce della st
             
 3. **Fasi del Combattimento:**
     
-    - **Fase 1 (3 Simboli Attivi):** Gli angeli sono immortali. I PG devono capire che i loro sforzi sono inutili e concentrarsi sugli arazzi. Devono dividersi: alcuni tengono a bada Kaelus, mentre altri cercano di raggiungere e distruggere i simboli.
+    - **Fase 1 (3 Simboli Attivi):** Gli [[Angeli]] sono immortali. I PG devono capire che i loro sforzi sono inutili e concentrarsi sugli arazzi. Devono dividersi: alcuni tengono a bada Kaelus, mentre altri cercano di raggiungere e distruggere i simboli.
         
-    - **Fase 2 (1-2 Simboli Distrutti):** Quando un simbolo viene distrutto, la luce nella stanza vacilla. Gli angeli **smettono di guarire completamente**, ma ottengono comunque **Guarigione Rapida 10** per ogni simbolo ancora attivo. Ora sono vulnerabili, ma ancora molto resistenti. Kaelus e Lyraelle diventano più aggressivi, concentrando i loro attacchi su chiunque si avvicini ai simboli rimanenti.
+    - **Fase 2 (1-2 Simboli Distrutti):** Quando un simbolo viene distrutto, la luce nella stanza vacilla. Gli [[Angeli]] **smettono di guarire completamente**, ma ottengono comunque **Guarigione Rapida 10** per ogni simbolo ancora attivo. Ora sono vulnerabili, ma ancora molto resistenti. Kaelus e Lyraelle diventano più aggressivi, concentrando i loro attacchi su chiunque si avvicini ai simboli rimanenti.
         
-    - **Fase 3 (Tutti i Simboli Distrutti):** La luce dorata si spegne, lasciando solo la luce delle torce dei PG e un'aura spettrale proveniente dall'altare. Gli angeli perdono la loro guarigione e diventano pienamente mortali. Combattono fino alla fine, ma ora sono visibilmente più deboli, le loro ali di luce tremolano.
+    - **Fase 3 (Tutti i Simboli Distrutti):** La luce dorata si spegne, lasciando solo la luce delle torce dei PG e un'aura spettrale proveniente dall'altare. Gli [[Angeli]] perdono la loro guarigione e diventano pienamente mortali. Combattono fino alla fine, ma ora sono visibilmente più deboli, le loro ali di luce tremolano.
         
 
 **Finale:**  
-Una volta sconfitti, gli angeli si dissolvono in polvere di luce come nella versione precedente, innescando il crollo del santuario e la fuga disperata dei PG. La ricompensa (loot sull'altare) può essere afferrata durante la fuga.
+Una volta sconfitti, gli [[Angeli]] si dissolvono in polvere di luce come nella versione precedente, innescando il crollo del santuario e la fuga disperata dei PG. La ricompensa (loot sull'altare) può essere afferrata durante la fuga.
 
 
 ### **Sfida di Abilità: Il Crollo dell'Alba**
@@ -334,7 +334,7 @@ La sfida si svolge in round. In ogni round, ogni personaggio giocante può usare
         
     - **Fallimento:** Il tentativo è inutile, il crollo continua. (1 Fallimento).
         
-- **Guidare il Gruppo (Diplomazia/Intimidazione):** Un personaggio urla ordini chiari e decisi, coordinando la fuga del gruppo e dei Ratfolk.
+- **Guidare il Gruppo (Diplomazia/Intimidazione):** Un personaggio urla ordini chiari e decisi, coordinando la fuga del gruppo e dei [[Ratfolk]].
     
     - **CD 20 Diplomazia/Intimidazione:** Il gruppo si muove in modo coeso. Questo conta come **1 successo** e rimuove la condizione Stupefatto o Spaventato da un alleato, se presente.
         

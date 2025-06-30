@@ -6,7 +6,7 @@ kanka_id: 1706005
 **LE FORTEZZE DIVINE**
 
 Dopo
-la Grande Discesa, le città-fortezza divine rappresentano l’apice del
+[[La Grande Discesa]], le città-fortezza divine rappresentano l’apice del
 potere terreno degli Antichi Dei. Questi insediamenti non sono soltanto
 rifugi, ma autentici baluardi di autorità celeste, concepiti per
 controllare il mondo mortale. Ogni centro incarna i valori e le energie
@@ -25,7 +25,7 @@ estranei.
   nelle Terre Spezzate circostanti. Essi esercitano un impatto militare,
   sociale e politico su città e borghi limitrofi, contribuendo a
   diffondere la religione del dio e a far rispettare il divieto di
-  venerare le divinità imprigionate (Vordekai, B.B. e Morun Tag). Finché
+  venerare le divinità imprigionate (Vordekai, [[B.B]]. e [[Morun Tag]]). Finché
   sorge una città-fortezza sacra in una regione, il culto degli dei
   confinati non può radicarsi.
 * **Il Campione:**
@@ -47,7 +47,7 @@ estranei.
 * **Leader:** Lathander (Alba, Rinnovamento, Ottimismo)
 * **Aiutanti:** Tyr (Luce Solare, Giustizia), Sune (Bellezza, Preservazione)
 * **Regione:** Animated Battlefields (Campi di Battaglia Animati - Ex-Cormyr?)
-* **La Discesa di Lathander:** Offeso dall'ascesa di "falsi salvatori", Lathander trasformò la sua promessa di rinnovamento in un **ciclo infinito di purificazione solare**. Decretò un'alba perenne sulle terre che lo avevano tradito, bruciando la terra e gli spiriti. Scatenò **Piaghe della Luce Sacra**, febbri che consumavano i corpi dall'interno, e diede potere ai suoi seguaci più fanatici, trasformandoli in **Angeli dell'Alba Punitrice**
+* **La Discesa di Lathander:** Offeso dall'ascesa di "falsi salvatori", Lathander trasformò la sua promessa di rinnovamento in un **ciclo infinito di purificazione solare**. Decretò un'alba perenne sulle terre che lo avevano tradito, bruciando la terra e gli spiriti. Scatenò **Piaghe della Luce Sacra**, febbri che consumavano i corpi dall'interno, e diede potere ai suoi seguaci più fanatici, trasformandoli in **[[Angeli]] dell'Alba Punitrice**
   la cui radiosità era dolore. Il suo ottimismo divenne un dogma
   spietato: la sofferenza era necessaria per una "rinascita" forzata
   secondo la sua volontà.
@@ -80,12 +80,12 @@ estranei.
 * **Leader:** Mystra (Stelle, Magia, Continuità)
 * **Aiutanti:** Oghma (Eco, Lore), Vecna (Lore, Rivelazione - rivale/osservatore), Kelemvor (Inverno, Giudizio).
 * **Regione:** Netherese Scar (Cicatrice Netherese)
-* **La Discesa di Mystra:** Tradita nel suo dominio, Mystra non distrusse la magia, la **incatenò**. Decretò che la Trama sarebbe stata stabile solo dove lei permetteva, scatenando altrove **Tempeste di Mana Selvaggio** (che crearono la Cicatrice Netherese e mutarono la vita) e **Carestie di Mana**.
+* **La Discesa di Mystra:** Tradita nel suo dominio, Mystra non distrusse [[La Magia]], la **incatenò**. Decretò che la Trama sarebbe stata stabile solo dove lei permetteva, scatenando altrove **Tempeste di Mana Selvaggio** (che crearono la Cicatrice Netherese e mutarono la vita) e **Carestie di Mana**.
   Divenne la custode assoluta, la cui approvazione era necessaria per
   ogni incantesimo significativo. La conoscenza arcana divenne un
   privilegio sorvegliato, non un diritto.
 * **Il Contributo di Oghma:** Vedendo la conoscenza magica sfuggire al controllo, Oghma aiutò Mystra a **catalogare e controllare**
-  la magia permessa. Le biblioteche di Mystralis divennero archivi dove
+  [[La Magia]] permessa. Le biblioteche di Mystralis divennero archivi dove
   la storia della magia veniva riscritta secondo la versione di Mystra, e
   le formule proibite venivano sigillate o trasformate in trappole per gli
   incauti. L'eco della conoscenza divenne uno strumento di sorveglianza.
@@ -95,12 +95,12 @@ estranei.
   apertamente, ma per **carpirne i segreti**,
   studiare le sue restrizioni e forse scoprire debolezze nella sua stessa
   Trama controllata. La presenza di Mystralis vicino alla Cicatrice
-  Netherese (ricca di N-Shard) era un bonus.
+  Netherese (ricca di [[N-Shard]]) era un bonus.
 * **Il Giudizio di Kelemvor:**
   Il Dio del Giudizio Inevitabile vide la necessità dell'ordine di
   Mystra. Le sue energie invernali raffreddarono gli eccessi del mana
   selvaggio ai confini di Mystralis, creando zone di stasi arcana. Approvò
-  l'idea che la magia, come la vita, dovesse avere regole rigide e un
+  l'idea che [[La Magia]], come la vita, dovesse avere regole rigide e un
   giudizio finale per chi le infrangeva.
 * **Lore:**
   Torre di cristallo pulsante sospesa su un vortice di formule
@@ -148,7 +148,7 @@ estranei.
 
 ***
 
-🌪️ **Airspur, The Elemental Spire**
+🌪️ **[[Airspur]], The Elemental Spire**
 
 * **Leader:** Umberlee (Oceani, Imprevedibilità, Rischio)
 * **Aiutanti:** Talos (Tempeste, Violenza), Tiamat (Uragani, Sovranità).

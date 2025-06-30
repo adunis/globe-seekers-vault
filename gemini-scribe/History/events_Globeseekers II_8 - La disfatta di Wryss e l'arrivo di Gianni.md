@@ -1,5 +1,5 @@
 ---
-source_file: "[[8 - La disfatta di Wryss e l'arrivo di Gianni]]"
+source_file: "[[[[8 - La disfatta di Wryss e l'arrivo di Gianni]]]]"
 ---
 # Chat History
 *Started: 2025-06-29T08:26:35.976Z*

@@ -20,9 +20,9 @@ kanka_id: 1547461
 ### Discendenza Materica
 
 * **Nani:** Nani delle Montagne, Nani delle Colline, Duergar (Nani alterati da esperimenti Illithid).
-* **Minotauri:** Esseri abitanti di labirinti migrati sul Piano Materiale dopo la Grande Discesa, portando con sé tradizioni e poteri oscuri.
+* **Minotauri:** Esseri abitanti di labirinti migrati sul Piano Materiale dopo [[La Grande Discesa]], portando con sé tradizioni e poteri oscuri.
 * **Gnomi delle Rocce:** Evoluti da un ramo dei Nani Ur, si sono adattati agli ambienti rocciosi di Khazad-Dorum.
-* **Gargoyle e Galeb Duhr:** Creature adattate a vivere negli ambienti rocciosi e metallici di Khazad-Dorum. Dopo la Grande Discesa, alcune hanno acquisito capacità uniche, tra cui resistenza agli effetti magici e capacità mimetiche.
+* **Gargoyle e Galeb Duhr:** Creature adattate a vivere negli ambienti rocciosi e metallici di Khazad-Dorum. Dopo [[La Grande Discesa]], alcune hanno acquisito capacità uniche, tra cui resistenza agli effetti magici e capacità mimetiche.
 
 ## Il Regno Dopo la Grande Discesa
 
@@ -32,15 +32,15 @@ Dopo un lungo periodo di coesistenza, scoppiò una guerra tra i Modellatori di P
 
 ### L'Eredità dei Nani
 
-I Nani ereditarono un regno potente, modellando le città e sfruttando i fiumi di metallo liquido. Le strutture dei giganti diventarono le fondamenta della loro civiltà. Le loro città prosperarono, ma la Grande Discesa ha indebolito Khazad-Dorum. I flussi energetici tra i piani sono diventati instabili, e la città è ora minacciata da creature mutanti e pericoli extraplanari. La mappa Astrale, un tempo posseduta dai Nani Ur, è scomparsa dopo la Grande Discesa. Le leggende parlano di un passaggio segreto verso il Reame Remoto, custodito da un’antica entità che si sveglierà se la mappa viene trovata.
+I Nani ereditarono un regno potente, modellando le città e sfruttando i fiumi di metallo liquido. Le strutture dei giganti diventarono le fondamenta della loro civiltà. Le loro città prosperarono, ma [[La Grande Discesa]] ha indebolito Khazad-Dorum. I flussi energetici tra i piani sono diventati instabili, e la città è ora minacciata da creature mutanti e pericoli extraplanari. La mappa Astrale, un tempo posseduta dai Nani Ur, è scomparsa dopo [[La Grande Discesa]]. Le leggende parlano di un passaggio segreto verso il Reame Remoto, custodito da un’antica entità che si sveglierà se la mappa viene trovata.
 
 ### Nuove Minacce e Opportunità
 
-Khazad-Dorum, nel dopo-Discesa, è un luogo di pericoli, ma anche di immense opportunità. Le rovine dei Modellatori di Pietra nascondono tesori e conoscenze perdute, mentre i fiumi di metallo liquido contengono materiali rari. La ricerca della mappa Astrale o la scoperta di tecnologie Netheresi perdute potrebbe dare ai giocatori un vantaggio notevole nella lotta contro il Patrono. Alcuni minotauri potrebbero avere legami col Reame Remoto, offrendo una nuova via verso il Patrono.
+Khazad-Dorum, nel dopo-Discesa, è un luogo di pericoli, ma anche di immense opportunità. Le rovine dei Modellatori di Pietra nascondono tesori e conoscenze perdute, mentre i fiumi di metallo liquido contengono materiali rari. [[La Ricerca]] della mappa Astrale o la scoperta di tecnologie Netheresi perdute potrebbe dare ai giocatori un vantaggio notevole nella lotta contro il Patrono. Alcuni minotauri potrebbero avere legami col Reame Remoto, offrendo una nuova via verso il Patrono.
 
 ### Plot Hooks
 
-* La ricerca della Mappa Astrale perduta e la minaccia del Reame Remoto.
+* [[La Ricerca]] della Mappa Astrale perduta e la minaccia del Reame Remoto.
 * L'esplorazione delle rovine dei Modellatori di Pietra alla ricerca di oggetti magici e conoscenze perdute.
 * Lo sfruttamento delle risorse di Khazad-Dorum, tra cui i fiumi di metallo liquido.
 * L'incontro con i discendenti dei Modellatori di Pietra e la loro richiesta di aiuto per difendersi da una nuova minaccia.

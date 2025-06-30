@@ -3,7 +3,7 @@ kanka_id: 1547490
 ---
 
 * Surround the Ethereal Plane.
-* Each Prime Plane transitions between two Primordial Planes via the Ethereal Plane.
+* Each Prime Plane transitions between two [[Primordial Planes]] via the Ethereal Plane.
 * **Planes Included**:
   + [Feywild](https://app.kanka.io/w/273567/entities/6927466) **(FW)**
   + [Khazad-Dorum](https://app.kanka.io/w/273567/entities/6927467) **(KD)**

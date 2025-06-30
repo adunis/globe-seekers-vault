@@ -4,7 +4,7 @@ kanka_id: 1511897
 
 Akanul's Airspur: A City Above the Sea
 
-Airspur is the floating capital city of Akanul, a nation of Genasi located somewhere above the Sea of Fallen Stars
+Airspur is the floating capital city of Akanul, a nation of [[Genasi]] located somewhere above the Sea of Fallen Stars
 
 . The city is known for its production of crystals, magic gems, and weapons infused with elemental power
 
@@ -14,9 +14,9 @@ Airspur is also known for its arena where a tournament for monster trainers is h
 
 .
 
-The Genasi and their Nation
+The [[Genasi]] and their Nation
 
-Genasi are a race of humanoids with elemental ancestry. They are known for their strong connection to the elemental planes and their mastery of elemental magic. Akanul is a relatively new nation, having been devastated by wars in the past. As a result, the Genasi are eager to rebuild their nation and reclaim their former glory
+[[Genasi]] are a race of humanoids with elemental ancestry. They are known for their strong connection to the elemental planes and their mastery of elemental magic. Akanul is a relatively new nation, having been devastated by wars in the past. As a result, the [[Genasi]] are eager to rebuild their nation and reclaim their former glory
 
 . The nation is ruled by the four Lords Elemental:
 

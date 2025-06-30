@@ -22,7 +22,7 @@ head(
 >
 > * Garrok Sputasangue, capo orchesco delle Lance Infuocate
 >
-> *"Procampur? Un cadavere che ancora non sa di essere morto. Le sue mura bevono la follia dei disperati."*
+> *"[[Procampur]]? Un cadavere che ancora non sa di essere morto. Le sue mura bevono la follia dei disperati."*
 >
 > * Lady Viretha, ultima duchessa delle Cisterne Asciutte
 >
@@ -53,7 +53,7 @@ urlano. Abbiamo perso tre schiavi: fusi con un cactus psicotropo."
 
 **Giorno 14:**  
 "Trovato un **Ossario Mobile**
-- carro armato pre-Collasso abitato da stregoni goblin. Vendono armi a
+- carro armato pre-Collasso abitato da stregoni [[Goblin]]. Vendono armi a
 plasma in cambio di ricordi felici. Ho barattato il mio primo bacio...
 ne valeva la pena?"
 
@@ -64,7 +64,7 @@ mercenari si sono squagliati in pozze di saliva bollente. Berla dà
 forza... ma i denti diventano vetro."
 
 **Ultimo Annotazione:**  
-"Procampur è un miraggio. Le
+"[[Procampur]] è un miraggio. Le
 mura sono fatte di schegge d'osso e disperazione. Il Duca offre acqua
 pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 (il resto è cancellato da macchie di ruggine bioluminescente)"
@@ -103,7 +103,7 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 
 | Immagine | Nome Fazione | Descrizione | Figure Chiave |
 | --- | --- | --- | --- |
-| Procampur | **Fortezza di Procampur** (Ultimo Baluardo) | Cittadella governata da cyborg con armature idrovore. Controllano l'ultimo pozzo artesiano. | - Duca Vhal "Occhio di Quarzo" - Zira, Capo delle Guardie con braccio a lame rotanti |
+| [[Procampur]] | **Fortezza di [[Procampur]]** (Ultimo Baluardo) | Cittadella governata da cyborg con armature idrovore. Controllano l'ultimo pozzo artesiano. | - Duca Vhal "Occhio di Quarzo" - Zira, Capo delle Guardie con braccio a lame rotanti |
 | Carovane | **Carovane del Vuoto** (Mercanti Djinn) | Mercanti nomadi che viaggiano su dune mobili. Vendono armi proibite in cambio di emozioni. | - Sheik Al'Raz (entità di sabbia animata) - Lissa, Ragazza con occhi da serpente a sonagli |
 | Culto | **Adoratori del Crepuscolo** (Setta del Sole Nero) | Fanatici che scavano nel sottosuolo per risvegliare un antico dio del deserto. | - Alto Sacerdote Kethra (pelle ricoperta di schegge di meteorite) - Nix, Profeta Senza Lingua |
 
@@ -150,4 +150,4 @@ pura... ma i suoi pozzi guardano indietro. Dite alla mia... alla mia...
 
 > *"Nelle Terre Desolate, ogni atto di bontà è un suicidio. Ogni crudeltà, una preghiera."*
 >
-> * Ultima incisione sulla Porta di Procampur
+> * Ultima incisione sulla Porta di [[Procampur]]

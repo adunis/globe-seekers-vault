@@ -95,7 +95,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | Fetchling | **Figli di Myr'ghalath** (Fetchling Ombratili) | Ibridi umano-ombra con pelle cangiante. Si nutrono di segreti e frammenti di identità rubati. |
 |  | **Cacciatori di Echi** (Predatori Psichici) | Creature senza volto che inseguono vibrazioni emotive. Si materializzano da risate soffocate. |
 | Gnomo | **Luminanti** (Gnomi Antinebbia) | Inventori ossessionati dal dissolvere le nebbie. Portano occhiali che vedono attraverso i traumi. |
-| Halfling | **Mercanti di Maschere** (Contrabbandieri Dimensionali) | Ladri che commerciano identità rubate. Posseggono borse che contengono universi tascabili. |
+| [[Halfling]] | **Mercanti di Maschere** (Contrabbandieri Dimensionali) | Ladri che commerciano identità rubate. Posseggono borse che contengono universi tascabili. |
 
 ***
 
@@ -105,7 +105,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | --- | --- | --- | --- |
 |  | **Chiesa Velata** (Culto degli Specchi) | Setta che venera la Cattedrale. Sacrificano riflessi per ottenere potere. | - Alto Prelato Nyrath (senza riflesso) - Sorella Voss, Predicatrice con 7 ombre |
 | Ribelli | **Laceratori di Veli** (Distruttori dell'Illusione) | Rivoluzionari che cercano di dissipare le nebbie. Usano armi soniche che lacerano le illusioni. | - Garrick, Umano con voce di tuono - Lyssia, Fetchling con spada di luce nera |
-| Mercanti | **Bazar delle Verità Nascoste** (Mercato delle Anime) | Mercanti che vendono ricordi e identità. Le monete sono fatte di tempo condensato. | - Zethis, Halfling con occhi-bussola - Morgra, Veggente che vende futuri alternativi |
+| Mercanti | **Bazar delle Verità Nascoste** (Mercato delle Anime) | Mercanti che vendono ricordi e identità. Le monete sono fatte di tempo condensato. | - Zethis, [[Halfling]] con occhi-bussola - Morgra, Veggente che vende futuri alternativi |
 | Alchimisti | **Gilda dei Mnemotecnici** (Architetti della Memoria) | Manipolatori di ricordi. Creano labirinti mentali nelle nebbie. | - Dr. Thalios (cervello in ampolla) - Unit-9, Automa che incarna ricordi rubati |
 
 ***
@@ -126,7 +126,7 @@ La nebbia mi sta riscrivendo. Le mie dita diventano vapori. Dite a mia moglie ch
 | --- | --- | --- |
 | **Cacciatore di Riflessi** Fetchling che ruba ombre per rivenderle. Ha un mantello fatto di ricordi rubati. | Oracolo (Ombra) / Fetchling | - Pugnale che taglia le ombre - Borsa contenente echi vocali - Specchio che mostra verità nascoste |
 | **Inquisitore delle Nebbie** Umano con occhi modificati per vedere attraverso gli inganni. Porta un sigillo antimenzogna. | Investigatore (Empirismo) / Umano | - Lente di verità prismatica - Diario che scrive segreti - Bastone con punta di verità ossidiana |
-| **Contrabbandiera Dimensionale** Halfling che attraversa nebbie con un carro fantasma. Ha una mappa tatuata sulla pelle. | Ladro (Scoundrel) / Halfling | - Grimaldelli fatti di silenzio - Borsa che contiene portali tascabili - Dadi truccati con numeri proibiti |
+| **Contrabbandiera Dimensionale** [[Halfling]] che attraversa nebbie con un carro fantasma. Ha una mappa tatuata sulla pelle. | Ladro (Scoundrel) / [[Halfling]] | - Grimaldelli fatti di silenzio - Borsa che contiene portali tascabili - Dadi truccati con numeri proibiti |
 | **Inventore della Luce Nera** Gnomo che crea dispositivi per combattere le nebbie. Ha sostituito un occhio con un faro mistico. | Inventore (Clockwork) / Gnomo | - Lanterna a dissoluzione nebbiosa | - Occhiali a raggi veritieri - Kit per smontare illusioni |
 | **Manipolatore di Maschere** Ex membro della Chiesa Velata. Porta una collezione di volti in una valigia di pelle. | Bardo (Enigma) / Fetchling | - Flauto che suona ricordi - Maschere che cambiano personalità - Inchiostro che scrive sul vuoto |
 

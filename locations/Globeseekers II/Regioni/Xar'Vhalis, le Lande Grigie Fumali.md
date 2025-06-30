@@ -18,7 +18,7 @@ head(
 
 ***
 
-> *"Qui la magia non muore, marcisce. Ogni incantesimo è un rischio, ogni respiro un patto col caos."*
+> *"Qui [[La Magia]] non muore, marcisce. Ogni incantesimo è un rischio, ogni respiro un patto col caos."*
 >
 > * Gorath Skullbinder, Stregone dei Cerchi Abbandonati
 >
@@ -178,7 +178,7 @@ squame trasparenti mostrano scheletri luminosi. Ho bevuto da una pozza:
 ora sento crescere radici nelle mie vene."
 
 **Giorno 9:**  
-Incontrati i **Guardiani di Querciaferrea**. Centauri con zoccoli d'ambra che emanano spore soporifere. Mi hanno mostrato come evitare i **Fungo-Spettri**: bisogna cantare in antico Sylvan rovesciato."
+Incontrati i **Guardiani di Querciaferrea**. Centauri con zoccoli d'ambra che emanano spore soporifere. Mi hanno mostrato come evitare i **Fungo-Spettri**: bisogna cantare in antico [[Sylvan]] rovesciato."
 
 **Giorno 15:**  
 La **Radura dei Sussurri**
@@ -187,7 +187,7 @@ Ho confessato un peccato d'infanzia: ora un arbusto ne porta i frutti
 velenosi."
 
 **Giorno 23:**  
-Trovato lo **Ziggurat di B.B.**.
+Trovato lo **Ziggurat di [[B.B]].**.
 Non è pietra, ma legno compresso di millenni. Le pareti trasudano linfa
 nera che trasforma i metalli in linfa. Gli Elfi Oscuri evitano quel
 luogo... ma non le *ombre* che si nutrono delle sue radici."
@@ -237,7 +237,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 | Immagine | Nome Fazione | Descrizione | Figure Chiave |
 | --- | --- | --- | --- |
 | Circolo Druidico | **Circolo della Foglia Eterna** | Druidi che praticano rituali proibiti per fondersi con la foresta. | - Elandril (metà uomo/metà quercia) - Myrthana, Druida con capelli di edera velenosa |
-| Culto | **Seguaci di B.B.** | Eredi del culto oscuro. Sacrificano intrusi allo Ziggurat di Legno. | - Vorthax, Sacerdote con artigli di linfa nera - Xylia, Incantatrice di Spore |
+| Culto | **Seguaci di [[B.B]].** | Eredi del culto oscuro. Sacrificano intrusi allo Ziggurat di Legno. | - Vorthax, Sacerdote con artigli di linfa nera - Xylia, Incantatrice di Spore |
 | Ribelli | **Figli della Luce Lunare** | Ex-druidi che combattono la corruzione. Usano falci di cristallo lunare. | - Thaladir, Guerriero con armatura di funghi bioluminescenti - Lira, Alchimista mutaforma |
 
 ***
@@ -277,7 +277,7 @@ Le radici mi chiamano. La mia pelle si fa corteccia. Dite al Concilio che...
 
 * **Armature**: Scaglie di Drago Arboreo (DR 5 vs taglio), mantelli di Felci Camaleontiche
 * **Armi**: Falci di Cristallo Lunare (1d6 danni radianti), archi che scoccano Spine Viventi
-* **Strumenti**: Corni da Richiamo per Animali, semi di Piante Carnivore
+* **Strumenti**: Corni da Richiamo per Animali, semi di [[piante carnivore]]
 * **Consumabili**: Nettare di Rigenerazione (cura 2d8 ma causa dipendenza), Spore di Visione (vedi attraverso gli alberi)
 
 ***

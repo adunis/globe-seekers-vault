@@ -2,7 +2,7 @@
 kanka_id: 362789
 ---
 
-**FAZIONE: Congregation of the [[Broken Chain]]**
+**FAZIONE: Congregation of the [[[[Broken Chain]]]]**
 
 **(Voce cavernosa, che sembra provenire da un abisso interdimensionale):**  
 "Abbiamo
@@ -48,11 +48,11 @@ smascherare e combattere il culto del Patrono e a impedire il recupero
 dei Globi. Grogo divenne il simbolo della resistenza "cieca" alla
 "verità" del Vuoto ai loro occhi, un ostacolo che doveva essere rimosso.
 
-**[[La Grande Discesa]] e il Vuoto Inaspettato:**
+**[[[[La Grande Discesa]]]] e il Vuoto Inaspettato:**
 
 Il
 confronto finale tra il Patrono e un gruppo di eroi (tra cui
-l'originale [[B.B]]., [[Morun Tag]] e Vordekai) culminò nella catastrofica
+l'originale [[[[B.B]]]]., [[[[Morun Tag]]]] e Vordekai) culminò nella catastrofica
 esplosione dei Globi Netheresi e nella Grande Discesa. Il Patrono fu
 distrutto. Il mondo fu sconvolto. E il culto della Catena si ritrovò
 senza la sua guida. Non c'era più un signore cosmico a sussurrare
@@ -117,11 +117,11 @@ motivazioni sono filtrate attraverso questa nuova lente:
 * **Relazioni:** Simili a prima, ma con l'aggiunta:
 
   + **Antichi Dei:** Prigioni di Vordekai e ostacoli all'Oblio. Nemici.
-  + **[[B.B]]. e [[Morun Tag]]:**
+  + **[[[[B.B]]]]. e [[[[Morun Tag]]]]:**
     Potenziali alleati contro gli Antichi Dei, ma visti come legati a
     concetti "inferiori" (sopravvivenza, creazione) rispetto all'Oblio.
   + **Zorvath:**
-    La sua natura Netherese e l'interesse per i Globi/[[N-Shard]] lo rendono
+    La sua natura Netherese e l'interesse per i Globi/[[[[N-Shard]]]] lo rendono
     intrigante. Potrebbe essere una fonte di conoscenza o un ostacolo in
     base a come i suoi piani si allineano (o meno) con l'arrivo dell'Oblio.
     L'interesse di figure come Lysandra per il "Vuoto" potrebbe avere

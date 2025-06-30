@@ -1,4 +1,4 @@
----
+[[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-[[Altopiano delle Ossa]]n Tag]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]]---
 kanka_id: 1714713
 ---
 
@@ -13,12 +13,12 @@ La
 nazione di Thay, un tempo rinomata per le sue potenti accademie magiche
 e le sue ambizioni imperialistiche sotto la guida dei Maghi Rossi, fu
 una delle vittime più spettacolari della Grande Discesa. Quando gli
-Antichi Dei scatenarono la loro furia e la magia stessa si ribellò ai
+Antichi Dei scatenarono la loro furia e [[La Magia]] stessa si ribellò ai
 mortali, le complesse e arroganti strutture di potere di Thay implosero.
 Tempeste di mana selvaggio spazzarono le sue città, le linee ley
 sovraccariche eruttarono energia grezza che mutò il paesaggio e i suoi
 abitanti, e i portali dimensionali mantenuti dai Maghi Rossi divennero
-instabili, vomitando orrori o risucchiando intere regioni nel caos
+instabili, vomitando orror[[Halfling]]cchiando intere regioni nel caos
 planare. Fu in questo vuoto di potere, tra le rovine fumanti di un
 impero magico e un paesaggio ormai irriconoscibile e saturo di energia
 necrotica residua, che **Vecna**,
@@ -33,7 +33,7 @@ promettevano potere e conoscenza proibita ai maghi sopravvissuti e
 disillusi. Con la fondazione di **Protonecropoli**
 come sua capitale blasfema, Vecna consolidò il suo dominio,
 trasformando le terre centrali di Thay in quello che oggi è conosciuto
-come **Venthrum Vecnarius, l'Altopiano delle Ossa**:
+come **Venthrum Vecnarius, l'[[Altopiano delle Ossa]]**:
 un monumento al suo potere, una landa desolata dove la cenere dei sogni
 infranti cade come neve perpetua e ogni pietra sussurra i segreti
 carpiti ai morti. La vecchia Thay non esisteva più; al suo posto, era
@@ -68,7 +68,7 @@ sorto il regno personale del Dio Mutilato.
   ossa e cadaveri fusi, artigli come falci, un ammasso di teschi per testa
   con luci verdi inquietanti. Non attaccano sempre, a volte… guardano.
   Attendono. Giudicano."
-* **Giorno 14:** "Trovato un accampamento della **Congrega della Catena Spezzata**. Parlano di 'liberare il Re Sepolto', Vordekai. Offerto carne secca di **Grifungo Cinerino** - sapore di polvere e funghi stantii. Una ragazza Fetchling con occhi bianchi sussurrava: 'Vordekai sogna attraverso noi'."
+* **Giorno 14:** "Trovato un accampamento della **[[Congrega della Catena Spezzata]]**. Parlano di 'liberare il Re Sepolto', Vordekai. Offerto carne secca di **Grifungo Cinerino** - sapore di polvere e funghi stantii. Una ragazza Fetchling con occhi bianchi sussurrava: 'Vordekai sogna attraverso noi'."
 * **Giorno 21:** "La **Cripta-Sussurrante**
   respira. O così sembra. Le pareti d'ossa pulsano debolmente. I graffiti
   qui non sono incisi, crescono, cambiano. Ho visto un cultista della
@@ -159,7 +159,7 @@ sorto il regno personale del Dio Mutilato.
     Vryss).
 * **SEGUACI DI VORDEKAI:** Clandestina/Ostile a Vecna.
 
-  + **Congrega della Catena Spezzata:**
+  + **[[Congrega della Catena Spezzata]]:**
     Cultisti fanatici che venerano Vordekai come un dio liberatore
     imprigionato. Operano principalmente dalla Cripta-Sussurrante,
     marchiandosi con catene e cercando di indebolire Vecna. (PNG: Malgorath,
@@ -167,14 +167,14 @@ sorto il regno personale del Dio Mutilato.
 * **RIBELLI:** Oppositori Attivi/Disperati.
 
   + **Falchi Cremisi:**
-    Gruppo di resistenza associato a Fungorgo. Utilizzano le spore mutate
+    Gruppo di resistenza associato a [[Fungorgo]]. Utilizzano le spore mutate
     del Velo Cremisi come arma e risorsa. Composizione mista, spesso infetti
-    dai funghi stessi. Guidati (apparentemente) da B.B. Secondo. (PNG:
+    dai funghi stessi. Guidati (apparentemente) da [[B.B]]. Secondo. (PNG:
     Jarek il Decaduto, Myra).
 * **FAZIONI NEUTRALI/OPPORTUNISTE:**
 
   + **Scavatori di Midollo:**
-    Sopravvissuti nomadi (umani, goblin, etc.) che vivono rovistando.
+    Sopravvissuti nomadi (umani, [[Goblin]], etc.) che vivono rovistando.
     Opportunisti, commerciano o derubano a seconda della situazione. (PNG:
     Kaelen "Il Corvo").
   + **Cartografi della Cenere:**
@@ -187,7 +187,7 @@ sorto il regno personale del Dio Mutilato.
 * **FAZIONI UNICHE:**
 
   + **Figli della Forgia Cinerea:**
-    Rete clandestina di seguaci di Morun Tag (fabbri, inventori,
+    Rete clandestina di seguaci di [[Morun Tag]] (fabbri, inventori,
     contrabbandieri). Creano/riparano armi (incluse quelle da fuoco) in
     segreto, simbolo di sfida e innovazione. Estremamente cauti.
   + **Il Sindacato Cromatico:**
@@ -199,7 +199,7 @@ sorto il regno personale del Dio Mutilato.
 
 ***
 
-**🏚️ Insediamenti dell'Altopiano delle Ossa:**
+**🏚️ Insediamenti dell'[[Altopiano delle Ossa]]:**
 
 * **Protonecropoli (Liv. 12+):** Capitale di Vecna.
   Metropoli necromantica di torri d'ossa animate, litanie funebri,
@@ -213,14 +213,14 @@ sorto il regno personale del Dio Mutilato.
   Cultisti della Catena Spezzata, non-morti fedeli, Ombrecrine. Religione:
   Vordekai (ufficiale, segreta all'esterno). Risorse: Profezie, artefatti
   legati a Vordekai.
-* **Fungorgo (Liv. 6-8):** Base Ribelle.
+* **[[Fungorgo]] (Liv. 6-8):** Base Ribelle.
   Rovine di una necropoli minore reclamate da funghi giganti rossi e
   verdi bioluminescenti. Strutture fungine, aria carica di spore
   psicoattive, difese da cannoni fungini organici. Governata dal Consiglio
-  Sporigeno (druidi mutanti?). Popolazione: Ribelli umani/misti, goblin
+  Sporigeno (druidi mutanti?). Popolazione: Ribelli umani/misti, [[Goblin]]
   fungoidi, creature fungine. Religione: Culto della Madre Micelio / Fedi
   proibite. Risorse: Spore, veleni, nascondigli. Associata ai Falchi
-  Cremisi e B.B. Secondo.
+  Cremisi e [[B.B]]. Secondo.
 * **Ossario Vendicativo (Liv. 9-11):** Fortezza Mobile.
   Un'immensa montagna di ossa senziente che si sposta e si riorganizza.
   Abitata solo da Ossa Parlanti e Golem d'Ossa, governata da una volontà
@@ -280,7 +280,7 @@ sorto il regno personale del Dio Mutilato.
   Grossi insetti grigi con ali simili a funghi. Il loro stridio può
   segnalare tempeste di cenere o attirare predatori. A volte usati come
   cibo disperato o componenti alchemici.
-* **(Comuni) Ossa Parlanti (Skeleton Guard):** Guardie scheletriche base, onnipresenti.
+* **(Comuni) Ossa Parlanti ([[Skeleton]] Guard):** Guardie scheletriche base, onnipresenti.
 * **(Comuni) Cavalcature Scheletriche:** Resti animati di cavalli o altre bestie da soma, usati dai Caroniti e altre forze di Vecna.
 
 ***
@@ -293,7 +293,7 @@ sorto il regno personale del Dio Mutilato.
 * **Sciacallo del Midollo:** Ladro o Sopravvissuto opportunista, esperto nel trovare risorse e pericoli.
 * **Cartografo della Cenere:** Investigatore o Mago ossessionato dalle mappe e dai segreti della terra.
 * **Medium dei Sussurri:** Oracolo o Stregone Fetchling, in contatto (instabile) con gli spiriti.
-* **Fabbro della Forgia Cinerea:** Inventore, Guerriero o Artigiano nano/umano/goblin, abile con metallo e polvere da sparo.
+* **Fabbro della Forgia Cinerea:** Inventore, Guerriero o Artigiano nano/umano/[[Goblin]], abile con metallo e polvere da sparo.
 * **Agente Cromatico:** Mago o Bardo arrogante, vestito splendidamente, protetto da magia e ricchezza.
 
 ***
@@ -345,7 +345,7 @@ sorto il regno personale del Dio Mutilato.
        Protonecropoli.
   2. **Malgorath, Lingua della Catena (Chierico di Vordekai):**
 
-     + Fazione: Congrega della Catena Spezzata (Leadership Vordekai).
+     + Fazione: [[Congrega della Catena Spezzata]] (Leadership Vordekai).
      + Descrizione:
        Umano scarno e fanatico, con occhi febbricitanti che ardono di
        devozione oscura. La sua lingua è stata chirurgicamente biforcuta per
@@ -362,18 +362,18 @@ sorto il regno personale del Dio Mutilato.
        Potenziale alleato (se i PG servono Vordekai), fonte di informazioni
        sul culto e sui piani contro Vecna, ma anche pericolosamente instabile e
        disposto a sacrifici estremi.
-  3. **B.B. Secondo (Leader Ribelle):**
+  3. **[[B.B]]. Secondo (Leader Ribelle):**
 
      + Fazione: Falchi Cremisi / Agente (riluttante?) di Zorvath.
      + Descrizione:
-       Bugbear massiccio, pelliccia grigio-bruna sporca di cenere, indossa
+       [[Bugbear]] massiccio, pelliccia grigio-bruna sporca di cenere, indossa
        armatura patchwork recuperata con un simbolo di ingranaggio rotto. Volto
-       simile a B.B. originale ma più duro. Benda di cuoio sull'occhio destro,
+       simile a [[B.B]]. originale ma più duro. Benda di cuoio sull'occhio destro,
        occhio sinistro giallo e calcolatore. Braccio sinistro prostetico di
        metallo rosso. Spesso fuma un sigaro che emette fumo blu.
      + Ruolo/Motivazione:
        Leader carismatico ma brutale della cellula ribelle attiva vicino a
-       Fungorgo. Creato da Zorvath, combatte Vecna ma i suoi metodi sono
+       [[Fungorgo]]. Creato da Zorvath, combatte Vecna ma i suoi metodi sono
        spietati e pragmatici. Cerca di liberare il suo "originale" e/o seguire
        gli ordini ambigui di Zorvath. La sua moralità è una zona grigia.
      + Possibile Interazione:
@@ -418,7 +418,7 @@ sorto il regno personale del Dio Mutilato.
        obsolete/pericolose.
   7. **Mastro Fabbro Horgar (Figlio della Forgia Cinerea):**
 
-     + Fazione: Figli della Forgia Cinerea (Seguaci di Morun Tag).
+     + Fazione: Figli della Forgia Cinerea (Seguaci di [[Morun Tag]]).
      + Descrizione:
        Nano robusto, muscoloso, con barba fuligginosa intrecciata con fili di
        rame. Indossa un pesante grembiule di cuoio sopra abiti da lavoro. Le
@@ -431,7 +431,7 @@ sorto il regno personale del Dio Mutilato.
      + Possibile Interazione:
        Può riparare/migliorare l'equipaggiamento dei PG (specialmente quello
        di Elthon), fornire armi da fuoco o munizioni rare, dare informazioni
-       sulla rete clandestina dei seguaci di Morun Tag. Estremamente diffidente
+       sulla rete clandestina dei seguaci di [[Morun Tag]]. Estremamente diffidente
        verso gli estranei.
   8. **Lady Seraphina Vane (Agente del Sindacato Cromatico):**
 
@@ -466,7 +466,7 @@ sorto il regno personale del Dio Mutilato.
        Fonte dei Faith Babies, centro di ricerca di Vecna sulla manipolazione
        della vita/fede. Estremamente sorvegliata da Lich minori, Fetomanti e
        guardie d'élite. Infiltrarsi è quasi suicida.
-     + Plot Hook: Distruggere la Forgiacarne, liberare/studiare i Faith Babies alla fonte, rubare dati sugli N-Shard.
+     + Plot Hook: Distruggere la Forgiacarne, liberare/studiare i Faith Babies alla fonte, rubare dati sugli [[N-Shard]].
   2. **Il Campo dei Veli Cremisi (Area Ambientale):**
 
      + Descrizione:
@@ -539,7 +539,7 @@ sorto il regno personale del Dio Mutilato.
        Cinerea. Estremamente ben nascosta e protetta da trappole meccaniche e
        dalla diffidenza dei suoi abitanti.
      + Plot Hook:
-       Cercare riparazioni/munizioni, contattare i seguaci di Morun Tag,
+       Cercare riparazioni/munizioni, contattare i seguaci di [[Morun Tag]],
        consegnare materiali rari per la forgia, difendere la fucina da un
        attacco.
   7. **L'Oasi di Cristallo (Enclave Cromatico):**
@@ -572,16 +572,16 @@ sorto il regno personale del Dio Mutilato.
          sono avvolti nel mistero. La Guglia Eterea funge da laboratorio arcano,
          centro di spionaggio e base operativa per i suoi agenti.
        - **Attività nell'Altopiano:** La Guglia Eterea **fornisce supporto logistico, intelligence e risorse limitate ai Falchi Cremisi**
-         e al loro leader, B.B. Secondo (che Zorvath stesso ha creato/inviato).
+         e al loro leader, [[B.B]]. Secondo (che Zorvath stesso ha creato/inviato).
          Tuttavia, questo supporto non è disinteressato. Zorvath sembra usare i
          ribelli come pedine per i suoi scopi più ampi, forse per testare le
          difese di Vecna, recuperare artefatti specifici (come informazioni sui
-         Faith Babies o sugli N-Shard), o semplicemente per seminare caos. Gli
+         Faith Babies o sugli [[N-Shard]]), o semplicemente per seminare caos. Gli
          agenti di Zorvath, come **Ylvina**, operano spesso sotto copertura, infiltrandosi in altre fazioni o agendo indipendentemente.
        - **Rapporti con Altre Fazioni:**
          Ostili verso Vecna e gli Antichi Dei. Manipolatori verso i Falchi
-         Cremisi e B.B. Secondo. Probabilmente indifferenti o cautamente ostili
-         verso la Congrega della Catena Spezzata (vedendo Vordekai come un
+         Cremisi e [[B.B]]. Secondo. Probabilmente indifferenti o cautamente ostili
+         verso la [[Congrega della Catena Spezzata]] (vedendo Vordekai come un
          potenziale rivale o un'altra variabile incontrollabile). Potrebbero
          avere contatti segreti o accordi commerciali pragmatici con il Sindacato
          Cromatico per risorse rare. Vedono gli Scavatori e le altre fazioni

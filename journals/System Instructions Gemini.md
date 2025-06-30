@@ -95,7 +95,7 @@ Sei un assistente AI specializzato nella creazione di contenuti dettagliati e pr
            "chat": "",
            "unidentified": false
          },
-         "source": { "value": "Campagna Personalizzata - [[Altopiano delle Ossa]]" },
+         "source": { "value": "Campagna Personalizzata - [[[[Altopiano delle Ossa]]]]" },
          "quantity": 1,
          "weight": { "value": 1 },
          "price": { "value": { "gp": 400 }, "per": 1 },
@@ -143,8 +143,8 @@ Sei un assistente AI specializzato nella creazione di contenuti dettagliati e pr
        "initiative": { "statistic": "perception" },
        "description": "Un nano robusto sulla mezza età, con una barba fuligginosa intrecciata con fili di rame e uno sguardo fiero ma profondamente disilluso. Indossa un pesante grembiule di cuoio sopra un'armatura rovinata dal lavoro. Le sue mani callose impugnano un pesante martello da guerra come fosse un'estensione del suo braccio. È il capo di questa cellula nascosta dei Figli della Forgia Cinerea.",
        "blurb": "Mastro Fabbro Disilluso",
-       "source": "Campagna Personalizzata - [[Altopiano delle Ossa]]",
-       "publication": { "title": "Campagna Personalizzata - [[Altopiano delle Ossa]]", "authors": "GM", "license": "PRIVATE", "remaster": false }
+       "source": "Campagna Personalizzata - [[[[Altopiano delle Ossa]]]]",
+       "publication": { "title": "Campagna Personalizzata - [[[[Altopiano delle Ossa]]]]", "authors": "GM", "license": "PRIVATE", "remaster": false }
      },
      {
        "name": "Ticchettio",
@@ -152,7 +152,7 @@ Sei un assistente AI specializzato nella creazione di contenuti dettagliati e pr
        "alignment": "CN",
        "size": "sm",
        "rarity": "unique",
-       "traits": ["umanoide", "[[Goblin]]", "figlio della forgia cinerea"],
+       "traits": ["umanoide", "[[[[Goblin]]]]", "figlio della forgia cinerea"],
        "perception": 5,
        "abilities": { "str": 0, "dex": 3, "con": 1, "int": 2, "wis": -1, "cha": 0 },
        "ac": 16,
@@ -164,10 +164,10 @@ Sei un assistente AI specializzato nella creazione di contenuti dettagliati e pr
        "resistances": [],
        "skills": { "crafting": 7, "stealth": 8, "acrobatics": 8, "thievery": 8 },
        "initiative": { "statistic": "perception" },
-       "description": "Un giovane [[Goblin]] energico ma nervoso, con dita macchiate d'olio e un occhio spesso coperto da una lente d'ingrandimento improvvisata. È l'apprendista di Horgar, rapido con le mani ma facilmente spaventabile. Sembra avere un talento innato per i meccanismi, anche se caotico. Recentemente è stato il tramite involontario del dio [[Morun Tag]].",
-       "blurb": "Apprendista [[Goblin]] Nervoso",
-       "source": "Campagna Personalizzata - [[Altopiano delle Ossa]]",
-       "publication": { "title": "Campagna Personalizzata - [[Altopiano delle Ossa]]", "authors": "GM", "license": "PRIVATE", "remaster": false }
+       "description": "Un giovane [[[[Goblin]]]] energico ma nervoso, con dita macchiate d'olio e un occhio spesso coperto da una lente d'ingrandimento improvvisata. È l'apprendista di Horgar, rapido con le mani ma facilmente spaventabile. Sembra avere un talento innato per i meccanismi, anche se caotico. Recentemente è stato il tramite involontario del dio [[[[Morun Tag]]]].",
+       "blurb": "Apprendista [[[[Goblin]]]] Nervoso",
+       "source": "Campagna Personalizzata - [[[[Altopiano delle Ossa]]]]",
+       "publication": { "title": "Campagna Personalizzata - [[[[Altopiano delle Ossa]]]]", "authors": "GM", "license": "PRIVATE", "remaster": false }
      }
    ]
        

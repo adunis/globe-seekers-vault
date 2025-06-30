@@ -5,11 +5,11 @@ kanka_id: 1547839
 ## [location:6929094]
 
 Each
-deity maintains a unique plane connected to all Prime Planes through
+deity maintains a unique plane connected to all [[Prime Planes]] through
 the Astral Sea, reflecting their nature and domains. In these divine
 planes, only the servants and manifestations of the deities can be
 found. Creatures such as dragons, dryads, elementals, and other beings
-native to the Prime Planes do not inhabit these realms.
+native to the [[Prime Planes]] do not inhabit these realms.
 
 ***
 
@@ -17,7 +17,7 @@ native to the Prime Planes do not inhabit these realms.
 
 | **Deity** | **Divine Plane** | **Native Inhabitants** | **Description** |
 | --- | --- | --- | --- |
-| **Lathander** | Heaven of Dawn | Angels (*Solars, Devas*) | Eternal sunrise over golden cities |
+| **Lathander** | Heaven of Dawn | Angels (*Solars, Devas*) | Eternal sunrise over golden [[Cities]] |
 | **Ilmater** | Heaven of Mercy | Angels (*Planetars, Empyreans*) | Peaceful gardens where suffering is healed |
 | **Tyr** | Heaven of Justice | Angels (*Trumpet Archons, Sword Archons*) | Sunlit courts of perfect judgment |
 | **Bahamut** | Heaven of Wisdom | Angels (*Platinum Dragonborn, Justice Archons*) | Mountain peaks touching starlit skies |
@@ -78,7 +78,7 @@ native to the Prime Planes do not inhabit these realms.
 | **Lolth** | The Demonweb Pits | *Anarchs* (*Yochlols, Spider* *Anarchs*) | Vast networks of shadow and silk |
 | **Talos** | The Maelstrom | *Anarchs* (*Storm* *Anarchs**, Tempest* *Anarchs*) | Endless storms and destruction |
 
-* **Native Inhabitants**: **Demons**—chaotic entities carrying out the unpredictable and often inscrutable plans of their deities.
+* **Native Inhabitants**: **[[Demons]]**—chaotic entities carrying out the unpredictable and often inscrutable plans of their deities.
 
 ***
 
@@ -102,7 +102,7 @@ native to the Prime Planes do not inhabit these realms.
 ### Common Features
 
 * Each plane reflects its deity's domains and nature
-* Connected to all Prime Planes via the Astral Plane
+* Connected to all [[Prime Planes]] via the Astral Plane
 * Contains realm for deity's chosen souls
 * Populated by divine servants and blessed followers
 
@@ -110,7 +110,7 @@ native to the Prime Planes do not inhabit these realms.
 
 * Strongest at the plane's heart where deity resides
 * Flows outward through the Astral Plane
-* Reaches followers on all Prime Planes equally
+* Reaches followers on all [[Prime Planes]] equally
 * Can be accessed by faithful regardless of location
 
 ### Access

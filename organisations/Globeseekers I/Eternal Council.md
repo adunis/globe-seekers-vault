@@ -28,7 +28,7 @@ Tenenti:
 2️⃣ Eldrin (Umano, Thay)  
   
     Background: Ex-alunno del Collegio di Thay, disilluso dalla crudeltà della sua terra natale.  
-    Motivazioni: Distruggere l'influenza del [[Puppeteer of Thay]] e trovare nel Concilio una via etica per la necromanzia.  
+    Motivazioni: Distruggere l'influenza del [[[[Puppeteer of Thay]]]] e trovare nel Concilio una via etica per la necromanzia.  
   
 3️⃣ Mira (Elfo dei Boschi, Evereska)  
   
@@ -40,9 +40,9 @@ Tenenti:
     Background: Guerriero e necromante autodidatta, ha perso la sua famiglia in una guerra tra necromanti rivali.  
     Motivazioni: Vendicarsi dei responsabili della sua perdita e prevenire altre tragedie attraverso il potere del Concilio.  
   
-5️⃣ Lira (Drow, [[Menzoberranzan]])  
+5️⃣ Lira (Drow, [[[[Menzoberranzan]]]])  
   
-    Background: Ex-sacerdotessa di Lolth, ha abbandonato [[Menzoberranzan]] per ribellarsi al dominio tirannico della Regina Ragno.  
+    Background: Ex-sacerdotessa di Lolth, ha abbandonato [[[[Menzoberranzan]]]] per ribellarsi al dominio tirannico della Regina Ragno.  
     Motivazioni: Creare una comunità drow indipendente e libera, utilizzando la necromanzia per rompere le catene di Lolth.  
   
 6️⃣ Gorim (Nano Grigio, Gracklstugh)  
@@ -62,7 +62,7 @@ Tenenti:
   
 9️⃣ Isolde (Umano, Icewind Dale)  
   
-    Background: Necromante del gelo, cresciuta nelle terre selvagge di Icewind Dale, ha unito [[La Magia]] elementale alla necromanzia.  
+    Background: Necromante del gelo, cresciuta nelle terre selvagge di Icewind Dale, ha unito [[[[La Magia]]]] elementale alla necromanzia.  
     Motivazioni: Proteggere le regioni più pericolose del Faerûn, stabilendo un nuovo ordine nelle terre selvagge.  
   
 🔟 Varric (Warforged, Thay)  

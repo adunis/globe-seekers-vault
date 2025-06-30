@@ -20,7 +20,7 @@ Head(
 > *"Qui la luce non guarisce, brucia. L'aria non nutre, corrode. Persino i morti rifiutano di giacere in pace."*  
 > – Voryssa, Veggente delle Scorie
 >
-> *"Le linee ley qui sono ferite aperte. La magia non è uno strumento, è un predatore."*  
+> *"Le linee ley qui sono ferite aperte. [[La Magia]] non è uno strumento, è un predatore."*  
 > – Zalkar, Automa della Cittadella Fulminata
 >
 > *"Cercate Cormyr? Scavate. È sepolta sotto strati di follia cristallizzata."*  
@@ -91,7 +91,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | --- | --- | --- |
 | Umani | **Figli della Scoria** (Umani Mutati) | Sopravvissuti con pelle translucida e sangue fluorescente. Commerciano frammenti di memoria per acqua. |
 | Automi | **Guardiani Fulminati** (Automaton) | Costrutti rianimati dalle radiazioni. Cercano "riparazioni" rubando organi ai vivi. |
-| Goblin | **Rompiscorie** (Goblin Radioattivi) | Piccoli predatori con denti al plutonio. Costruiscono trappole con detriti esplosivi. |
+| [[Goblin]] | **Rompiscorie** ([[Goblin]] Radioattivi) | Piccoli predatori con denti al plutonio. Costruiscono trappole con detriti esplosivi. |
 
 ***
 
@@ -111,7 +111,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | --- | --- |
 | Quarzo | **Vene del Vuoto** Formazioni di quarzo nero che pulsano energia. Chi le tocca subisce mutazioni casuali. Usate dagli sciamani per "purificazioni". |
 | Fungo | **Ombre Fungine** Colonie che emettono spore psicoattive. Causano allucinazioni violente. I tossicodipendenti ne ricercano i "frutti del delirio". |
-| Cactus | **Spine di Karsus** Cactus bioluminescenti che iniettano veleno radioattivo. Le radici penetrano nei cadaveri per crearne zombie. |
+| Cactus | **Spine di Karsus** Cactus bioluminescenti che iniettano veleno radioattivo. Le radici penetrano nei cadaveri per crearne [[Zombie]]. |
 
 ***
 

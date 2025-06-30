@@ -2,7 +2,7 @@
 kanka_id: 1536636
 ---
 
-Echo Wave Cave is a place of mystery and power, hidden deep within the hills near Phandalin. Once believed to be an ancient mine of the Phandelver's Pact, it now stands as a beacon of magical energies, attracting those who seek its secrets. Locals avoid the cave, sensing something unnatural, and with good reason—it lies at a convergence of astral planar lines, amplifying its arcane potential.
+Echo Wave Cave is a place of mystery and power, hidden deep within the hills near [[Phandalin]]. Once believed to be an ancient mine of the Phandelver's Pact, it now stands as a beacon of magical energies, attracting those who seek its secrets. Locals avoid the cave, sensing something unnatural, and with good reason—it lies at a convergence of astral planar lines, amplifying its arcane potential.
 
 After discovering the cave’s power, Bungo Dudo transforms it into a base for his own pursuits. Initially, he gathers a team of scholars, drawing upon the cave’s portal to travel to distant locations within Faerûn and beyond. His primary goal is to acquire a Spelljammer, but as his exploration deepens, so does his ambition.
 

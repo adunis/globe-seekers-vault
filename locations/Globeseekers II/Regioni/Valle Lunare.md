@@ -70,7 +70,7 @@ head(
 
 | Immagine | Nome | Descrizione |
 | --- | --- | --- |
-| Elfo Lunare | **Elfe della Cripta** (*Elf Ancestry*) | Pelle blu elettrico, occhi senza pupille. +2 Int, +2 Cha. Abilità: **Voce del Vuoto** (comandi ipnotici), **Sangue Antico** (immunità a malattie mentali). |
+| Elfo Lunare | **Elfe della Cripta** (*[[Elf]] Ancestry*) | Pelle blu elettrico, occhi senza pupille. +2 Int, +2 Cha. Abilità: **Voce del Vuoto** (comandi ipnotici), **Sangue Antico** (immunità a malattie mentali). |
 | Fetchling | **Ombre di Xul’maggath** (*Fetchling Ancestry*) | Ibridi toccati dall'entità lunare. +2 Dex, +2 Wis. Abilità: **Passo del Vuoto** (teletrasporto 3m ogni 10 min), **Fame Aliena** (danni extra a bersagli maschili). |
 | Android | **Figlie di Selenio** (*Android Ancestry*) | Costrutti di carne e cristallo. +2 Int, +2 Con. Abilità: **Interfaccia Lunare** (comunicare con la Luna), **Pelle Riflettente** (resistenza a incantesimi di luce). |
 

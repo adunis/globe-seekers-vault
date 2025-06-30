@@ -20,7 +20,7 @@ To the inhabitants of Materia, these "flying stones" represent both opportunity 
 
 Materia’s inhabitants view their galaxy as a place of infinite wonder and danger. The massive central rocks, resembling glowing stars, are believed to be living entities or ancient gods embodying the essence of earth. The smaller stones are their "offspring," scattered across the void to create endless opportunities for exploration and settlement. Entire civilizations have risen and fallen upon these stones, their ruins still visible as drifting monuments to lost ages.
 
-In this grand cosmology, the galaxy of Materia is a realm of both primal earth and infinite shadow, where the interplay of gravity, energy, and darkness creates a dynamic and ever-changing world. It is not merely a metaphorical representation of a galaxy but a tangible, physical realm where the wonders of cosmic creation are as real as the stones beneath one's feet.
+In this grand [[Cosmology]], the galaxy of Materia is a realm of both primal earth and infinite shadow, where the interplay of gravity, energy, and darkness creates a dynamic and ever-changing world. It is not merely a metaphorical representation of a galaxy but a tangible, physical realm where the wonders of cosmic creation are as real as the stones beneath one's feet.
 
 Materia, the Material Plane, a crucible for adaptation and evolution
 
@@ -28,7 +28,7 @@ Materia, the Material Plane, a crucible for adaptation and evolution
 
 The saurian lizardfolk, with their tough scales, sharp claws, and affinity for the sun-baked deserts and rocky mountains, were the architects and warriors of the Terran Accord
 
-. They built grand cities of sandstone and obsidian, their ziggurats reaching for the heavens, and they defended their territories with a ferocity that inspired awe and fear.
+. They built grand [[Cities]] of sandstone and obsidian, their ziggurats reaching for the heavens, and they defended their territories with a ferocity that inspired awe and fear.
 
 The burrowing frog people, with their smooth skin, webbed feet, and love of subterranean life, were the miners, artisans, and shamans of the Accord
 
@@ -44,7 +44,7 @@ The catalyst for their union was a cataclysmic event – a massive asteroid impa
 
 This shared struggle forged a bond of unity and interdependence between the three species, leading to the formation of the Terran Accord. They pooled their knowledge, skills, and resources, creating a synergistic society that thrived in the post-apocalyptic world.
 
-The Terran Accord’s dominion over Materia lasted for centuries, a golden age of peace and prosperity. They established sprawling cities, cultivated vast farmlands, and developed intricate trade networks. They constructed magnificent temples dedicated to the deities of earth, darkness, and animals
+The Terran Accord’s dominion over Materia lasted for centuries, a golden age of peace and prosperity. They established sprawling [[Cities]], cultivated vast farmlands, and developed intricate trade networks. They constructed magnificent temples dedicated to the deities of earth, darkness, and animals
 
 , reflecting their deep connection to the natural world. Their shamans mastered the art of primal magic, drawing upon the power of nature to heal, to protect, and to guide their people.
 
@@ -54,13 +54,13 @@ Despite their success, the seeds of the Terran Accord’s decline were sown with
 
 This shift in power dynamics sparked resentment and rebellion, fracturing the once harmonious Accord. The frog people, disillusioned by the saurians’ arrogance, retreated deeper into their subterranean realms, isolating themselves from the surface world. The beastfolk, chafing under the saurians’ restrictions, migrated to the furthest reaches of Materia, seeking freedom in the untamed wilderness.
 
-The saurians, now alone, found themselves vulnerable to a new threat – a plague that swept through their cities, decimating their population. Whether this plague was a natural occurrence or a consequence of their hubris, its impact was catastrophic. Their once-grand cities fell into ruin, their temples abandoned, their legacy fading into myth and legend.
+The saurians, now alone, found themselves vulnerable to a new threat – a plague that swept through their [[Cities]], decimating their population. Whether this plague was a natural occurrence or a consequence of their hubris, its impact was catastrophic. Their once-grand [[Cities]] fell into ruin, their temples abandoned, their legacy fading into myth and legend.
 
-With the Terran Accord’s collapse, Materia entered a new era, one characterized by diversity and adaptation. The departure of the saurians and frog people created a vacuum that was quickly filled by other species – humans, elves, dwarves, and countless others.
+With the Terran Accord’s collapse, Materia entered a new era, one characterized by diversity and adaptation. The departure of the saurians and frog people created a vacuum that was quickly filled by other species – [[Humans]], elves, dwarves, and countless others.
 
 Echoes of the Past
 
-Though the Terran Accord is long gone, its legacy endures, shaping the present-day Material Plane in subtle but profound ways. The remnants of their cities, now overgrown with vegetation or buried beneath the sands of time, serve as a testament to their architectural prowess. The ancient tunnels and mines dug by the frog people continue to be used, their intricate networks revealing glimpses of a forgotten civilisation. The hunting grounds and migratory paths of the beastfolk still influence the movements of animals, their presence felt in the rustling of leaves and the thunder of hooves.
+Though the Terran Accord is long gone, its legacy endures, shaping the present-day Material Plane in subtle but profound ways. The remnants of their [[Cities]], now overgrown with vegetation or buried beneath the sands of time, serve as a testament to their architectural prowess. The ancient tunnels and mines dug by the frog people continue to be used, their intricate networks revealing glimpses of a forgotten civilisation. The hunting grounds and migratory paths of the beastfolk still influence the movements of animals, their presence felt in the rustling of leaves and the thunder of hooves.
 
 The Terran Accord’s most lasting impact, however, is on Materia’s diverse ecology and cultural landscape. Their mastery of primal magic enriched the plane’s life force, creating fertile lands and fostering the evolution of countless species. Their reverence for nature instilled a deep respect for the natural world, inspiring future civilisations to seek harmony with their environment.
 
@@ -109,7 +109,7 @@ The Curse of Voracity ensures that Materia remains both a place of unparalleled 
 
 ### he Influence of the Curse of Voracity on Non-Native Species
 
-When the ancestors of elves, dwarves, gnomes, and other species from distant planes first arrived in Materia, they were not bound by the **Curse of Voracity**. Their origins in other planes, untouched by the primal forces of Materia, allowed them to exist without the need to consume other living beings for sustenance. However, the Curse of Voracity, deeply rooted in the essence of Materia, is not simply a local phenomenon—it is a pervasive, insidious force that alters life itself over time.
+When the ancestors of elves, dwarves, [[Gnomes]], and other species from distant planes first arrived in Materia, they were not bound by the **Curse of Voracity**. Their origins in other planes, untouched by the primal forces of Materia, allowed them to exist without the need to consume other living beings for sustenance. However, the Curse of Voracity, deeply rooted in the essence of Materia, is not simply a local phenomenon—it is a pervasive, insidious force that alters life itself over time.
 
 ***
 
@@ -130,11 +130,11 @@ However, Materia’s influence is persistent and unavoidable. Over time, as thes
 
 #### **The Birth of New Species**
 
-This gradual transformation gave rise to the species we now recognize as elves, dwarves, gnomes, and others. While they retain many of the traits and traditions of their ancestors, their need to consume other living beings—plants, animals, or both—marks a fundamental departure from their original nature. Each species adapted in unique ways based on their ancestral traits and environmental conditions:
+This gradual transformation gave rise to the species we now recognize as elves, dwarves, [[Gnomes]], and others. While they retain many of the traits and traditions of their ancestors, their need to consume other living beings—plants, animals, or both—marks a fundamental departure from their original nature. Each species adapted in unique ways based on their ancestral traits and environmental conditions:
 
 * **Elves**: Their longevity and deep connection to nature allowed them to develop harmonious ways to consume life, often revering the plants and animals they relied upon for survival.
 * **Dwarves**: Their industriousness and resilience led them to focus on cultivating and harvesting life sustainably, often through careful management of underground ecosystems.
-* **Gnomes**: Their creativity and curiosity drove them to experiment with ways to reduce their reliance on predation, leading to the development of innovative farming techniques and alchemical solutions.
+* **[[Gnomes]]**: Their creativity and curiosity drove them to experiment with ways to reduce their reliance on predation, leading to the development of innovative farming techniques and alchemical solutions.
 
 ***
 
@@ -146,4 +146,4 @@ The Curse of Voracity acts as both a survival mechanism and a force of transform
 
 #### **Legacy of the Ancestors**
 
-The transformation from otherworldly ancestors to Materia’s new species highlights the plane’s power to reshape life in its image. The existence of elves, dwarves, and gnomes serves as a testament to Materia’s ability to adapt and integrate foreign elements into its ecosystem. While these species have lost some of their ancestral independence, they have gained a profound connection to their new home, becoming an inseparable part of Materia’s ever-evolving tapestry.
+The transformation from otherworldly ancestors to Materia’s new species highlights the plane’s power to reshape life in its image. The existence of elves, dwarves, and [[Gnomes]] serves as a testament to Materia’s ability to adapt and integrate foreign elements into its ecosystem. While these species have lost some of their ancestral independence, they have gained a profound connection to their new home, becoming an inseparable part of Materia’s ever-evolving tapestry.

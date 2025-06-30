@@ -29,7 +29,7 @@ The Ironforged arose from the War Titans, beings of immense size and power who e
 
 . These titans shaped the harsh landscapes of Grumshar, their battles carving mountains and forging valleys. From the sweat and sparks of these titanic clashes, the Ironforged emerged, inheriting their ancestors' strength and a deep connection to the plane's elemental forces.
 
-Unlike the orcs of other worlds, the Ironforged possessed an innate understanding of metalwork. They mined the rich veins of iron and other metals that ran through Grumshar's mountains, forging weapons, armor, and tools of extraordinary quality. Their cities were fortresses of iron and stone, built to withstand the constant tremors and elemental storms that ravaged the plane.
+Unlike the orcs of other worlds, the Ironforged possessed an innate understanding of metalwork. They mined the rich veins of iron and other metals that ran through Grumshar's mountains, forging weapons, armor, and tools of extraordinary quality. Their [[Cities]] were fortresses of iron and stone, built to withstand the constant tremors and elemental storms that ravaged the plane.
 
 The Ironforged society was structured around a strict hierarchy based on strength and martial prowess. Warlords led their clans in constant battles for territory and resources, their clashes echoing the titanic conflicts of their ancestors. Yet, amidst this perpetual conflict, there existed a code of honour and respect among the Ironforged. They valued courage, loyalty, and mastery of combat, seeing these qualities as essential for survival in Grumshar's unforgiving environment.
 
@@ -39,7 +39,7 @@ The Ironforged dominance, however, was not destined to last. Their mastery of me
 
 Their actions, however, had unforeseen consequences. The heart, corrupted by death energy, reacted violently to the Ironforged's attempts to manipulate it. This triggered a cataclysmic event known as the Shattering. This event is not mentioned in the sources and is a purely imaginative interpretation of possible events that led to the decline of the Ironforged.
 
-The heart shattered into countless fragments, each carrying a shard of the fallen titan's corrupted power. These fragments spread across Grumshar, twisting the land and corrupting the Ironforged's own metalwork. Their once-proud cities crumbled, their weapons turned brittle, and their armor became heavy and cumbersome.
+The heart shattered into countless fragments, each carrying a shard of the fallen titan's corrupted power. These fragments spread across Grumshar, twisting the land and corrupting the Ironforged's own metalwork. Their once-proud [[Cities]] crumbled, their weapons turned brittle, and their armor became heavy and cumbersome.
 
 Worse still, the shattered heart's energy poisoned the minds of many Ironforged, driving them to madness and savagery. The once-ordered society descended into chaos, clans turning on each other in a brutal struggle for survival.
 
@@ -57,15 +57,15 @@ The Bone Giants: These towering behemoths, formed from the skeletal remains of f
 
 ●
 
-The Shadowforged: A twisted reflection of their Ironforged ancestors, these beings are creatures of shadow and metal, their forms constantly shifting and reforming. They dwell in the ruins of Ironforged cities, their minds warped by the shattered heart's lingering energy.
+The Shadowforged: A twisted reflection of their Ironforged ancestors, these beings are creatures of shadow and metal, their forms constantly shifting and reforming. They dwell in the ruins of Ironforged [[Cities]], their minds warped by the shattered heart's lingering energy.
 
 ●
 
-The Gloomlings: Small, goblin-like creatures that thrive in the darkness, they are scavengers and opportunists, preying on the weak and stealing whatever they can find. They possess an uncanny ability to navigate Grumshar's treacherous landscapes, their eyes piercing the gloom with unnatural clarity.
+The Gloomlings: Small, [[Goblin]]-like creatures that thrive in the darkness, they are scavengers and opportunists, preying on the weak and stealing whatever they can find. They possess an uncanny ability to navigate Grumshar's treacherous landscapes, their eyes piercing the gloom with unnatural clarity.
 
 A Realm Shaped by Conflict
 
-Grumshar today is a realm of desolate beauty, shaped by the enduring echoes of its past. The remnants of the Ironforged civilisation can still be found, their ruined cities standing as testament to their former glory.
+Grumshar today is a realm of desolate beauty, shaped by the enduring echoes of its past. The remnants of the Ironforged civilisation can still be found, their ruined [[Cities]] standing as testament to their former glory.
 
 ●
 

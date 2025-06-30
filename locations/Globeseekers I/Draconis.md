@@ -18,8 +18,8 @@ kanka_id: 1547470
   + **Metallic Dragons**: Gold, Silver, Bronze, Copper, Brass
   + **Chromatic Dragons**: Red, Blue, Green, Black, White
   + **Gem Dragons**: Amethyst, Crystal, Emerald, Sapphire, Topaz
-* **Dragonborn**: Resulting from draconic and humanoid mingling
-* **Kobolds**: Small draconic humanoids
+* **Dragonborn**: Resulting from [[Draconic]] and humanoid mingling
+* **Kobolds**: Small [[Draconic]] humanoids
 
   
   
@@ -69,7 +69,7 @@ Dragonkin: Draconis is home to a variety of creatures related to dragons, such a
 
 Elemental Beings: The raw elemental energies of Draconis give rise to a plethora of elemental beings, such as elementals
 
- and genasi
+ and [[Genasi]]
 
 . These beings are often drawn to areas that reflect their specific elemental affinity, such as fire elementals congregating in volcanic regions.
 
