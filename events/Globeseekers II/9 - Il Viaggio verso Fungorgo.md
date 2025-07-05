@@ -1,2 +1,8 @@
 
-????     4
+Il viaggio verso il rifugio ribelle di **Fungorgo** prosegue, sotto la guida esperta e pragmatica del leader dei Ratfolk, **Chirr-Click**. Avanzando nei tunnel bui e tortuosi che si snodano sotto l'Altopiano delle Ossa, il gruppo si è trovato di fronte a un bivio cruciale.
+
+Una via conduceva verso un antico **Tempio di Lathander**, un nome che risuona di tradimento e dolore per **Smilzo**, la cui famiglia fu epurata dai seguaci del Dio dell'Alba. L'altra si addentrava in territori inesplorati, noti per essere pattugliati dai **Duergar**. Dopo una breve consultazione, la scelta è ricaduta sulla seconda, più incerta, opzione, evitando così un confronto diretto con il passato.
+
+La decisione si è rivelata subito densa di pericoli. Proseguendo, si sono imbattuti in una pattuglia di quattro Duergar, grigi e arcigni guardiani di un corridoio strategico. Sfruttando l'armatura del defunto **Custode Vryss**, Smilzo ha tentato un audace inganno. Avanzando con sicurezza, è stato scambiato dai Duergar per il loro temuto superiore. Con un cenno di rispetto e un mormorio deferente, i soldati lo hanno lasciato passare, ignari della vera identità sotto l'elmo.
+
+Tuttavia, il sollievo è stato di breve durata. Proprio mentre la sessione volgeva al termine, un attimo dopo aver superato la pattuglia, un sinistro "clic" ha risuonato sotto i piedi di Smilzo. Le pietre del pavimento si sono illuminate di rune ostili e, in una frazione di secondo, una **trappola di letali aculei di roccia magica** è scattata dal basso, minacciando di impalarlo e lasciando il suo destino appeso a un filo.
