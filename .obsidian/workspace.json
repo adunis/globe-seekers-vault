@@ -37,12 +37,14 @@
             "id": "88c4201823f9e8ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md"
+                "file": "characters/Globeseekers3/Zorvath's Mecha.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "10.1_Mappa1.excalidraw"
+              "icon": "lucide-file",
+              "title": "Zorvath's Mecha"
             }
           }
         ],
@@ -208,12 +210,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b53014578c002445",
+  "active": "88c4201823f9e8ab",
   "lastOpenFiles": [
+    "characters/Zorvath's Mecha.md",
+    "characters/Globeseekers3/Zorvath's Mecha.md",
+    "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
+    "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
     "lore/Globeseekers3/Magic and Technology.md",
     "locations/Globeseekers3/Colonial Worlds.md",
     "locations/Globeseekers3",
-    "characters/Globeseekers3/Zorvath's Mecha.md",
     "characters/Globeseekers3",
     "lore/Globeseekers3/The Great Exodus.md",
     "lore/Globeseekers3",
@@ -222,13 +227,10 @@
     "-p",
     "lore/Magic and Technology.md",
     "locations/Colonial Worlds.md",
-    "characters/Zorvath's Mecha.md",
     "lore/The Great Exodus.md",
     "lore",
     "gods/Mecha Pantheon.md",
     "gods",
-    "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
-    "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
     "journals/Globeseekers II/Programmi Sessioni/9.4 - Templio di Lathander.md",
     "Excalidraw/Drawing 2025-07-16 12.54.28.excalidraw.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw",
