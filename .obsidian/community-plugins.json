@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obisidian-note-linker"
+  "obisidian-note-linker",
+  "automatic-table-of-contents",
+  "dynamic-outline",
+  "obsidian-dice-roller",
+  "obsidian-excalidraw-plugin",
+  "gemini-scribe"
 ]
