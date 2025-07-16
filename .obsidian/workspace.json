@@ -210,6 +210,7 @@
   },
   "active": "b53014578c002445",
   "lastOpenFiles": [
+    "-p",
     "lore/Magic and Technology.md",
     "locations/Colonial Worlds.md",
     "characters/Zorvath's Mecha.md",
@@ -240,7 +241,6 @@
     "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
     "events/Globeseekers II/7 - La Galleria del Lamento Silenzioso Patto con i Tessitori d'Ombra.md",
     "journals/Globeseekers II/Programmi Sessioni/9.2 - Parte Hexcrawl.md",
-    "index.md",
     "Untitled.canvas",
     "fix_lines.py",
     "TagsRoutes",
