@@ -5,5 +5,8 @@
   "dynamic-outline",
   "obsidian-dice-roller",
   "obsidian-excalidraw-plugin",
-  "gemini-scribe"
+  "gemini-scribe",
+  "obsidian-hover-editor",
+  "omnisearch",
+  "obsidian-tracker"
 ]
