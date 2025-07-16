@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "c33413d5e794789e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-16 12.34.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-16 12.34.23.excalidraw"
+            }
+          },
+          {
             "id": "99bf0c861c9944f4",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,6 +224,7 @@
   },
   "active": "99bf0c861c9944f4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-16 12.34.23.excalidraw.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
     "Excalidraw/Drawing 2025-07-16 12.32.58.excalidraw.md",
     "Excalidraw",
@@ -242,7 +255,6 @@
     "notes/Psionismo.md",
     "fix_lines.py",
     "items/Pietre-Anima.md",
-    "TagsRoutes/logMessage.md",
     "TagsRoutes",
     "gemini-scribe/History",
     "gemini-scribe",
