@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "10.1 L'Eco delle Forge e l'Ombra del Sospetto"
             }
+          },
+          {
+            "id": "99bf0c861c9944f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-16 12.32.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-07-16 12.32.58.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +210,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "49e246c7688b75bd",
+  "active": "99bf0c861c9944f4",
   "lastOpenFiles": [
-    "journals/Globeseekers II/Note del DM.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
+    "Excalidraw/Drawing 2025-07-16 12.32.58.excalidraw.md",
+    "Excalidraw",
+    "Untitled-2025-07-16-1231.excalidraw",
+    "journals/Globeseekers II/Note del DM.md",
     "journals/Globeseekers II/Programmi Sessioni/9.3 - Hexcrawl Tabelle Random.md",
     "Pasted image 20250716022250.png",
     "journals/Globeseekers II/Programmi Sessioni/9.4 - Templio di Lathander.md",
@@ -236,8 +251,6 @@
     "organisations/Globeseekers II",
     "Untitled 1.canvas",
     "journals/Globeseekers II/Programmi Sessioni",
-    "journals/Globeseekers II",
-    "journals/Globeseekers 1",
     "gallery/ea1619b1-e6c9-4774-bf01-4e40dc44b1aa.jpg"
   ]
 }
