@@ -1,4 +1,265 @@
 
+
+# Group 1: The Core Fantasy Concepts
+
+---
+
+## Golemforged Colossus "BERGRISI"
+
+A nigh-unstoppable siege engine of granite and runes, built to shatter fortifications and enemies with raw power.
+
+> **STATS & RESOURCES**  
+> **POWER:** +3 | **MOBILITY:** -1 | **SYSTEMS:** +0  
+> **Structure:** 8 | **Reactor:** 3
+
+### WEAPON SYSTEMS
+
+1. **'Mjolnir' Kinetic Drivers**
+    
+    - **Harm:** 4 | **Tags:** Melee, Forceful, Area
+        
+    - **Description:** The Mecha's fists are encased in energized, high-density plating and driven by powerful hydraulics to create devastating, ground-shaking impacts.
+        
+    - **System & Loadout:** Integrated Chassis Weapon. No ammo limit or mobility malus.
+        
+2. **Seismic Impulse Emitter**
+    
+    - **Harm:** 2 | **Tags:** Melee, Stun, Area
+        
+    - **Description:** Vents a burst of raw reactor energy directly into the ground through plates in its feet, creating a violent, localized earthquake that staggers foes.
+        
+    - **System & Loadout:** Direct Core Tap. Costs **1 Reactor** per use. No mobility malus.
+        
+3. **RCVS (Runic Core Vent System)**
+    
+    - **Harm:** 2 | **Tags:** Ranged (Close), Armor Piercing
+        
+    - **Description:** A dangerous, last-ditch weapon that vents superheated plasma directly from the reactor's containment shell. It is imprecise but incredibly potent up close.
+        
+    - **System & Loadout:** Direct Core Tap. Firing generates significant heat and risks reactor instability on a miss. No mobility malus.
+        
+
+### EQUIPMENT & TACTICAL SYSTEMS
+
+1. **'Faultline' Area Denial System**
+    
+    - **Move:** When you **slam the ground instead of striking a foe in melee**, spend 1 Reactor. The shockwave ripples outwards. All enemy mechs in close combat with you must make a **MOBILITY** roll or be thrown off-balance, unable to act for a moment.
+        
+2. **'Aegis' Interlocking Armor**
+    
+    - **Move:** Your Mecha is a mobile wall. This is a **passive system**. You are too bulky and slow to dodge effectively. However, when you **stand your ground to brace for an impact**, you can choose to also shield one adjacent ally. They benefit fully from your roll as you take the hit for them.
+        
+3. **'Scorched Earth' Final Protocol**
+    
+    - **Move:** When your **mecha is about to be destroyed, as your last act**, you can choose to overload the heartgem. If you have **Master in Crafting**, this is a GM move, but it will level the immediate area, guaranteeing destruction for you and anyone else caught in the blast.
+        
+
+---
+
+## Wyrm-Scale Vanguard "LINDWURM"
+
+A sleek and agile hunter-killer built for speed, surprise, and surgical strikes against high-value targets.
+
+> **STATS & RESOURCES**  
+> **POWER:** +1 | **MOBILITY:** +3 | **SYSTEMS:** +1  
+> **Structure:** 5 | **Reactor:** 4
+
+### WEAPON SYSTEMS
+
+1. **HF-M2 'Talon' Vibro-Claws**
+    
+    - **Harm:** 3 | **Tags:** Melee, Armor Piercing, Precise
+        
+    - **Description:** The Mecha's primary claws vibrate at supersonic frequencies, allowing them to bypass armor by slicing through molecular bonds.
+        
+    - **System & Loadout:** Integrated Chassis Weapon. No mobility malus.
+        
+2. **XM-03 'Draco' Aether Projector**
+    
+    - **Harm:** 2 | **Tags:** Ranged (Cone), Area, Elemental
+        
+    - **Description:** Atomizes a chemical agent from a specialized canister and projects it as a superheated plasma or supercooled cryo-blast.
+        
+    - **System & Loadout:** Autoloader. **Magazine:** 3 charges. **Carried:** 2 canisters. **Mobility Malus:** -1 for carrying the spare canister.
+        
+3. **KWT-90 'Viper' Kinetic Tail**
+    
+    - **Harm:** 1 | **Tags:** Melee, Reach, Knockback
+        
+    - **Description:** A segmented, whip-like tail driven by powerful actuators, allowing it to strike with incredible speed to knock smaller targets off-balance.
+        
+    - **System & Loadout:** Integrated Chassis Weapon. No mobility malus.
+        
+
+### EQUIPMENT & TACTICAL SYSTEMS
+
+1. **'Draco' Overcharge**
+    
+    - **Move:** When you **unleash the full fury of your draco-aether engine**, spend 1 Reactor. It erupts in a 30ft cone of raw energy. All targets in the area must roll **MOBILITY** or take the weapon's Harm.
+        
+2. **'Sunder' Targeting Suite**
+    
+    - **Move:** When you **slice into a foe with your Vibro-Claws**, this is a **passive system**. You can choose to deal 1 less Harm to instead damage a specific enemy system, shredding wires, crippling a joint, or rupturing a fuel line.
+        
+3. **'Mirage' Evasive Countermeasure**
+    
+    - **Move:** When an **enemy lands a solid blow against you in melee**, spend 1 Reactor. If you have **Expert in Acrobatics**, you vent a burst of superheated gas from micro-nozzles across your armor. The resulting distortion forces the attacker to re-roll their 2d6 and take the second result.
+        
+
+---
+
+## Sylvan Sentinel "SILVANUS"
+
+A graceful fusion of primal magic and elven artistry, capable of controlling the battlefield and sustaining allies.
+
+> **STATS & RESOURCES**  
+> **POWER:** +0 | **MOBILITY:** +2 | **SYSTEMS:** +3  
+> **Structure:** 6 | **Reactor:** 5
+
+### WEAPON SYSTEMS
+
+1. **M9 'Arborist' Railgun**
+    
+    - **Harm:** 3 | **Tags:** Ranged (Long), Precise, Silent
+        
+    - **Description:** Uses electromagnetic coils to silently launch a dense, fin-stabilized flechette at hypersonic speeds for long-range, pinpoint strikes.
+        
+    - **System & Loadout:** Manual Bolt-Action. **Magazine:** 1. **Carried:** 8 Flechettes. **Mobility Malus:** -1 for the weight of the rifle and ammunition.
+        
+2. **GR-01 'Bramble' Net Launcher**
+    
+    - **Harm:** 0 | **Tags:** Ranged (Medium), Snare, Area
+        
+    - **Description:** Fires a weighted canister that deploys a high-tensile polymer net which rapidly hardens to entangle targets.
+        
+    - **System & Loadout:** Gas-Propelled Launcher. **Magazine:** 2. **Carried:** 4 canisters. No mobility malus.
+        
+3. **CQDS-Thorn Projector**
+    
+    - **Harm:** 1 | **Tags:** Melee, Lingering Damage
+        
+    - **Description:** A defensive system that ejects a cloud of mono-molecular, shrapnel-like filaments to shred any attacker who gets too close.
+        
+    - **System & Loadout:** Automated Defensive System. **Charges:** 5. Cannot be reloaded in combat. No mobility malus.
+        
+
+### EQUIPMENT & TACTICAL SYSTEMS
+
+1. **'Heartwood' Nanite Repair**
+    
+    - **Move:** When you **spend your turn allowing the mecha's living chassis to regrow**, spend 1 Reactor. You divert auxiliary power to a colony of symbiotic nanites. You cannot perform any other action, but you clear 2 boxes of marked Structure.
+        
+2. **'Tangle-Resin' Payload**
+    
+    - **Move:** When you **fire a specialized entangling payload instead of a damaging one**, spend 1 Reactor. Your next ranged attack deals no Harm. Instead, it ensnares the target in thick, grasping vines, restraining them. They must waste their turn breaking free or suffer a -2 ongoing penalty to all actions.
+        
+3. **'Genesis' Restoration Arrow**
+    
+    - **Move:** When you **take aim with a perfect arrow of pure life energy at an ally**, spend 2 Reactor. If you have **Master in Nature**, you fire. The arrow deals no Harm. Instead, it envelops the allied mecha in restorative energy, returning its Structure to full.
+        
+
+---
+
+## Abyssal Leviathan "KRAKEN"
+
+A monstrous deep-sea warmachine built to crush and terrify.
+
+> **STATS & RESOURCES**  
+> **POWER:** +3 | **MOBILITY:** +0 | **SYSTEMS:** +1  
+> **Structure:** 7 | **Reactor:** 4
+
+### WEAPON SYSTEMS
+
+1. **'Crusher' Grapple Claw**
+    
+    - **Harm:** 4 | **Tags:** Melee, Grapple, Crushing
+        
+    - **Description:** A massive pincer with diamond-tipped surfaces and crushing hydraulic pressure, designed to seize and pulverize targets.
+        
+    - **System & Loadout:** Integrated Chassis Weapon. No mobility malus.
+        
+2. **'Maelstrom' Pressurized Water Jet**
+    
+    - **Harm:** 3 | **Tags:** Ranged (Medium), Forceful, Armor Piercing
+        
+    - **Description:** Sucks in ambient moisture or internal coolant and ejects it in a focused, hyper-pressurized blast that can punch through armor.
+        
+    - **System & Loadout:** Internal Turbine System. **Charges:** 5. The system needs a turn to repressurize after all charges are used. No mobility malus.
+        
+3. **'Ink' Cloud Projector**
+    
+    - **Harm:** 1 | **Tags:** Ranged (Close), Area, Obscuring, Sensor Scramble
+        
+    - **Description:** Releases a cloud of thick, bio-luminescent, conductive fluid that blinds pilots and shorts out enemy sensors.
+        
+    - **System & Loadout:** Chemical Canister. **Charges:** 3. No mobility malus.
+        
+
+### EQUIPMENT & TACTICAL SYSTEMS
+
+1. **'Constrictor' Grapple Protocol**
+    
+    - **Move:** When you **catch a foe flush in your Crusher Claw**, this is a **passive system**. You can choose to grapple them instead of dealing Harm. While grappled, they cannot move, and you can automatically deal your Harm to them as a free action on your turn by simply tightening your grip.
+        
+2. **'Abyssal' Pressure Wave**
+    
+    - **Move:** When you **vent your core in a concussive blast**, spend 2 Reactor. All mechs within close range are violently shoved away from you and must make a **POWER** roll to avoid being knocked prone.
+        
+3. **'Hypnotic' Bioluminescence**
+    
+    - **Move:** When you **flash a hypnotic light pattern from your chassis**, spend 1 Reactor. If you have **Trained in Deception**, target a single enemy pilot. They must make a Will save (vs your pilot's class DC) or be Fascinated for a round, unable to act.
+        
+
+---
+
+## Celestial Judicator "AEGIS"
+
+A divine engine of justice, seemingly forged from starlight.
+
+> **STATS & RESOURCES**  
+> **POWER:** +2 | **MOBILITY:** +1 | **SYSTEMS:** +2  
+> **Structure:** 6 | **Reactor:** 4
+
+### WEAPON SYSTEMS
+
+1. **'Ascalon' Holy Lance**
+    
+    - **Harm:** 4 | **Tags:** Melee, Reach, Divine
+        
+    - **Description:** A weapon that channels reactor energy and converts it into a blade of pure, burning light, especially effective against unnatural or unholy foes.
+        
+    - **System & Loadout:** DEW (Direct Energy Weapon). No mobility malus.
+        
+2. **'Hallowed' Radiance Emitter**
+    
+    - **Harm:** 1 | **Tags:** Ranged (Close), Area, Divine, Blinding
+        
+    - **Description:** Emits an omnidirectional pulse of blinding holy light from the chassis that sears enemy sensors and armor.
+        
+    - **System & Loadout:** DEW (Direct Energy Weapon). Costs **1 Reactor** per use.
+        
+3. **'Starlight' Shard Launchers**
+    
+    - **Harm:** 2 | **Tags:** Ranged (Medium), Volley, Guided
+        
+    - **Description:** Launches a cluster of small, hard-light projectiles from shoulder-mounted pods that track and strike multiple designated targets.
+        
+    - **System & Loadout:** DEW with capacitor. **Magazine:** 4 volleys. The capacitors must be recharged after use. No mobility malus.
+        
+
+### EQUIPMENT & TACTICAL SYSTEMS
+
+1. **'Seraphim' Hard-Light Wings**
+    
+    - **Move:** When you **unfurl wings of solid light from your back**, spend 1 Reactor. You gain the ability to fly for the rest of the scene.
+        
+2. **'Sanctified' Ground Projector**
+    
+    - **Move:** When you **plant your lance and project a shimmering dome of energy**, spend 1 Reactor. The dome lasts until your next turn. Any non-allied mech starting its turn inside the dome suffers 1 Harm, ignoring armor.
+        
+3. **'Orbital' Judgment Strike**
+    
+    - **Move:** Once per battle, when you **spend your entire turn in prayer, painting a target for the heavens**, this becomes a GM Move. If you have **Master in Religion**, at the start of your next turn, a brilliant beam of holy light strikes that spot with devastating effect.
 ---
 
 ## Grave Warden "KERBEROS"
