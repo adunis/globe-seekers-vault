@@ -168,6 +168,8 @@ A graceful fusion of primal magic and elven artistry, capable of controlling the
 
 ## Abyssal Leviathan "KRAKEN"
 
+![[Untitled 8.jpg|375]]
+
 A monstrous deep-sea warmachine built to crush and terrify.
 
 > **STATS & RESOURCES**  
@@ -220,7 +222,7 @@ A monstrous deep-sea warmachine built to crush and terrify.
 
 ## Celestial Judicator "AEGIS"
 
-![[Untitled 4.jpg|350]]
+![[Untitled 9.jpg|400]]
 
 A divine engine of justice, seemingly forged from starlight.
 
