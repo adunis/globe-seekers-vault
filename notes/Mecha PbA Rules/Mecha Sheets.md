@@ -607,6 +607,8 @@ A mobile spider-like workshop that can repair allies in the heat of battle.
 
 ## Siege Roller "GOLIATH"
 
+![[Untitled 14.jpg]]
+
 A terrifying and simple weapon: a colossal, heavily armored, rolling engine of destruction.
 
 > **STATS & RESOURCES**  
@@ -654,6 +656,8 @@ A terrifying and simple weapon: a colossal, heavily armored, rolling engine of d
 ---
 
 ## High-Altitude Platform "MANTA"
+
+![[Untitled 15.jpg|575]]
 
 A graceful, high-altitude surveillance and communications relay.
 
