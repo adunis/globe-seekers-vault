@@ -60,7 +60,9 @@ A nigh-unstoppable siege engine of granite and runes, built to shatter fortifica
 
 ## Wyrm-Scale Vanguard "LINDWURM"
 
+![[Untitled 10.jpg|375]]
 
+Feudal-Tech 'Lancer' mecha, 'LINDWURM', a non-humanoid, reptilian chassis built for speed. It stands poised over a huge bridge. In the distinct art style of 90s mecha anime. Its body is low-slung and draconic, with powerful reverse-jointed legs and smaller forelimbs ending in simple claws. Its primary color is a bold, clean red. Jet-like cockpit. A long, segmented mechanical tail provides balance. Hand-drawn cel-shaded look, simple lighting, overcast sky, mecha in animalistic pose. The mecha is surrounded by an army of knights that look very small
 
 A sleek and agile hunter-killer built for speed, surprise, and surgical strikes against high-value targets.
 
@@ -116,6 +118,8 @@ A sleek and agile hunter-killer built for speed, surprise, and surgical strikes 
 
 ![[Untitled 7.jpg|325]]
 
+> Isometric perspective of a **sentient bio-dreadnought, 'SILVANUS'**, a strange fusion of smooth white armor and root-like bio-cabling, standing silently in a misty forest. In the distinct art style of 90s mecha anime. It moves on three thick, digitigrade legs. Its main body is a smooth, teardrop-shaped pod, from which its "arms" emerge. One arm is completely fused with an oversized, blocky **'Arborist' Railgun**, while the other is a slender manipulator. It has no head, only a single, large, glowing green lens on the front of its main body. A tiny robed figure stands at its base. Hand-drawn cel-shaded look, soft, diffused lighting, atmospheric fog, film grain.
+
 A graceful fusion of primal magic and elven artistry, capable of controlling the battlefield and sustaining allies.
 
 > **STATS & RESOURCES**  
@@ -170,6 +174,8 @@ A graceful fusion of primal magic and elven artistry, capable of controlling the
 
 ![[Untitled 8.jpg|375]]
 
+> Isometric perspective of a **deep-sea salvage rig repurposed for war, the 'KRAKEN',** rising from murky port waters. In the distinct art style of 90s mecha anime. Its core is a spherical, utilitarian pressure hull, covered in rust stains and warning stencils. From this central pod, several mismatched industrial arms emerge: one massive **'Crusher' Claw**, a long hydraulic crane arm, and smaller manipulators. Exposed, chunky cables connect everything. It looms menacingly over primitive fishing boats. Hand-drawn cel-shaded look, dark and gloomy atmosphere, thick line art, film grain.
+
 A monstrous deep-sea warmachine built to crush and terrify.
 
 > **STATS & RESOURCES**  
@@ -223,6 +229,8 @@ A monstrous deep-sea warmachine built to crush and terrify.
 ## Celestial Judicator "AEGIS"
 
 ![[Untitled 9.jpg|400]]
+
+> Isometric perspective of a **holy construct, the 'AEGIS',** a mobile shrine made of stark white and gold plates, hovering impassively over a grand plaza. In the distinct art style of 90s mecha anime. Its design is abstract and inhuman, resembling a massive, armored bell or a floating reliquary. Simple, blocky hard-light panels, the **'Seraphim' Wings**, project from its sides. It has no limbs; its devastating **'Ascalon' Lance** is a beam of simple, powerful energy fired from an aperture at its base. Tiny, simply-drawn people kneel below. Hand-drawn cel-shaded look, high-contrast lighting, simple geometric shapes, film grain.
 
 A divine engine of justice, seemingly forged from starlight.
 
