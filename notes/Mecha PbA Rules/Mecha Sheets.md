@@ -376,6 +376,8 @@ A bizarre bio-weapon for guerrilla warfare, using fungal growth for area denial 
 
 ## Dwarven Earthbreaker "JÖRMUNGANDR"
 
+![[Untitled 6.jpg|500]]
+
 A segmented, mobile artillery platform that can tunnel through solid rock to deliver overwhelming firepower.
 
 > **STATS & RESOURCES**  
