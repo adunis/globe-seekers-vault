@@ -220,6 +220,8 @@ A monstrous deep-sea warmachine built to crush and terrify.
 
 ## Celestial Judicator "AEGIS"
 
+![[Untitled 4.jpg|350]]
+
 A divine engine of justice, seemingly forged from starlight.
 
 > **STATS & RESOURCES**  
@@ -425,6 +427,8 @@ A segmented, mobile artillery platform that can tunnel through solid rock to del
 ---
 
 ## Vampiric Nightwing "CAMAZOTZ"
+
+![[Untitled 5.jpg|325]]
 
 A nocturnal aerial superiority unit that uses sonic weapons and nanite swarms to disable and drain its foes.
 
