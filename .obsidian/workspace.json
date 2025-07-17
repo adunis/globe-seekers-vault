@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/Globeseekers3/The Great Exodus.md",
+                "file": "lore/Globeseekers3/Magic and Technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Great Exodus"
+              "title": "Magic and Technology"
             }
           }
         ],
@@ -212,16 +212,16 @@
   },
   "active": "88c4201823f9e8ab",
   "lastOpenFiles": [
-    "lore/Magic and Technology.md",
     "lore/Globeseekers3/The Great Exodus.md",
+    "lore/Magic and Technology.md",
     "lore/Globeseekers3/Magic and Technology.md",
-    "locations/Globeseekers3/Colonial Worlds.md",
-    "characters/Globeseekers3/Zorvath's Mecha.md",
+    "locations/Globeseekers III/Colonial Worlds.md",
+    "characters/Globeseekers III/Zorvath's Mecha.md",
     "characters/Zorvath's Mecha.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
-    "locations/Globeseekers3",
-    "characters/Globeseekers3",
+    "locations/Globeseekers III",
+    "characters/Globeseekers III",
     "lore/Globeseekers3",
     "gods/Globeseekers3/Mecha Pantheon.md",
     "gods/Globeseekers3",
