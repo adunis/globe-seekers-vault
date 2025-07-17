@@ -549,11 +549,11 @@ A colossal, multi-headed command unit that overwhelms opponents by bringing nume
 
 ---
 
-# Group 3: The Unique & Non-Humanoid
-
----
-
 ## Arachnid Foundry "HEPHAESTUS"
+
+![[Untitled 13.jpg|300]]
+
+> Isometric perspective of the **'Hephaestus' mobile workshop**, a walking factory with a large, bulbous central chassis and six powerful, utilitarian legs. In the distinct art style of 90s mecha anime. It’s painted a functional safety yellow with black hazard stripes. The chassis is covered in external storage, tool racks, and spare parts. Two main, heavy-duty **Manipulator Arms** are equipped with a variety of tools, including a simple **Plasma Cutter** torch and a bulky **Rivet Gun**. Several smaller, spindly arms are currently deployed, performing repairs on a damaged allied mecha. A tiny engineer in a harness is seen working on its back. Hand-drawn cel-shaded look, practical and industrial feel, bright workshop lighting, film grain.
 
 A mobile spider-like workshop that can repair allies in the heat of battle.
 
