@@ -37,14 +37,12 @@
             "id": "88c4201823f9e8ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
-                "mode": "source",
-                "source": false
+                "file": "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "10.1 L'Eco delle Forge e l'Ombra del Sospetto"
+              "icon": "excalidraw-icon",
+              "title": "10.1_Mappa1.excalidraw"
             }
           }
         ],
@@ -212,8 +210,8 @@
   },
   "active": "88c4201823f9e8ab",
   "lastOpenFiles": [
-    "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
+    "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
     "locations/Globeseekers3/Colonial Worlds.md",
     "organisations/Globeseekers II/I Figli della Forgia Cinerea.md",
     "Pasted image 20250716022250.png",
