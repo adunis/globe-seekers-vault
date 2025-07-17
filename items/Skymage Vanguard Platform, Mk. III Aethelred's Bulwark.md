@@ -151,6 +151,7 @@ Cripta-Sussurrante, attirando l'attenzione delle forze di Vecna [9].
 
   
 
-***
+***
+
 ## Gallery
 ![[734ce9b4-8529-495b-b93f-3980329ae70c.png]]
