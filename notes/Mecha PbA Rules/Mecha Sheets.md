@@ -60,6 +60,8 @@ A nigh-unstoppable siege engine of granite and runes, built to shatter fortifica
 
 ## Wyrm-Scale Vanguard "LINDWURM"
 
+
+
 A sleek and agile hunter-killer built for speed, surprise, and surgical strikes against high-value targets.
 
 > **STATS & RESOURCES**  
@@ -111,6 +113,8 @@ A sleek and agile hunter-killer built for speed, surprise, and surgical strikes 
 ---
 
 ## Sylvan Sentinel "SILVANUS"
+
+![[Untitled 1.jpg|350]]
 
 A graceful fusion of primal magic and elven artistry, capable of controlling the battlefield and sustaining allies.
 
