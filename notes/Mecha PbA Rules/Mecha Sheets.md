@@ -1,4 +1,4 @@
-Of course. Here is a rewritten version of the Mecha descriptions, formatted for Obsidian and expanded to include three distinct weapon systems for each, complete with PbtA-inspired tags.
+
 
 # Group 1: The Core Fantasy Concepts
 
