@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Mecha PbA Rules/Mecha Sheets.md",
+                "file": "notes/Mecha PbA Rules/Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mecha Sheets"
+              "title": "Rules"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "88c4201823f9e8ab",
   "lastOpenFiles": [
-    "notes/Mecha PbA Rules/Pilot Talents.md",
     "notes/Mecha PbA Rules/Mecha Sheets.md",
+    "notes/Mecha PbA Rules/Pilot Talents.md",
     "notes/Mecha PbA Rules/Rules.md",
     "notes/Linguaggi/Mecha Sheets.md",
     "notes/Mecha PbA Rules/Vehicles.md",

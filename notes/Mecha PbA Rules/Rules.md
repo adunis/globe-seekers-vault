@@ -10,7 +10,6 @@ This system overlays PF2e when you enter your mecha. All combat is resolved usin
     
 - **On a 6- (Miss):** Things go wrong. The GM makes a hard move, and you do not achieve your immediate goal. The situation spirals.
     
-
 ---
 
 ### **Mecha Stats & Resources**
@@ -29,7 +28,6 @@ Each mecha has a static profile. A BEHEMOTH is always a lumbering brute, regardl
     
 - **REACTOR:** Energy for powerful, unique **Mech Moves**. Usually a pool of 3-5 points.
     
-
 
 ---
 

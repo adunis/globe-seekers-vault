@@ -123,11 +123,6 @@ Your innate magic surges through the mecha's conduits, with powerful and unpredi
 You channel your magic directly through your mecha's weapons for devastating combined attacks.
 
 - **[Mecha Spellstrike]:** When you **Engage a Foe** with a melee weapon, you can expend one of your PF2e spell slots. If the attack hits (7+), you add the spell's effect to the strike in addition to the normal Harm. A Gouging Claw spell might shred their armor, while a Telekinetic Projectile spell adds extra impact damage.
-    
-
----
-
-### **Skill & Expertise Classes**
 
 #### **Alchemist: The Volatile Genius**
 
