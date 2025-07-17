@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/Globeseekers3/Firearms.md",
+                "file": "lore/Globeseekers3/Transition from Globeseekers 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Firearms"
+              "title": "Transition from Globeseekers 2"
             }
           }
         ],
@@ -212,6 +212,7 @@
   },
   "active": "88c4201823f9e8ab",
   "lastOpenFiles": [
+    "lore/Globeseekers3/Firearms.md",
     "lore/Globeseekers3/Vehicles.md",
     "items/Skymage Vanguard Platform, Mk. III Aethelred's Bulwark.md",
     "items/Spelljammer Helm.md",
@@ -221,7 +222,6 @@
     "locations/Globeseekers3/Colonial Worlds.md",
     "locations/Globeseekers3",
     "characters/Globeseekers3",
-    "lore/Globeseekers3/Firearms.md",
     "lore/Globeseekers3/Transition from Globeseekers 2.md",
     "lore/Globeseekers3/The Great Exodus.md",
     "lore/Globeseekers3/Magic and Technology.md",
