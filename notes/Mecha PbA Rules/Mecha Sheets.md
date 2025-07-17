@@ -114,7 +114,7 @@ A sleek and agile hunter-killer built for speed, surprise, and surgical strikes 
 
 ## Sylvan Sentinel "SILVANUS"
 
-![[Untitled 3.jpg|375]]
+![[Untitled 7.jpg|325]]
 
 A graceful fusion of primal magic and elven artistry, capable of controlling the battlefield and sustaining allies.
 
