@@ -282,6 +282,8 @@ A divine engine of justice, seemingly forged from starlight.
 
 ## Grave Warden "KERBEROS"
 
+![[Untitled 11.jpg|400]]
+
 A black-ops infiltration unit blending necromantic technology and tactical stealth for silent eliminations.
 
 > **STATS & RESOURCES**  
