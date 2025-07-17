@@ -6,7 +6,7 @@
 
 ## Golemforged Colossus "BERGRISI"
 
-![[Untitled.jpg]]
+![[golem.jpg|300]]
 
 A nigh-unstoppable siege engine of granite and runes, built to shatter fortifications and enemies with raw power.
 
