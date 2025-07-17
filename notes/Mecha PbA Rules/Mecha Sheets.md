@@ -713,7 +713,7 @@ A graceful, high-altitude surveillance and communications relay.
 
 ![[Untitled 16.jpg]]
 
-A unique command unit: a central cockpit flanked by two bestial combat drones.
+Isometric perspective of the 'Boudica' combat unit, an unconventional sphere flanked by 10  tiny flying drones. In the distinct art style of 90s mecha anime. The central unit is a  sphere  acting as the cockpit and command center, from which energized arcs can be fired. It is connected by thick, stylized energy arcs of plasma  to  10 flying drones.   The drones are painted a matching rust-red and equipped with simple jaw-and-claw melee systems.  The sphere is located inside a crater surrounded by a medieval city. 
 
 > **STATS & RESOURCES**  
 > **POWER:** +2 | **MOBILITY:** +2 | **SYSTEMS:** +1  
@@ -725,7 +725,7 @@ A unique command unit: a central cockpit flanked by two bestial combat drones.
     
     - **Harm:** 3 | **Tags:** Melee
         
-    - **Description:** The two semi-autonomous drones are equipped with powerful jaws and vibro-claws for tearing into enemy mechs.
+    - **Description:** The  semi-autonomous drones are equipped with powerful jaws and vibro-claws for tearing into enemy mechs.
         
     - **System & Loadout:** Drone-based. Your Harm is dealt by the drones.
         
