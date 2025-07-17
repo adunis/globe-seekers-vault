@@ -5,7 +5,6 @@ kanka_id: 362788
 **I FIGLI DELLA FORGIA CINEREA**
 
   
-
 **(Voce di un Anziano Figlio della Forgia, occhi fissi sulla brace morente):**  
 "Ci
 hanno chiamati. Ci hanno promesso. La scintilla divina
@@ -165,6 +164,7 @@ tatuaggi di schemi tecnici o rune (non magiche, ma di "programmazione").
 
   
 
-***
+***
+
 ## Gallery
 ![[d22ddf84-a250-4fac-a631-a9b6ef5a280f.jpg]]
