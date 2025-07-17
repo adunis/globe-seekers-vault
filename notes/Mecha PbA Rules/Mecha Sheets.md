@@ -336,7 +336,6 @@ A black-ops infiltration unit blending necromantic technology and tactical steal
 
 ## Mycelian Saboteur "MYCONID"
 
-
 ![[Whisk_9afa0daf0a.jpg|450]]
 A bizarre bio-weapon for guerrilla warfare, using fungal growth for area denial and systemic sabotage.
 
@@ -444,7 +443,7 @@ A segmented, mobile artillery platform that can tunnel through solid rock to del
 
 ## Vampiric Nightwing "CAMAZOTZ"
 
-![[Untitled 5.jpg|325]]
+![[Untitled 5.jpg|350]]
 
 A nocturnal aerial superiority unit that uses sonic weapons and nanite swarms to disable and drain its foes.
 
@@ -497,6 +496,8 @@ A nocturnal aerial superiority unit that uses sonic weapons and nanite swarms to
 ---
 
 ## Hydra-Class War Platform "LERNIA"
+
+![[Untitled 12.jpg|650]]
 
 A colossal, multi-headed command unit that overwhelms opponents by bringing numerous weapon systems to bear at once.
 
