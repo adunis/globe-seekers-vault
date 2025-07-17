@@ -711,6 +711,8 @@ A graceful, high-altitude surveillance and communications relay.
 
 ## Combat Chariot "BOUDICA"
 
+![[Untitled 16.jpg]]
+
 A unique command unit: a central cockpit flanked by two bestial combat drones.
 
 > **STATS & RESOURCES**  
