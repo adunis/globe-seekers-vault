@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/Globeseekers3/The Great Exodus.md",
+                "file": "characters/Globeseekers III/Zorvath's Mecha.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Great Exodus"
+              "title": "Zorvath's Mecha"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "88c4201823f9e8ab",
   "lastOpenFiles": [
-    "lore/Globeseekers3/Magic and Technology.md",
     "lore/Globeseekers3/The Great Exodus.md",
+    "lore/Globeseekers3/Magic and Technology.md",
     "lore/Magic and Technology.md",
     "locations/Globeseekers III/Colonial Worlds.md",
     "characters/Globeseekers III/Zorvath's Mecha.md",
