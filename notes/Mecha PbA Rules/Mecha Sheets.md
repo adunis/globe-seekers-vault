@@ -336,6 +336,8 @@ A black-ops infiltration unit blending necromantic technology and tactical steal
 
 ## Mycelian Saboteur "MYCONID"
 
+
+![[Whisk_9afa0daf0a.jpg|450]]
 A bizarre bio-weapon for guerrilla warfare, using fungal growth for area denial and systemic sabotage.
 
 > **STATS & RESOURCES**  
@@ -388,7 +390,7 @@ A bizarre bio-weapon for guerrilla warfare, using fungal growth for area denial 
 
 ## Dwarven Earthbreaker "JÖRMUNGANDR"
 
-![[Untitled 6.jpg|425]]
+![[Whisk_434510a231.jpg|400]]
 
 A segmented, mobile artillery platform that can tunnel through solid rock to deliver overwhelming firepower.
 
