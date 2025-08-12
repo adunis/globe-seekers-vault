@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb138190b3b03ba",
+        "id": "d2ec9b381e4511ce",
         "type": "tabs",
         "children": [
           {
-            "id": "065329873c26db19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.1 L'Eco delle Forge e l'Ombra del Sospetto"
-            }
-          },
-          {
-            "id": "2c28b6dac9f48e8f",
+            "id": "d36f4f23764a4b29",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-07-16 12.54.13.excalidraw.md"
+                "file": "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-16 12.54.13.excalidraw"
-            }
-          },
-          {
-            "id": "88c4201823f9e8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/Globeseekers II/Programmi Sessioni/9.4 - Templio di Lathander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9.4 - Templio di Lathander"
+              "title": "10.1_Mappa1.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,12 +71,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e338254011e72d23",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Gemini Scribe"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 305.5
   },
   "right": {
     "id": "483f087699912bd1",
@@ -121,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/characters/Agatha the Banshee.md",
+                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Agatha the Banshee"
+              "title": "Backlinks for 8 - Loot Carotidi e Chirr-Click"
             }
           },
           {
@@ -140,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/characters/Agatha the Banshee.md",
+                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Agatha the Banshee"
+              "title": "Outgoing links from 8 - Loot Carotidi e Chirr-Click"
             }
           },
           {
@@ -169,17 +150,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "globe-seekers-a-faerun-pf2e-campaign_20250503_085237/characters/Agatha the Banshee.md",
+                "file": "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Agatha the Banshee"
+              "title": "Outline of 8 - Loot Carotidi e Chirr-Click"
             }
           },
           {
-            "id": "26c99b5a5964024b",
+            "id": "f983972d0677f279",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -188,11 +169,12 @@
               "title": "Dice Tray"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 365.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,61 +186,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obisidian-note-linker:Note Linker": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
       "gemini-scribe:Open Gemini Chat": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obisidian-note-linker:Note Linker": false,
+      "tags-routes:Open tags routes": false
     }
   },
-  "active": "88c4201823f9e8ab",
+  "active": "c3f5c08b93ed2d09",
   "lastOpenFiles": [
-    "organisations/Globeseekers I/Angelorate of Cormyr.md",
-    "organisations/Globeseekers I/Black Fangs.md",
-    "organisations/Globeseekers I/City-State of Shammath.md",
-    "organisations/Globeseekers I/Cryptarchy of Sembia.md",
-    "organisations/Globeseekers I/Empire of Nether.md",
-    "organisations/Globeseekers I/Exorcistat of Damara.md",
-    "organisations/Globeseekers I/Free City of Procampur.md",
-    "organisations/Globeseekers I/Githyanki Empire.md",
-    "organisations/Globeseekers I/Githzerai State.md",
-    "organisations/Globeseekers I/Hexadom of Aglaron.md",
-    "organisations/Globeseekers I/Interplanar Merchant Guild.md",
-    "organisations/Globeseekers I/Mercantocracy of Amn.md",
-    "organisations/Globeseekers I/Necrocracy of Thay.md",
-    "organisations/Globeseekers I/Nexark of Vaasa.md",
-    "organisations/Globeseekers I/Shadow Council.md",
-    "organisations/Globeseekers I/Silvandom of the High Forest.md",
-    "organisations/Globeseekers I/Silver Blades.md",
-    "organisations/Globeseekers I/Tetrasultanate of Akanul.md",
-    "organisations/Globeseekers I/The Green Isle.md",
-    "organisations/Globeseekers I/The Nexus of Fortuna.md",
-    "organisations/Globeseekers I/Thieve's Guild of Procampur.md",
-    "organisations/Globeseekers I/Triportum of the Sword Coast.md",
-    "organisations/Globeseekers I/Order of the Kraken.md",
-    "organisations/Globeseekers I/Morun Tag's Business.md",
-    "organisations/Globeseekers I/Congrega della Catena Spezzata.md",
-    "organisations/Globeseekers II/I Figli della Forgia Cinerea.md",
-    "Pasted image 20250716022250.png",
-    "Untitled.canvas",
-    "golem.jpg",
-    "Untitled.jpg",
-    "Untitled 2.jpg",
-    "Untitled 4.jpg",
-    "Untitled 6.jpg",
-    "Untitled 8.jpg",
-    "Untitled 15.jpg",
-    "Untitled 16.jpg",
-    "Untitled 10.jpg",
+    "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
+    "events/Globeseekers II/3 -  Echi dalla Cenere I Tre Compagni.md",
+    "notes/Mecha PbA Rules/Vehicles.md",
+    "notes/Mecha PbA Rules/Rules.md",
+    "notes/Mecha PbA Rules/Pilot Talents.md",
+    "notes/Mecha PbA Rules/Mecha Sheets.md",
     "notes/Mecha PbA Rules",
-    "locations/Globeseekers3",
-    "characters/Globeseekers3",
-    "locations/Globeseekers III",
-    "characters/Globeseekers III",
+    "notes/Linguaggi/Mecha Sheets.md",
+    "lore/Globeseekers3/Vehicles.md",
+    "lore/Globeseekers3/Transition from Globeseekers 2.md",
+    "lore/Globeseekers3/The Great Exodus.md",
+    "lore/Globeseekers3/Firearms.md",
+    "lore/Globeseekers3/Magic and Technology.md",
     "lore/Globeseekers3",
-    "gods/Globeseekers3",
-    "-p",
     "lore",
+    "locations/Globeseekers3/Colonial Worlds.md",
+    "locations/Globeseekers3",
+    "locations/Globeseekers III/Colonial Worlds.md",
+    "locations/Globeseekers III",
+    "golem.jpg",
+    "gods/Globeseekers3/Mecha Pantheon.md",
+    "gods/Mecha Pantheon.md",
+    "gods/Globeseekers3",
     "gods",
+    "characters/Globeseekers3/Zorvath's Mecha.md",
+    "characters/Globeseekers3",
+    "characters/Globeseekers III/Zorvath's Mecha.md",
+    "characters/Globeseekers III",
+    "Whisk_9afa0daf0a.jpg",
+    "Whisk_434510a231.jpg",
+    "Untitled.jpg",
+    "Untitled 9.jpg",
+    "Untitled 8.jpg",
+    "Untitled 7.jpg",
+    "Untitled 6.jpg",
+    "Untitled 5.jpg",
+    "Untitled 4.jpg",
+    "Excalidraw/Drawing 2025-07-16 12.54.28.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-16 12.54.13.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-16 12.34.23.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-16 12.32.58.excalidraw.md",
+    "Excalidraw",
+    "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
+    "events/Globeseekers II/9 - Il Viaggio verso Fungorgo.md",
+    "journals/Globeseekers II/Programmi Sessioni/8 - Loot Carotidi e Chirr-Click.md",
+    "journals/Globeseekers II/Programmi Sessioni/9.4 - Templio di Lathander.md",
+    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
