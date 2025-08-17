@@ -189,11 +189,10 @@
       "omnisearch:Omnisearch": false,
       "gemini-scribe:Open Gemini Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obisidian-note-linker:Note Linker": false,
-      "tags-routes:Open tags routes": false
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "c3f5c08b93ed2d09",
+  "active": "3c2b385c39ae2ac2",
   "lastOpenFiles": [
     "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
     "events/Globeseekers II/3 -  Echi dalla Cenere I Tre Compagni.md",
