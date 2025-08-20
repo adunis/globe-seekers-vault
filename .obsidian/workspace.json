@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "10.1_Mappa1.excalidraw"
             }
+          },
+          {
+            "id": "7347053b55a15bca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,7 +206,7 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "d36f4f23764a4b29",
+  "active": "f99d8e77388a7491",
   "lastOpenFiles": [
     "journals/Globeseekers II/Programmi Sessioni/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
     "journals/Globeseekers II/Programmi Sessioni/10.1_Mappa1.excalidraw.md",
