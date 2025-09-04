@@ -31,3 +31,13 @@ Per intercettare la carovana, il gruppo deve preparare un'imboscata perfetta nel
     
 - **Mantenere la Copertura (Gruppo):** Evitare le pattuglie di ricognitori di Vecna mentre si prepara l'imboscata. **Test di Gruppo:** Medium Agility (Sneak).
 
+
+**Esiti del Montage Test:**
+
+- **Successo Totale (5+ successi):** L'imboscata è perfetta. Il gruppo inizia il combattimento con un **round di sorpresa** e ottiene i benefici del **terreno elevato** (high ground).
+    
+- **Successo Parziale (almeno 2 successi in più dei fallimenti):** L'imboscata scatta, ma qualcosa va storto. Il gruppo non ottiene un round di sorpresa, ma può posizionarsi sul terreno elevato prima che inizi il combattimento.
+    
+- **Fallimento Totale:** Una pattuglia di Vecna vi scopre. Siete **voi** a subire un'imboscata. Il combattimento inizia con i nemici già posizionati e pronti.
+
+
