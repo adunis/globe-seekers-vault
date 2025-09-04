@@ -1,20 +1,14 @@
 ### Incipit della Campagna: L'Ombra del Falco
 
-**(Testo da leggere ai giocatori)**
-
-Sono passati anni. Anni da quando avete affrontato la luce accecante e la giustizia spietata degli angeli nel tempio di Lathander. Quella battaglia non fu una vittoria. Fu una lezione, scritta col sangue e con la cenere della sconfitta. Avete imparato che affrontare il potere degli Dei Antichi a viso aperto è un suicidio glorioso, ma pur sempre un suicidio. Siete stati sconfitti, dispersi, braccati. Ognuno di voi ha trovato la propria via nell'ombra, credendo forse di essere l'ultimo sopravvissuto di una causa persa.
-
-Ma nelle Terre Spezzate, anche la speranza più flebile può trovare terreno fertile. Uno ad uno, siete stati trovati, o avete trovato la vostra strada, verso l'unica vera forza di resistenza che opera sotto il cielo malato dell'Altopiano delle Ossa: i **Falchi Cremisi (Crimson Falcons)**.
-
-Non siete più i viandanti idealisti di un tempo. Ora siete soldati. Ribelli. Veterani di una guerra segreta combattuta con imboscate, sabotaggi e ritirate strategiche. Siete diventati una famiglia disfunzionale, forgiata nel fuoco e tenuta insieme da un odio comune per gli Dei Antichi e da una fragile lealtà verso il vostro comandante: il formidabile, brutale e enigmatico **B.B. Secondo**.
-
-**Il Mondo Adesso: La Vita nei Falchi Cremisi**
-
-La vostra casa è **Fungorgo**, una città-rovina infestata da funghi torreggianti che offrono copertura e nascondiglio. È un rifugio precario, umido e buio, ma è vostro. Da qui, B.B. Secondo dirige la sua guerra d'attrito contro le linee di rifornimento di Vecna e le pattuglie degli Dei Antichi.
-
-Il vostro comandante è un clone, un essere creato per la guerra. Un bugbear imponente con un occhio solo che non perde nulla e un braccio di metallo rosso capace di stritolare l'acciaio. Non è un leader carismatico nel senso tradizionale; è un martello. È pragmatico, spietato e a volte crudele. La vittoria è l'unica morale che riconosce, ma la sua leadership ha tenuto in vita i Falchi dove ogni altra cellula ribelle ha fallito. Non chiede la vostra amicizia, solo la vostra efficienza.
-
-Le vostre missioni sono rapide, sporche e pericolose. Non ci sono parate trionfali, solo il sollievo silenzioso di tornare alla base con più uomini di quanti ne abbiate persi. Siete l'unica spina nel fianco dei tiranni che dominano questo mondo spezzato.
+La luce fungina di Fungorgo getta ombre lunghe nella sala riunioni, una caverna umida e fredda. B.B. Secondo è in piedi davanti a una mappa graffiata su una lastra di metallo. Il suo unico occhio giallo si fissa su di voi mentre entrate. Non ci sono convenevoli.
+> 
+> "Abbiamo una finestra," ringhia, la sua voce profonda come una frana. "Una carovana di Vecna si sta muovendo lungo il Passo del Verme del Midollo. I nostri informatori dicono che non trasporta armi. Trasporta 'materiale biologico' e componenti tecnologici destinati a Protonecropoli. Stessa roba che usano per i Faith Babies."
+> 
+> Fa un passo indietro dalla mappa, il suo braccio di metallo che stride leggermente. "Non voglio sopravvissuti. Non voglio testimoni. Voglio quel carico. Scoprite cos'è, cosa trasporta esattamente e perché è così importante. Distruggete tutto il resto. Questa è un'operazione di decapitazione: colpite il convoglio principale, prendete ciò che serve e svanite prima che possano chiedere rinforzi."
+> 
+> "Siete la mia squadra migliore. Non deludetemi."
+> 
+> La vostra guerra nell'ombra inizia ora. Preparatevi.
 
 ---
 
