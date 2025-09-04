@@ -140,45 +140,72 @@ Level 1 Minion Harrier - EV 3 per 4 minions
 Level 1 Minion Artillery - EV 3 per 4 minions  
 **Stamina** 3 | **Free Strike** 2
 
-**Prefetto Kaelen (War Dog Subcommander)**  
-Level 2 Leader - EV 8  
-**Size** 1M | **Speed** 5 | **Stamina** 40 | **Stability** 2 | **Free Strike** 2  
-**Immunity:** — | **Weakness:** —
+****Prefetto Kaelen (War Dog Subcommander - Psionic Variant)**  
+Level 2 Leader - Humanoid, Soulless, War Dog, Psionic - EV 8  
+**Size** 1M | **Speed** 5 | **Stamina** 40 | **Stability** 1 | **Free Strike** 2  
+**Immunity:** Psychic 2 | **Weakness:** —
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|Might|Agility|Reason|Intuition|Presence|
-|+2|0|0|0|+1|
+|       |         |        |           |          |
+| ----- | ------- | ------ | --------- | -------- |
+| Might | Agility | Reason | Intuition | Presence |
+| +1    | 0       | +2     | +1        | +2       |
 
-**m Spada di Comando (Signature Ability)** Melee, Strike, Weapon Main action  
-**e** Melee 1 **x** Una creatura o oggetto  
-**Power Roll + Might:**
+**t Esposizione Nucleo Energetico (Meccanica Chiave)**  
+Dopo che Kaelen usa una **Main Action**, i cristalli sulla sua testa si surriscaldano per lo sforzo mentale. Subisce **damage weakness 2** fino all'inizio del suo prossimo turno.
 
-- **Tier 1:** 4 danni
+**r Flagello Mentale (Mind Scour) (Signature Ability)** Psionic, Ranged, Strike Main action  
+**e** Ranged 10 **x** Una creatura  
+**Power Roll + Reason:**
+
+- **Tier 1:** 4 danni psichici
     
-- **Tier 2:** 5 danni
+- **Tier 2:** 6 danni psichici; **r<0]** dazed (EoT)
     
-- **Tier 3:** 7 danni  
-    **Effect:** Un alleato entro 5 quadretti può fare un free strike contro il bersaglio.
+- **Tier 3:** 8 danni psichici; **r<1]** dazed (save ends)
     
 
-**r Promozione Postuma** Magic, Ranged Maneuver  
-**e** Ranged 10 **x** Un War Dog  
-**Effect:** Se il bersaglio ha un collare di lealtà, viene ridotto a 0 Stamina ed esplode.
+**a Comando Psionico (Psionic Command)** Psionic, Ranged Maneuver  
+**e** Ranged 10 **x** Un alleato minion  
+**Effect:** Fai scivolare (slide) il bersaglio fino a 3 quadretti, ignorando la sua stabilità. L'alleato può quindi effettuare un **free strike**.
 
-**! Ordini Finali** Ranged Triggered action  
-**e** Ranged 10 **x** Un alleato  
-**Trigger:** L'alleato subisce danno o viene ridotto a 0 Stamina.  
-**Effect:** L'alleato si muove fino alla sua velocità e può fare un free strike, poi muore.
+**a Sovraccarico Sinaptico (Synaptic Overload) (2 Malice)** Psionic, Ranged Maneuver  
+**e** Ranged 10 **x** Due alleati minion  
+**Effect:** Un bersaglio viene distrutto (il suo collare di lealtà esplode come di consueto). L'altro bersaglio ottiene un **double edge** sul suo prossimo attacco e la sua prossima abilità infligge 5 danni extra.
 
-**d Chiamata alle Armi (Villain Action 1)**  
+**! Coscienza Condivisa (Shared Consciousness) (1 Malice)** Psionic Triggered action  
+**e** Special **x** Special  
+**Trigger:** Un alleato Linked (vedi Villain Action 1) subisce danno.  
+**Effect:** Kaelen può far sì che un altro alleato Linked a sua scelta subisca metà del danno (arrotondato per difetto).
+
+---
+
+#### **Azioni da Villain (Villain Actions)**
+
+**d Rete Psionica Attiva (Villain Action 1)** Area, Psionic  
 **e** 10 burst **x** Ogni alleato nell'area  
-**Effect:** Ogni bersaglio può muoversi fino alla sua velocità o fare un free strike.
+**Effect:** Un basso ronzio mentale pervade l'area. Tutti i minion alleati diventano **Linked** (collegati) tra loro fino alla fine dello scontro. Finché sono collegati, Kaelen può usare le sue abilità su di loro. Ogni nemico nell'area subisce 2 danni psichici e subisce una penalità (bane) sulla prossima azione di **Assist**.
 
-**d Esempio per Tutti (Villain Action 2)**  
-**e** Ranged 10 **x** Un nemico  
-**Effect:** Ogni alleato entro 5 quadretti dal bersaglio si muove fino alla sua velocità e può fare un free strike contro di esso.
+**d Sorgi per il Tuo Signore (Rise for Your Master) (Villain Action 2)** Magic, Ranged  
+**e** Ranged 10 **x** Fino a quattro War Dog minion distrutti  
+**Effect:** I bersagli si rialzano con la loro Stamina massima. Ora sono **Rotting Zombie Minions** (usano le stesse statistiche ma ottengono la parola chiave **Undead**). Rimangono al servizio di Kaelen.
 
-**d Reclamo per i Body Banks (Villain Action 3)**  
-**e** 10 burst **x** Ogni creatura nell'area  
-**Effect:** Ogni alleato può usare la manovra **Grab**. Fino alla fine dello scontro, ogni nemico subisce una penalità ai tiri per sfuggire alla presa (Escape Grab).
+**d Dominio Mentale Totale (Total Mental Domination) (Villain Action 3)** Psionic  
+**e** Special **x** Ogni nemico  
+**Effect:** Kaelen estende la sua volontà su tutto il campo di battaglia. Ogni eroe deve fare un **Reason Test** (difficoltà media).
+
+- **Fallimento:** L'eroe è costretto a usare immediatamente la sua **Move Action** per muoversi fino alla sua velocità verso l'alleato più vicino e usare la sua **Maneuver** per effettuare un **free strike** contro di esso.
+    
+- **Successo:** L'eroe resiste all'impulso omicida, ma lo sforzo mentale gli infligge 5 danni psichici.
+
+
+### **Minion Aggiornati: Marionette Psioniche**
+
+- **Guardia del Carro (War Dog Conscript)**
+    
+- **Cecchino Patchwork (War Dog Sharpshooter)**
+    
+
+Usa le statistiche di Livello 1 fornite in precedenza, ma con questa regola aggiuntiva:
+
+**t Collegamento Mentale (Mind Link)**  
+Finché questo minion è **Linked** dalla **Rete Psionica** di Kaelen, Kaelen può usare le sue abilità su di lui e considerarlo nel suo raggio d'azione, purché si trovi sulla stessa mappa.
