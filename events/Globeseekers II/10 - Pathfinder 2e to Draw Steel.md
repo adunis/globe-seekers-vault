@@ -63,8 +63,7 @@ Draw Steel ha classi e kit archetipici, ma siete incoraggiati a "reskinnare" (ca
             
         - Un **Kit Light Weapon** per Elthon potrebbe essere una pistola a corto raggio e un pugnale da combattimento.### 
 
-
-Glossario per i Ribelli: Sopravvivere nell'Altopiano delle Ossa
+### Glossario per i Ribelli: Sopravvivere nell'Altopiano delle Ossa
 
 (Questo documento è pensato per essere consegnato ai giocatori come un ripasso delle conoscenze che i loro personaggi, ora veterani, possiedono.)
 
