@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "11 - La Carovana del Coro"
             }
+          },
+          {
+            "id": "8cfd112f3c4ef227",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -210,7 +223,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88c4201823f9e8ab",
+  "active": "8cfd112f3c4ef227",
   "lastOpenFiles": [
     "events/Globeseekers II/10 - Timeskip, Pathfinder 2e to Draw Steel.md",
     "events/Globeseekers II/11 - La Carovana del Coro.md",
