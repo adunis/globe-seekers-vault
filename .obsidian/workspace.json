@@ -51,12 +51,14 @@
             "id": "8cfd112f3c4ef227",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "events/Globeseekers II/11 - La Carovana del Coro 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "11 - La Carovana del Coro 1"
             }
           }
         ],
@@ -225,8 +227,10 @@
   },
   "active": "8cfd112f3c4ef227",
   "lastOpenFiles": [
-    "events/Globeseekers II/10 - Timeskip, Pathfinder 2e to Draw Steel.md",
+    "11 - La Carovana del Coro 1.png",
     "events/Globeseekers II/11 - La Carovana del Coro.md",
+    "events/Globeseekers II/11 - La Carovana del Coro 1.md",
+    "events/Globeseekers II/10 - Timeskip, Pathfinder 2e to Draw Steel.md",
     "events/Globeseekers II/9 - Il Viaggio verso Fungorgo.md",
     "characters/Globeseekers III/Zorvath's Mecha.md",
     "journals/Globeseekers II/Programmi Sessioni/9.4 - Templio di Lathander.md",
@@ -249,8 +253,6 @@
     "organisations/Globeseekers I/Silver Blades.md",
     "organisations/Globeseekers I/Tetrasultanate of Akanul.md",
     "organisations/Globeseekers I/The Green Isle.md",
-    "organisations/Globeseekers I/The Nexus of Fortuna.md",
-    "organisations/Globeseekers I/Thieve's Guild of Procampur.md",
     "Pasted image 20250716022250.png",
     "Untitled.canvas",
     "golem.jpg",
