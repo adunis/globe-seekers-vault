@@ -19,6 +19,6 @@ I quattro 'Domino' non vi caricano alla cieca. Si muovono con una grazia letale,
 
 Improvvisamente, lo sciame di un soldato si lancia verso il corpo a terra del suo compagno caduto. La nebbia metallica lo avvolge e, con un crepitio di luce dorata, le sue ferite si richiudono. Lo sciame di un altro soldato si condensa davanti a lui, formando uno scudo scintillante che devia un proiettile vagante con un sonoro clang. 
 
-Capite subito che questi non sono semplici soldati. Sono qualcosa di nuovo. Qualcosa di molto, molto più pericoloso.
+Capite subito che questi non sono semplici soldati. Sono qualcosa di nuovo. Qualcosa di molto, molto più pericoloso. 
 
 ![[11 - La Carovana del Coro 1.png]]
