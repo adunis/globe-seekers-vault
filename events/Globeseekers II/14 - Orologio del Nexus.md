@@ -169,39 +169,63 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 
 ---
 
-### **Dossier D: Operazione "Nido di Serpi" (Il Conclave Cremisi)**
+### **Dossier D : L'Avamposto dell'Ossidiana**
 
-- **Descrizione:** "La nostra più grande minaccia potrebbe non essere là fuori, ma qui dentro. Il Conclave deciderà il futuro dei Falchi. La vostra presenza è richiesta per garantire che ci sia ancora un futuro per cui combattere."
+- **Descrizione:** "Salvate i mercanti dell'Enclave Cromatica assediati dai predoni. Assicuratevi che sappiano chi li ha salvati, ma nascondete la vostra vera identità di Falchi Cremisi. L'obiettivo è creare un debito, non fare amicizia."
     
-- **Tipo:** Sociale, Negoziazione, Intrigo.
-- Dado Scadenza: 1d6 (su 1 é Scaduta)
+- **Tipo:** **Salvataggio, Combattimento Tattico, Negoziazione Post-Scontro.
+- Dado Scandeza**: 1d10 (su 1 scade)
     
-- **Forze "Nemiche" (Opposizione):**
+- **Forze Nemiche (I Predoni):**
     
-    - **Capitano Valerius (Fazione Cauta):** Un veterano stanco delle perdite (usa le statistiche di un **Human Warrior Retainer** di alto livello se le cose degenerano).
+    - **Comandante:** **"Mad" Mags**, una carismatica ma brutale leader dei predoni (usa le statistiche di un **Orc Warleader** di Livello 3, ma reskinnata come umana).
         
-    - **Capitana Lyra (Fazione Radicale):** Una giovane e carismatica guerriera che predica l'attacco totale (usa le statistiche di un **Orc Charger Retainer**).
+    - **Orda:** Un mix di combattenti del deserto.
         
+        - 2 Squadre di 4 **Guerrieri delle Dune** (**Human Raiders**, Minion Harrier di Livello 1).
+            
+        - 1 Squadra di 4 **Cecchini delle Rocce** (**Goblin Snipers**, Minion Artillery di Livello 1).
+            
+        - 2 **Bruti Corazzati** (**Ogre Goons**, Elite Brute di Livello 2, reskinnati come umani enormi con armature improvvisate).
+            
 - **Ostacoli e Trappole:**
     
-    - **Lealtà Divise:** I soldati dei Falchi sono divisi. Le vostre parole potrebbero causare una rissa o una diserzione di massa.
+    - **L'Assedio:** Il combattimento si svolge all'esterno di un avamposto fortificato. I giocatori devono rompere l'accerchiamento dei predoni per raggiungere i mercanti.
         
-    - **Argomenti Complessi:** Convincere le fazioni richiederà di superare i loro **Pitfalls** e appellarsi alle loro **Motivations** durante un **Negotiation Test** a più parti.
+    - **Terreno Ostile:** L'area è piena di rocce taglienti (copertura) e sabbie mobili (terreno difficile). I predoni conoscono bene l'ambiente e lo useranno a loro vantaggio.
         
-    - **L'Ombra di B.B. Secondo:** Il comandante non è presente, ma la sua influenza è palpabile. Sfidarlo apertamente potrebbe avere conseguenze letali.
+    - **Fiducia Difficile:** I mercanti all'interno dell'avamposto sono terrorizzati e potrebbero sparare ai giocatori scambiandoli per altri predoni, a meno che non vengano convinti a parole (**Presence (Persuade) Test**).
         
 - **Ricompense per il Successo:**
     
-    - **Nexus Clock:** Varia in base all'esito.
+    - **Nexus Clock:** **+2 Scintilla Divina**. Avete creato un contatto prezioso e una potenziale fonte di informazioni.
         
-    - **Renown:** +1 con la fazione che supportate.
+    - **Loot:** Equipaggiamento da predone di buona qualità, **1 Wealth** in merci recuperate.
         
-    - **Loot:** Un **Follower** leale o un favore da un capitano influente.
+    - **Renown:** **+1 con l'Enclave Cromatica** (siete noti come "soccorritori affidabili").
         
-    - **Title:** **Voce del Conclave**.
+    - **Title:** **Salvatori del Serpente**.
         
-- **Conseguenze di Fallimento o Scadenza:**
+        - **Effetto (scegliere uno):**
+            
+            - **Occhio per gli Affari:** Una volta per avventura, quando ottieni del loot, puoi fare un **Easy Reason (Society) Test** per capire se c'è un acquirente specifico che pagherebbe un extra per uno degli oggetti.
+                
+            - **Debito di Gratitudine:** La prima volta che incontri un membro dell'Enclave Cromatica in una situazione sociale, ottieni un edge sul tuo primo **Presence Test** per influenzarlo.
+                
+- **Svolgimento Post-Combattimento: La Negoziazione**
     
-    - **Nexus Clock:** **-1 Scintilla Divina**.
+    - Una volta sconfitti i predoni, i giocatori incontrano il capo della carovana, il **Mercante Zailen**, un Dragonide argentato elegante e arrogante.
         
-    - **Conseguenza Narrativa:** La fazione dei Cauti diserta. I Falchi Cremisi perdono circa un quarto delle loro forze e l'accesso a una rete di rifugi sicuri. Le missioni future saranno più rischiose.
+    - **Obiettivo:** Formalizzare il "debito". Zailen è grato, ma cercherà di minimizzare l'accaduto e offrirà una semplice ricompensa in denaro. I giocatori devono negoziare per ottenere qualcosa di più: un canale di comunicazione segreto, informazioni future, o la promessa di un favore importante.
+        
+    - **NPC:** **Zailen**
+        
+        - **Motivations:** Profitto (Greed), Mantenere le apparenze (Legacy).
+            
+        - **Pitfalls:** Carità (Benevolence - "non siamo un ente di beneficenza"), Fedeltà a una causa (Higher Authority - "la mia unica causa è il bilancio").
+            
+- **Conseguenze di Fallimento o Scadenza (Expired):**
+    
+    - **Nexus Clock:** **+1 Progresso del Nexus**.
+        
+    - **Conseguenza Narrativa:** I predoni annientano la carovana. Recuperano un artefatto che l'Enclave stava trasportando per Vecna. Nelle missioni future, i nemici d'élite potrebbero essere equipaggiati con **Scudi Cromatici** che forniscono resistenza a un tipo di danno elementale (es. fuoco, freddo, acido). L'opportunità di creare un contatto con l'Enclave è persa.
