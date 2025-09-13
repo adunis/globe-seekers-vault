@@ -39,6 +39,7 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 - **Descrizione:** "Il Laboratorio Primus è il cuore pulsante della fase iniziale del Progetto Nexus. Dobbiamo strapparglielo dal petto. L'obiettivo è l'infiltrazione e la distruzione totale."
     
 - **Tipo:** Combattimento, Infiltrazione Tattica.
+- Dado Scadenza: 1d2 (su 1 é Scaduta)
     
 - **Forze Nemiche Stimate:**
     
@@ -71,6 +72,7 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
     - **Title:** **Sabotatori di Primus**.
         
 - **Conseguenze di Fallimento o Scadenza:**
+
     
     - **Nexus Clock:** **+3 Progresso del Nexus**.
         
@@ -84,6 +86,7 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 - **Descrizione:** "Il nostro contatto, 'Echo', deve essere estratto da una zona calda di Protonecropoli. Silenzio e velocità sono fondamentali. Un solo errore e l'intera rete di spie crolla."
     
 - **Tipo:** Spionaggio, Fuga, Sociale.
+- Dado Scadenza: 1d6 (su 1 é Scaduta)
     
 - **Forze Nemiche Stimate:**
     
@@ -123,6 +126,7 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 - **Descrizione:** "I Figli della Forgia sono assediati. Le loro difese automatizzate sono potenti, ma la legione non-morta di Vecna è implacabile. Dobbiamo spezzare l'assedio e salvare la loro conoscenza."
     
 - **Tipo:** Difesa, Combattimento su Larga Scala.
+- - Dado Scadenza: 1d6 (su 1 é Scaduta)
     
 - **Forze Nemiche Stimate:**
     
