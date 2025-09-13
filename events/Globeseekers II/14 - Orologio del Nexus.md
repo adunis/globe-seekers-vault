@@ -83,6 +83,8 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 
 ### **Dossier B: Operazione "Sussurro Estratto" (La Spia)**
 
+![[Untitled-2 2.png]]
+
 - **Descrizione:** "Il nostro contatto, 'Echo', deve essere estratto da una zona calda di Protonecropoli. Silenzio e velocità sono fondamentali. Un solo errore e l'intera rete di spie crolla."
     
 - **Tipo:** Spionaggio, Fuga, Sociale.
@@ -122,6 +124,8 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 ---
 
 ### **Dossier C: Operazione "Scudo Infranto" (La Forgia Cinerea)**
+
+![[Untitled-2 1.png]]
 
 - **Descrizione:** "I Figli della Forgia sono assediati. Le loro difese automatizzate sono potenti, ma la legione non-morta di Vecna è implacabile. Dobbiamo spezzare l'assedio e salvare la loro conoscenza."
     
