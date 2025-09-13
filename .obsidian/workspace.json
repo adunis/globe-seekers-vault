@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Globeseekers II/Il Party/Violetta.md",
+                "file": "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Violetta"
+              "title": "Gianni, l'Ombra che Indaga"
             }
           }
         ],
@@ -241,8 +241,10 @@
   },
   "active": "75121933d14025fd",
   "lastOpenFiles": [
-    "characters/Globeseekers II/Elthon Muschiato.md",
+    "characters/Globeseekers II/Il Party/Liora la Strega.md",
+    "characters/Globeseekers II/Il Party/Smilzo (Ser Castor Ashworth).md",
     "characters/Globeseekers II/Il Party/Violetta.md",
+    "characters/Globeseekers II/Elthon Muschiato.md",
     "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
     "events/Globeseekers II/14 - Orologio del Nexus.md",
     "journals/Globeseekers II/Trama Generale Campagna (Draw Steel).md",
@@ -274,8 +276,6 @@
     "Untitled-2 2.png",
     "Untitled-2 1.png",
     "Untitled-2.png",
-    "creatures/Spirit.md",
-    "characters/Globeseekers II/Zara'thiel.md",
     "11 - La Carovana del Coro 1.png",
     "lore/Globeseekers II",
     "Untitled.canvas",
