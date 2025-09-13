@@ -174,6 +174,7 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 - **Descrizione:** "La nostra più grande minaccia potrebbe non essere là fuori, ma qui dentro. Il Conclave deciderà il futuro dei Falchi. La vostra presenza è richiesta per garantire che ci sia ancora un futuro per cui combattere."
     
 - **Tipo:** Sociale, Negoziazione, Intrigo.
+- Dado Scadenza: 1d6 (su 1 é Scaduta)
     
 - **Forze "Nemiche" (Opposizione):**
     
