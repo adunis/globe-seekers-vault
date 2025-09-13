@@ -1,4 +1,6 @@
-### **Dossier dei Falchi Cremisi: Progetto Scintilla Divina**
+### **Dosdei Falchi Cremisi: Progetto Scintilla Divina
+
+![[Untitled-2 8.png]]**
 
 **Classificazione: SEGRETO ASSOLUTO**  
 **Autore: B.B. Secondo (derivato da frammenti di direttive di Zorvath e analisi strategiche)**
@@ -190,3 +192,4 @@ Ogni volta che un dio viene liberato, conferisce al gruppo una **benedizione per
 - **Successo:** I giocatori resistono per 5 round, proteggendo almeno un'essenza divina. Si tuffano nel portale un istante prima che collassi, tornando a Fungorgo come i salvatori che hanno dato inizio a una nuova era. **La campagna è vinta.**
     
 - **Fallimento:** Il gruppo viene sopraffatto. Il Carceriere distrugge tutte le essenze divine o sconfigge i personaggi. Il portale si chiude, intrappolandoli per sempre a Carceri. **La campagna è persa.**
+  ![[Untitled-2 7.png]]
