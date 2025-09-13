@@ -36,6 +36,8 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 
 ### **Dossier A: Operazione "Blackout" (Assalto a Primus)**
 
+![[Untitled-2 3.png]]
+
 - **Descrizione:** "Il Laboratorio Primus è il cuore pulsante della fase iniziale del Progetto Nexus. Dobbiamo strapparglielo dal petto. L'obiettivo è l'infiltrazione e la distruzione totale."
     
 - **Tipo:** Combattimento, Infiltrazione Tattica.
