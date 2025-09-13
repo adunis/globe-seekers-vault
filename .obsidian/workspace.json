@@ -51,12 +51,14 @@
             "id": "8cfd112f3c4ef227",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "11 - La Carovana del Coro 1.png"
+                "file": "events/Globeseekers II/14 - Orologio del Nexus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "11 - La Carovana del Coro 1"
+              "icon": "lucide-file",
+              "title": "14 - Orologio del Nexus"
             }
           }
         ],
@@ -225,6 +227,11 @@
   },
   "active": "8cfd112f3c4ef227",
   "lastOpenFiles": [
+    "creatures/Spirit.md",
+    "characters/Globeseekers II/Zara'thiel.md",
+    "events/Globeseekers II/6 - La Forgia Cinerea e l'Accampamento CArotida.md",
+    "notes/Cosmology/History of the Cosmos.md",
+    "11 - La Carovana del Coro 1.png",
     "organisations/Globeseekers II/Broken Chain.md",
     "organisations/Globeseekers II/Caroniti di Wryss.md",
     "organisations/Globeseekers II/I Figli della Forgia Cinerea.md",
@@ -237,7 +244,6 @@
     "events/Globeseekers II/13 - La Caduta della Squadra Domino.md",
     "events/Globeseekers II/12 - La Caduta del Prefetto.md",
     "lore/Globeseekers II/I Faith Soldiers.md",
-    "11 - La Carovana del Coro 1.png",
     "lore/Globeseekers II",
     "2025-06-29.md",
     "index.md",
@@ -259,10 +265,6 @@
     "organisations/Globeseekers I/Angelorate of Cormyr.md",
     "organisations/Globeseekers I/Black Fangs.md",
     "organisations/Globeseekers I/City-State of Shammath.md",
-    "organisations/Globeseekers I/Cryptarchy of Sembia.md",
-    "organisations/Globeseekers I/Empire of Nether.md",
-    "organisations/Globeseekers I/Exorcistat of Damara.md",
-    "organisations/Globeseekers I/Free City of Procampur.md",
     "notes/Mecha PbA Rules",
     "locations/Globeseekers3",
     "characters/Globeseekers3",
