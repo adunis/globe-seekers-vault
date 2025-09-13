@@ -171,6 +171,8 @@ Ecco le tre missioni iniziali, presentate con i loro rischi e le loro ricompense
 
 ### **Dossier D : L'Avamposto dell'Ossidiana**
 
+![[Untitled-2.png]]
+
 - **Descrizione:** "Salvate i mercanti dell'Enclave Cromatica assediati dai predoni. Assicuratevi che sappiano chi li ha salvati, ma nascondete la vostra vera identità di Falchi Cremisi. L'obiettivo è creare un debito, non fare amicizia."
     
 - **Tipo:** **Salvataggio, Combattimento Tattico, Negoziazione Post-Scontro.
