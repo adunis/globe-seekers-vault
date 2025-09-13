@@ -1,10 +1,3 @@
-Perfetto, questo approccio in stile *XCOM* con conseguenze dinamiche per le missioni ignorate è eccellente per creare una campagna ad alta tensione. Ho strutturato l'inizio della prossima sessione e il nuovo ciclo di gioco attorno a queste regole.
-
-Ecco come puoi presentare la situazione ai giocatori.
-
----
-
-### **Inizio della Sessione: L'Orologio del Nexus**
 
 **(Testo da leggere ai giocatori dopo il riassunto della sessione precedente e il briefing di B.B. Secondo)**
 
