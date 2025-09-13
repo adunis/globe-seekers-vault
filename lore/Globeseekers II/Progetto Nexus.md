@@ -2,6 +2,8 @@
 
 ![[Untitled-2 4.png]]
 
+![[Untitled-2 6.png]]
+
 **Classificazione: ANATHEMA (Conoscenza Proibita)**
 
 #### **Il Concetto: L'Apotéosi di Vecna**
