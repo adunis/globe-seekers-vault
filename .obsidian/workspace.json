@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Globeseekers II/B.B. Secondo (Clone Leader Ribelle).md",
+                "file": "lore/Globeseekers II/Progetto Nexus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B.B. Secondo (Clone Leader Ribelle)"
+              "title": "Progetto Nexus"
             }
           }
         ],
@@ -240,8 +240,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de1d8f8ba9c063ad",
+  "active": "75121933d14025fd",
   "lastOpenFiles": [
+    "characters/Globeseekers II/B.B. Secondo (Clone Leader Ribelle).md",
     "events/Globeseekers II/14 - Orologio del Nexus.md",
     "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
     "characters/Globeseekers II/Il Party/Liora la Strega.md",
@@ -272,7 +273,6 @@
     "organisations/Globeseekers II/Gli Osservatori di Vecna.md",
     "maps/Altopiano delle Ossa.md",
     "maps/World Map.md",
-    "maps/Cormyr at War.md",
     "Untitled-2 3.png",
     "Untitled-2 2.png",
     "Untitled-2 1.png",
