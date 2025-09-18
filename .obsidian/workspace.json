@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ")",
+                "query": "Filamenti SInapt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +129,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75121933d14025fd",
+  "active": "de1d8f8ba9c063ad",
   "lastOpenFiles": [
     "events/Globeseekers II/14 - Orologio del Nexus.md",
     "characters/Globeseekers II/Il Party/Gianni, l'Ombra che Indaga.md",
