@@ -93,14 +93,7 @@ During the negotiation, players can take the following mechanically-supported ac
 
 *   **Leverage Renown:** If a hero’s Renown is equal to or greater than the NPC's Impression score, they gain an **edge** (+2 bonus) on certain social tests (e.g., a famous hero gets an edge on Persuade tests; an infamous one gets an edge on Intimidate tests).
 
-#### **Phase III: Finalization & Review**
-
-1.  **Integrate Hero Backstories:** I will review the characters' complications, goals, and backgrounds, and weave at least one character-specific element into the adventure.
-2.  **Reward Structure:** I will list the potential rewards: Victories (which convert to XP), Titles, Renown increases, Wealth, and specific Treasures (Consumables, Trinkets, and Leveled Treasures), ensuring they are appropriate for the party's echelon.
-3.  **Final Review:** I will conduct a final review of the entire adventure plan to check for logical consistency and ensure all encounters are prepared with the necessary mechanical details.
-
-
-Of course. Here is the continued breakdown of my adventure preparation protocol, focusing on the mechanical details of Montage Tests.
+#### **
 
 ***
 
@@ -168,3 +161,9 @@ I will then compare the final totals to determine the outcome:
 *   **Total Failure:** The Failure Limit was reached OR the second round ended, AND the heroes do NOT have at least two more successes than failures.
 
 Finally, I will narrate the pre-written outcome that corresponds to the result, transitioning the story into the next scene.
+
+Phase III: Finalization & Review**
+
+1.  **Integrate Hero Backstories:** I will review the characters' complications, goals, and backgrounds, and weave at least one character-specific element into the adventure.
+2.  **Reward Structure:** I will list the potential rewards: Victories (which convert to XP), Titles, Renown increases, Wealth, and specific Treasures (Consumables, Trinkets, and Leveled Treasures), ensuring they are appropriate for the party's echelon.
+3.  **Final Review:** I will conduct a final review of the entire adventure plan to check for logical consistency and ensure all encounters are prepared with the necessary mechanical details.
