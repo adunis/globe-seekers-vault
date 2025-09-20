@@ -400,3 +400,48 @@ On your turn, you can perform one of each of the following actions in any order.
     
 - **Weakened:** Takes a bane on all power rolls.
 
+
+#### **HOUSERULE! Falling Object Damage**
+
+This rule calculates the damage a creature takes when a sizable object falls or is dropped on them, replacing the standard "Falling Onto Another Creature" rule when the falling object is not a creature.
+
+- **Damage Calculation:** An object falling on a creature deals damage equal to **(2 x Squares Fallen) x Object's Size**. This damage is automatic and cannot be avoided with a test.
+    
+    - Example: A size 2 boulder that falls 10 squares onto a hero would deal (2 x 10) x 2 = 40 damage.
+        
+- **Minimum Size:** This rule only applies to objects of size 1S or larger. Tiny (1T) objects deal negligible damage when falling.
+    
+- **Object Damage:** The falling object also takes damage equal to half the damage it deals to the creature upon impact.
+    
+
+#### **HOUSERULE! Pinning**
+
+A new **Pinned** condition for when a creature is trapped beneath a significantly larger creature or object.
+
+- **Triggering Pinning:** A creature can become pinned under the following circumstances:
+    
+    1. A creature or object **two or more sizes larger** than the target ends its movement (willingly, via fall, or via forced movement) occupying the target's space.
+        
+    2. A creature is underneath an object that is **two or more sizes larger** when it falls on them.
+        
+- **The Pinned Condition:** A pinned creature suffers the following effects:
+    
+    - They are **restrained**.
+        
+    - They are **prone**.
+        
+    - They have **no line of effect** to any creature not adjacent to them, and all creatures have **cover** against them.
+        
+    - Allies cannot target the pinned creature with abilities unless they are adjacent and can narratively reach under the pinning object/creature.
+        
+- **Escaping a Pin:** A pinned creature or their allies can free them using standard game actions that target the pinning creature or object.
+    
+    - **Force:** Any character can use the **Knockback maneuver** on the pinning creature/object to attempt to push it off.
+        
+    - **Destruction:** Any character can use their **main action** to make a strike against the pinning object, attempting to destroy one square of it to create an opening.
+        
+    - **Wriggling Free:** The pinned creature can use their **move action** to attempt to crawl out from under the pinning object. This requires a **Hard Agility test**. A relevant skill such as **Gymnastics** or **Escape Artist** can be applied to this roll.
+        
+        - **Success:** The creature crawls to an adjacent unoccupied space of their choice and is no longer pinned.
+            
+        - **Failure:** The creature uses their movement but fails to escape.
