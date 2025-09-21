@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
+                "file": "events/Globeseekers II/14 - Orologio del Nexus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lava"
+              "title": "14 - Orologio del Nexus"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
+                "file": "events/Globeseekers II/14 - Orologio del Nexus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lava"
+              "title": "Backlinks for 14 - Orologio del Nexus"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
+                "file": "events/Globeseekers II/14 - Orologio del Nexus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lava"
+              "title": "Outgoing links from 14 - Orologio del Nexus"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
+                "file": "events/Globeseekers II/14 - Orologio del Nexus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lava"
+              "title": "Outline of 14 - Orologio del Nexus"
             }
           },
           {
@@ -186,8 +186,11 @@
   },
   "active": "1d992e7da2226dc7",
   "lastOpenFiles": [
-    "Bestiary/Dynamic Terrain/Environmental Hazards/Angry Beehive.md",
-    "Bestiary/Chapters/Monsters.md",
-    "Bestiary/Basics/Keywords/Animal.md"
+    "events/Globeseekers II/13 - La Caduta della Squadra Domino.md",
+    "Draw Steel/Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
+    "Draw Steel",
+    "Draw Steel/Bestiary/Dynamic Terrain/Environmental Hazards/Angry Beehive.md",
+    "Draw Steel/Bestiary/Chapters/Monsters.md",
+    "Draw Steel/Bestiary/Basics/Keywords/Animal.md"
   ]
 }

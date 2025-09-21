@@ -55,7 +55,7 @@ L'approccio di Vecna, per quanto potente, non è privo di difetti. La sua dottri
 *   **Resistenza Psichica vs Vulnerabilità Spirituale (La Rivelazione di Gianni):**
     Il condizionamento e l'influenza costante dell'[[N-Shard]] rendono la mente di uno psionico di Vecna una fortezza contro attacchi mentali diretti. Sono schermati dalla loro stessa, amplificata volontà. Tuttavia, questa iper-focalizzazione mentale li lascia **spiritualmente vulnerabili**. Il loro spirito, la loro anima, è una componente separata che viene trascurata, se non attivamente soppressa, dal loro addestramento.
     *   Un attacco psionico (come *Daze* o *Telepathic Demand*) potrebbe essere respinto facilmente.
-    *   Un attacco che bersaglia lo spirito (come gli effetti di un incantesimo *[[Spirit]] Blast* o l'energia di un'arma *[[Ghost]] Touch*) bypassa le loro difese mentali e colpisce direttamente la loro essenza indebolita. È come avere una corazza impenetrabile ma essere nudi al di sotto.
+    *   Un attacco che bersaglia lo spirito (come gli effetti di un incantesimo *[[Spirit]] Blast* o l'energia di un'arma *[[creatures/Ghost]] Touch*) bypassa le loro difese mentali e colpisce direttamente la loro essenza indebolita. È come avere una corazza impenetrabile ma essere nudi al di sotto.
 
 *   **Il Sussurro del Vuoto:**
     Ogni [[N-Shard]] è una connessione, per quanto debole, con il Reame Remoto. Questa connessione è una fonte di potere, ma anche di **corruzione e instabilità**. Uno psionico sotto stress, ferito o mentalmente affaticato potrebbe perdere brevemente il controllo, e i suoi poteri potrebbero manifestarsi in modo caotico e auto-distruttivo, o potrebbe diventare suscettibile a visioni e impulsi alieni.

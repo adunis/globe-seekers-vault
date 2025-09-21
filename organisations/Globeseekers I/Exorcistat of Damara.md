@@ -76,7 +76,7 @@ Damara is governed by a coalition of influential clans, each wielding significan
 4. [family:6924033]
 
    * **Overview**: Guardians of forbidden knowledge and practitioners of arcane arts, Clan Falken delves into magic that others deem too dangerous or heretical.
-   * **Specialization**: **Arcane Rituals and Demonology**. Clan Falken focuses on deep magical research, including summoning, binding, and controlling [[Demons]], as well as conducting complex arcane rituals.
+   * **Specialization**: **Arcane Rituals and Demonology**. Clan Falken focuses on deep magical research, including summoning, binding, and controlling [[creatures/Demons]], as well as conducting complex arcane rituals.
    * **Notable Members**:
 
      + **Archmage Liora Falken**: A master of elemental and dark magic, Liora walks the thin line between utilizing her powers for Damara’s benefit and succumbing to the Patron’s dark influence.

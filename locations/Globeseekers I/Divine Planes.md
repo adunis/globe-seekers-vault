@@ -78,7 +78,7 @@ native to the [[Prime Planes]] do not inhabit these realms.
 | **Lolth** | The Demonweb Pits | *Anarchs* (*Yochlols, Spider* *Anarchs*) | Vast networks of shadow and silk |
 | **Talos** | The Maelstrom | *Anarchs* (*Storm* *Anarchs**, Tempest* *Anarchs*) | Endless storms and destruction |
 
-* **Native Inhabitants**: **[[Demons]]**—chaotic entities carrying out the unpredictable and often inscrutable plans of their deities.
+* **Native Inhabitants**: **[[creatures/Demons]]**—chaotic entities carrying out the unpredictable and often inscrutable plans of their deities.
 
 ***
 

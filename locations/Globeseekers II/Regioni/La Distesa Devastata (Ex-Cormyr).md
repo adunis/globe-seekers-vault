@@ -111,7 +111,7 @@ prezzo della luce è l'oscu... *(il resto è fuso nel vetro)*"
 | --- | --- |
 | Quarzo | **Vene del Vuoto** Formazioni di quarzo nero che pulsano energia. Chi le tocca subisce mutazioni casuali. Usate dagli sciamani per "purificazioni". |
 | Fungo | **Ombre Fungine** Colonie che emettono spore psicoattive. Causano allucinazioni violente. I tossicodipendenti ne ricercano i "frutti del delirio". |
-| Cactus | **Spine di Karsus** Cactus bioluminescenti che iniettano veleno radioattivo. Le radici penetrano nei cadaveri per crearne [[Zombie]]. |
+| Cactus | **Spine di Karsus** Cactus bioluminescenti che iniettano veleno radioattivo. Le radici penetrano nei cadaveri per crearne [[creatures/Zombie]]. |
 
 ***
 

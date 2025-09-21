@@ -1,4 +1,4 @@
-[[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-Shard]][[B.B]][[Morun Tag]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]][[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-[[Altopi[[Altopiano delle Ossa]]g]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]]---
+[[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-Shard]][[B.B]][[Morun Tag]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[races/Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]][[Morun Tag]][[La Magia]][[Morun Tag]][[B.B]][[Morun Tag]][[Goblin]][[Morun Tag]][[I Figli della Forgia Cinerea]][[Ratfolk]][[B.B]][[Morun Tag]][[Goblin]][[La Magia]][[Morun Tag]][[B.B]][[N-[[Altopi[[Altopiano delle Ossa]]g]][[Ratfolk]][[Goblin]][[Goblin]][[B.B]][[B.B]][[B.B]][[Morun Tag]][[B.B]][[B.B]][[races/Orc]][[Goblin]][[B.B]][[Fungorgo]][[Congrega della Catena Spezzata]][[Broken Chain]][[Morun Tag]][[B.B]][[Broken Chain]][[Congrega della Catena Spezzata]][[Le Fortezze Divine]][[B.B]][[B.B]][[B.B]][[B.B]][[N-Shard]]---
 kanka_id: 1714713
 ---
 
@@ -280,7 +280,7 @@ sorto il regno personale del Dio Mutilato.
   Grossi insetti grigi con ali simili a funghi. Il loro stridio può
   segnalare tempeste di cenere o attirare predatori. A volte usati come
   cibo disperato o componenti alchemici.
-* **(Comuni) Ossa Parlanti ([[Skeleton]] Guard):** Guardie scheletriche base, onnipresenti.
+* **(Comuni) Ossa Parlanti ([[creatures/Skeleton]] Guard):** Guardie scheletriche base, onnipresenti.
 * **(Comuni) Cavalcature Scheletriche:** Resti animati di cavalli o altre bestie da soma, usati dai Caroniti e altre forze di Vecna.
 
 ***
