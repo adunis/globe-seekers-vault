@@ -65,13 +65,10 @@
             "id": "75121933d14025fd",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -138,8 +135,7 @@
               "title": "Gemini Scribe"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,10 +245,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "75121933d14025fd",
+  "active": "2cefcbdaed30b51b",
   "lastOpenFiles": [
-    "notes/Draw Steel Rules.md",
+    "Untitled 2.base",
     "Untitled 1.base",
+    "notes/Draw Steel Rules.md",
     "notes/La Magia.md",
     "lore/Globeseekers II/La Grande Discesa.md",
     "lore/Globeseekers II/Esperimenti di Vecna sugli N-Shard.md",
