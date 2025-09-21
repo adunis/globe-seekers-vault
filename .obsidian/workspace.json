@@ -11,10 +11,14 @@
             "id": "1d992e7da2226dc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lava"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lava"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lava"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Bestiary/Dynamic Terrain/Environmental Hazards/Lava.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lava"
             }
           },
           {
@@ -172,9 +179,15 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obisidian-note-linker:Note Linker": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "gemini-scribe:Open Gemini Chat": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "1d992e7da2226dc7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Bestiary/Dynamic Terrain/Environmental Hazards/Angry Beehive.md",
+    "Bestiary/Chapters/Monsters.md",
+    "Bestiary/Basics/Keywords/Animal.md"
+  ]
 }
