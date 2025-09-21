@@ -493,3 +493,130 @@ This rule creates a new **Pinned** condition for when a creature is trapped bene
     - **Destruction:** Use a **main action** to make a strike against a pinning object, attempting to destroy one square of it to create an opening.
         
     - **Wriggling Free:** The pinned creature can use their **move action** to make a **Hard Agility test** to crawl out from underneath. Relevant skills (e.g., Gymnastics) can be applied.
+
+Of course. I will provide a detailed breakdown of how Items (Treasures) and Titles function in *Draw Steel*, including their data models and examples. I will also explain the concept of Echelons to frame the context of power progression.
+
+This information will serve as my protocol for creating and integrating these elements into your campaign adventures.
+
+***
+
+### **Foundational Concept: Echelons of Play**
+
+Before diving into items and titles, it's crucial to understand Echelons. Echelons are the four distinct tiers of power that define a hero's journey in *Draw Steel*. They represent not just the character's level, but the scope and scale of the challenges they face and the rewards they can earn. When I design adventures, I will build them around the party's current Echelon.
+
+*   **1st Echelon (Levels 1-3): Local Heroes**
+    *   **Scope:** Saving a single village, a city district, or a small barony.
+    *   **Threats:** Bandits, goblins, ogres, lesser undead, and corrupt local officials.
+    *   **Rewards:** Heroes acquire their first useful treasures and might earn a local title like "Brawler" or "Local Hero."
+
+*   **2nd Echelon (Levels 4-6): Regional Saviors**
+    *   **Scope:** Defending an entire kingdom, leading a small army, thwarting a major villainous organization.
+    *   **Threats:** Giants, medusas, powerful devils, and organized military forces led by skilled commanders.
+    *   **Rewards:** Heroes find or craft more powerful leveled treasures and can earn significant titles like "Knight" or "Battlefield Commander."
+
+*   **3rd Echelon (Levels 7-9): World Savers**
+    *   **Scope:** Confronting threats to an entire continent or world, dealing with extraplanar incursions.
+    *   **Threats:** Vampires, powerful dragons, valok, and lieutenants of world-ending villains.
+    *   **Rewards:** Leveled treasures are fully unlocked, and titles like "Demon Slayer" or "Peace Bringer" reflect their world-shaping deeds.
+
+*   **4th Echelon (Level 10): Legends of the Timescape**
+    *   **Scope:** Battling demigods, saving the multiverse (the Timescape), confronting the ultimate campaign villain.
+    *   **Threats:** Liches, ancient dragons, archdevils, and universe-threatening entities like Ajax the Invincible.
+    *   **Rewards:** Heroes may acquire artifacts and earn legendary titles like "Monarch" or "Demigod."
+
+---
+
+### **Understanding Items (Treasures)**
+
+In *Draw Steel*, items with supernatural properties are called **Treasures**. They are rare, powerful, and central to a hero's progression. They are not typically purchased in shops but are found in dangerous locations, received as rewards from powerful NPCs, or crafted through significant effort during downtime.
+
+There are four primary types of Treasures:
+
+1.  **Consumables:** Single-use items like potions, scrolls, or alchemical bombs.
+2.  **Trinkets:** Items with persistent, often utility-focused magical properties, like gloves that help you climb or a cloak that aids in stealth.
+3.  **Leveled Treasures:** The most significant equipment. These are typically armor, weapons, and implements that grow in power as the hero gains levels.
+4.  **Artifacts:** Unique, world-changing items with immense power that can define an entire campaign.
+
+#### **The Data Model of an Item**
+
+When I create or present a treasure for your campaign, I will use the following data structure:
+
+*   **Name:** The item's evocative name (e.g., *Blade of Quintessence*).
+*   **Flavor Text:** A short, descriptive sentence to set the mood.
+*   **Keywords:** Tags that define the item's mechanics and type.
+    *   **Supernatural Type:** `Magic` or `Psionic`.
+    *   **Item Category:** `Potion`, `Light Armor`, `Heavy Weapon`, `Implement`, `Ring`, etc. This determines which kits or character types can use it effectively.
+    *   **Body Slot (for wearables):** `Head`, `Neck`, `Arms`, `Hands`, `Waist`, `Feet`.
+*   **Item Prerequisite (for crafting):** The rare, narrative component needed to begin crafting the item (e.g., "A ruby hardened in the fires of the City of Brass"). This serves as an adventure hook.
+*   **Project Source (for crafting):** The "recipe" or knowledge needed, often in a specific language (e.g., "Texts or lore in Zaliac").
+*   **Project Roll Characteristic (for crafting):** The primary characteristic used for the crafting project roll (e.g., `Might`, `Reason`, or `Intuition`).
+*   **Project Goal (for crafting):** The number of project points required to complete the item.
+*   **Effect / Leveled Benefits:** This is the core mechanical description.
+    *   For **Consumables** and **Trinkets**, this is a single "Effect" block.
+    *   For **Leveled Treasures**, this is broken down into benefits gained at **1st Level**, **5th Level**, and **9th Level**. The benefits are cumulative.
+
+#### **Example Items**
+
+Here are examples illustrating the different treasure types:
+
+**1. Consumable (1st Echelon)**
+*   **Name:** Healing Potion
+*   **Keywords:** Magic, Potion
+*   **Effect:** When you drink this potion as a maneuver, you regain Stamina equal to your recovery value without spending a Recovery.
+
+**2. Trinket (2nd Echelon)**
+*   **Name:** Gecko Gloves
+*   **Keywords:** Hands, Magic
+*   **Effect:** While you wear these gloves, your grip is all but impossible to break. You can’t be disarmed, you can’t lose your grip while climbing unless you are force moved, and any creature grabbed by you takes a bane on the test for the Escape Grab maneuver.
+
+**3. Leveled Treasure (Armor)**
+*   **Name:** Grand Scarab
+*   **Keywords:** Magic, Medium Armor
+*   **1st Level:** While you wear this armor, you gain a +6 bonus to Stamina and you can fly. If you don’t end your turn on the ground, you fall.
+*   **5th Level:** The armor’s bonus to Stamina increases to +12. Additionally, you no longer need to end your turn on the ground to avoid falling.
+*   **9th Level:** The armor’s bonus to Stamina increases to +21. Additionally, if you fly any distance before making a strike, that strike gains an edge.
+
+---
+
+### **Understanding Titles**
+
+Titles are narrative rewards earned by heroes for completing significant, heroic deeds. Unlike treasures, they are not physical items but rather acknowledgments of a hero's status and accomplishments that grant them new, permanent abilities or benefits. A hero does not choose a title; they earn it when the Director determines they have met the requirements.
+
+#### **The Data Model of a Title**
+
+When I award a title to the heroes in your campaign, I will present it using the following structure:
+
+*   **Name:** The name of the title (e.g., *Dragon Blooded*).
+*   **Flavor Text:** A short quote or description that embodies the title.
+*   **Prerequisite:** The specific, narrative achievement required to earn the title. This is the most critical component. It is a story milestone, not something that can be achieved through a simple roll. (e.g., "You defeat a leader or solo creature with the Dragon keyword").
+*   **Echelon:** The recommended Echelon at which this title is typically earned.
+*   **Effect:** The mechanical benefit the title provides. Often, a title offers a **choice of benefits**, allowing each player to customize their reward. A hero can only choose one benefit from the list provided by a single title.
+
+#### **Example Titles**
+
+Here are examples illustrating how titles function across different echelons:
+
+**1. 1st-Echelon Title**
+*   **Name:** Local Hero
+*   **Prerequisite:** You save a community from certain destruction.
+*   **Effect:** Choose one of the following benefits:
+    *   **Easy Marks:** You gain an edge on tests made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
+    *   **Local Fame:** You earn 1 Renown.
+    *   **A New Dawn:** Each time you finish a respite while in a community you have saved, the party gains a hero token.
+
+**2. 2nd-Echelon Title**
+*   **Name:** Giant Slayer
+*   **Prerequisite:** You defeat a leader or solo creature with the Giant keyword.
+*   **Effect:** Choose one of the following benefits:
+    *   **Smallfolk Dodge:** Any creature of size 2 or larger takes a bane on strikes against you.
+    *   **The Harder They Fall:** You gain a new heroic ability called "The Harder They Fall" that is particularly effective at knocking large creatures prone.
+    *   **Up the Beanstalk:** You gain the Climb skill (or an edge if you already have it) and significant advantages when climbing creatures.
+
+**3. 4th-Echelon Title**
+*   **Name:** Demigod
+*   **Prerequisite:** You have the Godsworn title, and hundreds of worshipful mortals complete a divine ritual in your name.
+*   **Effect:** You gain the following benefits:
+    *   **Immortal Excellence:** A characteristic of your choice increases by 1 (to a maximum of 6).
+    *   **Longevity:** Your natural lifespan doubles.
+    *   **Worshippers:** You magically hear prayers directed to you.
+    *   **Additionally, choose one:** Acolytes (more followers), Divine Weapons (change damage type to holy/corruption), or Missionaries (more Renown).
