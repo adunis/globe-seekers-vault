@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw Steel Templates/Negotations.md",
-                "mode": "preview",
+                "file": "Draw Steel Templates/Ability.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Negotations"
+              "title": "Ability"
             }
           }
         ],
@@ -216,6 +216,8 @@
   },
   "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
+    "Draw Steel Templates/Negotations.md",
+    "Draw Steel Templates/Ability.md",
     "Globeseekers II/races/Orc.md",
     "Globeseekers II/races/Orconoid.md",
     "Globeseekers II/journals/Draw Steel Summary of Rules.md",
@@ -229,7 +231,6 @@
     "Globeseekers II/lore/Esperimenti di Vecna sugli N-Shard.md",
     "Globeseekers II/journals/Trama Generale Campagna (Draw Steel).md",
     "Globeseekers II/journals/Note del DM.md",
-    "Draw Steel Templates/Negotations.md",
     "Draw Steel Templates",
     "Untitled.md",
     "Untitled.canvas",
@@ -244,7 +245,6 @@
     "DS Compendium/Rules/Classes By Level/Elementalist/7th Level Features.md",
     "DS Compendium/Rules/Classes By Level/Elementalist/2nd Level Features.md",
     "DS Compendium/Rules/Classes By Level/Elementalist/5th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Elementalist/3rd Level Features.md",
     "DS Compendium/Rules/Classes By Level/Elementalist",
     "DS Compendium/Rules/Classes By Level/Null",
     "DS Compendium/Rules/Classes By Level/Talent",
