@@ -1,6 +1,6 @@
 Based on the provided `draw-steel-elements` plugin files and the Steel Compendium SDK, here is a comprehensive YAML template for a "Montage Test". This template is designed to be used within a `ds-ability` code block in Obsidian.
 
-```yaml
+~~~ds-values-row
 # -------------------
 # MONTAGE TEST TEMPLATE
 # -------------------
@@ -52,6 +52,5 @@ effects:
     t3: "On a result of 17 or higher, the characters excel, achieving their goal with an additional advantage or unforeseen benefit."
     # (Optional) Result for a critical success (e.g., Natural 19-20).
     crit: "On a critical success, the characters achieve a masterful breakthrough, fundamentally changing their situation for the better."
-```
-
+~~~
 
