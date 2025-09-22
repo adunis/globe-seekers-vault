@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II/journals/Globeseekers 2 Campagna Draw Steel - Regole.md",
+                "file": "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/Done/Trama Generale Campagna (Pathfinder 2).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Globeseekers 2 Campagna Draw Steel - Regole"
+              "title": "Trama Generale Campagna (Pathfinder 2)"
             }
           }
         ],
@@ -214,12 +214,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4337d7efb818b2e",
+  "active": "550cd1e8db04324f",
   "lastOpenFiles": [
-    "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
+    "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/Done/9.1 - Loot Carotidi e Chirr-Click.md",
+    "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/Done/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
+    "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/Done/9.3 - Hexcrawl Tabelle Random.md",
+    "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/Done",
+    "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)/11 - L'Orologio del Nexus.md",
+    "Globeseekers II/lore/Esperimenti di Vecna sugli N-Shard.md",
+    "Globeseekers II/journals/Globeseekers 2 Campagna Draw Steel - Regole.md",
     "Globeseekers II/journals/Trama Generale Campagna (Draw Steel).md",
     "Globeseekers II/journals/Note del DM.md",
-    "Globeseekers II/journals/Globeseekers 2 Campagna Draw Steel - Regole.md",
     "Draw Steel Templates/Negotations.md",
     "Draw Steel Templates",
     "Globeseekers II/journals/Draw Steel Rules.md",
@@ -240,10 +245,6 @@
     "DS Compendium/Rules/Classes By Level/Elementalist/8th Level Features.md",
     "DS Compendium/Rules/Classes By Level/Null/4th Level Features.md",
     "DS Compendium/Rules/Classes By Level/Null/9th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Null/10th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Null/6th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Null/1st Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Null/Basics.md",
     "DS Compendium/Rules/Classes By Level/Elementalist",
     "DS Compendium/Rules/Classes By Level/Null",
     "DS Compendium/Rules/Classes By Level/Talent",
@@ -252,7 +253,6 @@
     "DS Compendium/Rules/Classes By Level/Fury",
     "DS Compendium/Rules/Classes By Level/Tactician",
     "DS Compendium/Rules/Classes By Level/Troubadour",
-    "DS Compendium/Rules/Classes By Level/Conduit",
     "gallery/11 - La Carovana del Coro 1.png",
     "gallery/golem.jpg",
     "gallery/Whisk_434510a231.jpg",
