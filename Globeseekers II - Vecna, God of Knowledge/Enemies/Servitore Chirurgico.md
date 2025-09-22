@@ -1,4 +1,3 @@
-
 ~~~ds-statblock
 name: Servitore Chirurgico
 level: 1
@@ -41,4 +40,37 @@ abilities:
         t1: 4 damage
         t2: 6 damage
         t3: 8 damage
+  - name: Incisione Infetta
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Melee
+      - Strike
+      - Weapon
+    distance: Melee 1
+    target: One enemy
+    effects:
+      - roll: Power Roll + 1
+        t1: 3 damage.
+        t2: 4 damage; the target is weakened until the end of its next turn.
+        t3: 6 damage; the target is weakened (save ends).
+  - name: Passo Inesorabile
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Move
+    distance: Self
+    target: Self
+    effects:
+      - effect: This creature shifts up to 2 squares, ignoring difficult terrain during this movement.
+  - name: Intralcio Cadaverico
+    icon: ❗️
+    type: Triggered action
+    trigger: An adjacent minion ally is targeted by a melee strike.
+    distance: Self
+    target: Self
+    effects:
+      - effect: The triggering strike takes a bane. This creature then takes 2 damage that can't be reduced.
 ~~~
+
+

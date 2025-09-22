@@ -21,11 +21,11 @@ reason: 1
 intuition: 1
 presence: 0
 traits:
-  - name: Unseen Death
+  - name: Morte Invisibile
     effects:
-      - effect: The Soul-Sniper can attempt to Hide as a maneuver even if they are only lightly obscured by ashfall or shadows.
+      - effect: Lo Soul-Sniper può tentare di Nascondersi come manovra anche se è solo leggermente oscurato da cenere o ombre.
 abilities:
-  - name: Soul-Piercing Bolt
+  - name: Dardo Trapassa-Anima
     icon: 🗡
     cost: Signature Ability
     keywords:
@@ -42,7 +42,22 @@ abilities:
         t2: 10 corruption damage.
         t3: 11 corruption damage; the target cannot regain Stamina until the end of its next turn.
       - effect: This ability ignores cover.
-  - name: Gaze of the Lich
+  - name: Tiro Immobilizzante
+    icon: 🗡
+    keywords:
+      - Ranged
+      - Strike
+      - Weapon
+      - Necromancy
+    type: Main action
+    distance: Ranged 12
+    target: One creature
+    effects:
+      - roll: Power Roll + 2
+        t1: 5 corruption damage.
+        t2: 7 corruption damage; the target is slowed until the end of its next turn.
+        t3: 9 corruption damage; the target is slowed (save ends).
+  - name: Sguardo del Lich
     icon: 🌀
     keywords:
       - Psionic
@@ -50,6 +65,18 @@ abilities:
     distance: Self
     target: Self
     effects:
-      - effect: The Soul-Sniper gains an edge on their next strike. If they do not move before making that strike, they also gain a +2 damage bonus.
+      - effect: Lo Soul-Sniper ottiene un edge sul suo prossimo tiro per colpire. Se non si muove prima di effettuare quel colpo, ottiene anche un bonus di +2 ai danni.
+  - name: Tiro di Ritiro
+    icon: ❗️
+    keywords:
+      - Ranged
+      - Strike
+    type: Triggered action
+    trigger: An enemy willingly ends its move within 5 squares of the Soul Sniper.
+    distance: Ranged 12
+    target: The triggering enemy
+    effects:
+      - effect: Lo Soul-Sniper effettua un free strike a distanza contro il bersaglio che infligge metà del danno. Può quindi spostarsi (shift) fino a 2 quadretti.
 ~~~
+
 
