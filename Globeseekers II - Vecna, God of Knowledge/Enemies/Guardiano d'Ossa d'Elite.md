@@ -4,6 +4,7 @@ name: Guardiano d'Ossa d'Elite
 level: 2
 roles:
   - Platoon Defender
+  - Captain
 ancestry:
   - Undead
   - Skeleton

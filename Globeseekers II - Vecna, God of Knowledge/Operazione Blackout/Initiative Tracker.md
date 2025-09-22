@@ -57,7 +57,7 @@ enemy_groups:
             temp_stamina: 0
             conditions: []
     has_taken_turn: false
-    is_squad: true
+    is_squad: false
   - name: Servitori Chirurgici
     creatures:
       - name: Servitore Chirurgico
@@ -119,3 +119,4 @@ villain_power:
 malice:
   value: 0
 ```
+
