@@ -1,22 +1,5 @@
 
-### **HOUSERULE! Falling Object Trajectory & Deviation**
 
-This rule determines where a falling object lands.
-
-- **Deviation Calculation:**
-    
-    1. Determine the **Impact Point** (the square directly below).
-        
-    2. For every **5 full squares** the object falls, it gains **1 Deviation Point**.
-        
-    3. Roll a **d10** and consult the **Scatter Diagram** to find the direction of deviation.
-        
-    4. The object's final landing square is a number of squares away from the Impact Point equal to the Deviation Points, in the direction rolled.
-        
-- **Scatter Diagram:**
-    
-    - **1:** Up-Left | **2:** Up | **3:** Up-Right | **4:** Left | **5-6:** No Deviation | **7:** Right | **8:** Down-Left | **9:** Down | **10:** Down-Right
-        
 
 #### **HOUSERULE! Sliding and Rolling Objects on Slopes**
 
