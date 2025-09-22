@@ -11,17 +11,14 @@
             "id": "1d992e7da2226dc7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -44,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II/journals/Regole Campagna Nexus Clock.md",
+                "file": "Globeseekers II/Enemies/Soul Sniper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regole Campagna Nexus Clock"
+              "title": "Soul Sniper"
             }
           }
         ],
@@ -216,6 +213,8 @@
   },
   "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
+    "Globeseekers II/journals/Regole Campagna Nexus Clock.md",
+    "Globeseekers II/Enemies/Soul Sniper.md",
     "Globeseekers II/journals/Note del DM.md",
     "Globeseekers II/events/13 - La Caduta della Squadra Domino.md",
     "Draw Steel Templates/Statblock.md",
@@ -230,10 +229,9 @@
     "Draw Steel Templates/Charateristics.md",
     "Draw Steel Templates/Ability.md",
     "Draw Steel Templates/Negotations.md",
-    "Globeseekers II/races/Orc.md",
-    "Globeseekers II/races/Orconoid.md",
+    "Globeseekers II/lore/races/Orc.md",
+    "Globeseekers II/lore/races/Orconoid.md",
     "Globeseekers II/journals/Draw Steel Summary of Rules.md",
-    "Globeseekers II/journals/Regole Campagna Nexus Clock.md",
     "Globeseekers II/journals/Programmi Sessioni/Done/Trama Generale Campagna (Pathfinder 2).md",
     "Globeseekers II/journals/Programmi Sessioni/Done/9.1 - Loot Carotidi e Chirr-Click.md",
     "Globeseekers II/journals/Programmi Sessioni/Done/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
@@ -245,7 +243,6 @@
     "Draw Steel Templates",
     "Untitled.md",
     "Untitled.canvas",
-    "DS Compendium/Bestiary/Monsters/Ajax the Invincible/Ajax the Invincible.md",
     "DS Compendium/Rules/Classes By Level/Elementalist",
     "DS Compendium/Rules/Classes By Level/Null",
     "DS Compendium/Rules/Classes By Level/Talent",
