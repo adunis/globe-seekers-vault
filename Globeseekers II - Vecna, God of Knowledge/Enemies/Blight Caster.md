@@ -1,3 +1,4 @@
+~~~ds-statblock
 name: Blight Caster
 level: 1
 roles:
@@ -42,3 +43,37 @@ abilities:
         t1: 2 corruption damage.
         t2: 3 corruption damage; the area is difficult terrain until the end of the Blight Caster's next turn.
         t3: 4 corruption damage; p<1> slowed (save ends).
+  - name: Corrupting Ray
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Ranged
+      - Strike
+      - Necromancy
+    distance: Ranged 8
+    target: One enemy
+    effects:
+      - roll: Power Roll + 2
+        t1: 4 corruption damage.
+        t2: 6 corruption damage; the target has corruption weakness 2 until the end of its next turn.
+        t3: 8 corruption damage; the target has corruption weakness 2 (save ends).
+  - name: Miasma Cloud
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Magic
+      - Zone
+    distance: Self
+    target: Self
+    effects:
+      - effect: The Blight Caster creates a 1-burst cloud of noxious gas centered on itself. The cloud lasts until the start of its next turn. The area within the cloud is lightly obscured.
+  - name: Spore Puff
+    icon: ❗️
+    type: Triggered action
+    trigger: The Blight Caster is targeted by a ranged strike.
+    distance: Self
+    target: Self
+    effects:
+      - effect: The triggering strike takes a bane.
+~~~
+
