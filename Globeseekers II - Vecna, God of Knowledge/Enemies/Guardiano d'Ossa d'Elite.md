@@ -1,4 +1,3 @@
-
 ~~~ds-statblock
 name: Guardiano d'Ossa d'Elite
 level: 2
@@ -42,4 +41,32 @@ abilities:
         t1: 6 damage
         t2: 10 damage
         t3: 12 damage
+  - name: Formazione a Scudo!
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Area
+    distance: 1 burst
+    target: Self and each undead ally in the area
+    effects:
+      - effect: Each target gains a +2 bonus to Stability and damage immunity 2 until the start of this creature's next turn.
+  - name: Interposizione
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Move
+    distance: Self
+    target: Self
+    effects:
+      - effect: The Guardiano shifts up to its speed. This movement must end in a square adjacent to an undead ally.
+  - name: Proteggere i Ranghi
+    icon: ❗️
+    type: Triggered action
+    trigger: An undead ally within 2 squares is targeted by a strike.
+    distance: Self
+    target: Self
+    effects:
+      - effect: The triggering strike takes a bane.
 ~~~
+
+
