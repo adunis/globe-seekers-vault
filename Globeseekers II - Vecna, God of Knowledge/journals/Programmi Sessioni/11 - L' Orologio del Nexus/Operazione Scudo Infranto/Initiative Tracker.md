@@ -33,11 +33,13 @@ enemy_groups:
         amount: 12
         image: 
         isHero: false
+        squad_role: minion
       - name: Abominio di Carne
         max_stamina: 40
         amount: 8
         image: 
         isHero: false
+        squad_role: minion
     has_taken_turn: false
     is_squad: true
   - name: Gigante d'Ossa
@@ -54,5 +56,3 @@ villain_power:
 malice:
   value: 0
 ```
-
-
