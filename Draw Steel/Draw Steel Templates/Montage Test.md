@@ -1,37 +1,5 @@
 
 
-
-
-
-```ds-counter
-max_value: 5
-current_value: 0
-min_value: 0
-name: Successes
-value_height: 3
-name_height: 1
-```
-
-```ds-counter
-max_value: 3
-current_value: 0
-min_value: 0
-name: Failures
-value_height: 3
-name_height: 1
-```
-
-
-```ds-counter
-max_value: 2
-current_value: 0
-min_value: 0
-name: Round
-value_height: 3
-name_height: 1
-```
-
-
 ~~~ds-ab
 name: 'Montage: Escape from the Iron Keep'
 type: Extended Action
@@ -67,3 +35,31 @@ effects:
       The party is discovered, leading to a direct confrontation or capture.
 ~~~
 
+
+```ds-counter
+max_value: 5
+current_value: 0
+min_value: 0
+name: Successes
+value_height: 3
+name_height: 1
+```
+
+```ds-counter
+max_value: 3
+current_value: 0
+min_value: 0
+name: Failures
+value_height: 3
+name_height: 1
+```
+
+
+```ds-counter
+max_value: 2
+current_value: 0
+min_value: 0
+name: Round
+value_height: 3
+name_height: 1
+```
