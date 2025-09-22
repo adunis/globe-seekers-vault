@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS Compendium/Bestiary/Monsters/Ajax the Invincible/Ajax the Invincible.md",
+                "file": "Draw Steel/DS Compendium/Bestiary/Monsters/Ajax the Invincible/Ajax the Invincible.md",
                 "mode": "preview",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw Steel Templates/Skills.md",
+                "file": "Draw Steel/Draw Steel Templates/Montage Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Montage Test"
             }
           }
         ],
@@ -213,10 +213,13 @@
   },
   "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
-    "Draw Steel Templates/Statblock.md",
-    "Draw Steel Templates/Stamina Bar.md",
-    "Draw Steel Templates/Skills.md",
-    "Draw Steel Templates/Negotations.md",
+    "Draw Steel/Draw Steel Templates/Skills.md",
+    "Draw Steel/Draw Steel Templates/Montage Test.md",
+    "Draw Steel",
+    "Old Campaigns",
+    "Draw Steel/Draw Steel Templates/Statblock.md",
+    "Draw Steel/Draw Steel Templates/Stamina Bar.md",
+    "Draw Steel/Draw Steel Templates/Negotations.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Blight Caster.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Soul Sniper.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Regole Campagna Nexus Clock.md",
@@ -224,12 +227,12 @@
     "Globeseekers II - Vecna, God of Knowledge/events/13 - La Caduta della Squadra Domino.md",
     "Globeseekers II/Untitled.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies",
-    "Draw Steel Templates/Values.md",
-    "Draw Steel Templates/Initiative Tracker.md",
-    "Draw Steel Templates/Horizontal Rule.md",
-    "Draw Steel Templates/Counter.md",
-    "Draw Steel Templates/Charateristics.md",
-    "Draw Steel Templates/Ability.md",
+    "Draw Steel/Draw Steel Templates/Values.md",
+    "Draw Steel/Draw Steel Templates/Initiative Tracker.md",
+    "Draw Steel/Draw Steel Templates/Horizontal Rule.md",
+    "Draw Steel/Draw Steel Templates/Counter.md",
+    "Draw Steel/Draw Steel Templates/Charateristics.md",
+    "Draw Steel/Draw Steel Templates/Ability.md",
     "Globeseekers II - Vecna, God of Knowledge/lore/races/Orc.md",
     "Globeseekers II - Vecna, God of Knowledge/lore/races/Orconoid.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Draw Steel Summary of Rules.md",
@@ -240,16 +243,13 @@
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/Done",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L'Orologio del Nexus.md",
     "Globeseekers II - Vecna, God of Knowledge/lore/Esperimenti di Vecna sugli N-Shard.md",
-    "Globeseekers II - Vecna, God of Knowledge/journals/Trama Generale Campagna (Draw Steel).md",
-    "Draw Steel Templates",
+    "Draw Steel/Draw Steel Templates",
     "Untitled.canvas",
-    "DS Compendium/Rules/Classes By Level/Elementalist",
-    "DS Compendium/Rules/Classes By Level/Null",
-    "DS Compendium/Rules/Classes By Level/Talent",
-    "DS Compendium/Rules/Classes By Level/Shadow",
-    "DS Compendium/Rules/Classes By Level/Censor",
-    "DS Compendium/Rules/Classes By Level/Fury",
-    "DS Compendium/Rules/Classes By Level/Tactician",
+    "Draw Steel/DS Compendium/Rules/Classes By Level/Elementalist",
+    "Draw Steel/DS Compendium/Rules/Classes By Level/Null",
+    "Draw Steel/DS Compendium/Rules/Classes By Level/Talent",
+    "Draw Steel/DS Compendium/Rules/Classes By Level/Shadow",
+    "Draw Steel/DS Compendium/Rules/Classes By Level/Censor",
     "gallery/11 - La Carovana del Coro 1.png",
     "gallery/golem.jpg",
     "gallery/Whisk_434510a231.jpg",
