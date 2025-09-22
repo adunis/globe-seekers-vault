@@ -1,0 +1,26 @@
+
+# Dossier: L'Avamposto dell'Ossidiana
+
+## Contesto
+
+L'Avamposto dell'Ossidiana è una missione di salvataggio, combattimento tattico e negoziazione. L'obiettivo è salvare i mercanti dell'Enclave Cromatica assediati dai predoni, ma senza rivelare la propria identità di Falchi Cremisi. Lo scopo finale è creare un debito con l'Enclave, non un'alleanza.
+
+## Flusso Narrativo
+
+I giocatori devono rompere l'assedio dei predoni per raggiungere i mercanti intrappolati nell'avamposto. Dopo aver sconfitto i predoni, i giocatori devono negoziare con il capo della carovana, il Mercante Zailen, per formalizzare il "debito" e ottenere un vantaggio strategico per il futuro.
+
+## Elementi di Gioco
+
+- **Location:** Un avamposto fortificato nel deserto, circondato da rocce taglienti e sabbie mobili. L'ambiente offre coperture e terreno difficile, che possono essere sfruttati sia dai giocatori che dai nemici.
+
+- **Combattimento Tattico:** Lo scontro con i predoni è rappresentato nel file `Initiative Tracker.md`. I giocatori dovranno affrontare:
+    - **"Mad" Mags:** La carismatica leader dei predoni.
+    - **Guerrieri delle Dune e Cecchini delle Rocce:** L'orda di predoni.
+    - **Bruti Corazzati:** Combattenti d'élite pesantemente corazzati.
+
+- **Negoziazione Post-Scontro:** Dopo la battaglia, i giocatori devono negoziare con il Mercante Zailen. Questa interazione è descritta nel file `Negotiations.md`. L'obiettivo non è solo ottenere una ricompensa, ma stabilire un rapporto di debito che possa essere sfruttato in futuro. Le motivazioni e le trappole di Zailen sono dettagliate nel file di negoziazione.
+
+- **Ostacoli Aggiuntivi:**
+    - **Fiducia Difficile:** I mercanti terrorizzati potrebbero scambiare i giocatori per nemici. Sarà necessario un **Presence (Persuade) Test** per convincerli della propria buona fede.
+
+Il successo in questa missione fornirà ai giocatori un prezioso contatto e una potenziale fonte di informazioni e risorse per le missioni future.
