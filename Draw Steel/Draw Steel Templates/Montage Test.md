@@ -22,6 +22,16 @@ name_height: 1
 ```
 
 
+```ds-counter
+max_value: 2
+current_value: 0
+min_value: 0
+name: Round
+value_height: 3
+name_height: 1
+```
+
+
 ~~~ds-ab
 name: 'Montage: Escape from the Iron Keep'
 type: Extended Action
