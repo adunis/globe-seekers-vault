@@ -11,14 +11,10 @@
             "id": "1d992e7da2226dc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Back Blasphemer"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Back Blasphemer"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Back Blasphemer"
+              "title": "Outgoing links"
             }
           },
           {
@@ -184,7 +178,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1d992e7da2226dc7",
+  "active": "550cd1e8db04324f",
   "lastOpenFiles": [
     "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Arrest.md",
     "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
