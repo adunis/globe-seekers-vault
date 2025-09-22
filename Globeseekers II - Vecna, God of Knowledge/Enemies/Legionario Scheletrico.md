@@ -1,4 +1,3 @@
-
 ~~~ds-statblock
 name: Legionario Scheletrico
 level: 1
@@ -40,4 +39,34 @@ abilities:
         t1: 4 damage
         t2: 6 damage
         t3: 8 damage
+  - name: Tiro di Sbarramento
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Ranged
+      - Strike
+      - Weapon
+    distance: Ranged 10
+    target: One enemy
+    effects:
+      - roll: Power Roll + 1
+        t1: 3 damage
+        t2: 5 damage; the target is weakened until the end of its next turn.
+        t3: 7 damage; the target is weakened (save ends).
+  - name: Prendere la Mira
+    icon: 🌀
+    type: Maneuver
+    distance: Self
+    target: Self
+    effects:
+      - effect: This creature gains an edge on its next ranged strike this turn.
+  - name: Passo Indietro e Tiro
+    icon: ❗️
+    type: Triggered action
+    trigger: An enemy willingly ends its move in a square adjacent to this creature.
+    distance: Self
+    target: The triggering enemy
+    effects:
+      - effect: This creature can immediately shift 1 square away from the target and then make a ranged free strike against it. This free strike deals half damage.
 ~~~
+
