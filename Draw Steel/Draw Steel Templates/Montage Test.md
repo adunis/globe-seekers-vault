@@ -71,11 +71,7 @@ name_height: 1
 ```
 
 
-Here's a condensed version, focusing only on the rules needed to create and run a Montage Test, formatted in Markdown:
 
-# Montage Tests: Rules Summary
-
-Montage tests are used for prolonged, collaborative goals requiring multiple character characteristics, involving high stakes or pressure (e.g., deadlines, impending harm).
 
 ## Creating a Montage Test
 
@@ -134,3 +130,5 @@ The montage test ends when:
 *   **Total Failure:** Achieved if the failure limit or time runs out, AND heroes do *not* have at least two more successes than failures (Successes < Failures + 2).
     *   **Reward:** None.
     *   **Effect:** Goal not achieved, leading to new interesting challenges.
+
+
