@@ -35,10 +35,7 @@ console (F12) for any red error messages.
         _dsid: "goblin-gutter-skulk"
       },
       items: [ 
-            },
-            effect: { before: "<p>The goblin lashes out with its crude blade.</p>", after: "" }, spend: { text: "", value: null }
-          }
-        }
+ 
       ]
     };
     await Actor.create(monsterData, { renderSheet: true });
