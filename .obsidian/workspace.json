@@ -11,10 +11,17 @@
             "id": "1d992e7da2226dc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -74,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "a57c0f6a8b52617a",
@@ -180,6 +187,8 @@
   },
   "active": "550cd1e8db04324f",
   "lastOpenFiles": [
+    "index.md",
+    "2025-06-29.md",
     "Globeseekers III/locations/Colonial Worlds.md",
     "Globeseekers III/locations",
     "Globeseekers II/locations/Regioni/Xar'Vhalis, le Lande Grigie Fumali.md",
@@ -208,8 +217,6 @@
     "Globeseekers I/locations/Umbria.md",
     "Globeseekers I/locations/Zerthadlun.md",
     "Globeseekers I/locations/The Necro-Catacomb.md",
-    "Globeseekers I/locations/Tezir.md",
-    "Globeseekers I/locations/Procampur.md",
     "Globeseekers I/locations",
     "Globeseekers 0/locations",
     "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)",

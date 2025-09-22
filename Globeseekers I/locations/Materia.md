@@ -56,7 +56,7 @@ This shift in power dynamics sparked resentment and rebellion, fracturing the on
 
 The saurians, now alone, found themselves vulnerable to a new threat – a plague that swept through their [[Cities]], decimating their population. Whether this plague was a natural occurrence or a consequence of their hubris, its impact was catastrophic. Their once-grand [[Cities]] fell into ruin, their temples abandoned, their legacy fading into myth and legend.
 
-With the Terran Accord’s collapse, Materia entered a new era, one characterized by diversity and adaptation. The departure of the saurians and frog people created a vacuum that was quickly filled by other species – [[races/Humans]], elves, dwarves, and countless others.
+With the Terran Accord’s collapse, Materia entered a new era, one characterized by diversity and adaptation. The departure of the saurians and frog people created a vacuum that was quickly filled by other species – [[Humans]], elves, dwarves, and countless others.
 
 Echoes of the Past
 
