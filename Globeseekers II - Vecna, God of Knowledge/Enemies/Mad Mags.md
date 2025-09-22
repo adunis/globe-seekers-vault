@@ -1,6 +1,6 @@
 
 ~~~ds-statblock
-name: "Mad" Mags
+name: Mad Mags
 level: 3
 roles:
   - Leader
@@ -41,3 +41,4 @@ abilities:
         t2: 12 damage
         t3: 15 damage
 ~~~
+
