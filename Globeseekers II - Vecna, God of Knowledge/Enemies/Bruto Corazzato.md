@@ -1,4 +1,3 @@
-
 ~~~ds-statblock
 name: Bruto Corazzato
 level: 2
@@ -40,4 +39,40 @@ abilities:
         t1: 8 damage
         t2: 12 damage
         t3: 15 damage
+  - name: Schianto Travolgente
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Melee
+      - Area
+      - Strike
+    distance: 2-line burst
+    target: Each enemy in the area
+    effects:
+      - roll: Power Roll + 3
+        t1: 6 damage; push 1.
+        t2: 8 damage; push 2.
+        t3: 10 damage; push 2 and each target is prone.
+  - name: Spallata
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Melee
+    distance: Self
+    target: Self
+    effects:
+      - effect: The brute shifts up to 2 squares. If it ends this movement adjacent to an enemy, it can push that enemy 1 square.
+  - name: Ritorsione Pesante
+    icon: ❗️
+    type: Triggered action
+    trigger: An adjacent enemy hits this creature with a melee strike.
+    distance: Melee 1
+    target: The triggering enemy
+    effects:
+      - roll: Power Roll + 3
+        t1: Push 1.
+        t2: Push 1.
+        t3: Push 2.
 ~~~
+
+
