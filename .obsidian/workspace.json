@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw Steel Templates/Initiative Tracker.md",
+                "file": "Draw Steel Templates/Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initiative Tracker"
+              "title": "Values"
             }
           }
         ],
@@ -216,8 +216,12 @@
   },
   "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
-    "Draw Steel Templates/Horizontal Rule.md",
+    "Draw Steel Templates/Statblock.md",
+    "Draw Steel Templates/Values.md",
+    "Draw Steel Templates/Stamina Bar.md",
+    "Draw Steel Templates/Skills.md",
     "Draw Steel Templates/Initiative Tracker.md",
+    "Draw Steel Templates/Horizontal Rule.md",
     "Draw Steel Templates/Counter.md",
     "Draw Steel Templates/Charateristics.md",
     "Draw Steel Templates/Ability.md",
@@ -241,10 +245,6 @@
     "DS Compendium/Bestiary/Monsters/Ajax the Invincible/Ajax the Invincible.md",
     "DS Compendium/Adventures/adventures.md",
     "DS Compendium/Rules/Classes By Level/Elementalist/4th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Elementalist/9th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Elementalist/10th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Elementalist/6th Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Elementalist/1st Level Features.md",
     "DS Compendium/Rules/Classes By Level/Elementalist",
     "DS Compendium/Rules/Classes By Level/Null",
     "DS Compendium/Rules/Classes By Level/Talent",
