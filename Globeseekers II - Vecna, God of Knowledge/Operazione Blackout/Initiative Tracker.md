@@ -3,7 +3,7 @@
 heroes:
   - name: Player 1
     max_stamina: 100
-    image: 
+    image:
     conditions: []
     isHero: true
     has_taken_turn: false
@@ -11,7 +11,7 @@ heroes:
     temp_stamina: 0
   - name: Player 2
     max_stamina: 100
-    image: 
+    image:
     conditions: []
     isHero: true
     has_taken_turn: false
@@ -23,7 +23,7 @@ enemy_groups:
       - name: Supervisore Cygnus
         max_stamina: 150
         amount: 1
-        image: 
+        image:
         isHero: false
         instances:
           - id: 1
@@ -37,7 +37,7 @@ enemy_groups:
       - name: Guardiano d'Ossa
         max_stamina: 60
         amount: 4
-        image: 
+        image:
         isHero: false
         instances:
           - id: 1
@@ -63,7 +63,7 @@ enemy_groups:
       - name: Servitore Chirurgico
         max_stamina: 40
         amount: 8
-        image: 
+        image:
         isHero: false
         instances:
           - id: 1
@@ -99,13 +99,14 @@ enemy_groups:
             temp_stamina: 0
             conditions: []
     has_taken_turn: false
-    is_squad: true
+    is_squad: false
+    selectedInstanceKey: 0-8
   - name: Orror di Carne Ricucita
     creatures:
       - name: Orror di Carne Ricucita
         max_stamina: 200
         amount: 1
-        image: 
+        image:
         isHero: false
         instances:
           - id: 1
@@ -119,4 +120,5 @@ villain_power:
 malice:
   value: 0
 ```
+
 
