@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
+                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Globeseekers 2 Campagna Draw Steel - Regole"
+              "title": "Back Blasphemer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
+                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Globeseekers 2 Campagna Draw Steel - Regole"
+              "title": "Backlinks for Back Blasphemer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
+                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Globeseekers 2 Campagna Draw Steel - Regole"
+              "title": "Outgoing links from Back Blasphemer"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
+                "file": "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Back Blasphemer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Globeseekers 2 Campagna Draw Steel - Regole"
+              "title": "Outline of Back Blasphemer"
             }
           },
           {
@@ -184,8 +184,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "550cd1e8db04324f",
+  "active": "1d992e7da2226dc7",
   "lastOpenFiles": [
+    "Draw Steel/Rules/Abilities/Censor/1st-Level Features/Arrest.md",
+    "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
     "journals/Globeseekers II/Trama Generale Campagna (Draw Steel).md",
     "journals/Globeseekers II/Trama Generale Campagna (Pathfinder 2).md",
     "journals/Globeseekers II/Programmi Sessioni (Pathfinder 2e)/9.1 - Loot Carotidi e Chirr-Click.md",
@@ -195,7 +197,6 @@
     "journals/Globeseekers II/Programmi Sessioni (Pathfinder 2e)/10.1 L'Eco delle Forge e l'Ombra del Sospetto.md",
     "journals/Globeseekers II/Programmi Sessioni (Pathfinder 2e)/10.1_Mappa1.excalidraw.md",
     "journals/Globeseekers II/Note del DM.md",
-    "journals/Globeseekers II/Globeseekers 2 Campagna Draw Steel - Regole.md",
     "journals/Regole per creare nomi.md",
     "TagsRoutes/logMessage.md",
     "gallery/11 - La Carovana del Coro 1.png",
