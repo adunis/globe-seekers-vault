@@ -34,24 +34,7 @@ console (F12) for any red error messages.
         source: { book: "Core Rulebook", page: "123", license: "", revision: 0 },
         _dsid: "goblin-gutter-skulk"
       },
-      items: [ // Embed items directly into the actor data
-        {
-          name: "Rusty Shiv", type: "ability", img: "icons/weapons/daggers/dagger-notched-black.webp",
-          system: {
-            source: { book: "", page: "", license: "", revision: 0 }, _dsid: "rusty-shiv", story: "", keywords: ["weapon", "melee"], type: "main", category: "attack", resource: null, trigger: "",
-            distance: { type: "melee", primary: 1, secondary: 0, tertiary: 0 }, damageDisplay: "melee", target: { type: "single", value: 1 },
-            power: {
-              roll: { formula: "@chr", characteristics: ["agility"] },
-              effects: {
-                [foundry.utils.randomID()]: {
-                  name: "Shiv Damage", img: "icons/weapons/daggers/dagger-notched-black.webp", type: "damage",
-                  damage: {
-                    tier1: { value: "1d4+@potency.weak", types: ["untyped"], properties: [], potency: { value: "", characteristic: "" } },
-                    tier2: { value: "1d6+@potency.average", types: ["untyped"], properties: [], potency: { value: "", characteristic: "" } },
-                    tier3: { value: "1d8+@potency.strong", types: ["untyped"], properties: [], potency: { value: "", characteristic: "" } }
-                  }
-                }
-              }
+      items: [ 
             },
             effect: { before: "<p>The goblin lashes out with its crude blade.</p>", after: "" }, spend: { text: "", value: null }
           }
