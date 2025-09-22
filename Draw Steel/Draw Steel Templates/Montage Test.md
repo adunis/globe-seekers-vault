@@ -12,7 +12,7 @@ effects:
 
   - name: Potential Challenges
     effect: |
-      On their turn, a character can attempt one of the following challenges. A **Hard** roll awards 2 successes on a 12+.
+      On their turn, a character can attempt one of the following challenges.
       - **Scale the Outer Wall:** Climb a treacherous section of the keep's wall. (Athletics + Agility, **Hard**)
       - **Bypass the Sentry Post:** Sneak past a tower with distracted guards. (Stealth + Intuition, **Moderate**)
       - **Disable Courtyard Traps:** Identify and disarm pressure plates and tripwires. (Thievery + Reason, **Hard**)
