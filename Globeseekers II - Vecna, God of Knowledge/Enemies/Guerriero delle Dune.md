@@ -1,4 +1,3 @@
-
 ~~~ds-statblock
 name: Guerriero delle Dune
 level: 1
@@ -40,4 +39,37 @@ abilities:
         t1: 5 damage
         t2: 8 damage
         t3: 10 damage
+  - name: Tempesta di Sabbia
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Melee
+      - Strike
+      - Weapon
+    distance: Melee 1
+    target: One enemy
+    effects:
+      - roll: Power Roll + 2
+        t1: 4 damage
+        t2: 6 damage; the target takes a bane on its next strike.
+        t3: 8 damage; the target is blinded until the end of its next turn.
+  - name: Passo Veloce
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Move
+    distance: Self
+    target: Self
+    effects:
+      - effect: This creature shifts up to 3 squares. This movement does not provoke opportunity attacks.
+  - name: Ritirata Coordinata
+    icon: ❗️
+    type: Triggered action
+    trigger: An adjacent minion ally is targeted by a strike.
+    distance: Self
+    target: Self and the triggering ally
+    effects:
+      - effect: Both this creature and the triggering ally can immediately shift 1 square.
 ~~~
+
+
