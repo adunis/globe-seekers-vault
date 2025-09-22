@@ -1,56 +1,78 @@
-Based on the provided `draw-steel-elements` plugin files and the Steel Compendium SDK, here is a comprehensive YAML template for a "Montage Test". This template is designed to be used within a `ds-ability` code block in Obsidian.
 
-~~~ds-values-row
-# -------------------
-# MONTAGE TEST TEMPLATE
-# -------------------
-# This template is for creating a Montage Test, which is a type of ability
-# that involves a series of checks to achieve a larger goal.
-# Replace the placeholder text with your specific details for the montage.
-# This structure is based on the 'Ability' and 'TestEffect' models found in the Steel Compendium SDK.
 
-# (Required) The name of the montage test. This will be the main title.
-name: Montage Test Name
 
-# (Required) The type of action this montage represents (e.g., Action, Maneuver, Out of Combat).
-type: Action
 
-# (Optional) A brief, italicized flavor text description that sets the scene for the montage.
-flavor: "A series of quick cuts showing intense training, a desperate escape, or careful preparation."
 
-# (Optional) The cost to initiate the montage, if any (e.g., "1 Fortune", "Requires rare components").
-cost: Montage Cost (if any)
-
-# (Optional) Keywords associated with the ability (e.g., ["Exploration", "Social"]).
-keywords:
-  - Keyword1
-  - Keyword2
-
-# (Optional) The distance or range relevant to the montage's actions.
-distance: Relevant Distance
-
-# (Optional) The target of the montage's overall goal.
-target: Overall Goal or Target
-
-# (Optional) Any specific conditions that trigger the start of this montage.
-trigger: Triggering Event (if any)
-
-# (Required) The list of effects that occur as part of this ability. For a montage,
-# this will typically be a single test effect describing the tiers of success.
+~~~Ds-counter
+name: 'Montage: Escape from the Iron Keep'
+type: Extended Action
+flavor: "With the spy in tow, every shadow is a threat and every sound a warning. Freedom is close, but the keep's walls have one last, deadly price."
 effects:
-  # This section defines the test itself.
-  - name: The Montage Test
-    # (Optional) A specific cost associated with undertaking the test within the montage.
-    cost: Optional Test Cost
-    # A description of what the test is for, including the roll to be made.
-    effect: "Describe the goal of the montage and what the characters are trying to accomplish. This is a [Difficulty] Montage Test (Power Roll + [Characteristic])."
-    # Result for Tier 1 success (e.g., a roll of 11 or lower).
-    t1: "On a result of 11 or lower, the characters make some progress but face a significant setback or complication."
-    # Result for Tier 2 success (e.g., a roll of 12-16).
-    t2: "On a result of 12-16, the characters successfully accomplish their goal as intended."
-    # Result for Tier 3 success (e.g., a roll of 17 or higher).
-    t3: "On a result of 17 or higher, the characters excel, achieving their goal with an additional advantage or unforeseen benefit."
-    # (Optional) Result for a critical success (e.g., Natural 19-20).
-    crit: "On a critical success, the characters achieve a masterful breakthrough, fundamentally changing their situation for the better."
+  - name: Goal & Parameters
+    effect: |
+      **Goal:** Escape the keep with the spy.
+      This is a **Moderate** montage, requiring **5 Successes** before **3 Failures** are accumulated. The montage lasts for **2 rounds**.
+
+  - name: Player Turn Actions
+    effect: |
+      On their turn, a character can either **Take an Action** or **Assist**.
+      - **Action**: Make a skill test (e.g., Stealth, Athletics, Deception) against a challenge presented by the GM.
+      - **Assist**: Make a roll with a different skill; any bonus applies to the character they assist.
+    roll: Power Roll + an appropriate characteristic
+    '11 or lower': 'You mark one **Failure**. The GM introduces a complication (e.g., "A patrol doubles back," "The spy stumbles, making a loud noise," "A locked door blocks the path").'
+    '12-16': You mark one **Success**.
+    '17+': You mark two **Successes**.
+    crit: '(Nat 19-20): You mark two **Successes** and create an advantage for the next character''s turn.'
+
+  - name: Total Success
+    effect: The party and the spy escape the keep without incident, disappearing into the night.
+
+  - name: Partial Success
+    effect: |
+      The time limit (2 rounds) is reached with at least two more successes than failures. 
+      The party escapes, but with complications (e.g., an alarm is raised, a chase begins, the spy is injured).
+
+  - name: Total Failure
+    effect: |
+      The failure limit is reached, or the time limit expires without enough successes.
+      The party is discovered, leading to a direct confrontation or capture.
+~~~
+
+
+
+
+~~~ds-ab
+name: 'Montage: Escape from the Iron Keep'
+type: Extended Action
+flavor: "With the spy in tow, every shadow is a threat and every sound a warning. Freedom is close, but the keep's walls have one last, deadly price."
+effects:
+  - name: Goal & Parameters
+    effect: |
+      **Goal:** Escape the keep with the spy.
+      This is a **Moderate** montage, requiring **5 Successes** before **3 Failures** are accumulated. The montage lasts for **2 rounds**.
+
+  - name: Player Turn Actions
+    effect: |
+      On their turn, a character can either **Take an Action** or **Assist**.
+      - **Action**: Make a skill test (e.g., Stealth, Athletics, Deception) against a challenge presented by the GM.
+      - **Assist**: Make a roll with a different skill; any bonus applies to the character they assist.
+    roll: Power Roll + an appropriate characteristic
+    '11 or lower': 'You mark one **Failure**. The GM introduces a complication (e.g., "A patrol doubles back," "The spy stumbles, making a loud noise," "A locked door blocks the path").'
+    '12-16': You mark one **Success**.
+    '17+': You mark two **Successes**.
+    crit: '(Nat 19-20): You mark two **Successes** and create an advantage for the next character''s turn.'
+
+  - name: Total Success
+    effect: The party and the spy escape the keep without incident, disappearing into the night.
+
+  - name: Partial Success
+    effect: |
+      The time limit (2 rounds) is reached with at least two more successes than failures. 
+      The party escapes, but with complications (e.g., an alarm is raised, a chase begins, the spy is injured).
+
+  - name: Total Failure
+    effect: |
+      The failure limit is reached, or the time limit expires without enough successes.
+      The party is discovered, leading to a direct confrontation or capture.
 ~~~
 
