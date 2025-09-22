@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw Steel Templates/Horizontal Rule.md",
+                "file": "Draw Steel Templates/Initiative Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Horizontal Rule"
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
-    "Draw Steel Templates/Counter.md",
     "Draw Steel Templates/Horizontal Rule.md",
+    "Draw Steel Templates/Initiative Tracker.md",
+    "Draw Steel Templates/Counter.md",
     "Draw Steel Templates/Charateristics.md",
     "Draw Steel Templates/Ability.md",
     "Draw Steel Templates/Negotations.md",
@@ -244,7 +245,6 @@
     "DS Compendium/Rules/Classes By Level/Elementalist/10th Level Features.md",
     "DS Compendium/Rules/Classes By Level/Elementalist/6th Level Features.md",
     "DS Compendium/Rules/Classes By Level/Elementalist/1st Level Features.md",
-    "DS Compendium/Rules/Classes By Level/Elementalist/Basics.md",
     "DS Compendium/Rules/Classes By Level/Elementalist",
     "DS Compendium/Rules/Classes By Level/Null",
     "DS Compendium/Rules/Classes By Level/Talent",
