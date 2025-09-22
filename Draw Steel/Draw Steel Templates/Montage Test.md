@@ -17,9 +17,9 @@ effects:
       - **Bypass the Sentry Post:** Sneak past a tower with distracted guards. (Stealth + Intuition, **Moderate**)
       - **Disable Courtyard Traps:** Identify and disarm pressure plates and tripwires. (Thievery + Reason, **Hard**)
       - **Create a Diversion:** Cause a commotion on the other side of the keep to draw patrols away. (Deception + Presence, **Moderate**)
-      - **Navigate Secret Tunnels:** Find and navigate a hidden, crumbling passage. (Survival + Intuition, **Moderate**)
-      - **Calm the Spy's Nerves:** Keep the anxious spy from panicking and giving you away. (Persuasion + Presence, **Easy**)
-      - **Forge a Hall Pass:** Create a believable document to move through a checkpoint. (Subterfuge + Reason, **Hard**)
+      - **Navigate Secret Tunnels:** Find and navigate a hidden, crumbling passage. (Survival + Intuition,
+      - **Calm the Spy's Nerves:** Keep the anxious spy from panicking and giving you away. (Persuasion + Presence)
+      - **Forge a Hall Pass:** Create a believable document to move through a checkpoint. (Subterfuge + Reason)
 
   - name: Player Turn Actions
     effect: |
@@ -27,7 +27,7 @@ effects:
       - **Action**: Make a skill test as described in the challenge.
       - **Assist**: Make a roll with a different but relevant skill; any bonus applies to the character they assist.
     roll: Power Roll + an appropriate characteristic
-    '11 or lower': 'You mark one **Failure**. The GM introduces a complication (e.g., "A patrol doubles back," "The spy stumbles, making a loud noise," "A locked door blocks the path").'
+    '11 or lower': 'You mark one **Failure**. If the roll was EasyThe GM introduces a complication (e.g., "A patrol doubles back," "The spy stumbles, making a loud noise," "A locked door blocks the path").'
     '12-16': 'You mark one **Success** (or two for a **Hard** challenge).'
     '17+': You mark two **Successes**.
     crit: '(Nat 19-20): You mark two **Successes** and create an advantage for the next character''s turn.'
