@@ -1,4 +1,3 @@
-
 ~~~ds-statblock
 name: Abominio di Carne
 level: 1
@@ -39,4 +38,37 @@ abilities:
         t1: 5 damage
         t2: 8 damage
         t3: 10 damage
+  - name: Afferra e Sbatacchi
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Melee
+      - Strike
+    distance: Melee 1
+    target: One enemy
+    effects:
+      - roll: Power Roll + 2
+        t1: 4 damage
+        t2: 6 damage; push 1
+        t3: 8 damage; push 2 and the target is prone
+  - name: Spinta Brutale
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Melee
+    distance: Melee 1
+    target: One enemy
+    effects:
+      - roll: Power Roll + 2
+        t1: Push 1
+        t2: Push 2
+        t3: Push 2; the target is slowed (save ends).
+  - name: Risposta Cadaverica
+    icon: ❗️
+    type: Triggered action
+    trigger: An adjacent horde ally is damaged by an enemy's melee strike.
+    distance: Melee 1
+    target: The triggering enemy
+    effects:
+      - effect: This creature makes a free strike against the target.
 ~~~
