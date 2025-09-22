@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/Enemies/Cecchino delle Rocce.md",
+                "file": "Globeseekers II - Vecna, God of Knowledge/Enemies/Guardiano d'Ossa d'Elite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cecchino delle Rocce"
+              "title": "Guardiano d'Ossa d'Elite"
             }
           }
         ],
@@ -213,6 +213,8 @@
   },
   "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Gigante d'Ossa.md",
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Cecchino delle Rocce.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Bruto Corazzato.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Blight Caster.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Barone delle Ossa.md",
@@ -238,8 +240,6 @@
     "Draw Steel/Draw Steel Templates/Ability.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus",
     "Draw Steel/Draw Steel Templates/Charateristics.md",
-    "Draw Steel/Draw Steel Templates/Counter.md",
-    "Draw Steel/Draw Steel Templates/Initiative Tracker.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Draw Steel Rules",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/L'Avamposto dell'Ossidiana",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Scudo Infranto",
