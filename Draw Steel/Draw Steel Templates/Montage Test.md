@@ -73,3 +73,20 @@ name: Round
 value_height: 3
 name_height: 1
 ```
+
+
+Montage Test Difficulty
+Difficulty Success Limit Failure Limit
+Easy 5 5
+Moderate 6 4
+Hard 7 3
+
+For larger or smaller groups, the Director can make the following
+adjustments to keep montage tests achievable but challenging:
+¥ For four or fewer heroes, decrease the success limit and failure limits
+by 1 (to a minimum of 2) for every hero fewer than five. For example,
+if a group has only three heroes, an easy montage test has a success
+limit and failure limit of 3.
+¥ For six or more heroes, increase the success and failure limits by 1 for
+every hero more than five
+
