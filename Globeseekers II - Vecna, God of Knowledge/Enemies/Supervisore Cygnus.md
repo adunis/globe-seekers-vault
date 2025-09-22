@@ -1,9 +1,9 @@
-
 ~~~ds-statblock
 name: Supervisore Cygnus
 level: 4
 roles:
   - Leader
+  - Boss
 ancestry:
   - Undead
   - Tecno-Lich
@@ -39,7 +39,8 @@ abilities:
       - Magic
       - Melee
       - Strike
-      - Weapon
+      - Lightning
+      - Psionic
     type: Main action
     distance: Melee 2
     target: Two enemies or objects
@@ -53,4 +54,72 @@ abilities:
         name: Effect
       - effect: This ability targets one additional target.
         cost: 2 Malice
+  - name: Shock di Sistema
+    icon: 🗡
+    type: Main action
+    keywords:
+      - Area
+      - Ranged
+      - Psionic
+      - Lightning
+    distance: 5 burst within 10
+    target: Each enemy in the area
+    effects:
+      - roll: Power Roll + 3
+        t1: 5 psychic/lightning damage.
+        t2: 8 damage, and each target is dazed until the end of its next turn.
+        t3: 10 damage, and each target is dazed (save ends).
+  - name: Salto Statico
+    icon: 🌀
+    type: Maneuver
+    keywords:
+      - Move
+      - Teleport
+      - Lightning
+    distance: Self
+    target: Self
+    effects:
+      - effect: Cygnus teleports up to 5 squares. Each enemy adjacent to the starting or ending square takes 3 lightning damage.
+  - name: Ritorsione Ad Arco
+    icon: ❗️
+    type: Triggered action
+    trigger: An ally within 10 squares is damaged by an enemy.
+    distance: Ranged 10
+    target: The triggering enemy
+    effects:
+      - effect: The target takes 5 lightning damage and is weakened until the end of its next turn.
+  - name: Sovraccaricare i Servitori
+    icon: ☠️
+    cost: Villain Action 1
+    keywords:
+      - Area
+    type: "-"
+    distance: 10 burst
+    target: Up to three construct or undead allies in the area
+    effects:
+      - effect: Each target can immediately shift up to its speed and gains an edge on its next strike this round.
+  - name: Sovraccarico Psichico
+    icon: ☠️
+    cost: Villain Action 2
+    keywords:
+      - Area
+      - Psionic
+    type: "-"
+    distance: 5 burst
+    target: Each enemy in the area
+    effects:
+      - effect: Each target takes 10 psychic damage and is stunned until the end of its next turn.
+  - name: Assalto a Sfasamento
+    icon: ☠️
+    cost: Villain Action 3
+    keywords:
+      - Teleport
+      - Strike
+    type: "-"
+    distance: Self
+    target: Self
+    effects:
+      - effect: Cygnus teleports up to 10 squares. During this teleport, he can make up to three Fulmine Psichico strikes against different targets. These strikes do not pull the targets.
 ~~~
+
+
