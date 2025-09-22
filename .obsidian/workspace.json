@@ -23,8 +23,23 @@
               "icon": "lucide-layout-dashboard",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "95f6410c606d2fb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,8 +200,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "550cd1e8db04324f",
+  "active": "95f6410c606d2fb4",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "test.md",
     "index.md",
     "2025-06-29.md",
     "Globeseekers III/locations/Colonial Worlds.md",
@@ -215,8 +232,6 @@
     "Globeseekers II/locations/Cittá",
     "Globeseekers II/locations",
     "Globeseekers I/locations/Umbria.md",
-    "Globeseekers I/locations/Zerthadlun.md",
-    "Globeseekers I/locations/The Necro-Catacomb.md",
     "Globeseekers I/locations",
     "Globeseekers 0/locations",
     "Globeseekers II/journals/Programmi Sessioni (Pathfinder 2e)",
@@ -226,7 +241,6 @@
     "gallery/11 - La Carovana del Coro 1.png",
     "gallery/golem.jpg",
     "gallery/Whisk_434510a231.jpg",
-    "Untitled.canvas",
     "Pasted image 20250716022250.png",
     "gallery/Whisk_9afa0daf0a.jpg",
     "gallery/Untitled.jpg"
