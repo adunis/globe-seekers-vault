@@ -17,9 +17,9 @@ heroes:
     current_stamina: 100
     temp_stamina: 0
 enemy_groups:
-  - name: "Mad" Mags
+  - name: Mad Mags
     creatures:
-      - name: "Mad" Mags
+      - name: Mad Mags
         max_stamina: 100
         amount: 1
         image: 
@@ -60,3 +60,5 @@ villain_power:
 malice:
   value: 0
 ```
+
+
