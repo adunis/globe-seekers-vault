@@ -1,4 +1,3 @@
-
 ```ds-initiative
 heroes:
   - name: Player 1
@@ -25,31 +24,20 @@ enemy_groups:
         amount: 1
         image: 
         isHero: false
-        instances:
-          - id: 1
-            current_stamina: 50
-            temp_stamina: 0
-            conditions: []
     has_taken_turn: false
     is_squad: false
-  - name: Legionari Scheletrici
+  - name: Armata
     creatures:
       - name: Legionario Scheletrico
         max_stamina: 30
         amount: 12
         image: 
         isHero: false
-        instances: []
-    has_taken_turn: false
-    is_squad: true
-  - name: Abomini di Carne
-    creatures:
       - name: Abominio di Carne
         max_stamina: 40
         amount: 8
         image: 
         isHero: false
-        instances: []
     has_taken_turn: false
     is_squad: true
   - name: Gigante d'Ossa
@@ -59,11 +47,6 @@ enemy_groups:
         amount: 1
         image: 
         isHero: false
-        instances:
-          - id: 1
-            current_stamina: 250
-            temp_stamina: 0
-            conditions: []
     has_taken_turn: false
     is_squad: false
 villain_power:
