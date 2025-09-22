@@ -26,18 +26,24 @@ enemy_groups:
         isHero: false
     has_taken_turn: false
     is_squad: false
-  - name: Orda
+  - name: Guerrieri delle Dune
     creatures:
       - name: Guerriero delle Dune
         max_stamina: 30
         amount: 8
         image: 
         isHero: false
+        squad_role: minion
+    has_taken_turn: false
+    is_squad: true
+  - name: Cecchini delle Rocce
+    creatures:
       - name: Cecchino delle Rocce
         max_stamina: 30
         amount: 4
         image: 
         isHero: false
+        squad_role: minion
     has_taken_turn: false
     is_squad: true
   - name: Bruti Corazzati
@@ -54,4 +60,3 @@ villain_power:
 malice:
   value: 0
 ```
-

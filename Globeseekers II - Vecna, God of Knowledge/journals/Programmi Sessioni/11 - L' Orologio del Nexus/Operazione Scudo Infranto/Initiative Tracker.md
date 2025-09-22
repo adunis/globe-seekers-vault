@@ -26,7 +26,7 @@ enemy_groups:
         isHero: false
     has_taken_turn: false
     is_squad: false
-  - name: Armata
+  - name: Legionari Scheletrici
     creatures:
       - name: Legionario Scheletrico
         max_stamina: 30
@@ -34,6 +34,10 @@ enemy_groups:
         image: 
         isHero: false
         squad_role: minion
+    has_taken_turn: false
+    is_squad: true
+  - name: Abomini di Carne
+    creatures:
       - name: Abominio di Carne
         max_stamina: 40
         amount: 8
@@ -56,4 +60,3 @@ villain_power:
 malice:
   value: 0
 ```
-

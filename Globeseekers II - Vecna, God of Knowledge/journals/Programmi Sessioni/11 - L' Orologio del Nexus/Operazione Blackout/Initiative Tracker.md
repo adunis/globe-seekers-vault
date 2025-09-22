@@ -26,18 +26,24 @@ enemy_groups:
         isHero: false
     has_taken_turn: false
     is_squad: false
-  - name: Guarnigione
+  - name: Guardiani d'Ossa d'Elite
     creatures:
-      - name: Guardiano d'Ossa d'Elite
+      - name: Guardiano d'Ossa
         max_stamina: 60
         amount: 4
         image: 
         isHero: false
+        squad_role: minion
+    has_taken_turn: false
+    is_squad: true
+  - name: Servitori Chirurgici
+    creatures:
       - name: Servitore Chirurgico
         max_stamina: 40
         amount: 8
         image: 
         isHero: false
+        squad_role: minion
     has_taken_turn: false
     is_squad: true
   - name: Orror di Carne Ricucita
@@ -54,5 +60,3 @@ villain_power:
 malice:
   value: 0
 ```
-
-
