@@ -62,3 +62,31 @@ La liberazione di Gundren dalle grinfie del Ragno Nero non pose fine ai suoi pro
 * Ricerca dei frammenti mancanti della mappa astrale: La mappa potrebbe essere suddivisa tra più custodi e richiede una pericolosa ricerca.
 * Le conseguenze della prigionia: Il tempo trascorso prigioniero ha lasciato tracce profonde in Gundren, potrebbe avere cambiamenti di personalità o memorie frammentate.
 * L'influenza persistente del Ragno Nero: Si potrebbe scoprire che il Ragno Nero aveva altri alleati o aveva lasciato in eredità delle trappole nel Castello Cragmaw o nella zona circostante.
+
+---
+# La Piaga Lunare Itemsheet
+
+## Description
+
+Un antico artefatto Netherese, un tempo brandito per uccidere i licantropi, ora intriso degli echi di una guerra divina.
+
+## Properties
+
+*   **Keywords:** Magic, Artifact, Weapon, Silver, Necrotic
+*   **Echelon:** 3
+*   **Category:** Artifact
+*   **Kind:** Weapon
+
+## Effects
+
+### Abilità: Anatema Licantropo
+Questa arma infligge 2d6 danni necrotici aggiuntivi alle creature con la parola chiave Licantropo.
+
+### Abilità: Abbraccio della Luce Lunare
+Una volta per riposo, come manovra, puoi far sì che l'arma emetta luce fioca in un raggio di 10 caselle. Mentre è attiva, ottieni un vantaggio ai test di Intuizione per rilevare licantropi nascosti.
+
+### Abilità: Echi della Grande Discesa
+Quando colpisci una creatura con quest'arma, puoi scegliere di infliggere 1d8 danni psichici aggiuntivi. Se lo fai, subisci 1d4 danni psichici mentre gli echi della guerra divina riverberano attraverso di te.
+
+### Maledizione del Ragno Nero
+Mentre sei sintonizzato con La Piaga Lunare, occasionalmente senti sussurri e una sottile attrazione verso antiche rovine Netheresi.
