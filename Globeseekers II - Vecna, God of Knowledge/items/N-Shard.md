@@ -26,6 +26,8 @@ ds-item:
     Mentre trasporti un N-Shard attivo, sei più facilmente rilevabile dalle creature del Reame Remoto. Queste creature ottengono un vantaggio ai test di Intuizione per localizzarti.
 ---
 
+
+
 ### **DOSSIER ZORVATH, SEZIONE GAMMA: ANALISI DEI FRAMMENTI NETHERESI (N-SHARD)**
 
 **CLASSIFICAZIONE:** SEGRETO COSMICO (ACCESSO LIMITATO)  
