@@ -1,5 +1,26 @@
 ---
-kanka_id: 473361
+ds-item:
+  name: La Piaga Lunare
+  flavor_text: Un antico artefatto Netherese, un tempo brandito per uccidere i licantropi, ora intriso degli echi di una guerra divina.
+  keywords:
+    - Magic
+    - Artifact
+    - Weapon
+    - Silver
+    - Necrotic
+  echelon: 3
+  effect: |
+    ### Abilità: Anatema Licantropo
+    Questa arma infligge 2d6 danni necrotici aggiuntivi alle creature con la parola chiave Licantropo.
+
+    ### Abilità: Abbraccio della Luce Lunare
+    Una volta per riposo, come manovra, puoi far sì che l'arma emetta luce fioca in un raggio di 10 caselle. Mentre è attiva, ottieni un vantaggio ai test di Intuizione per rilevare licantropi nascosti.
+
+    ### Abilità: Echi della Grande Discesa
+    Quando colpisci una creatura con quest'arma, puoi scegliere di infliggere 1d8 danni psichici aggiuntivi. Se lo fai, subisci 1d4 danni psichici mentre gli echi della guerra divina riverberano attraverso di te.
+
+    ### Maledizione del Ragno Nero
+    Mentre sei sintonizzato con La Piaga Lunare, occasionalmente senti sussurri e una sottile attrazione verso antiche rovine Netheresi.
 ---
 
 # La Piaga Lunare: Un Artefatto nell'Era Post-Discesa
