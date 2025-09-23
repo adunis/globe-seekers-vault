@@ -127,7 +127,7 @@ source: Texts or lore on alchemy in any language
 characteristic: Reason, or Intuition
 goal: 45 (recipe yields 1d3)
 effects:
-- Effect: As a maneuver, you can pour out the blast slag over a 3 cube area within 1 that lasts until the end of the encounter. The first time a creature moves through a square of the area they take 5 fire, cold, or lightning damage (determined when crafted) and are AZ slowed (EoT).
+- Effect: As a maneuver, you can pour out the blast slag over a 3 cube area within 1 that lasts until the end of the encounter. The first time a creature moves through a square of the area they take 5 fire, cold, or lightning damage (determined when crafted) and are AZ slowed (EoT)
 ``` 
 
 ```ds-ab
