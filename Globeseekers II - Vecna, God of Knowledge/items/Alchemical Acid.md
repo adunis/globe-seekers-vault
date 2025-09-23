@@ -13,8 +13,7 @@ ic Acid. The strike deals an extra 1 damage and adds the following effects to
 effects:
 - Challenge: Build a raft to travel over the river 
 - roll: Power Roll + Reason
-  11 or lower:  The target and each adjacent MX enemy takes 5 corruption
-damage at the end of their turns (save ends)
+  11 or lower:  The target and each adjacent MX enemy takes 5 corruption damage at the end of their turns (save ends)
   12-16: The target and each adjacent MY enemy takes 5 corruption damage at the end of their turns (save ends)
   17+: The target and each adjacent MZ enemy takes 5 corruption damage at the end of their turns (save ends)
 - name: Persistent
