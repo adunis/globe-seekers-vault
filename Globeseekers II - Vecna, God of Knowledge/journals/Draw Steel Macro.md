@@ -635,3 +635,139 @@ player and GM.
   }
 })();
 
+
+
+/*
+=====================================================
+== LOOT DEI CARONITI (ADATTATO A DRAW STEEL & CON CRAFTING) ==
+=====================================================
+Questo macro crea l'intero loot dei Caroniti, adattato
+a Draw Steel e con i campi di crafting (project)
+completati per ogni singolo tesoro.
+*/
+
+(async () => {
+  try {
+    ui.notifications.info("Inizio creazione del loot dei Caroniti con dati di crafting completi...");
+
+    const allItems = [
+      // ===================================================================
+      // ==           PER SMILZO (CAMPIONE DELLA MORTE)                   ==
+      // ===================================================================
+      {
+        name: "Filatterio del Cavaliere Infranto", type: "treasure", img: "icons/sundries/misc/phial-crystal-empty.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 2, quantity: 1,
+          project: { prerequisites: "Polvere d'osso di un destriero da guerra, un cristallo fumé, reagenti necromantici", source: "Tomi necromantici o rituali del Cavaliere Infranto", rollCharacteristic: ["reason", "presence"], goal: 180, yield: { amount: "1", display: "un filatterio" }},
+          description: { value: `<p><em>Piccola teca di cristallo fumé e ferro nero che contiene l'anima turbinante di un destriero tormentato.</em></p><hr><p><strong>Attivazione:</strong> Come manovra</p><p><strong>Frequenza:</strong> Una volta per riposo (respite).</p><p><strong>Effetto:</strong> Evoca per 1 ora una <strong>Cavalcatura Scheletrica</strong> con i keyword Non Morto e Spettrale. La cavalcatura ottiene Stamina temporanea pari al tuo livello e la sua velocità aumenta di 2 quadretti.</p><p><strong>Legame del Campione:</strong> Finché sei in sella, puoi usare un'azione innescata per permettere alla cavalcatura di effettuare un colpo extra.</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "filatterio-cavaliere-infranto"
+        }
+      },
+      {
+        name: "Lama Psionica del Silenzio", type: "treasure", img: "icons/weapons/swords/sword-guard-red.webp",
+        system: {
+          category: "leveled", kind: "weapon", echelon: 2, quantity: 1,
+          project: { prerequisites: "Una lama di alta qualità, un frammento di cristallo psionico, attrezzi da incisore", source: "Tecniche di forgiatura mentale o testi psionici", rollCharacteristic: ["intuition", "reason"], goal: 150, yield: { amount: "1", display: "una lama" }},
+          description: { value: `<p><em>Quest'arma d'acciaio nero emette una vibrazione mentale silenziosa.</em></p><hr><p><strong>Effetto Passivo:</strong> Quest'arma infligge <strong>+1d8 danni extra</strong>.</p><p><strong>Effetto Aggiuntivo:</strong> Quando colpisci una creatura, questa deve superare un <strong>test di Ragione o Presenza (soglia 6)</strong> o subire un **bane** a tutti i power roll per abilità con il keyword "Magia" fino alla fine del suo prossimo turno.</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "lama-psionica-silenzio"
+        },
+        effects: [{
+            label: "Danno Psionico", icon: "icons/magic/symbols/rune-sigil-red-pentagon.webp", transfer: true,
+            flags: { "draw-steel": { effectSubtype: "ability-bonus", filters: { keywords: ["weapon"] } } },
+            changes: [{ key: "damage.tier1.value", mode: 2, value: "1d8" },{ key: "damage.tier2.value", mode: 2, value: "1d8" },{ key: "damage.tier3.value", mode: 2, value: "1d8" }]
+        }]
+      },
+
+      // ===================================================================
+      // ==              PER GIANNI (INVESTIGATORE)                       ==
+      // ===================================================================
+      {
+        name: "L'Ultima Parola", type: "treasure", img: "icons/weapons/firearms/revolver-worn-black.webp",
+        system: {
+          category: "trinket", kind: "weapon", echelon: 2, quantity: 1,
+          project: { prerequisites: "Parti di un revolver di precisione, polvere di una runa di Vecna, attrezzi da armaiolo", source: "Schemi rubati da un armaiolo Caronita", rollCharacteristic: ["agility", "reason"], goal: 200, yield: { amount: "1", display: "un revolver" }},
+          description: { value: `<p><em>Un revolver compatto in metallo nero opaco.</em></p><hr><p><strong>Abilità "Roulette della Verità":</strong> Durante una negoziazione, ottieni un <strong>edge ai test di Intimidazione</strong>.</p><p>Se decidi di premere il grilletto durante l'interrogatorio:</p><ul><li><strong>Tira 1d6:</strong> Con <strong>1</strong>, il colpo parte (è un colpo critico automatico se il bersaglio è indifeso). Con <strong>2-6</strong>, il grilletto scatta a vuoto e il bersaglio deve superare un <strong>test di Presenza (soglia 7)</strong> o ottenere la condizione <strong>Spaventato</strong> (save ends).</li></ul>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "ultima-parola"
+        }
+      },
+      {
+        name: "Diario Cifrato di Vryss (Progetto)", type: "project", img: "icons/sundries/books/book-worn-brown.webp",
+        system: {
+          type: "research",
+          prerequisites: "Conoscenza di simboli arcani o logica numerica.", projectSource: "Recuperato dal Custode Vryss.",
+          rollCharacteristic: ["reason"], goal: 75, yield: { amount: "1", display: "Informazioni cruciali" },
+          description: { value: `<p><em>Un libro rilegato in pelle umana.</em></p><hr><p>Questo progetto di ricerca ha due fasi. La prima metà del progresso (fino a 38 punti) rappresenta lo sblocco del meccanismo. La seconda metà rappresenta la decifrazione del codice.</p><p><strong>Ricompensa:</strong> Il diario rivela informazioni sui piani di Vecna, la logistica degli N-Shard e un collegamento al culto che ha ucciso il mentore di Gianni.</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "progetto-diario-vryss"
+        }
+      },
+      {
+        name: "Sigaro dell'Intuizione Cinerea", type: "treasure", img: "icons/sundries/misc/cigar-brown.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "Foglie di tabacco essiccate con ceneri di un rogo divinatorio", source: "Ricette alchemiche o grimori sulla divinazione", rollCharacteristic: ["intuition"], goal: 40, yield: { amount: "1", display: "un sigaro" }},
+          description: { value: `<p><em>Un singolo sigaro scuro che odora di cenere e segreti repressi.</em></p><hr><p><strong>Durata:</strong> 1 ora.</p><p><strong>Effetto Passivo (se acceso):</strong> Ottieni un <strong>edge ai test di Intuizione</strong> per Cercare indizi.</p><p><strong>Attivazione (come manovra):</strong> Una volta ogni 10 min, puoi soffiare il fumo per ottenere uno dei seguenti effetti:</p><ul><li><strong>Contro una Creatura:</strong> Rivela la sua motivazione di negoziazione dominante.</li><li><strong>Contro un'Area:</strong> Ottieni un <strong>edge</strong> al tuo prossimo test per trovare oggetti o porte segrete.</li></ul>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "sigaro-intuizione-cinerea"
+        }
+      },
+
+      // ===================================================================
+      // ==               LOOT CONDIVISO DAI CARONITI                     ==
+      // ===================================================================
+      {
+        name: "Fiala di Essenza del Terrore", type: "treasure", img: "icons/consumables/potions/potion-bottle-skull-green.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: Math.floor(Math.random() * 4) + 1,
+          project: { prerequisites: "Un'essenza distillata dalla paura (es. ectoplasma), una fiala di cristallo", source: "Formule alchemiche Caronite", rollCharacteristic: ["intuition"], goal: 35, yield: { amount: "1d3", display: "1d3 fiale" }},
+          description: { value: `<p>Se applicato a un'arma, il prossimo bersaglio colpito deve superare un <strong>test di Presenza</strong> o ottenere la condizione <strong>Spaventato</strong> fino alla fine del suo prossimo turno.</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "essenza-del-terrore"
+        }
+      },
+      {
+        name: "Chiave-Anima Caronita", type: "treasure", img: "icons/sundries/misc/key-bone-skull.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "L'osso della mano di un boia, polvere di tomba", source: "Rituali di legame delle anime", rollCharacteristic: ["reason", "presence"], goal: 90, yield: { amount: "1", display: "una chiave" }},
+          description: { value: `<p><em>Una chiave d'osso annerito.</em></p><hr><p>Fornisce un <strong>edge ai test di Agilità</strong> per scassinare serrature di origine necromantica.</p><p>Una volta per riposo (respite), puoi usarla per terminare immediatamente un effetto di paura su di te.</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "chiave-anima-caronita"
+        }
+      },
+      {
+        name: "Pergamena di Void Warp", type: "treasure", img: "icons/sundries/scrolls/scroll-worn-tan.webp",
+        system: {
+          category: "consumable", kind: "implement", echelon: 2, quantity: 1,
+          project: { prerequisites: "Pergamena vergine, inchiostro infuso di energia del vuoto", source: "Testi occulti", rollCharacteristic: ["reason"], goal: 60, yield: { amount: "1", display: "una pergamena" }},
+          description: { value: `<p>Questa pergamena ti permette di lanciare un'abilità che infligge <strong>danno psichico pari a due volte la tua caratteristica più alta</strong> e rende il bersaglio <strong>Confuso</strong> (save ends).</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "pergamena-void-warp"
+        }
+      },
+      {
+        name: "Pozione di Concentrazione Silente", type: "treasure", img: "icons/consumables/potions/potion-bottle-circle-blue.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 2, quantity: 1,
+          project: { prerequisites: "Polvere di cristallo, acqua silente", source: "Formule alchemiche avanzate", rollCharacteristic: ["intuition"], goal: 70, yield: { amount: "1", display: "una pozione" }},
+          description: { value: `<p>Per 10 minuti, ottieni un <strong>edge ai test per resistere a effetti mentali uditivi e illusioni sonore</strong>.</p><p>Inoltre, una volta durante la durata, puoi usare un'abilità con il keyword "Magia" come se fosse un'azione gratuita.</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "pozione-concentrazione-silente"
+        }
+      },
+      {
+        name: "Proiettili Silenti", type: "treasure", img: "icons/weapons/ammunition/bullet-cartridge-shell-gray.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: 6,
+          project: { prerequisites: "Piombo, polvere da sparo trattata alchemicamente", source: "Schemi per munizioni speciali", rollCharacteristic: ["agility"], goal: 25, yield: { amount: "6", display: "6 proiettili" }},
+          description: { value: `<p>Munizioni speciali per il revolver "L'Ultima Parola".</p>`},
+          source: { book: "Loot dei Caroniti" }, _dsid: "proiettili-silenti"
+        }
+      },
+    ];
+
+    for (const item of allItems) {
+        await Item.create(item);
+    }
+    
+    ui.notifications.info("Macro completata! Tutto il loot dei Caroniti è stato creato con dati di crafting.");
+
+  } catch (error) {
+    console.error("LOOT DEI CARONITI MACRO | Si è verificato un errore:", error);
+    ui.notifications.error("Macro fallita! Controlla la console (F12) per i dettagli.");
+  }
+})();
