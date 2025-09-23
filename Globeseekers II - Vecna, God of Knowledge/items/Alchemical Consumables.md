@@ -1,4 +1,4 @@
-**Alchemic Acid** 
+&**Alchemic Acid** 
 Prerequisites: Nitric salts and powdered copper
 Source: Texts or lore on alchemy in any language
 Characteristic: Reason, or Intuition
