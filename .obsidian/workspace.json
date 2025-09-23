@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/items/N-Shard.md",
+                "file": "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Consumables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N-Shard"
+              "title": "Alchemical Consumables"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "be3124a1bc590d27",
   "lastOpenFiles": [
+    "Globeseekers II - Vecna, God of Knowledge/items/N-Shard.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Consumables.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Artifacts",
     "Globeseekers II - Vecna, God of Knowledge/items/Siege Weapons",
@@ -243,7 +244,6 @@
     "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Il Cuore Nero.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Siege Weapons/Personal Ballista.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Risuonatore d'Ossa.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/N-Shard.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Lunar Scourge.md",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Netherese Globe.js",
     "Draw Steel/Draw Steel Templates/Untitled.md",
