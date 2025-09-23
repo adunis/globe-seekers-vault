@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Acid.md",
+                "file": "Globeseekers II - Vecna, God of Knowledge/journals/Draw Steel Macro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alchemical Acid"
+              "title": "Draw Steel Macro"
             }
           }
         ],
@@ -225,10 +225,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "550cd1e8db04324f",
+  "active": "be3124a1bc590d27",
   "lastOpenFiles": [
+    "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Consumables.md",
     "Draw Steel/Draw Steel Templates/Ability.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Acid.md",
     "Globeseekers II - Vecna, God of Knowledge/Characters/La Famiglia della Cenere Tranquilla.md",
     "Draw Steel/Draw Steel Templates/Charateristics.md",
     "Draw Steel/Draw Steel Templates/Counter.md",
