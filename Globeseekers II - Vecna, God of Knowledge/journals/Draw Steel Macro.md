@@ -403,3 +403,235 @@ VERSION 2 CHANGES:
 
 
 
+/*
+=====================================================
+==         CREATE ALL DRAW STEEL TITLES MACRO        ==
+=====================================================
+This macro creates every Title from the provided list
+as a 'title' type item in Foundry VTT.
+
+All mechanical effects and choices are placed directly
+into the item's description for easy reference by the
+player and GM.
+*/
+
+(async () => {
+  try {
+    const allTitles = [
+      {
+        name: "Ancient Loremaster",
+        img: "icons/sundries/books/book-stack-brown.webp",
+        prerequisite: "You find a trove of forgotten books.",
+        description: `
+          <p><em>It’s astonishing what you find in old books. Look at this—nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Leverage:</strong> You know a priceless secret. The Director chooses the type of person who would value this secret. When engaged in a negotiation with this type of person, you can offer this secret. If they accept, their interest increases by 3 (to a maximum of 5). You can share this secret only once.</li>
+            <li><strong>Rare Books:</strong> You add rare, ancient books to your collection. Whenever you undertake a research project, roll 1d6 for each dead language you know and add the total to the project roll.</li>
+            <li><strong>Susurrus Codex:</strong> You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow the book’s advice, you gain an edge on Reason tests and take a bane on Presence tests. You can stop following the book’s advice at any time, but the book won’t speak to you for the rest of the day.</li>
+          </ul>`
+      },
+      {
+        name: "Battleaxe Diplomat",
+        img: "icons/weapons/axes/axe-double-engraved-runes.webp",
+        prerequisite: "You gain the friendship or alliance of a creature you once battled.",
+        description: `
+          <p><em>We seem to be equals in might and combat prowess. Perhaps we should bandy words awhile instead.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Iron Hand in Velvet Glove:</strong> The first time during a negotiation that you make a test using the Intimidate skill and don’t make an argument that appeals to an NPC’s motivation, you don’t lower the NPC’s patience or interest no matter the outcome of the roll.</li>
+            <li><strong>Truce!:</strong> You have a double edge on tests made to stop combat and start a negotiation.</li>
+            <li><strong>Warriors’ Understanding:</strong> You gain an edge on Presence tests made to interact with creatures you have fought against in combat encounters.</li>
+          </ul>`
+      },
+      {
+        name: "Brawler",
+        img: "icons/skills/melee/unarmed-punch-fist-yellow.webp",
+        prerequisite: "You triumph in battle without killing any of your foes.",
+        description: `
+          <p><em>We won’t kill you. But you might wish we had.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Duck!:</strong> When an enemy strikes you while a second creature is flanking you, you can use a triggered action to redirect the strike against the second creature. Once you use this benefit, you can’t use it again until you earn 1 or more Victories.</li>
+            <li><strong>Furniture Fighter:</strong> When you use a weapon ability with an improvised weapon or a weapon that isn’t part of your kit, the ability benefits from your kit’s melee weapon damage bonus.</li>
+            <li><strong>Headbutt:</strong> While you are grabbed or restrained, your free strikes don’t take a bane when those conditions would impose one.</li>
+            <li><strong>If I Wanted You Dead, You’d Be Dead:</strong> Whenever you defeat foes without killing any of them, you gain an edge on tests during negotiations with those foes.</li>
+          </ul>`
+      },
+      {
+        name: "City Rat",
+        img: "icons/environment/settlement/building-rubble.webp",
+        prerequisite: "You have spent at least five respites in a metropolis.",
+        description: `
+          <p><em>Stay out all night, visit the dives. Get in a fight, run from the cops. That’s the real city.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Discerning Shopper:</strong> When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item—or at least information about it.</li>
+            <li><strong>One with the Crowd:</strong> While you’re using one or more creatures as cover, you gain an edge on tests made to hide and sneak.</li>
+            <li><strong>Street Smart:</strong> While in a settlement, you can’t be surprised.</li>
+          </ul>`
+      },
+      {
+        name: "Doomed",
+        img: "icons/magic/death/hand-undead-skeleton-fire-green.webp",
+        prerequisite: "You aren’t a hakaan but have witnessed the death of a hakaan.",
+        description: `
+          <p><em>I don’t know what it meant, but when I watched her die, I saw a vision. I watched her die and saw my own death. Am I losing my mind?</em></p><hr>
+          <p><strong>Effect:</strong> You aren’t destined for a meaningful death, but you still might achieve one. When you’re reduced to 0 Stamina but remain conscious, you can become doomed. If you do, you can’t regain Stamina, you automatically obtain a tier 3 outcome on tests and power rolls, and you don’t die until your Stamina reaches the negative of your Stamina maximum. At the end of the encounter, you die.</p>`
+      },
+      {
+        name: "Dwarven Legionnaire",
+        img: "icons/equipment/shield/buckler-plate-steel-blue.webp",
+        prerequisite: "You fight alongside three or more dwarves.",
+        description: `
+          <p><em>I have learned much. It might be your courage that inspires others. Watch your opponent’s shield as well as their sword. And above all, stand fast, and do not yield.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Close Formation:</strong> While adjacent to two or more allies, you gain a +2 bonus to stability.</li>
+            <li><strong>Rune of Alarm:</strong> You can spend 10 uninterrupted minutes to inscribe a magic eye-shaped rune on a surface. The rune sheds light for 2 squares and is dispelled 1 minute after activation or if you inscribe it elsewhere. It activates when an enemy comes within 2 squares. When activated, you wake up if nonmagically asleep and can perceive through the rune for 1 minute.</li>
+            <li><strong>Stonemeld:</strong> While adjacent to a stone wall, you can use a maneuver to gain concealment. This concealment lasts until you leave the square or use an ability.</li>
+          </ul>`
+      },
+      {
+        name: "Elemental Dabbler",
+        img: "icons/magic/fire/projectile-fireball-smoke-large.webp",
+        prerequisite: "You defeat a creature with the Elemental keyword, such as a crux of fire.",
+        description: `
+          <p><em>Spirit of fire, I command you!</em></p><hr>
+          <p><strong>Effect:</strong> Choose a damage type to which the defeated creature had an immunity (such as fire). Then choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Elemental Blaster:</strong> You have the Elementalist 1st-level Hurl Element feature, dealing the chosen damage type.</li>
+            <li><strong>Elemental Immunity:</strong> You have immunity to the chosen damage type equal to your highest characteristic score.</li>
+            <li><strong>Elemental Weapons:</strong> Whenever you use a damage-dealing weapon ability, that ability can deal damage of the chosen type instead of its usual damage type.</li>
+          </ul>`
+      },
+      {
+        name: "Faction Member",
+        img: "icons/sundries/flags/banner-symbol-sun-gold-red.webp",
+        prerequisite: "You join an army, guild, or similar organization.",
+        description: `
+          <p><em>In six months, I’ll be running this place.</em></p><hr>
+          <p><strong>Effect:</strong> You gain membership in a faction. You’re regarded as a promising but untested agent, and you’re allowed to operate independently. When engaged in a negotiation with any member of your faction, their patience increases by 2 (to a maximum of 5).</p>
+          <p>Additionally, the Director assigns you one of the following benefits, as appropriate. You can use this benefit only in a settlement where your faction has a presence, and once used, you can’t use it again until you complete a task for your faction.</p>
+          <ul>
+            <li><strong>Academic Faction:</strong> Find a sage (+5 bonus) to make up to three Reason tests for lore or research projects on your behalf.</li>
+            <li><strong>Guild Faction:</strong> Find an expert crafter (+5 bonus) to make up to three project rolls for crafting projects on your behalf.</li>
+            <li><strong>Martial Faction:</strong> Recruit up to three minions (level no greater than your own) to follow your orders for a day.</li>
+            <li><strong>Spy Faction:</strong> Find an agent who can provide three pieces of information about the settlement.</li>
+          </ul>
+          <p><strong>Special:</strong> You can gain this title multiple times, once for each faction.</p>`
+      },
+      {
+        name: "Local Hero",
+        img: "icons/environment/settlement/house-manor.webp",
+        prerequisite: "You save a community from certain destruction.",
+        description: `
+          <p><em>Your coin won’t spend here. The Heroes of Gravesford drink for free in this tavern!</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Easy Marks:</strong> You gain an edge on tests made using skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.</li>
+            <li><strong>Local Fame:</strong> You earn 1 Renown.</li>
+            <li><strong>A New Dawn:</strong> Each time you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn’t been used.</li>
+          </ul>`
+      },
+      {
+        name: "Mage Hunter",
+        img: "icons/magic/defensive/shield-barrier-glowing-triangle-blue-gray.webp",
+        prerequisite: "You defeat three leader or solo creatures who each have at least one ability with the Magic keyword.",
+        description: `
+          <p><em>Their power is dangerous. Unnatural. Someone needs to do something.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Arcane Dampening:</strong> When resisting potencies from magic abilities, your characteristic scores are considered to be 1 higher than usual.</li>
+            <li><strong>Oh No, You Don’t!:</strong> Whenever an adjacent creature uses an ability with the Magic keyword, you can make a free strike against them as a triggered action.</li>
+            <li><strong>Stink of Magic:</strong> As a maneuver, you open your senses to the residue of magic. Until the end of your next turn, you are aware of whether each creature within 5 squares is a construct, an undead, or a creature from another world, and whether they have used a magic ability in the previous hour. Additionally, you can’t be surprised by constructs, undead, or creatures from another world.</li>
+          </ul>`
+      },
+      {
+        name: "Marshal",
+        img: "icons/sundries/documents/document-sealed-red-brown.webp",
+        prerequisite: "You join an organization that hunts criminals or you are deputized to act for the local authorities.",
+        description: `
+          <p><em>I said you had twenty-four hours to leave town. That was … what, about twenty-four hours ago?</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Guess It’s the Hard Way Then:</strong> When combat begins and you aren’t surprised, the first time you take damage before taking your turn, you halve that damage.</li>
+            <li><strong>Heedless Pursuer:</strong> Once on each of your turns, you can use a free maneuver to deal yourself 1d6 damage that can’t be reduced in any way. When you do, you ignore difficult terrain and you can increase the distance of any jump you make by 1 square, both until the end of your turn.</li>
+            <li><strong>Silver Shield:</strong> You have a badge granted to you by your organization. While you wear it, you gain the My Life for Yours feature from the censor class. When you use that ability, you can’t spend wrath unless you have the Wrath class feature.</li>
+            <li><strong>Trained Tracker:</strong> You gain an edge on tests made to track criminals.</li>
+          </ul>`
+      },
+      {
+        name: "Monster Bane",
+        img: "icons/creatures/mammals/wolf-howl-forest-black.webp",
+        prerequisite: "You defeat a leader or solo creature with a Reason score of −2 or lower, such as an arixx.",
+        description: `
+          <p><em>You dare mock Blunwin Mousebane? You think my deed trivial? Ah, but you didn’t see the size of the mouse!</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Beast Bane:</strong> Creatures with the Animal keyword take a bane on strikes made against you.</li>
+            <li><strong>Monster Soother:</strong> You gain an edge on tests made to calm or tame nonsapient creatures.</li>
+            <li><strong>Monster Trophy:</strong> You decorate your equipment with a trophy from a creature you defeated. While the trophy is visible, you gain an edge on tests made to intimidate sapient creatures.</li>
+          </ul>`
+      },
+      {
+        name: "Owed a Favor",
+        img: "icons/sundries/documents/document-hand-signed-red.webp",
+        prerequisite: "You successfully perform a service for a powerful faction.",
+        description: `
+          <p><em>The Guild’s gratitude knows no bounds! We’ll repay you in any way we can … short of actually paying you.</em></p><hr>
+          <p><strong>Effect:</strong> The faction will perform one favor for the party, provided it doesn’t interfere with the faction’s goals.</p>
+          <p>Additionally, the faction is a good source of information. The Director chooses a skill appropriate to the faction. While in a settlement where the faction has a presence, you gain this skill if you don’t already have it. If you already have the skill, you instead gain an edge on tests made using it.</p>`
+      },
+      {
+        name: "Presumed Dead",
+        img: "icons/sundries/survival/tent-military-green.webp",
+        prerequisite: "You die in a way that prevents your body from being recovered or examined.",
+        description: `
+          <p><em>But … you’re dead. We went to your funeral.</em></p><hr>
+          <p><strong>Effect:</strong> While it might appear that you died, you did not. Instead, you regain 1 Stamina and can spend 1 or more Recoveries. Additionally, you gain a 1st-echelon trinket of the Director’s choice.</p>
+          <p>At a dramatic moment determined by the Director, you rejoin your party with an explanation for your narrow escape, and how you found your new trinket along the way.</p>`
+      },
+      {
+        name: "Ratcatcher",
+        img: "icons/creatures/mammals/rat-chewed-skull-brown.webp",
+        prerequisite: "You defeat a leader or solo creature who is size 1S or smaller, such as a goblin monarch.",
+        description: `
+          <p><em>I like fighting these little guys. Means I don’t have to waste money on a helmet.</em></p><hr>
+          <p><strong>Effect:</strong> Choose one of the following benefits:</p>
+          <ul>
+            <li><strong>Come Out to Play:</strong> You have the following ability, which can be paid for using your Heroic Resource:<br><em>Come Out to Play (1 Heroic Resource), Area, Magic Maneuver. 5 burst. Target: Each enemy in the area hidden to you. Effect: Each target who has P<v is taunted by you until the end of their next turn, and you know the location of each creature taunted in this way.</em></li>
+            <li><strong>Deadly and Big:</strong> Your strikes gain a +3 damage bonus against creatures whose size is smaller than yours.</li>
+            <li><strong>Everybody Move!:</strong> When you use the Knockback maneuver, you can target one additional creature of your size or two additional smaller creatures.</li>
+          </ul>`
+      }
+    ];
+
+    ui.notifications.info(`Beginning creation of ${allTitles.length} Title items. This may take a moment...`);
+
+    for (const title of allTitles) {
+      const itemData = {
+        name: title.name,
+        type: "title",
+        img: title.img,
+        system: {
+          prerequisites: { value: title.prerequisite },
+          description: { value: title.description.replace(/\n\s+/g, ' ').trim() }, // Clean up whitespace
+          // --- Boilerplate fields to ensure the item sheet opens ---
+          source: { book: "Core Rulebook", page: "340", license: "", revision: 0 },
+          _dsid: title.name.toLowerCase().replace(/\s+/g, '-'),
+          story: "",
+          echelon: 1
+        }
+      };
+      await Item.create(itemData);
+    }
+
+    ui.notifications.info("Macro finished! All Title items have been created successfully.");
+
+  } catch (error) {
+    console.error("CREATE TITLES MACRO | An error occurred:", error);
+    ui.notifications.error("Macro failed! Check the F12 console for details.");
+  }
+})();
+
