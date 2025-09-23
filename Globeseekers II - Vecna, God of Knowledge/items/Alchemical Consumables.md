@@ -121,7 +121,7 @@ flavor: A pouch of volatile explosive granules that crackle under pressure.
 keywords: Alchemy, Chaff, Area
 type: Maneuver
 distance: 1
-target: 3 cube area
+target: 3 cube are
 prerequisites: 6 oz. of crushed flint, copper slag, orpiment (for fire damage), chalcanthite (for cold damage), torbernite (for lightning damage)
 source: Texts or lore on alchemy in any language
 characteristic: Reason, or Intuition
