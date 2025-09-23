@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/journals/Draw Steel Macro.md",
+                "file": "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Consumables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draw Steel Macro"
+              "title": "Alchemical Consumables"
             }
           }
         ],
@@ -227,6 +227,7 @@
   },
   "active": "be3124a1bc590d27",
   "lastOpenFiles": [
+    "Globeseekers II - Vecna, God of Knowledge/journals/Draw Steel Macro.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Alchemical Consumables.md",
     "Draw Steel/Draw Steel Templates/Ability.md",
     "Globeseekers II - Vecna, God of Knowledge/Characters/La Famiglia della Cenere Tranquilla.md",
@@ -246,7 +247,6 @@
     "Globeseekers II - Vecna, God of Knowledge/items/Pietre-Anima.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Spelljammer Helm.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Skymage Vanguard Platform, Mk. III Aethelred's Bulwark.md",
-    "Globeseekers II - Vecna, God of Knowledge/journals/Draw Steel Macro.md",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create N-Shard.js",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Lunar Scourge.js",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Il Cuore Nero.js",
