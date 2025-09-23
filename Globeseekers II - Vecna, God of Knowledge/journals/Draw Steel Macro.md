@@ -636,3 +636,286 @@ player and GM.
 })();
 
 
+
+
+/*
+=====================================================
+==      CUSTOM LOOT DROPS (ALL-IN-ONE, ENGLISH)      ==
+=====================================================
+This macro creates all unique loot for Smilzo, Gianni,
+Elthon, and Liora, plus shared loot. All item names,
+descriptions, and mechanics have been translated into
+English and adapted to the Draw Steel ruleset.
+
+The "description-first" technique is used, with no
+automation in the 'effects' array.
+*/
+
+(async () => {
+  try {
+    ui.notifications.info("Beginning creation of all custom loot in English...");
+
+    const allItems = [
+      // ===================================================================
+      // ==           FOR SMILZO (CHAMPION OF DEATH)                      ==
+      // ===================================================================
+      {
+        name: "Phylactery of the Broken Knight", type: "treasure", img: "icons/sundries/misc/phial-crystal-empty.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 2, quantity: 1,
+          project: { prerequisites: "Bone dust from a war steed, a smoky quartz crystal, necromantic reagents", source: "Necromantic tomes or rituals of the Broken Knight", rollCharacteristic: ["reason", "presence"], goal: 180, yield: { amount: "1", display: "one phylactery" }},
+          description: { value: `<p><em>A small case of smoky crystal and black iron, containing the swirling soul of a tormented steed.</em></p><hr>
+          <h3>Ability: Summon Steed</h3>
+          <p><strong>Type:</strong> Maneuver<br><strong>Frequency:</strong> Once per respite</p>
+          <p><strong>Effect:</strong> For 1 hour, you summon a <strong>Skeletal Mount</strong> with the Undead and Spectral keywords. The mount gains temporary Stamina equal to your level, and its speed increases by 2 squares.</p>
+          <p><strong>Champion's Bond:</strong> While mounted, you can use a triggered action to allow your mount to make an extra Strike.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "phylactery-broken-knight"
+        },
+        effects: []
+      },
+      {
+        name: "Psionic Blade of Silence", type: "treasure", img: "icons/weapons/swords/sword-guard-red.webp",
+        system: {
+          category: "leveled", kind: "weapon", echelon: 2, quantity: 1,
+          project: { prerequisites: "A high-quality blade, a psionic crystal shard, engraver's tools", source: "Techniques of mental forging or psionic texts", rollCharacteristic: ["intuition", "reason"], goal: 150, yield: { amount: "1", display: "one blade" }},
+          description: { value: `<p><em>This black steel weapon emits a silent, mental vibration.</em></p><hr>
+          <p><strong>Passive Effect:</strong> This weapon deals an extra <strong>+1d8 damage</strong> on strikes with the "Weapon" keyword.</p>
+          <p><strong>Additional Effect:</strong> When you hit a creature with an ability that has the "Magic" keyword, it must make a <strong>Reason or Presence test (threshold 6)</strong> or take a **bane** on all its power rolls for abilities with the "Magic" keyword until the end of its next turn.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "psionic-blade-of-silence"
+        },
+        effects: []
+      },
+
+      // ===================================================================
+      // ==              FOR GIANNI (INVESTIGATOR)                        ==
+      // ===================================================================
+      {
+        name: "The Last Word", type: "treasure", img: "icons/weapons/firearms/revolver-worn-black.webp",
+        system: {
+          category: "trinket", kind: "weapon", echelon: 2, quantity: 1,
+          project: { prerequisites: "Precision revolver parts, dust from a Vecna rune, gunsmith's tools", source: "Schematics stolen from a Caronite gunsmith", rollCharacteristic: ["agility", "reason"], goal: 200, yield: { amount: "1", display: "one revolver" }},
+          description: { value: `<p><em>A compact revolver in matte black metal. It was made to end conversations. Requires Silent Bullets.</em></p><hr>
+          <h3>Ability: Truth Roulette</h3>
+          <p><strong>Type:</strong> Maneuver<br><strong>Resource:</strong> 1 Heroic Resource</p>
+          <p><strong>Effect:</strong> During a negotiation, make a <strong>Power Roll + Presence</strong>. Instead of the normal tiers, roll 1d6:</p>
+          <ul><li><strong>1:</strong> The gun fires. If the target is helpless, it is an automatic critical hit.</li>
+          <li><strong>2-6:</strong> The hammer clicks on an empty chamber. The target gains the <strong>Frightened</strong> condition (save ends). You can spend <strong>1 additional Heroic Resource</strong> to make the Frightened condition last until the end of the negotiation, with no save permitted.</li></ul>`},
+          source: { book: "Caronite Legacy" }, _dsid: "the-last-word"
+        },
+        effects: []
+      },
+      {
+        name: "Vryss's Ciphered Journal (Project)", type: "project", img: "icons/sundries/books/book-worn-brown.webp",
+        system: {
+          type: "research",
+          prerequisites: "Knowledge of arcane symbols or numerical logic.", projectSource: "Recovered from Warden Vryss.",
+          rollCharacteristic: ["reason"], goal: 75, yield: { amount: "1", display: "Crucial Information" },
+          description: { value: `<p><em>A book bound in stretched human skin.</em></p><hr><p>This research project has two phases. The first half of the progress (up to 38 points) represents unlocking the mechanism. The second half represents deciphering the code.</p><p><strong>Reward on Completion:</strong> The journal reveals information about Vecna's plans, the logistics of the N-Shards, and a link to the cult that killed Gianni's mentor.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "project-vryss-journal"
+        },
+        effects: []
+      },
+      {
+        name: "Cinder-Ash Cigar of Insight", type: "treasure", img: "icons/sundries/misc/cigar-brown.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "Tobacco leaves dried with the ashes of a divinatory pyre", source: "Alchemical recipes or grimoires on divination", rollCharacteristic: ["intuition"], goal: 40, yield: { amount: "1", display: "one cigar" }},
+          description: { value: `<p><em>A single dark cigar that smells of ash and repressed secrets. Lasts for 1 hour.</em></p><hr>
+          <p><strong>Passive Effect (while lit):</strong> You gain an <strong>edge on Intuition tests</strong> to Search for clues.</p>
+          <h3>Ability: Breath of Revelation</h3>
+          <p><strong>Type:</strong> Maneuver<br><strong>Frequency:</strong> Once every 10 minutes</p>
+          <p><strong>Effect:</strong> Make a <strong>Power Roll + Intuition</strong> and choose a target (creature or area).</p>
+          <ul><li><strong>Tier 1 (11-):</strong> You learn a surface-level piece of information (e.g., a creature's dominant emotion).</li>
+          <li><strong>Tier 2 (12-16):</strong> You learn a useful piece of information (e.g., a negotiation motivation, or you gain an <strong>edge</strong> on your next test to find traps/secrets in the area).</li>
+          <li><strong>Tier 3 (17+):</strong> You learn a crucial piece of information (e.g., a negotiation pitfall, or you automatically find a hidden clue in the area).</li></ul>`},
+          source: { book: "Caronite Legacy" }, _dsid: "cinder-ash-cigar"
+        },
+        effects: []
+      },
+
+      // ===================================================================
+      // ==                FOR ELTHON (INVENTOR)                          ==
+      // ===================================================================
+      {
+        name: "Schematic: Unstable Spark Generator", type: "treasure", img: "icons/sundries/scrolls/scroll-writing-brown.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "Precision gears, a quartz crystal, copper wiring", source: "Ratfolk engineering, gift of Chirr-Click", rollCharacteristic: ["reason"], goal: 120, yield: { amount: "1", display: "one generator" }},
+          description: { value: `<p><em>A detailed schematic for a device that overcharges a weapon with electrical energy.</em></p><hr>
+          <h3>Created Item's Ability: Chain Overcharge</h3>
+          <p><strong>Type:</strong> Maneuver<br><strong>Frequency:</strong> Once per respite</p>
+          <p><strong>Effect:</strong> You overcharge a weapon. Your next successful strike within 1 minute unleashes a bolt of chain lightning from the target. Make a <strong>Power Roll + Reason</strong>.</p>
+          <ul><li><strong>Tier 1 (11-):</strong> The lightning hits the original target and one other enemy within 3 squares, dealing <strong>2d6 lightning damage</strong>.</li>
+          <li><strong>Tier 2 (12-16):</strong> The lightning hits up to two additional enemies and deals <strong>3d6 lightning damage</strong>.</li>
+          <li><strong>Tier 3 (17+):</strong> The lightning hits up to three additional enemies and deals <strong>4d6 lightning damage</strong>.</li></ul>
+          <p><strong>Heroic Boost:</strong> You can spend <strong>1 Heroic Resource</strong> to have the lightning ignore partial cover.</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "schematic-spark-generator"
+        },
+        effects: []
+      },
+      {
+        name: "Schematic: Fulminating Cage Trap", type: "treasure", img: "icons/sundries/scrolls/scroll-writing-brown.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "Metal plates, a galvanic capacitor, a pressure mechanism", source: "Guild defensive blueprints", rollCharacteristic: ["reason", "agility"], goal: 115, yield: { amount: "1", display: "one trap" }},
+          description: { value: `<p><em>A schematic for a pressure-activated trap that creates a cage of crackling energy.</em></p><hr>
+          <p><strong>Formula Effect:</strong> Allows you to craft a mechanical trap. A creature that triggers it takes <strong>3d10 lightning damage</strong> (Agility test for half) and is trapped in a 1x1 square cage of energy for 1 minute. Moving through the cage walls deals 1d10 lightning damage.</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "schematic-cage-trap"
+        },
+        effects: []
+      },
+      {
+        name: "Overcharged Capacitor Bracer", type: "treasure", img: "icons/equipment/wrist/bracer-armored-spiked-steel.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 2, quantity: 1,
+          project: { prerequisites: "A copper bracer, a perfect quartz crystal, galvanic wiring", source: "Experimental Ratfolk technology", rollCharacteristic: ["reason"], goal: 220, yield: { amount: "1", display: "one bracer" }},
+          description: { value: `<p><em>A copper bracer with a crackling quartz crystal at its center.</em></p><hr>
+          <h3>Ability: Absorb Energy</h3>
+          <p><strong>Type:</strong> Triggered Action<br><strong>Trigger:</strong> You are about to take lightning damage.</p>
+          <p><strong>Effect:</strong> Reduce the lightning damage you are about to take by 10. If you absorb at least 1 damage this way, the bracer becomes charged.</p><hr>
+          <h3>Ability: Discharge</h3>
+          <p><strong>Type:</strong> Maneuver<br><strong>Prerequisite:</strong> The bracer is charged.</p>
+          <p><strong>Effect:</strong> Choose one of the following effects. The bracer's charge is consumed.</p>
+          <p><strong>1. Empowered Strike:</strong> Make a <strong>Power Roll + Might</strong>. Your next weapon strike within 1 minute deals extra lightning damage.</p>
+          <ul><li><strong>Tier 1 (11-):</strong> +1d10 damage.</li>
+          <li><strong>Tier 2 (12-16):</strong> +2d10 damage.</li>
+          <li><strong>Tier 3 (17+):</strong> +3d10 damage.</li></ul>
+          <p><strong>2. Safe Overdrive:</strong> If you have an "Overdrive" ability, you can activate it without risking a critical failure and without it counting against its normal usage limit.</p>
+          <p><strong>Heroic Boost:</strong> You can spend <strong>1 Heroic Resource</strong> to use both Discharge effects simultaneously.</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "overcharged-capacitor-bracer"
+        },
+        effects: []
+      },
+
+      // ===================================================================
+      // ==                  FOR LIORA (WITCH)                            ==
+      // ===================================================================
+      {
+        name: "The Twisted Fates Deck (Starter Set)", type: "treasure", img: "icons/sundries/gaming/playing-cards-black.webp",
+        system: {
+          category: "artifact", kind: "implement", echelon: 1, quantity: 1,
+          project: { prerequisites: "Shapeshifter's hide, chaos-infused ink", source: "Forbidden divination rituals", rollCharacteristic: ["intuition", "presence"], goal: 250, yield: { amount: "3", display: "three cards" }},
+          description: { value: `<p><em>Three thick cards made of a material like tanned insect hide.</em></p><hr>
+          <h3>Ability: Draw of Fate</h3>
+          <p><strong>Type:</strong> Main Action</p>
+          <p><strong>Effect:</strong> Draw a random card from your assembled deck (see Journal Entry for rules). You reveal the card and make a choice:</p>
+          <ul><li><strong>Accept Fate:</strong> Immediately use the ability granted by the card.</li>
+          <li><strong>Refuse Fate:</strong> Do not use the ability, but gain <strong>1 Heroic Resource</strong>.</li></ul>
+          <p>The card is consumed for the day in either case.</p><hr>
+          <h4>Starter Cards (Granted Abilities)</h4>
+          <p><strong>1. Mental Domination:</strong> Main Action. Make a <strong>Power Roll + Presence</strong> against a target. <strong>Tier 1:</strong> The target hesitates, taking a bane on its next action. <strong>Tier 2:</strong> The target obeys a one-word command. <strong>Tier 3:</strong> The target obeys a short phrase until the start of your next turn.</p>
+          <p><strong>2. Unexpected Shock:</strong> Main Action. Make a <strong>Power Roll + Intuition</strong>. <strong>Tier 1:</strong> 2d6 lightning damage. <strong>Tier 2:</strong> 3d6 damage. <strong>Tier 3:</strong> 4d6 damage.</p>
+          <p><strong>3. Void's Embrace:</strong> Main Action. Make a <strong>Power Roll + Intuition</strong> against a target. <strong>Tier 1:</strong> 1d8 void damage. <strong>Tier 2:</strong> 2d8 void damage. <strong>Tier 3:</strong> 2d8 void damage and the target is <strong>Slowed</strong> (save ends).</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "twisted-fates-deck"
+        },
+        effects: []
+      },
+      {
+        name: "Aether-Weaver's Focus", type: "treasure", img: "icons/creatures/insects/spider-mandibles-black.webp",
+        system: {
+          category: "trinket", kind: "implement", echelon: 2, quantity: 1,
+          project: { prerequisites: "The dessicated body of an ethereal spider, a focusing quartz", source: "Shamanistic fetish crafting", rollCharacteristic: ["intuition"], goal: 180, yield: { amount: "1", display: "one focus" }},
+          description: { value: `<p><em>A fetish in the shape of a dessicated spider.</em></p><hr>
+          <p><strong>Passive Effect:</strong> Your familiar gains an <strong>edge on Stealth and Perception tests</strong>.</p>
+          <h3>Ability: Interwoven Vision</h3>
+          <p><strong>Type:</strong> Maneuver<br><strong>Frequency:</strong> Once per respite</p>
+          <p><strong>Effect:</strong> When you use a divination ability, make a <strong>Power Roll + Intuition</strong>.</p>
+          <ul><li><strong>Tier 1 (11-):</strong> You gain the basic information you sought.</li>
+          <li><strong>Tier 2 (12-16):</strong> You gain a useful, unexpected additional detail.</li>
+          <li><strong>Tier 3 (17+):</strong> You gain a crucial detail or a clear vision of a possible future related to your query.</li></ul>
+          <p><strong>Heroic Boost:</strong> You can spend <strong>1 Heroic Resource</strong> to ask the GM one "yes or no" question after the vision, which must be answered truthfully.</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "aether-weaver-focus"
+        },
+        effects: []
+      },
+
+       // ===================================================================
+      // ==               SHARED LOOT                                     ==
+      // ===================================================================
+      {
+        name: "Vial of Terror Essence", type: "treasure", img: "icons/consumables/potions/potion-bottle-skull-green.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: Math.floor(Math.random() * 4) + 1,
+          project: { prerequisites: "Distilled fear essence (e.g., ectoplasm), a crystal vial", source: "Caronite alchemical formulas", rollCharacteristic: ["intuition"], goal: 35, yield: { amount: "1d3", display: "1d3 vials" }},
+          description: { value: `<p>When applied to a weapon, the next creature hit must make a <strong>Presence test</strong> or become <strong>Frightened</strong> until the end of its next turn.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "vial-of-terror-essence"
+        },
+        effects: []
+      },
+      {
+        name: "Caronite Soul-Key", type: "treasure", img: "icons/sundries/misc/key-bone-skull.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "The hand bone of a hangman, grave dust", source: "Rituals of soul-binding", rollCharacteristic: ["reason", "presence"], goal: 90, yield: { amount: "1", display: "one key" }},
+          description: { value: `<p><em>A key made of blackened bone.</em></p><hr><p>Provides an <strong>edge on Agility tests</strong> to pick locks of a necromantic origin.</p><p>Once per respite, you can use this key to immediately end a fear effect on yourself.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "caronite-soul-key"
+        },
+        effects: []
+      },
+      {
+        name: "Scroll of Void Warp", type: "treasure", img: "icons/sundries/scrolls/scroll-worn-tan.webp",
+        system: {
+          category: "consumable", kind: "implement", echelon: 2, quantity: 1,
+          project: { prerequisites: "Blank parchment, void-infused ink", source: "Occult texts", rollCharacteristic: ["reason"], goal: 60, yield: { amount: "1", display: "one scroll" }},
+          description: { value: `<p>This scroll allows you to use an ability that deals <strong>psychic damage equal to twice your highest characteristic</strong> and makes the target <strong>Confused</strong> (save ends).</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "scroll-of-void-warp"
+        },
+        effects: []
+      },
+      {
+        name: "Potion of Silent Concentration", type: "treasure", img: "icons/consumables/potions/potion-bottle-circle-blue.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 2, quantity: 1,
+          project: { prerequisites: "Crystal dust, silent water", source: "Advanced alchemical formulas", rollCharacteristic: ["intuition"], goal: 70, yield: { amount: "1", display: "one potion" }},
+          description: { value: `<p>For 10 minutes, you gain an <strong>edge on tests to resist auditory mental effects and sound-based illusions</strong>.</p><p>Additionally, once during this duration, you can use an ability with the "Magic" keyword as if it were a free action.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "potion-silent-concentration"
+        },
+        effects: []
+      },
+      {
+        name: "Silent Bullets", type: "treasure", img: "icons/weapons/ammunition/bullet-cartridge-shell-gray.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: 6,
+          project: { prerequisites: "Lead, alchemically treated gunpowder", source: "Schematics for special ammunition", rollCharacteristic: ["agility"], goal: 25, yield: { amount: "6", display: "6 bullets" }},
+          description: { value: `<p>Special ammunition for the "The Last Word" revolver.</p>`},
+          source: { book: "Caronite Legacy" }, _dsid: "silent-bullets"
+        },
+        effects: []
+      },
+      {
+        name: "Spark Bombs", type: "treasure", img: "icons/consumables/bombs/bomb-grenade-unlit-brass.webp",
+        system: {
+          category: "consumable", kind: "weapon", echelon: 1, quantity: Math.floor(Math.random() * 4) + 2,
+          project: { prerequisites: "A glass container, galvanic powder, volatile reagents", source: "Basic Ratfolk engineering", rollCharacteristic: ["agility"], goal: 30, yield: { amount: "1d4", display: "1d4 bombs" }},
+          description: { value: `<p>As a main action, you can throw this bomb at a point within 6 squares. It explodes in a <strong>burst 1</strong> area, dealing <strong>2d6 lightning damage</strong> and making targets <strong>Dazzled</strong> for 1 round.</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "spark-bombs"
+        },
+        effects: []
+      },
+      {
+        name: "Galvanic Capacitor", type: "treasure", img: "icons/sundries/misc/jar-corked-blue.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "A glass jar, copper electrodes, conductive fluid", source: "Ratfolk alchemy", rollCharacteristic: ["reason"], goal: 45, yield: { amount: "1", display: "one capacitor" }},
+          description: { value: `<p><em>A glass jar with metal parts in a bluish liquid. Single use.</em></p><hr>
+          <p>If applied to an inactive/broken construct or mechanical object, it recovers <strong>2d8+5 Stamina</strong>.</p>
+          <p>If used on an enemy construct, it must make a <strong>Might test (threshold 6)</strong> or be <strong>Stunned</strong> for 1 round.</p>`},
+          source: { book: "Chirr-Click's Guild" }, _dsid: "galvanic-capacitor"
+        },
+        effects: []
+      }
+    ];
+
+    for (const item of allItems) {
+        await Item.create(item);
+    }
+    
+    ui.notifications.info("Macro finished! All custom loot has been created in English.");
+
+  } catch (error) {
+    console.error("CUSTOM LOOT MACRO (ENGLISH) | An error occurred:", error);
+    ui.notifications.error("Macro failed! Check the F12 console for details.");
+  }
+})();
+
+
