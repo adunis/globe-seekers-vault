@@ -1,8 +1,8 @@
-&**Alchemic Acid** 
-Prerequisites: Nitric salts and powdered copper
-Source: Texts or lore on alchemy in any language
-Characteristic: Reason, or Intuition
-goal: 45 (recipe yields 1d3)
+### **Alchemic Acid** (1 Consumable)
+**Prerequisites:** Nitric salts and powdered copper
+**Source:** Texts or lore on alchemy in any language
+**Characteristic:** Reason, or Intuition
+**Goal:** 45 (recipe yields 1d3)
 
 ```ds-ab
 name: Acid Splash
