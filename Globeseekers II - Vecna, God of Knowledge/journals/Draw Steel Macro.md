@@ -211,4 +211,195 @@ directly into the description for easy reference.
 
 
 
+/*
+=====================================================
+==    DRAW STEEL: TREASURE COMPENDIUM MACRO (V2)     ==
+=====================================================
+This macro creates an example item for every possible
+combination of Treasure Category and Kind.
+
+VERSION 2 CHANGES:
+- Leveled Treasure benefits are now detailed in the
+  item's description instead of using Active Effects.
+- The 'echelon' field for all items is now correctly
+  formatted as an integer (e.g., 1) instead of a string.
+*/
+
+(async () => {
+  try {
+    const allItems = [
+      // ===================================================================
+      // ==                        CONSUMABLES                            ==
+      // ===================================================================
+      {
+        name: "[Consumable] Black Ash Dart", type: "treasure", img: "icons/weapons/thrown/dart-poisoned-black.webp",
+        system: {
+          category: "consumable", kind: "weapon", echelon: 1, quantity: 3,
+          project: { prerequisites: "Three vials of black ash", source: "Texts or lore in Szetch", rollCharacteristic: ["agility", "intuition"], goal: 45, yield: { amount: "1d3", display: "yields 1d3 darts" }},
+          description: { value: `<p><em>A diamond-shaped dart holds a shimmering black vial at its core.</em></p><hr><p><strong>Effect:</strong> As a maneuver, you make a ranged free strike using a black ash dart. The strike deals an extra 1 damage [[/damage 1]] and adds the following effects to the tier outcomes:</p><dl><dt><strong>Tier 1:</strong></dt><dd>You can teleport the target up to 2 squares.</dd><dt><strong>Tier 2:</strong></dt><dd>You can teleport the target up to 4 squares.</dd><dt><strong>Tier 3:</strong></dt><dd>You can teleport the target up to 6 squares.</dd></dl>`},
+          source: {}, _dsid: "black-ash-dart"
+        }
+      },
+      {
+        name: "[Consumable] Healing Potion", type: "treasure", img: "icons/consumables/potions/potion-bottle-corked-red.webp",
+        system: {
+          category: "consumable", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "Herbalism Kit", source: "Apothecary's Guide", rollCharacteristic: ["intuition"], goal: 30, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A vial of shimmering red liquid that smells of berries.</em></p><hr><p><strong>Effect:</strong> As a maneuver, you drink this potion and regain stamina equal to your recovery value. [[/heal @recoveries.recoveryValue]]</p>`},
+          source: {}, _dsid: "healing-potion"
+        }
+      },
+      {
+        name: "[Consumable] Armor Patch Kit", type: "treasure", img: "icons/tools/fasteners/leather-clasp-cord-brown.webp",
+        system: {
+          category: "consumable", kind: "armor", echelon: 1, quantity: 1,
+          project: { prerequisites: "Smith's Tools", source: "Armorer's Manual", rollCharacteristic: ["might"], goal: 25, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A set of tools and materials for a quick field repair.</em></p><hr><p><strong>Effect:</strong> During a respite, you can use this kit to remove a temporary negative property from a suit of armor.</p>`},
+          source: {}, _dsid: "armor-patch-kit"
+        }
+      },
+      {
+        name: "[Consumable] Scroll of Warding", type: "treasure", img: "icons/sundries/scrolls/scroll-runed-brown-gold.webp",
+        system: {
+          category: "consumable", kind: "implement", echelon: 1, quantity: 1,
+          project: { prerequisites: "Arcane Ink", source: "Scribe's Handbook", rollCharacteristic: ["reason"], goal: 40, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A roll of parchment covered in glowing runes.</em></p><hr><p><strong>Effect:</strong> As a triggered action when an enemy targets you with an attack, you can use this scroll to gain a +2 bonus to Stability against that attack.</p>`},
+          source: {}, _dsid: "scroll-of-warding"
+        }
+      },
+
+      // ===================================================================
+      // ==                         TRINKETS                              ==
+      // ===================================================================
+      {
+        name: "[Trinket] Color Cloak (Red)", type: "treasure", img: "icons/equipment/back/cloak-collared-red.webp",
+        system: {
+          category: "trinket", kind: "armor", echelon: 1, quantity: 1,
+          project: { prerequisites: "A pint of red ichor, soul chalk", source: "Licensing agreements in Anjali", rollCharacteristic: ["reason", "intuition"], goal: 150, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>This red woolen hooded cloak is emblazoned with a golden Anjali sigil meaning “fire.”</em></p><hr><p><strong>Effect:</strong> While worn, a red Color Cloak grants you fire immunity equal to your level.</p><p>Additionally, when you are targeted by any effect that deals fire damage, you can use a triggered action to reduce the damage to 0. If you do so, the fire immunity granted by this cloak becomes fire weakness with the same value until the end of the next round. You can’t use this triggered action again until this weakness ends.</p>`}
+        },
+        effects: [
+          { label: "Fire Immunity", icon: "icons/magic/fire/elemental-fire.webp", transfer: true, changes: [{ key: "system.damage.immunities.fire", mode: 2, value: "@level" }] }
+        ]
+      },
+      {
+        name: "[Trinket] Ever-Sharp Dagger", type: "treasure", img: "icons/weapons/daggers/dagger-ornate-gold.webp",
+        system: {
+          category: "trinket", kind: "weapon", echelon: 1, quantity: 1,
+          project: { prerequisites: "A whetstone from the heart of a mountain", source: "Dwarven Crafting Lore", rollCharacteristic: ["might"], goal: 100, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>This simple but elegant dagger never seems to lose its edge.</em></p><hr><p><strong>Effect:</strong> This dagger functions as a normal dagger, but it never needs sharpening and is considered a magic weapon for the purpose of overcoming damage immunities.</p>`},
+          source: {}, _dsid: "ever-sharp-dagger"
+        }
+      },
+      {
+        name: "[Trinket] Ever-Burning Torch", type: "treasure", img: "icons/tools/light/torch-brown-lit.webp",
+        system: {
+          category: "trinket", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "Wood from a petrified forest", source: "Elven Rituals", rollCharacteristic: ["intuition"], goal: 90, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>This simple wooden torch is capped with a magically preserved flame.</em></p><hr><p><strong>Effect:</strong> This torch burns endlessly without consuming fuel. It can be extinguished or lit with a word as a free maneuver. It sheds bright light in a 5-square radius.</p>`},
+          source: {}, _dsid: "ever-burning-torch"
+        }
+      },
+      {
+        name: "[Trinket] Orb of Minor Prophecy", type: "treasure", img: "icons/magic/perception/orb-crystal-ball-scrying-blue.webp",
+        system: {
+          category: "trinket", kind: "implement", echelon: 1, quantity: 1,
+          project: { prerequisites: "A flawless crystal sphere", source: "Divination Texts", rollCharacteristic: ["presence"], goal: 120, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>Whispers of the near future swirl within this crystal orb.</em></p><hr><p><strong>Effect:</strong> Once per day, you can spend ten minutes concentrating on this orb to gain an edge on a single ability roll made before your next respite.</p>`},
+          source: {}, _dsid: "orb-of-minor-prophecy"
+        }
+      },
+
+      // ===================================================================
+      // ==                     LEVELED TREASURES (CORRECTED)             ==
+      // ===================================================================
+      {
+        name: "[Leveled] Adaptive Second Skin of Toxins", type: "treasure", img: "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+        system: {
+          category: "leveled", kind: "armor", echelon: 1, quantity: 1,
+          project: { prerequisites: "Five rabid honey badger pelts, hedgehog quills", source: "Texts or lore in Yllyric", rollCharacteristic: ["agility", "intuition"], goal: 450, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.</em></p><hr><h3>1st Level</h3><p>While you wear this armor, you gain a +6 bonus to Stamina, and you have immunity to acid and poison damage equal to your highest characteristic score.</p><h3>5th Level</h3><p>The armor’s bonus to Stamina increases to +12. Additionally, whenever an adjacent creature deals damage to you, they take 3 acid or poison damage (your choice).</p><h3>9th Level</h3><p>The armor’s bonus to Stamina increases to +21, and an adjacent creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-cube area of liquid or gas adjacent to you into liquid acid or poison gas until the start of your next turn. Any creature who enters the area for the first time in a combat round or starts their turn there takes 6 acid or poison damage, as appropriate.</p>`}
+        }
+      },
+      {
+        name: "[Leveled] Abjurer's Bastion", type: "treasure", img: "icons/equipment/finger/ring-inscribed-runes.webp",
+        system: {
+          category: "leveled", kind: "implement", echelon: 1, quantity: 1,
+          project: { prerequisites: "A diamond ring", source: "Texts or lore in Caelian", rollCharacteristic: ["might", "reason", "intuition"], goal: 450, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>An ornate ring set with a large diamond that swirls with blue light.</em></p><hr><h3>1st Level</h3><p>While you wield this implement, your magic or psionic abilities that deal rolled damage gain a +1 damage bonus. Additionally, whenever you deal rolled damage to a creature using a magic or psionic ability, you gain temporary Stamina equal to your highest characteristic score.</p><h3>5th Level</h3><p>The implement’s damage bonus increases to +2. Additionally, whenever you deal rolled damage using a magic or psionic ability, you can use a maneuver to create an immobile field of protection that is a 1 cube, around yourself or around an ally within 5 squares. While in the area, you or the chosen ally has damage immunity 5. The field disappears at the start of your next turn.</p><h3>9th Level</h3><p>The implement’s damage bonus increases to +3. Whenever you deal rolled damage to a creature using a magic or psionic ability, you and each ally within 5 squares of you gains temporary Stamina equal to your highest characteristic score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.</p>`}
+        }
+      },
+      {
+        name: "[Leveled] Growing Blade", type: "treasure", img: "icons/weapons/swords/sword-broad-runes.webp",
+        system: {
+          category: "leveled", kind: "weapon", echelon: 1, quantity: 1,
+          project: { prerequisites: "Heartwood of an ancient tree", source: "Fey Smithing", rollCharacteristic: ["might", "intuition"], goal: 450, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A blade that seems to hum with latent power, growing stronger alongside its wielder.</em></p><hr><h3>1st Level</h3><p>Your weapon strikes with this blade gain a +1 bonus to damage rolls.</p><h3>5th Level</h3><p>The damage bonus increases to +2.</p><h3>9th Level</h3><p>The damage bonus increases to +3.</p>`}
+        }
+      },
+      {
+        name: "[Leveled] Charm of Resilience", type: "treasure", img: "icons/magic/defensive/shield-stone-rhombus-yellow.webp",
+        system: {
+          category: "leveled", kind: "other", echelon: 1, quantity: 1,
+          project: { prerequisites: "The scale of an ancient turtle", source: "Monastic Traditions", rollCharacteristic: ["presence"], goal: 400, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A simple stone charm that feels warm to the touch and hardens the spirit against harm.</em></p><hr><h3>1st Level</h3><p>You gain a +1 bonus to your save bonus.</p><h3>5th Level</h3><p>The bonus to your save bonus increases to +2.</p><h3>9th Level</h3><p>The bonus to your save bonus increases to +3.</p>`}
+        }
+      },
+
+      // ===================================================================
+      // ==                         ARTIFACTS                             ==
+      // ===================================================================
+      {
+        name: "[Artifact] Blade of a Thousand Years", type: "treasure", img: "icons/weapons/swords/sword-runes-glowing.webp",
+        system: {
+          category: "artifact", kind: "weapon", echelon: 3, quantity: 1,
+          project: { prerequisites: "", source: "", rollCharacteristic: [], goal: 0, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>This fabled sword features a hilt made of glittering starlight, out of which its gleaming metal blade extends.</em></p><hr><h3>Suited for Victory</h3><p>This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any weapon ability that deals rolled damage using the Blade of a Thousand Years gains a +5 damage bonus, and that ability always deals holy damage. Any creature with weakness to holy damage who takes damage from this weapon is also frightened and weakened until the end of their next turn.</p><h3>Rally the Righteous</h3><p>Each ally within 1 mile of the weapon gains an edge on weapon abilities and magic abilities, and has damage immunity 5. Additionally, each such creature’s Stamina maximum increases by 15 and they gain a +15 bonus to Stamina when this ability first affects them.</p><h3>Turn the Tide</h3><p>Each enemy minion within 1 mile of the sword is dazed. Any enemy leader or solo creature in that area takes a bane on ability rolls.</p><h3>Victory’s Assurance</h3><p>This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first...</p><h3>Soul of the Martyr</h3><p>If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection...</p>`},
+          source: {}, _dsid: "blade-of-a-thousand-years"
+        }
+      },
+      {
+        name: "[Artifact] Aegis of the World-Warden", type: "treasure", img: "icons/equipment/shield/buckler-decorated-gold-blue.webp",
+        system: {
+          category: "artifact", kind: "armor", echelon: 3, quantity: 1,
+          project: { prerequisites: "", source: "", rollCharacteristic: [], goal: 0, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>This shield is said to contain a fragment of the world's creation. It is impossibly light and radiates a feeling of absolute safety.</em></p><hr><p><strong>Unbreakable Defense:</strong> You are immune to critical hits. Any attack that would be a critical hit against you is instead a normal hit.</p><p><strong>Shared Ward:</strong> As a maneuver, you can choose up to 5 allies you can see. Until the start of your next turn, any damage they take is halved, and you take the other half. This damage cannot be reduced in any way.</p>`},
+          source: {}, _dsid: "aegis-of-the-world-warden"
+        }
+      },
+      {
+        name: "[Artifact] The Scribe's Tome", type: "treasure", img: "icons/sundries/books/book-runed-glowing-purple.webp",
+        system: {
+          category: "artifact", kind: "implement", echelon: 3, quantity: 1,
+          project: { prerequisites: "", source: "", rollCharacteristic: [], goal: 0, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A book whose pages turn on their own, revealing any piece of knowledge the wielder desires.</em></p><hr><p><strong>Infinite Knowledge:</strong> You are considered to have every Lore and Academic skill. When you make a skill test using one of these skills, you cannot fail; your roll result is always considered a Tier 3 success.</p><p><strong>Rewrite Reality:</strong> Once per week, you can spend one hour writing in the tome to cast a "Wish" spell, altering reality to your whim. Doing so comes at a great cost, determined by the Director.</p>`},
+          source: {}, _dsid: "the-scribes-tome"
+        }
+      },
+      {
+        name: "[Artifact] The Heartstone", type: "treasure", img: "icons/commodities/gems/gem-heart-engraved-red.webp",
+        system: {
+          category: "artifact", kind: "other", echelon: 3, quantity: 1,
+          project: { prerequisites: "", source: "", rollCharacteristic: [], goal: 0, yield: { amount: "1", display: "" }},
+          description: { value: `<p><em>A flawless, fist-sized ruby that beats with a slow, steady pulse, like a living heart.</em></p><hr><p><strong>Lifeblood of the Land:</strong> While you carry the Heartstone, no creature, friendly or hostile, can die from their wounds within 1 mile of you. Any creature that would be reduced to 0 or fewer stamina is instead reduced to 1 stamina. This effect does not prevent death from disintegration, soul-devouring, or other reality-warping effects.</p><p><strong>Final Sacrifice:</strong> You can choose to crush the Heartstone. If you do, you and every creature you choose within 1 mile are instantly and fully healed, and all negative effects on them are ended. The Heartstone is destroyed forever.</p>`},
+          source: {}, _dsid: "the-heartstone"
+        }
+      },
+    ];
+
+    ui.notifications.info("Beginning creation of 16 treasure items. This may take a moment...");
+
+    for (const item of allItems) {
+      await Item.create(item);
+    }
+
+    ui.notifications.info("Macro finished! All treasure items have been created successfully.");
+
+  } catch (error) {
+    console.error("TREASURE COMPENDIUM MACRO | An error occurred:", error);
+    ui.notifications.error("Macro failed! Check the F12 console for details.");
+  }
+})();
+
+
 
