@@ -1,10 +1,10 @@
-prerequisites: Nitric salts and powdered copper
-source: Texts or lore on alchemy in any language
-characteristic: Reason, or Intuition
-goal: 45 (recipe yields 1d3)
+name: Alchemic Acid
+Prerequisites: Nitric salts and powdered copper
+Source: Texts or lore on alchemy in any language
+Characteristic: Reason, or Intuition
+Goal: 45 (recipe yields 1d3)
 
 ```ds-ab
-name: Alchemic Acid
 cost: 1 Consumable
 flavor: A fragile vial of a bubbly corrosive liquid.
 keywords: Alchemy, Volatile, Ranged
