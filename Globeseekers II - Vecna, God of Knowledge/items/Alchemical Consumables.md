@@ -466,9 +466,7 @@ type: Maneuver
 distance: Ranged
 target: Two 3 cubes
 effects:
-
 Effect: As a maneuver, you break the smoking rod in half and toss the pieces away. Create two 3 cubes within distance of your ranged free strike that provide concealment to any creatures inside the area and remains until the end of the next round.
-
 ```
 
 ```ds-hr
@@ -803,11 +801,9 @@ effect: Transmute Form - By pressing The Gold Stone against an amount of raw mat
 
 effect: Uncleave the Soul - While in possession of The Gold Stone you can undertake a forbidden knowledge research project (see Research Projects in the Downtime Projects chapter of Heroes) to learn the recipe for the Elixir of True Resurrection.
 
-name: 
-effect:  Unveil the Inward Eye - While wielding The Gold Stone as an implement abilities with the psionic keyword have an edge. Additionally, you automatically obtain a tier 3 result to recall knowledge with any of your lore skills.
+effect: Unveil the Inward Eye - While wielding The Gold Stone as an implement abilities with the psionic keyword have an edge. Additionally, you automatically obtain a tier 3 result to recall knowledge with any of your lore skills.
 
-name: The Weight
-effect: The Gold Stone is too great substance for anyone to own happily. By virtue of possessing it you will go down in legends as one of the greatest alchemist to ever live... If you allow the worlds to know you possess it. You gain an immutable desire to keep The Gold Stone secret from anyone but your closest of allies. After a year of possessing The Gold Stone you grow suspicious of anyone who knows of it’s existence.
+effect: The Weight - The Gold Stone is too great substance for anyone to own happily. By virtue of possessing it you will go down in legends as one of the greatest alchemist to ever live... If you allow the worlds to know you possess it. You gain an immutable desire to keep The Gold Stone secret from anyone but your closest of allies. After a year of possessing The Gold Stone you grow suspicious of anyone who knows of it’s existence.
 
 ```
 
