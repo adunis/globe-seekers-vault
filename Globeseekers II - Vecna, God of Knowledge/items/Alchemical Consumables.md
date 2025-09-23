@@ -1,4 +1,5 @@
 ### **Alchemic Acid** (1 Consumable)
+*A fragile vial of a bubbly corrosive liquid.*
 **Keywords:** Alchemy, Volatile, Ranged
 **Prerequisites:** Nitric salts and powdered copper
 **Source:** Texts or lore on alchemy in any language
@@ -7,8 +8,6 @@
 
 ```ds-ab
 name: Acid Splash
-cost: 1 Consumable
-flavor: A fragile vial of a bubbly corrosive liquid.
 type: Maneuver
 distance: Ranged
 target: Free Strike
