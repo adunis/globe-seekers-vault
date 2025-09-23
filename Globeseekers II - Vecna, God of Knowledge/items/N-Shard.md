@@ -1,3 +1,30 @@
+---
+ds-item:
+  name: N-Shard
+  flavor_text: Un paradosso solidificato: un frammento di tecnologia arcana Netherese progettato per contenere e interfacciarsi con un'energia caotica ed extradimensionale proveniente dal Reame Remoto.
+  keywords:
+    - Magic
+    - Artifact
+    - Other
+    - Psionic
+    - Far Realm
+  echelon: 3
+  effect: |
+    ### Abilità: Risonanza Psionica
+    Mentre sei sintonizzato con un N-Shard, ottieni un vantaggio a tutti i test di Ragione e Intuizione relativi alla psionica o al rilevamento di influenze mentali.
+
+    ### Abilità: Volontà Amplificata
+    Una volta per riposo, come azione principale, puoi manifestare un effetto psionico. Scegli uno:
+    - **Telecinesi:** Spingi o tira una creatura o un oggetto entro 10 caselle fino a 3 caselle.
+    - **Telepatia:** Stabilisci un collegamento telepatico con una creatura che puoi vedere per 1 minuto.
+    - **Pirocinesi:** Infliggi 2d6 danni da fuoco a una creatura entro 5 caselle.
+
+    ### Maledizione: Sussurri del Vuoto
+    Alla fine di ogni riposo, effettua un test di Presenza Difficile. In caso di fallimento, ottieni una condizione temporanea (es. Stordito, Spaventato) per 1 ora, mentre i sussurri del Reame Remoto erodono la tua sanità mentale.
+
+    ### Maledizione: Faro per l'Indesiderato
+    Mentre trasporti un N-Shard attivo, sei più facilmente rilevabile dalle creature del Reame Remoto. Queste creature ottengono un vantaggio ai test di Intuizione per localizzarti.
+---
 
 ### **DOSSIER ZORVATH, SEZIONE GAMMA: ANALISI DEI FRAMMENTI NETHERESI (N-SHARD)**
 
@@ -75,4 +102,33 @@ La nostra analisi deve continuare. Comprendere come dissociare un N-Shard da un 
 
 **(Fine del Dossier)**
 
+---
+# N-Shard Itemsheet
 
+## Description
+
+Un paradosso solidificato: un frammento di tecnologia arcana Netherese progettato per contenere e interfacciarsi con un'energia caotica ed extradimensionale proveniente dal Reame Remoto.
+
+## Properties
+
+*   **Keywords:** Magic, Artifact, Other, Psionic, Far Realm
+*   **Echelon:** 3
+*   **Category:** Artifact
+*   **Kind:** Other
+
+## Effects
+
+### Abilità: Risonanza Psionica
+Mentre sei sintonizzato con un N-Shard, ottieni un vantaggio a tutti i test di Ragione e Intuizione relativi alla psionica o al rilevamento di influenze mentali.
+
+### Abilità: Volontà Amplificata
+Una volta per riposo, come azione principale, puoi manifestare un effetto psionico. Scegli uno:
+- **Telecinesi:** Spingi o tira una creatura o un oggetto entro 10 caselle fino a 3 caselle.
+- **Telepatia:** Stabilisci un collegamento telepatico con una creatura che puoi vedere per 1 minuto.
+- **Pirocinesi:** Infliggi 2d6 danni da fuoco a una creatura entro 5 caselle.
+
+### Maledizione: Sussurri del Vuoto
+Alla fine di ogni riposo, effettua un test di Presenza Difficile. In caso di fallimento, ottieni una condizione temporanea (es. Stordito, Spaventato) per 1 ora, mentre i sussurri del Reame Remoto erodono la tua sanità mentale.
+
+### Maledizione: Faro per l'Indesiderato
+Mentre trasporti un N-Shard attivo, sei più facilmente rilevabile dalle creature del Reame Remoto. Queste creature ottengono un vantaggio ai test di Intuizione per localizzarti.
