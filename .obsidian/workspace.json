@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Ability"
             }
-          },
-          {
-            "id": "be3124a1bc590d27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/locations/Cittá/Protonecropoli.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Protonecropoli"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,8 +211,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "be3124a1bc590d27",
+  "active": "550cd1e8db04324f",
   "lastOpenFiles": [
+    "Globeseekers II - Vecna, God of Knowledge/Merchants",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Macros/Alchemical Items.md",
     "Globeseekers II - Vecna, God of Knowledge/locations/Cittá/Protonecropoli.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Macros/Draw Steel Heroes Core Book Items.md",
@@ -259,7 +246,6 @@
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Netherese Globe.js",
     "Draw Steel/Draw Steel Templates/Untitled.md",
     "Globeseekers II - Vecna, God of Knowledge/items/Pietre-Anima.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Spelljammer Helm.md",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create N-Shard.js",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Lunar Scourge.js",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Il Cuore Nero.js",
