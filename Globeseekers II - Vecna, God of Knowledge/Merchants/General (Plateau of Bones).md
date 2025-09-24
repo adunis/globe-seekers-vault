@@ -3,17 +3,7 @@
 
 **Wealth Tier 1: Scavenger's Scraps & Basic Necessities**
 
-- Ash Rations (dried fungal cakes and corpse-grubs), Crude Filtered Water (1L canteen, often cloudy), Bone Bandage (strips of treated hide or coarse cloth), Sharpened Bone Shard (improvised knife), Rusted Metal Club (improvised blunt weapon), Patchwork Tunic (worn, stained clothes), Simple Pouch (made from scavenged fabric or hide)
-    
-- Flint and Steel (worn, rusty)
-    
-- Tinderbox (with dried fungal kindling)
-    
-- Rough-spun Rope (5m, salvaged)
-    
-- Crude Bone Awl (basic tool)
-    
-- Basic Foraging Bag (small, tattered)
+- Ash Rations (dried fungal cakes and corpse-grubs), Crude Filtered Water (1L canteen, often cloudy), Bone Bandage (strips of treated hide or coarse cloth), Sharpened Bone Shard (improvised knife), Rusted Metal Club (improvised blunt weapon), Patchwork Tunic (worn, stained clothes), Simple Pouch (made from scavenged fabric or hide), Flint and Steel (worn, rusty), Tinderbox (with dried fungal kindling), Rough-spun Rope (5m, salvaged), Crude Bone Awl (basic tool), Basic Foraging Bag (small, tattered)
     
 - Collected Ash (small bag, useful for tracking or simple insulation)
     
