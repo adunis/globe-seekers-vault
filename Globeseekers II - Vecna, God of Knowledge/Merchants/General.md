@@ -1,4 +1,4 @@
-### World-Wide Generic Merchant Offerings: Wealth Tiers (Non-Magical Items)
+
 
 **Wealth 1.**
 
