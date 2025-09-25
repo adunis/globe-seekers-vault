@@ -1,3 +1,6 @@
+
+![[puyffgo1p3oe1.jpeg]]
+
 ~~~ds-statblock
 name: Inquisitore Vex
 level: 4

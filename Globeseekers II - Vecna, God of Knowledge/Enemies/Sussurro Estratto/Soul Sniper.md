@@ -1,6 +1,6 @@
-![[Untitled 16.png]]
+![[dce624g-1ed1e2e8-0b6e-4979-bc5c-d85634f2b6fe.jpg]]
 
-![[Generated_Image_September_25__2025_-_5_02PM-removebg-preview.png]]
+
 
 
 ~~~ds-statblock
