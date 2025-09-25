@@ -1,3 +1,5 @@
+![[2d6e6d7554c9130247238f4e0ffe1b41.jpg]]
+
 ~~~ds-statblock
 name: Gigante d'Ossa
 level: 4
