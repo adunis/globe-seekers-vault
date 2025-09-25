@@ -1,3 +1,6 @@
+
+![[d485f63b0f7dc3fcec402719b54a5eb8.jpg]]
+
 ~~~ds-statblock
 name: Guerriero delle Dune
 level: 1
@@ -71,5 +74,10 @@ abilities:
     effects:
       - effect: Both this creature and the triggering ally can immediately shift 1 square.
 ~~~
+
+
+
+
+
 
 
