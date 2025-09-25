@@ -1,6 +1,10 @@
 
 ![[l1kh0zjgosh31.jpg]]
 
+
+![[1000_F_439895892_xmo5FyhT01YmdQPqnnominjcUoeufuxT.jpg]]
+
+
 ~~~ds-statblock
 name: Cecchino delle Rocce
 level: 1
