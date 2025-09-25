@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Scudo Infranto/0. Dossier.md",
+                "file": "Globeseekers II - Vecna, God of Knowledge/Enemies/Gigante d'Ossa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Dossier"
+              "title": "Gigante d'Ossa"
             }
           },
           {
@@ -207,11 +207,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "550cd1e8db04324f",
+  "active": "95f6410c606d2fb4",
   "lastOpenFiles": [
-    "Globeseekers II - Vecna, God of Knowledge/Enemies/Untitled",
-    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Sussurro Estratto/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Soul Sniper.md",
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Blight Caster.md",
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Avamposto dell'Ossidiana/Cecchino delle Rocce.md",
+    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Blackout/0. Dossier.md",
+    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Sussurro Estratto/0. Dossier.md",
+    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Scudo Infranto/0. Dossier.md",
+    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/L'Avamposto dell'Ossidiana/0. Dossier.md",
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Scudo Infranto",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Operazione Blackout/Guardiano d'Ossa d'Elite.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Operazione Blackout/Orror di Carne Ricucita.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Operazione Blackout/Servitore Chirurgico.md",
@@ -220,7 +225,6 @@
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Sussurro Estratto",
     "Orror di Carne Ricucita.png",
     "Guardiano d'Ossa d'Elite.png",
-    "Globeseekers II - Vecna, God of Knowledge/Enemies/Blight Caster.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Avamposto dell'Ossidiana/Mad Mags.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Avamposto dell'Ossidiana/Guerriero delle Dune.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Avamposto dell'Ossidiana/Bruto Corazzato.md",
@@ -229,19 +233,16 @@
     "Globeseekers II - Vecna, God of Knowledge/Characters/Ticchettio, il Ricettacolo Riluttante.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Sussurro Estratto/Inquisitore Vex.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Gigante d'Ossa.md",
-    "Globeseekers II - Vecna, God of Knowledge/Enemies/Barone delle Ossa.md",
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Scudo Infranto/Barone delle Ossa.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Sussurro Estratto/Agente in Borghese.md",
-    "Globeseekers II - Vecna, God of Knowledge/Enemies/Abominio di Carne.md",
-    "Globeseekers II - Vecna, God of Knowledge/Enemies/Cecchino delle Rocce.md",
+    "Globeseekers II - Vecna, God of Knowledge/Enemies/Scudo Infranto/Abominio di Carne.md",
     "1000_F_439895892_xmo5FyhT01YmdQPqnnominjcUoeufuxT.jpg",
     "l1kh0zjgosh31.jpg",
     "Blight Caster.png",
     "bonelord__the_elder_scrolls__by_romandubina_dakzrby-375w-2x.jpg",
     "Unstoppable_Abomination.jpg",
     "Globeseekers II - Vecna, God of Knowledge/Characters/Ryka, la Falco Sopravvissuta.md",
-    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Blackout/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Operazione Blackout",
-    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/L'Avamposto dell'Ossidiana/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/L'Avamposto dell'Ossidiana/1. Combat 1.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Avamposto dell'Ossidiana",
     "Globeseekers II - Vecna, God of Knowledge/Characters/Lysandra Vayne.md",
@@ -254,7 +255,6 @@
     "Globeseekers II - Vecna, God of Knowledge/items/Artifacts",
     "Globeseekers II - Vecna, God of Knowledge/items/Siege Weapons",
     "Globeseekers II - Vecna, God of Knowledge/items/Vehicles",
-    "Globeseekers II - Vecna, God of Knowledge/items/Netherese Globes",
     "Untitled.canvas"
   ]
 }
