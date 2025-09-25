@@ -1,3 +1,6 @@
+![[bonelord__the_elder_scrolls__by_romandubina_dakzrby-375w-2x.jpg]]
+
+
 ~~~ds-statblock
 name: Barone delle Ossa
 level: 1
