@@ -1,64 +1,59 @@
-Here are the house rules with an added section for determining object damage based on size.
 
-***
 
-#### **HOUSERULE! Sliding and Rolling Objects on Slopes**
+#### **1. Sliding & Collision Damage**
 
-This rule determines how an object moves after landing on a sloped surface.
+This covers any object moving across the ground, whether it was pushed or fell onto a slope.
 
-1.  **Gain Momentum:** The object gains **1 Momentum Point for every 2 full squares it fell**.
-2.  **Determine Slide Distance:** The base Slide Distance is equal to its Momentum Points. This is modified by object type (rollers move farther) and slope steepness (steeper slopes double the distance).
-3.  **Resolve Movement:** The object moves down the slope, spending its Slide Distance. Difficult terrain costs double. The movement stops when Slide Distance is 0 or it collides with a significant obstacle.
-4.  **Collision Damage:** If it hits a creature, the creature takes damage as described in the **Impact Damage by Object Size** rules below. The object's remaining Slide Distance is used as the "Remaining Movement" for the damage calculation.
+- **Sliding:** If an object lands on a slope, it slides. The distance it slides is equal to **half the distance it fell** (rounded down).
+    
+- **Collision Damage:** If a moving creature or object hits a creature or object, the creature takes damage.
+    
+    - **Damage Formula:** Damage = Object's Size x Squares Moved
+        
+- **Object Size:**
+    
+    - **Medium (1x1):** Size 1
+        
+    - **Large (2x2):** Size 2
+        
+    - **Huge (3x3):** Size 3
+        
 
-#### **HOUSERULE! Impact Damage by Object Size**
+#### **2. Breaking Attached Objects (Trees, Pillars, etc.)**
 
-This rule governs the damage a creature takes when struck by a moving object, whether it is sliding, rolling, or being pushed. The damage is determined by the object's momentum and its mass.
+Use these rules when you try to push or pull something rooted to the ground.
 
-*   **Damage Calculation:** When an object collides with a creature, the creature takes damage equal to the **object's remaining movement distance multiplied by its Size.**
-    *   **Formula:** `Damage = Remaining Movement x Size`
-*   **Defining "Size":** An object's "Size" is a numerical value, typically corresponding to the number of squares it occupies on a side.
-    *   **Medium (1 square):** Size 1
-    *   **Large (2x2 squares):** Size 2
-    *   **Huge (3x3 squares):** Size 3
-    *   Objects smaller than Medium have a Size of 0.5 (dealing half damage, minimum 1).
-*   **Minimum Damage:** An object striking a creature deals a minimum of 1 damage.
+- **The Goal:** Your Push/Pull strength must beat the object's **Breaking Point**.
+    
+- **Breaking Point:** This is simply the object's **Stamina**.
+    
+- **The Process:**
+    
+    1. Use an ability that pushes or pulls. The number of squares is your **Force**.
+        
+    2. Compare your **Force** to the object's **Breaking Point**.
+        
+        - **If Force is LESS than Breaking Point:** The object doesn't move. It takes damage equal to your Force.
+            
+        - **If Force is EQUAL TO or GREATER than Breaking Point:** The object breaks free!
+            
+            - **Trees & Boulders (Movers):** The object is pushed the distance of your ability, minus its own size.
+                
+            - **Pillars & Statues (Topplers):** The object falls over in a direction you choose, hitting a line of squares equal to its height.
+                
 
-#### **HOUSERULE! Structural Integrity & Breaking Points**
+#### **3. Getting Pinned**
 
-This framework governs attempts to move or topple objects that are **attached** to the ground or another larger structure (e.g., a tree, a stone pillar, a statue on a plinth). These objects cannot be force moved normally.
+This happens when a large object or creature lands on you.
 
-*   **System Activation:** This system activates whenever an ability applies a push or pull to an Attached Object. A slide cannot sunder an attached object; the forced movement simply fails.
-*   **Defining an Attached Object:** An Attached Object is any object that is rooted to the ground or is part of a larger structure. The Director determines if an object qualifies.
-*   **Breaking Point:** Every Attached Object has a **Breaking Point**, which is a value representing the force needed to snap it from its anchor. The Breaking Point is equal to the object's **Stamina**.
-    *   Example: A 1-square thick wooden tree (Size 1M) has 3 Stamina, so its Breaking Point is 3.
-    *   Example: A 1-square thick stone pillar (Size 1M) has 6 Stamina, so its Breaking Point is 6.
-
-When you use an ability that applies a push X or pull X to an Attached Object, follow these steps:
-
-1.  **Determine Force Value:** The number of squares of the push or pull is the **Force Value**. (e.g., a push 10 has a Force Value of 10).
-2.  **Deal Initial Damage:** The object takes the normal damage from your ability, if any.
-3.  **Compare Force to Breaking Point:**
-    *   **If Force Value is LESS than the Breaking Point:** The object is **not sundered**.
-        *   It does not move.
-        *   The object takes additional damage equal to the **Force Value**, representing the strain on its structure. Its Stamina (and thus its Breaking Point) is reduced for future attempts.
-    *   **If Force Value is EQUAL TO OR GREATER than the Breaking Point:** The object is **sundered**. It breaks free from its anchor point. Now, determine its final movement:
-        *   **For Movers (e.g., Trees, large crystals):** The object is uprooted and is now pushed or pulled. The distance it travels is equal to the **original forced movement value MINUS the object's Size**. It then moves as a normal free object.
-        *   **For Topplers (e.g., Pillars, Statues):** The object does not get pushed or pulled horizontally. Instead, it **falls**. The character who sundered it chooses the direction it falls. It topples in a straight line, occupying a number of squares equal to its height. Any creature in those squares is subject to the **Falling Object Damage** rules. The "Squares Fallen" for the damage calculation is **half the object's height** (rounded down).
-
-**Example Application:**
-
-*   **Pushing a Tree:** A hero uses an ability that applies push 10 to a Size 1M tree (Breaking Point 3). The Force Value is 10. Since 10 > 3, the tree is **sundered**. It is now pushed a distance of 10 (from the ability) - 1 (the tree's size) = **9 squares**.
-*   **Toppling a Pillar:** A hero uses an ability that applies push 10 to a 10-square-high stone pillar (Size 1M, Breaking Point 6). The Force Value is 10. Since 10 > 6, the pillar is **sundered**. The hero decides it will fall north. It topples, covering the 10 squares to the north. Any creature in its path takes falling object damage as if it fell 5 squares: **(2 x 5) x 1 = 10 damage**.
-*   **Failed Push:** A hero uses an ability that applies push 4 to the same 10-square-high stone pillar (Breaking Point 6). The Force Value is 4. Since 4 < 6, the pillar is **not sundered**. It does not move or fall. It takes damage from the initial ability, plus an additional 4 damage from the failed push. Its Stamina is now reduced, making it easier to break on the next attempt.
-
-#### **HOUSERULE! Pinning**
-
-This rule creates a new **Pinned** condition for when a creature is trapped beneath a significantly larger creature or object.
-
-*   **Triggering Pinning:** A creature becomes pinned when a creature or object **two or more sizes larger** than them ends its movement occupying their space.
-*   **The Pinned Condition:** A pinned creature is **restrained**, **prone**, has **no line of effect** to creatures not adjacent to them, and all creatures have **cover** against them.
-*   **Escaping a Pin:** A pinned creature or their allies can free them using standard game actions:
-    *   **Force:** Use the **Knockback maneuver** on the pinning creature/object to push it off.
-    *   **Destruction:** Use a **main action** to make a strike against a pinning object, attempting to destroy one square of it to create an opening.
-    *   **Wriggling Free:** The pinned creature can use their **move action** to make a **Hard Agility test** to crawl out from underneath. Relevant skills (e.g., Gymnastics) can be applied.
+- **How it Happens:** You are **Pinned** if an object **two or more sizes larger** than you lands in your space.
+    
+- **Effects:** While Pinned, you are **Restrained** and **Prone**.
+    
+- **How to Escape (3 Options):**
+    
+    1. **Push it Off:** An ally uses an ability to knock the object off you.
+        
+    2. **Break it:** Anyone can attack the object to destroy it.
+        
+    3. **Wriggle Free:** Use your move action to make a hard Agility test to escape.
