@@ -1,3 +1,5 @@
+![[Servitore Chirurgico.png]]
+
 ~~~ds-statblock
 name: Servitore Chirurgico
 level: 1
