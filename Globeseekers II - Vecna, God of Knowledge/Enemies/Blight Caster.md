@@ -1,3 +1,5 @@
+![[Blight Caster.png]]
+
 ~~~ds-statblock
 name: Blight Caster
 level: 1
