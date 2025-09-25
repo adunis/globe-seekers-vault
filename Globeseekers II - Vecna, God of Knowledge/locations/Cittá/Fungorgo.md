@@ -42,9 +42,6 @@ Stile: Interno, bio-organico, ritualistico.
 Vista: Diretta dall'alto, senza griglia visibile.  
 Richiesta Immagine: "Crea una mappa tattica con una vista diretta dall'alto di una camera circolare o ovale di Fungorgo, usata per la coltivazione delle spore o rituali. Al centro, una grande vasca naturale o scavata, piena di un liquido scuro e denso, con funghi Velo della Vedova Cremisi che galleggiano o crescono al suo interno, emettendo una luce fioca rossastra. Le pareti della stanza sono ricoperte da un micelio spesso e pulsante. Piccoli altari improvvisati con offerte organiche o simboli fungini sono disposti attorno alla vasca. L'aria è umida e satura di spore che creano una nebbia visibile. Suggerisci passaggi da cui entrano i cultisti o creature fungine. L'atmosfera è mistica, inquietante e organica."
 
-
-
-
 **FUNGORGO: LA METASTASI RIBELLE**
 
 **(Voce di un Mercante Cauto o di una Guida degli Scavatori):**  
