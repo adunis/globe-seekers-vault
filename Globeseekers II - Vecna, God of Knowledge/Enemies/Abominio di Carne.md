@@ -1,3 +1,7 @@
+
+![[Unstoppable_Abomination.jpg]]
+
+
 ~~~ds-statblock
 name: Abominio di Carne
 level: 1
