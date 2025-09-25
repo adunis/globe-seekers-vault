@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Blackout/0. Dossier.md",
+                "file": "Globeseekers II - Vecna, God of Knowledge/Characters/Ryka, la Falco Sopravvissuta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Dossier"
+              "title": "Ryka, la Falco Sopravvissuta"
             }
           }
         ],
@@ -197,8 +197,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "550cd1e8db04324f",
+  "active": "95f6410c606d2fb4",
   "lastOpenFiles": [
+    "Untitled 18.png",
+    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Blackout/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/Enemies/Operazione Blackout",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/L'Avamposto dell'Ossidiana/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/L'Avamposto dell'Ossidiana/1. Combat 1.md",
@@ -229,7 +231,6 @@
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Sussurro Estratto/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Sussurro Estratto/2. Montage Test.md",
     "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Sussurro Estratto/1. Negotations.md",
-    "Globeseekers II - Vecna, God of Knowledge/journals/Programmi Sessioni/11 - L' Orologio del Nexus/Operazione Blackout/0. Dossier.md",
     "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Le Fauci di Ymir, Distese Ghiacciate del Nord.md",
     "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Venthrum Vecnarius - Altopiano delle Ossa.md",
     "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Xal-Tharath, lo Sfregio Netherese.md",
@@ -244,7 +245,6 @@
     "Globeseekers II - Vecna, God of Knowledge/items/Vehicles",
     "Globeseekers II - Vecna, God of Knowledge/items/Netherese Globes",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Netherese Globe.js",
-    "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create N-Shard.js",
     "Untitled.canvas"
   ]
 }

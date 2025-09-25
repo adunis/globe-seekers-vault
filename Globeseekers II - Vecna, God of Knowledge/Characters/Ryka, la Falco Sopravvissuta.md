@@ -1,6 +1,8 @@
 ---
 kanka_id: 1954885
 ---
+![[Untitled 18.png]]
+
 
 **Ryka, la Falco Sopravvissuta (Nuovo NPC)**
 
