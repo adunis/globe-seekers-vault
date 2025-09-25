@@ -1,3 +1,7 @@
+
+![[3ff8b8da3988114238c72a347c6e09ab 1.jpg]]
+
+
 ~~~ds-statblock
 name: Mad Mags
 level: 3
@@ -101,5 +105,7 @@ abilities:
     effects:
       - effect: Mad Mags chooses a target. Up to four allies within range of the target can immediately move up to their speed towards the target. After this movement, each of those allies adjacent to the target makes a free strike against it.
 ~~~
+
+
 
 
