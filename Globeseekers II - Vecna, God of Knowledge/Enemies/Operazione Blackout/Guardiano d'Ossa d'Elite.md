@@ -1,3 +1,6 @@
+![[Guardiano d'Ossa d'Elite.png]]
+
+
 ~~~ds-statblock
 name: Guardiano d'Ossa d'Elite
 level: 2
@@ -68,5 +71,7 @@ abilities:
     effects:
       - effect: The triggering strike takes a bane.
 ~~~
+
+
 
 
