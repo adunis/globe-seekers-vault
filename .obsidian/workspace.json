@@ -39,12 +39,14 @@
             "id": "f4337d7efb818b2e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Untitled-1.png"
+                "file": "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Venthrum Vecnarius - Altopiano delle Ossa.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Untitled-1"
+              "icon": "lucide-file",
+              "title": "Venthrum Vecnarius - Altopiano delle Ossa"
             }
           }
         ],
@@ -209,12 +211,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "550cd1e8db04324f",
+  "active": "f4337d7efb818b2e",
   "lastOpenFiles": [
-    "Untitled.png",
-    "Untitled 1.png",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Xal-Tharath, lo Sfregio Netherese.md",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Xar'Vhalis, le Lande Grigie Fumali.md",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Terre Desolate.md",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Le Fauci di Ymir, Distese Ghiacciate del Nord.md",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Campi della Forgianima - Amarathien.md",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Foreste di Lunargenta.md",
+    "Globeseekers II - Vecna, God of Knowledge/locations/Regioni/Abisso di Xul’Korth.md",
     "Globeseekers II - Vecna, God of Knowledge/locations/Cittá/Fungorgo.md",
-    "Untitled-1.png",
+    "gallery/Untitled-1.png",
+    "gallery/Untitled.png",
+    "gallery/Untitled 1.png",
     "Globeseekers II - Vecna, God of Knowledge/Merchants/General.md",
     "Globeseekers II - Vecna, God of Knowledge/locations/Cittá/Protonecropoli.md",
     "Globeseekers II - Vecna, God of Knowledge/Merchants",
@@ -240,12 +249,6 @@
     "Globeseekers II - Vecna, God of Knowledge/Characters/La Famiglia della Cenere Tranquilla.md",
     "Draw Steel/Draw Steel Templates/Charateristics.md",
     "Draw Steel/Draw Steel Templates/Power Roll.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Netherese Globe.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Urna di Geb.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Il Cuore Nero.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Siege Weapons/Personal Ballista.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Risuonatore d'Ossa.md",
-    "Globeseekers II - Vecna, God of Knowledge/items/Artifacts/Lunar Scourge.md",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Netherese Globe.js",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create N-Shard.js",
     "Globeseekers II - Vecna, God of Knowledge/items/FoundryVTT Macros/Create Lunar Scourge.js",

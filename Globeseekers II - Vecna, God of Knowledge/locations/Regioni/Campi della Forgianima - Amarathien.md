@@ -16,7 +16,8 @@ head (
 | --- | --- | --- |
 | Campi 1 | Spettro Guerriero | Cinghiale Ferreo |
 
-***
+***
+
 
 > *"Qui ogni spada spezzata racconta una vita spezzata. Ogni urlo che riecheggia è un'anima che implora pace."* - Lady Elyssandra, Fantasma del 3° Reggimento di Cormyr
 >
@@ -25,7 +26,8 @@ head (
 > *"Le tempeste qui non portano pioggia, ma memoria. Chi viene colto all'aperto rischia di impazzire rivivendo cento morti altrui."*  
 > — Ultimo messaggio della Carovana delle Lacrime
 
-***
+***
+
 
 *(frammenti dal diario ritrovato in un elmo insanguinato)*
 
@@ -65,7 +67,8 @@ La **Torre del Lamento** canta. Non posso resistere. Forse là troverò perché 
 
 *(il resto è cancellato da impronte di ruggine)*
 
-***
+***
+
 
 ## 🧭 Sopravvivenza nei Campi
 
@@ -88,7 +91,8 @@ La **Torre del Lamento** canta. Non posso resistere. Forse là troverò perché 
 > *"Il vero pericolo non sono le lame, ma la memoria. Ogni battaglia vista ti ruba un pezzo di anima."*  
 > — Iscrizione su una lapide senza nome
 
-***
+***
+
 
 ## 👻 Specie Dominanti
 
@@ -99,7 +103,8 @@ La **Torre del Lamento** canta. Non posso resistere. Forse là troverò perché 
 | Vermi | **Scavareliquie** (Grave Burrowers) | Vermi meccanici che collezionano cimeli di guerra. Attaccano chi possiede oggetti personali. |
 | Uccelli | **Corvi d'Acciaio** (Steelwing Ravens) | Volatili con piume metalliche che riflettono lampi di battaglie passate. Annunciano le tempeste di echi. |
 
-***
+***
+
 
 ## ⚔️ Fazioni Principali
 
@@ -110,7 +115,8 @@ La **Torre del Lamento** canta. Non posso resistere. Forse là troverò perché 
 | Redentori | **Figli del Silenzio** (Pacificatori) | Ex soldati che cercano di seppellire le armi. Portano campane che annullano i suoni di guerra. | - Brother Harken, Umano muto - Silvia, Mezzelfa con lira spezzata |
 | Predoni | **Ladri d'Echi** (Cacciatori di Reliquie) | Mercenari che rubano ricordi di battaglie per venderli a stregoni. Hanno lance che assorbono urla. | - Goran, Orco con maschera antiscintilla - Lyss, Tiefling con borsa senza fondo |
 
-***
+***
+
 
 ## 🌿 Flora Letale
 
@@ -120,7 +126,8 @@ La **Torre del Lamento** canta. Non posso resistere. Forse là troverò perché 
 | Campane | **Campane del Sonno Eterno** Fiori a forma di campana che emettono ultrasuoni pacificatori. Il polline causa coma irreversibile. |
 | Radici | **Viscere di Pietra** Radici che penetrano nelle armature. Si nutrono di conflitto, crescendo più forti durante gli scontri. |
 
-***
+***
+
 
 ## 🦹♂️ Personaggi d'Esempio
 
@@ -132,7 +139,8 @@ La **Torre del Lamento** canta. Non posso resistere. Forse là troverò perché 
 | **Cacciatore di Reliquie** Ladra che ruba ricordi di guerra. Ha occhi di diverso colore: uno vede il passato, l'altro il presente. | Ranger (Cacciatore di Predatori) / Mezzelfo | - Rete fatta di capelli spettrali - Daga che assorbe ricordi | - Borsello che pesa come l'oggetto rubato |
 | **Alchimista del Sangue Ferreo** Scienziato che studia la metallizzazione del corpo. Braccio sinistro trasformato in acciaio vivo. | Inventore (Modificatore d'Arma) / Umano | - Siringhe con metallo liquido | - Martello che ripara oggetti spettrali - Quaderno con equazioni impossibili |
 
-***
+***
+
 
 ## ⚙️ Equipaggiamento Tipico
 

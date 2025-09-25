@@ -13,7 +13,8 @@ Le Foreste di Lunargenta, dove un tempo la benedizione di Selûne era pura, ora 
 
 
 
-***
+***
+
 
 > *"Cammina nelle ombre degli Alberi Vetusti, e la foresta ti proteggerà ancora. Ma tradiscila, o porta in te l'eco degli Dei Antichi... e diventerai sua preda."*  
 > – Illania Cantastella, Ultima Sacerdotessa Errante di Selûne Ferita
@@ -24,7 +25,8 @@ Le Foreste di Lunargenta, dove un tempo la benedizione di Selûne era pura, ora 
 > *"Qui anche il silenzio ha una voce, un lamento per ciò che è stato perso. Ascolta, e imparerai a temerla, o a compatirla."*  
 > – Ultime parole registrate di Garrosh Sputaveleno, Capotribù degli Incisori del Fuoco, prima che le sue ceneri nutrissero un Albero Piangente.
 
-***
+***
+
 
 ## 🌲 Panoramica e Eredità della Grande Discesa
 
@@ -34,7 +36,8 @@ La **Ferita di Selûne** si manifesta in cicli lunari imprevedibili e in fenomen
 
 Nonostante ciò, le Foreste di Lunargenta rimangono un luogo di potente magia naturale e di rifugio per coloro che cercano di sfuggire al pugno di ferro delle Fortezze Divine. Ma la sopravvivenza qui richiede un profondo rispetto per le sue nuove, dure leggi e una costante vigilanza contro i pericoli che si annidano tra le foglie bagnate di luna.
 
-***
+***
+
 
 ### 📜 Luoghi d'Interesse e Antichi Segreti
 
@@ -46,7 +49,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 * **L'Albero dei Giuramenti Infranti:** Un immenso albero millenario le cui radici contengono armature elfiche fuse con la corteccia – i resti dei leggendari Cavalieri di Lunargenta, caduti difendendo la foresta durante [[La Grande Discesa]]. La sua linfa, un tempo curativa, ora guarisce le ferite ma instilla una fame innaturale e una crescente aggressività, un effetto collaterale della magia corrotta.
 * **Il Circolo dei Druidi Contaminati:** Un tempo saggi custodi, alcuni druidi del Circolo Primordiale sono stati corrotti dalla linfa nera che serpeggia nella foresta. Catturano gli estranei, accusandoli di portare ulteriore corruzione, ma le loro stesse vene pulsano di oscurità. Sono un pericolo imprevedibile, a metà tra protettori folli e agenti della rovina.
 
-***
+***
+
 
 ## 🌲 Sopravvivenza nelle Foreste di Lunargenta
 
@@ -64,7 +68,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 * Mantello di **Foglie Crepuscolari Intessute d'Ombra** (fornisce occultamento superiore in ambienti boschivi al crepuscolo o sotto la luce lunare filtrata)
 * Fiala di **Rugiada di Selûne Purificata** (cura malattie magiche e lievi avvelenamenti da corruzione, ma può causare visioni fugaci)
 
-***
+***
+
 
 ### 🧝 **Specie Dominanti e la Loro Sorte**
 
@@ -74,7 +79,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 | Fetchling Lunavetusto | **Fetchling Lunavetusti** (Stirpe Fetchling) | Ibridi toccati dalle ombre più antiche della foresta, la cui connessione con il Piano delle Ombre è stata deformata o intensificata dalla magia caotica della Discesa e dalla luce ferita di Selûne. Pelle grigia o color cenere con venature argentee. Carismatici e sfuggenti (+2 Car, +2 Des). Abilità: **Manto d'Ombra Lunare** (diventano nascosti più facilmente in penombra o luce lunare), **Sussurro Corruttore Silvano** (possono intimidire o ingannare parlando con la voce distorta della foresta). |
 | Licantropo del Branco Primordiale | **Licantropi del Branco Primordiale** (Stirpe Stirpeferina) | Umanoidi capaci di trasformazioni ferine, profondamente legati allo spirito selvaggio e indomito della foresta. [[La Grande Discesa]] ha esacerbato la loro natura, rendendoli più diffidenti e territoriali. Forti e percettivi (+2 For, +2 Sag). Abilità: **Trasformazione Parziale Lesta** (artigli infliggono 1d6 danni, azione singola), **Ruggito del Branco Lunare** (può spaventare i nemici o richiamare alleati animali vicini sotto la luna). |
 
-***
+***
+
 
 ### ⚔️ **Fazioni Principali e il Loro Ruolo Attuale**
 
@@ -84,7 +90,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 | **Circolo dei Druidi Primordiali** | Druidi che cercano di comprendere e lenire lo spirito ferito della foresta. Alcuni, come Fandral, mantengono la saggezza antica, mentre altri sono pericolosamente vicini alla corruzione della linfa nera o alla follia vendicativa del Mondarbor. Molti vivono in forme animali per lunghi periodi, diffidando della civiltà. | **Radaghar Tempestacorno** (Druido Anziano Liv. 15, spesso assume la forma di un enorme alce dalle corna di tempesta), **Selene Vociargentee** (Oracolo di Selûne Liv. 14, le cui visioni sono frammentate e spesso mostrano i "due tempi" della foresta, lottando per mantenere la sua connessione con la dea ferita). |
 | **Incisori del Fuoco** | Orchi e altri umanoidi corrotti dal dio del magma Magmion, la cui influenza si è intensificata in alcune aree dopo la Discesa. Cercano di bruciare gli alberi vetusti per nutrire il loro dio o per creare forge oscure, credendo che la cenere della foresta sacra possa potenziare il loro signore. | **Korgath Fiammartello** (Barbaro Capoguerra Liv. 12, la sua ascia emana un calore innaturale), **Vyraxa Magmasire** (Elementalista del Fuoco Liv. 10, con sangue di drago rosso, capace di evocare elementali di magma minori). |
 
-***
+***
+
 
 ### 🌿 **Flora e Fauna Letale Modificate dalla Discesa**
 
@@ -95,7 +102,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 | **Lupi Giadati Spettrali** | Predatori con pelliccia iridescente che luccica di un'energia lunare instabile. Sono invisibili e intangibili sotto la luce della luna piena ferita, diventando predatori spettrali che attaccano l'anima. |
 | **Rovi della Linfa Nera** | Rovi contorti che trasudano la linfa nera della corruzione. Le loro spine infliggono ferite che guariscono lentamente e possono diffondere la corruzione silvana (malattia con progressione lenta). |
 
-***
+***
+
 
 ### 🛡️ **Equipaggiamento Unico e Risorse della Foresta**
 
@@ -111,7 +119,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
   + **Essenza di Mithraluna:** Distillato raro, usato per purificare oggetti dalla corruzione minore o per potenziare temporaneamente armi contro non-morti e aberrazioni.
   + **Cuorlegno di Albero Vetusto:** Frammenti di alberi caduti durante la Discesa, ancora carichi di potente magia naturale e ricordi. Utilizzati in rituali potenti o per creare focus magici.
 
-***
+***
+
 
 ### 👥 **Idee per Personaggi Legati alla Foresta (Pathfinder 2e)**
 
@@ -121,7 +130,8 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 | **Druido 6** (Ordine: Tempesta Selvaggia) | Giovane membro del Branco Primordiale, capace di comunicare con i lupi e gli spiriti della tempesta che ora flagellano la foresta più violentemente dopo la Discesa. Cerca di placare la furia del Mondarbor. | Bastone **Zannadorata** (può lanciare *ruggito* 1/giorno), Mantello di **Pelle di Lupo Giadato Spettrale**. |
 | **Oracolo 7** (Mistero: Luna Ferita) | Un canale diretto della volontà e del dolore di Selûne, con una cicatrice a forma di mezzaluna spezzata che pulsa di luce fioca. Le sue visioni sono spesso contraddittorie, mostrando la foresta prima e dopo la Discesa. | Scettro **Luce di Selûne Tremolante** (illumina 20m con luce incerta, può stordire i corrotti), Amuleto **Lacrima della Dea Lunare Caduta**. |
 
-***
+***
+
 
 ### 🗺️ **Agganci per Avventure nelle Foreste di Lunargenta**
 
@@ -131,12 +141,14 @@ Le cronache di esploratori, spesso interrotte bruscamente, narrano di meraviglie
 * **L'Eredità dei Cavalieri di Lunargenta:** Si dice che uno degli Alberi dei Giuramenti Infranti custodisca non solo i resti, ma anche lo spirito di un antico Comandante dei Cavalieri, che conosce un rituale per purificare parzialmente la foresta o per forgiare armi potenti contro la corruzione.
 * **La Minaccia degli Incisori:** Korgath Fiammartello sta radunando i suoi Incisori del Fuoco per un grande rituale che incanalerebbe l'energia di un vulcano dormiente attraverso le linee ley della foresta, con l'intento di trasformare Lunargenta in un inferno ardente per il suo dio Magmion.
 
-***
+***
+
 
 > *"Nelle Foreste di Lunargenta, non sei mai veramente solo. Gli alberi osservano con occhi antichi, le pietre ricordano ogni peccato... e la luna ferita giudica ogni tua ombra."*  
 > – Iscrizione corrosa su un menhir all'ingresso del Santuario di Melithara.
 
-***
+***
+
 ## Gallery
 ![[6e9d7f52-faf1-4530-b39c-1db11d4bb9bc.jpeg]]
 ![[a2462abc-086b-4898-9ded-297bb7ebe3da.jpg]]
