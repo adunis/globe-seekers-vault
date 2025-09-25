@@ -1,8 +1,30 @@
 ---
 kanka_id: 1714712
 ---
+![[Generated Image September 25, 2025 - 12_47PM.png]]
 
 
+
+
+SCENA: Fungorgo - Nido del Corvo  
+
+![[Untitled 13.png]]
+Stile: Militare improvvisato, bio-organico, sotterraneo.  
+Richiesta Immagine: "Genera una vista aerea di una sala briefing di fortuna nelle profondità di Fungorgo. Mostra un'ampia caverna rocciosa con pareti irregolari, puntellate da travi di legno rinforzate da spesse fibre di micelio bioluminescente rosso e verde che pulsano dolcemente, fornendo l'unica illuminazione. Al centro, un tavolo robusto fatto di legno recuperato e lastre di fungo Guardiano di Pietra, con una mappa graffiata incisa sulla superficie. Attorno al tavolo, sedie e panche improvvisate. Suggerisci la presenza di schermi rudimentali che proiettano dati sgranati, cavi che corrono lungo il terreno umido e macchie di muffa luminosa negli angoli più bui. L'aria è densa di spore e odora di terra bagnata e metallo arrugginito, con un sottofondo costante di gocciolamenti. L'atmosfera è tesa ma funzionale, tipica di un rifugio ribelle."
+
+SCENA: Fungorgo - Mercato Radici  
+
+![[Untitled-1 13.png]]
+
+Stile: Urbano sotterraneo, caotico, organico.  
+Richiesta Immagine: "Genera una vista aerea di una sezione del 'Mercato delle Radici', nel Distretto Basso di Fungorgo. Mostra un intrico di stretti vicoli fangosi e passaggi tra grandi funghi torreggianti che fungono da colonne e pareti, emanando una luce bluastra e violacea. Numerose bancarelle improvvisate, fatte di teli di Sussurro-Ombra e casse di legno ammuffito, espongono merci strane: funghi essiccati, minerali luccicanti, rottami tecnologici, fiale di liquidi colorati. La folla è un mix eterogeneo di umanoidi in abiti logori. Il terreno è umido e scivoloso. L'aria è satura di odori contrastanti: marciume dolciastro, fumo acido e l'aroma pungente di spezie sconosciute. L'atmosfera è vivace ma con un senso costante di vigilanza e negoziazione sotto banco."
+
+SCENA: Fungorgo - Viale delle Spore  
+
+![[Untitled 14.png]]
+
+Stile: Esterno, organico, desolato.  
+Richiesta Immagine: "Genera una vista aerea di un viale esterno di Fungorgo, dove la città si fonde con la natura circostante. Mostra ampie strade di pietra corrose e coperte da una fitta vegetazione fungina, con funghi Velo della Vedova Cremisi rosso sangue che dominano il paesaggio, alcuni alti come alberi, altri a terra in vaste colonie pulsanti. Una leggera nebbia di spore rosse e bianche fluttua nell'aria, filtrando la luce arancione del cielo dell'Altopiano. Sullo sfondo, si intravedono torri di roccia annerita, antichi edifici inghiottiti dai funghi. Il terreno è soffice e irregolare, un misto di terra e micelio. L'atmosfera è inquietante, silenziosa, con un senso di bellezza distorta e pericolo latente."
 
 
 
