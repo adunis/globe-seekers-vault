@@ -1,3 +1,6 @@
+![[desert_ogre__by_viktory15_dgx6fez-pre.jpg]]
+
+
 ~~~ds-statblock
 name: Bruto Corazzato
 level: 2
