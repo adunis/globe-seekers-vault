@@ -1,3 +1,5 @@
+
+![[Untitled 17.png]]
 ~~~ds-statblock
 name: Supervisore Cygnus
 level: 4
