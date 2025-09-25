@@ -1,3 +1,8 @@
+![[Untitled 16.png]]
+
+![[Generated_Image_September_25__2025_-_5_02PM-removebg-preview.png]]
+
+
 ~~~ds-statblock
 name: Soul-Sniper
 level: 1
