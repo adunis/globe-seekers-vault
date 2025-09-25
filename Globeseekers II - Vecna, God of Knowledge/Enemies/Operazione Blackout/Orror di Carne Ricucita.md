@@ -1,3 +1,6 @@
+![[Orror di Carne Ricucita.png]]
+
+
 ~~~ds-statblock
 name: Orror di Carne Ricucita
 level: 4
