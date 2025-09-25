@@ -5,6 +5,10 @@ kanka_id: 1714712
 ![[Untitled.png]]
 
 
+![[Untitled-1.png]]
+
+![[Untitled 1.png]]
+
 **FUNGORGO: LA METASTASI RIBELLE**
 
 **(Voce di un Mercante Cauto o di una Guida degli Scavatori):**  
