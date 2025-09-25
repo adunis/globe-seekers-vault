@@ -26,7 +26,21 @@ SCENA: Fungorgo - Viale delle Spore
 Stile: Esterno, organico, desolato.  
 Richiesta Immagine: "Genera una vista aerea di un viale esterno di Fungorgo, dove la città si fonde con la natura circostante. Mostra ampie strade di pietra corrose e coperte da una fitta vegetazione fungina, con funghi Velo della Vedova Cremisi rosso sangue che dominano il paesaggio, alcuni alti come alberi, altri a terra in vaste colonie pulsanti. Una leggera nebbia di spore rosse e bianche fluttua nell'aria, filtrando la luce arancione del cielo dell'Altopiano. Sullo sfondo, si intravedono torri di roccia annerita, antichi edifici inghiottiti dai funghi. Il terreno è soffice e irregolare, un misto di terra e micelio. L'atmosfera è inquietante, silenziosa, con un senso di bellezza distorta e pericolo latente."
 
+MAPPA INTERMEDIA: Fungorgo - Le Fucine Nascoste  
 
+![[Untitled 15.png]]
+
+Stile: Interno, industriale improvvisato, segreto.  
+Vista: Diretta dall'alto, senza griglia visibile.  
+Richiesta Immagine: "Crea una mappa tattica con una vista diretta dall'alto di una fucina clandestina di Fungorgo, nascosta in una caverna o in un sotterraneo. Mostra una piccola forgia rudimentale, un'incudine e attrezzi appesi alle pareti. Tavoli ingombrati da rottami metallici, polvere da sparo grezza e prototipi di armi da fuoco. Alcune casse di munizioni sono accatastate. La luce è calda e tremolante dal fuoco della forgia, con ampie zone d'ombra. Suggerisci passaggi stretti o cunicoli di fuga. L'atmosfera è calda, fumosa e piena di rumori metallici attutiti."
+
+MAPPA INTERMEDIA: Fungorgo - La Vascadel Spore  
+
+![[Untitled-1 14.png]]
+
+Stile: Interno, bio-organico, ritualistico.  
+Vista: Diretta dall'alto, senza griglia visibile.  
+Richiesta Immagine: "Crea una mappa tattica con una vista diretta dall'alto di una camera circolare o ovale di Fungorgo, usata per la coltivazione delle spore o rituali. Al centro, una grande vasca naturale o scavata, piena di un liquido scuro e denso, con funghi Velo della Vedova Cremisi che galleggiano o crescono al suo interno, emettendo una luce fioca rossastra. Le pareti della stanza sono ricoperte da un micelio spesso e pulsante. Piccoli altari improvvisati con offerte organiche o simboli fungini sono disposti attorno alla vasca. L'aria è umida e satura di spore che creano una nebbia visibile. Suggerisci passaggi da cui entrano i cultisti o creature fungine. L'atmosfera è mistica, inquietante e organica."
 
 
 
